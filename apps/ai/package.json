@@ -1,0 +1,31 @@
+{
+  "name": "@aifcwc/ai",
+  "author": {
+    "name": "Bruno Souza",
+    "email": "bruno@nfenarede.com.br"
+  },
+  "description": "AIFCWC - AI Football Club World Cup 🏆 The ultimate championship featuring the greatest clubs in football history, powered by AI.",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "teams": "pnpx tsx 01-teams.ts",
+    "squad": "pnpx tsx 02-squad.ts",
+    "attributes": "pnpx tsx 03-attributes.ts"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^1.2.5",
+    "ai": "^4.1.61",
+    "dotenv": "^16.4.7",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "@workspace/eslint-config": "workspace:*",
+    "@workspace/typescript-config": "workspace:*",
+    "typescript": "^5.8.2"
+  },
+  "packageManager": "pnpm@10.4.1",
+  "engines": {
+    "node": ">=20"
+  }
+}

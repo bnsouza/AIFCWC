@@ -1,0 +1,20 @@
+{
+  "name": "@aifcwc/remotion",
+  "author": {
+    "name": "Bruno Souza",
+    "email": "bruno@nfenarede.com.br"
+  },
+  "description": "AIFCWC - AI Football Club World Cup 🏆 The ultimate championship featuring the greatest clubs in football history, powered by AI.",
+  "version": "0.0.1",
+  "scripts": {},
+  "dependencies": {
+    "@remotion/cli": "4.0.278",
+    "@remotion/eslint-plugin": "^4.0.278",
+    "@remotion/renderer": "4.0.278",
+    "remotion": "4.0.278"
+  },
+  "packageManager": "pnpm@10.4.1",
+  "engines": {
+    "node": ">=20"
+  }
+}
