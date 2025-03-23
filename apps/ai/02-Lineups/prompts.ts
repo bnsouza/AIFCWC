@@ -1,248 +1,106 @@
 // ------------------------------------------------------------------------------------------------
 
-import fs from "fs";
-import path from "path";
 import {openai} from "@ai-sdk/openai";
 import {generateObject} from "ai";
-import dotenv from "dotenv";
 import {z} from "zod";
 
-// ------------------------------------------------------------------------------------------------
-// Paths of the files
-const envPath = path.join(path.resolve(), "..", "..", ".env");
-const teamsPath = path.join(path.resolve(), "..", "..", "data", "teams");
+import {CoachSchema, PlayerSchema, TechnicalStaffSchema} from "./attributes.js";
 
 // ------------------------------------------------------------------------------------------------
-// Load environment variables
-dotenv.config({path: envPath});
-
-// ------------------------------------------------------------------------------------------------
-// Physical, Mental, and Technical attributes (common to all players)
-const PhysicalSchema = z.object({
-  speed: z.number().min(0).max(100),
-  stamina: z.number().min(0).max(100),
-  strength: z.number().min(0).max(100),
-  injuryProne: z.number().min(0).max(100),
-});
-
-const MentalSchema = z.object({
-  composure: z.number().min(0).max(100),
-  leadership: z.number().min(0).max(100),
-  creativity: z.number().min(0).max(100),
-  aggressiveness: z.number().min(0).max(100),
-  teamwork: z.number().min(0).max(100),
-});
-
-const TechnicalSchema = z.object({
-  ballControl: z.number().min(0).max(100),
-  passing: z.number().min(0).max(100),
-  finishing: z.number().min(0).max(100),
-  heading: z.number().min(0).max(100),
-  marking: z.number().min(0).max(100),
-});
-
-// Position-specific attributes (fixed for each position)
-const PositionSpecificSchemaGK = z.object({
-  reflexes: z.number().min(0).max(100),
-  ballDistribution: z.number().min(0).max(100),
-});
-const PositionSpecificSchemaCB = z.object({
-  defensivePositioning: z.number().min(0).max(100),
-  aerialDuels: z.number().min(0).max(100),
-});
-const PositionSpecificSchemaRB = z.object({
-  attackingSupport: z.number().min(0).max(100),
-  crossing: z.number().min(0).max(100),
-});
-const PositionSpecificSchemaLB = z.object({
-  attackingSupport: z.number().min(0).max(100),
-  crossing: z.number().min(0).max(100),
-});
-const PositionSpecificSchemaCDM = z.object({
-  interception: z.number().min(0).max(100),
-  tackling: z.number().min(0).max(100),
-});
-const PositionSpecificSchemaCM = z.object({
-  vision: z.number().min(0).max(100),
-  shortPassing: z.number().min(0).max(100),
-});
-const PositionSpecificSchemaCAM = z.object({
-  creativity: z.number().min(0).max(100),
-  throughPassing: z.number().min(0).max(100),
-});
-const PositionSpecificSchemaRW = z.object({
-  dribblingSpeed: z.number().min(0).max(100),
-  offensiveMovement: z.number().min(0).max(100),
-});
-const PositionSpecificSchemaLW = z.object({
-  dribblingSpeed: z.number().min(0).max(100),
-  offensiveMovement: z.number().min(0).max(100),
-});
-const PositionSpecificSchemaST = z.object({
-  aerialDuels: z.number().min(0).max(100),
-  holdUpPlay: z.number().min(0).max(100),
-});
-const PositionSpecificSchemaCF = z.object({
-  finishing: z.number().min(0).max(100),
-  offTheBallMovement: z.number().min(0).max(100),
-});
-
-const PositionSpecificSchema = z.union([
-  PositionSpecificSchemaGK,
-  PositionSpecificSchemaCB,
-  PositionSpecificSchemaRB,
-  PositionSpecificSchemaLB,
-  PositionSpecificSchemaCDM,
-  PositionSpecificSchemaCM,
-  PositionSpecificSchemaCAM,
-  PositionSpecificSchemaRW,
-  PositionSpecificSchemaLW,
-  PositionSpecificSchemaST,
-  PositionSpecificSchemaCF,
-]);
-
-// Define special skills as a fixed set of known abilities
-const SpecialSkillSchema = z.enum([
-  "AcrobaticKeeper",
-  "AerialDominance",
-  "AgelessWonder",
-  "BigGameMentality",
-  "BoxToBox",
-  "Captain",
-  "Chameleon",
-  "ClinicalFinisher",
-  "ClutchPerformer",
-  "CompleteDefender",
-  "CompleteForward",
-  "ComposureKing",
-  "CounterAttackKing",
-  "CrossingExpert",
-  "DeepLyingPlaymaker",
-  "DefensiveGeneral",
-  "DefensiveRock",
-  "DribbleSprint",
-  "DribblingMaestro",
-  "DribblingTank",
-  "Engine",
-  "FalseNine",
-  "FinesseShotSpecialist",
-  "FirstTouchMaestro",
-  "FlairPlayer",
-  "FootballIQ",
-  "FoxInTheBox",
-  "FreekickMaster",
-  "GameChanger",
-  "GameReader",
-  "GeniusPasser",
-  "GoalPoacher",
-  "GoldenGlove",
-  "HeaderSpecialist",
-  "HotHead",
-  "KnuckleballExpert",
-  "Libero",
-  "LongPassingWizard",
-  "LongThrowExpert",
-  "MasterProvocateur",
-  "MidfieldMaestro",
-  "NoLookPassMaster",
-  "OffsideTrapExpert",
-  "OneManArmy",
-  "OneTouchFinisher",
-  "PenaltySpecialist",
-  "PhysicalBeast",
-  "Playmaker",
-  "PlayoffPerformer",
-  "Poacher",
-  "PowerShot",
-  "PressingMonster",
-  "Regen",
-  "Regista",
-  "RelentlessRunner",
-  "SambaStyle",
-  "SetPieceSpecialist",
-  "ShadowStriker",
-  "SleightOfFoot",
-  "SlidingTackleAce",
-  "Sniper",
-  "SoloRunSpecialist",
-  "Speedster",
-  "StreetFootballer",
-  "SuperSub",
-  "TacklingMachine",
-  "TacticalBrain",
-  "TargetMan",
-  "TechnicalDribbler",
-  "TempoController",
-  "ThroughBallMaster",
-  "TrivelaMaster",
-  "Visionary",
-  "VolleySpecialist",
-  "WingWizard",
-  "Wonderkid",
-]);
-
-const PositionEnum = z.enum(["GK", "CB", "RB", "LB", "CDM", "CM", "CAM", "RW", "LW", "ST", "CF"]);
-
-// ------------------------------------------------------------------------------------------------
-// Player schema with position validation
-const PlayerSchema = z.object({
-  name: z.string(),
-  position: PositionEnum,
-  attributes: z.object({
-    physical: PhysicalSchema,
-    mental: MentalSchema,
-    technical: TechnicalSchema,
-    positionSpecific: PositionSpecificSchema,
-    specialSkill: SpecialSkillSchema.optional(),
-  }),
-});
-
-// ------------------------------------------------------------------------------------------------
-// Coach schema
-const CoachSchema = z.object({
-  name: z.string(),
-  attributes: z.object({
-    tactical: z.object({
-      offensiveStrategy: z.number().min(0).max(100),
-      defensiveStrategy: z.number().min(0).max(100),
-      tacticalAdaptability: z.number().min(0).max(100),
-      pressing: z.number().min(0).max(100),
-      transitionPlay: z.number().min(0).max(100),
+// Function to generate club details and historical lineup for each team
+export const generateClubData = async (team: string) => {
+  // Team information
+  const {object: clubDetails} = await generateObject({
+    model: openai("gpt-4-turbo"),
+    system: `You are an expert in football club history. Provide detailed information for the club named ${team}.`,
+    schema: z.object({
+      foundationDate: z.string(),
+      city: z.string(),
+      fullName: z.string(),
+      shortName: z.string(),
+      stadium: z.object({
+        name: z.string(),
+        capacity: z.number(),
+      }),
+      socialMedia: z.object({
+        instagram: z.string(),
+        tiktok: z.string(),
+      }),
+      colors: z.object({
+        home: z.object({
+          bgColor: z.string(),
+          fontColor: z.string(),
+        }),
+        away: z.object({
+          bgColor: z.string(),
+          fontColor: z.string(),
+        }),
+      }),
     }),
-    management: z.object({
-      motivation: z.number().min(0).max(100),
-      lockerRoomManagement: z.number().min(0).max(100),
-      discipline: z.number().min(0).max(100),
-    }),
-    media: z.object({
-      mediaInteraction: z.number().min(0).max(100),
-      crisisManagement: z.number().min(0).max(100),
-    }),
-  }),
-});
+    prompt: `Provide the following details for the football club named ${team}: foundationDate, city, fullName,
+    shortName, stadium (name and capacity), socialMedia (Instagram and TikTok handles) and colors (home and away).
+    The colors should include background and font colors based on the club's official kit and must be in "oklch" format.
+    The colors must be different for home and away kits and must have a minimum contrast ratio of 4.5:1.`,
+  });
 
-// ------------------------------------------------------------------------------------------------
-// Technical Staff Schema
-const TechnicalStaffSchema = z.object({
-  fitnessRecovery: z.number().min(0).max(100),
-  staminaBoost: z.number().min(0).max(100),
-  injuryPrevention: z.number().min(0).max(100),
-  medicalResponse: z.number().min(0).max(100),
-});
+  // Historical lineup
+  const {object: teamLineup} = await generateObject({
+    model: openai("gpt-4-turbo"),
+    system: `You are an expert football historian and analyst. Your task is to find the best historical lineup
+    for the club named "${team}", ensuring that all players in the lineup have played together in at least one
+    official match. The ideal match should be one of the most iconic games in the club’s history,
+    such as a major final or a defining victory.
+    Guidelines:
+    - The lineup should come from a real match where all selected players were on the field together.
+    - Prioritize finals of major competitions (Champions League, Copa Libertadores, domestic leagues, etc.).
+    - Use the tactical formation that was employed in that season.
+    - List all players and their respective positions. You MUST include the 11 starters and up to 9 substitutes.
+    - The minimum number of players is 15, and the maximum is 20.
+    - To each player, you must assign the position they played in that season.
+    - Indicate the coach of the team.
 
-// ------------------------------------------------------------------------------------------------
-// Root schema
-const TeamSchema = z.object({
-  year: z.number(),
-  coach: CoachSchema,
-  formation: z.string(),
-  players: z.array(PlayerSchema),
-  technicalStaff: TechnicalStaffSchema,
-});
+    The position abbreviations you MUST use are:
+    - \`GK\`: Goalkeeper
+    - \`CB\`: Center-back
+    - \`RB\`: Right-back
+    - \`LB\`: Left-back
+    - \`CDM\`: Central defensive midfielder
+    - \`CM\`: Central midfielder
+    - \`CAM\`: Central attacking midfielder
+    - \`RW\`: Right winger
+    - \`LW\`: Left winger
+    - \`ST\`: Striker
+    - \`CF\`: Center forward
+    `,
+    schema: z.object({
+      year: z.number(),
+      coach: z.string(),
+      formation: z.string(),
+      players: z
+        .array(
+          z.object({
+            name: z.string(),
+            position: z.enum(["GK", "CB", "RB", "LB", "CDM", "CM", "CAM", "RW", "LW", "ST", "CF"]),
+          })
+        )
+        .min(15)
+        .max(20),
+      explanation: z.string(),
+    }),
+    prompt: `Find the best-ever lineup for "${team}", where all players were on the field together in an official match.
+    Criteria:
+    - Choose the most significant game in the club's history.
+    - Provide the exact starting XI with their positions in the formation used that day.
+    - Explain why this lineup was historically important.
+    - If multiple matches qualify, select the one where the team performed at its peak.`,
+  });
+
+  return {clubDetails, teamLineup};
+};
 
 // ------------------------------------------------------------------------------------------------
 // Generate Coach attributes based on the year and team
-const generateCoach = async (year: number, team: string, name: string) => {
+export const generateCoach = async (year: number, team: string, name: string) => {
   const {object} = await generateObject({
     model: openai("gpt-4-turbo"),
     system:
@@ -281,7 +139,7 @@ const generateCoach = async (year: number, team: string, name: string) => {
 
 // ------------------------------------------------------------------------------------------------
 // Generate player attributes based on the club, year, and position
-const generatePlayer = async (year: number, team: string, name: string, position: string) => {
+export const generatePlayer = async (year: number, team: string, name: string, position: string) => {
   const {object} = await generateObject({
     model: openai("gpt-4-turbo"),
     system:
@@ -333,11 +191,10 @@ const generatePlayer = async (year: number, team: string, name: string, position
       "| Forward (CF)               | `finishing`            | `offTheBallMovement` |\n\n" +
       "---\n\n" +
       "## Special Skill(Unique Ability)\n\n" +
-      "Each player can have an unique special skill, representing something iconic about their playing style. " +
-      "This skill is not directly related to other attributes but adds a unique flavor to the player's profile. " +
-      "Only a few players can have this special skill, making them stand out from the rest. This special skill " +
-      "can significantly influence a player's performance in specific situations. Additionally, the presence of " +
-      "a special skill can enhance a player's effectiveness in critical moments during matches.\n\n" +
+      "Only a few players can have a special skill. These skills represent something iconic, legendary, or " +
+      "exceptionally rare in a player's style or impact during that specific year. DO NOT assign a special skill " +
+      "to every player. Only include it if the player truly deserves it based on their real-life performances, " +
+      "influence, and reputation in that season.\n\n" +
       "### List of Special Skills\n\n" +
       "| Special Attribute       | Description                                                                   |\n" +
       "| ----------------------- | ----------------------------------------------------------------------------- |\n" +
@@ -436,7 +293,8 @@ const generatePlayer = async (year: number, team: string, name: string, position
 
     Use the defined attribute system to generate a well-rounded, realistic player profile. Consider the player’s
     historical performance in that specific year, their strengths, weaknesses, and unique characteristics.
-    If applicable, assign a relevant Special Skill from the predefined list.`,
+    ONLY assign a Special Skill from the predefined list if the player truly deserves it for their exceptional
+    ability or iconic contribution in that specific year. Most players should not have a Special Skill.`,
   });
 
   return object;
@@ -444,7 +302,7 @@ const generatePlayer = async (year: number, team: string, name: string, position
 
 // ------------------------------------------------------------------------------------------------
 // Generate technical staff attributes based on the club and year
-const generateTechnicalStaff = async (year: number, team: string) => {
+export const generateTechnicalStaff = async (year: number, team: string) => {
   const {object} = await generateObject({
     model: openai("gpt-4-turbo"),
     system:
@@ -466,52 +324,5 @@ const generateTechnicalStaff = async (year: number, team: string) => {
 
   return object;
 };
-
-// ------------------------------------------------------------------------------------------------
-// Process each team and save the data into respective JSON files
-
-// Read all folders in the teams directory
-const teams = fs.readdirSync(teamsPath);
-
-for (const team of teams) {
-  const teamDir = path.join(teamsPath, team);
-  const teamSquad = JSON.parse(fs.readFileSync(path.join(teamDir, "squad.json"), "utf-8"));
-  const teamInfo = JSON.parse(fs.readFileSync(path.join(teamDir, "info.json"), "utf-8"));
-
-  // Team data
-  const teamName = teamInfo.shortName;
-  const teamYear = teamSquad.year;
-  const teamPlayers = teamSquad.players;
-  const teamCoach = teamSquad.coach;
-  const teamFormation = teamSquad.formation;
-
-  // Generate player data for each player in the squad
-  let playersData = [];
-  for (const player of teamPlayers) {
-    const playerData = await generatePlayer(teamYear, teamName, player.name, player.position);
-    playersData.push(playerData);
-  }
-
-  // Generate the final team data
-  const teamAttrs = {
-    year: teamYear as number,
-    coach: await generateCoach(teamYear, teamName, teamCoach),
-    formation: teamFormation,
-    players: playersData,
-    technicalStaff: await generateTechnicalStaff(teamYear, teamName),
-  };
-
-  // Validate the team data
-  TeamSchema.parse(teamAttrs);
-
-  // Save the team data into a JSON file
-  const teamAttributesPath = path.join(teamDir, "attributes.json");
-  fs.writeFileSync(teamAttributesPath, JSON.stringify(teamAttrs, null, 2));
-
-  console.log(`Team data for ${teamName} saved successfully at ${teamAttributesPath}.`);
-}
-
-// Log the status after generating the data
-console.log("All teams processed successfully!");
 
 // ------------------------------------------------------------------------------------------------

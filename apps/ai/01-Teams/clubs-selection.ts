@@ -40,6 +40,7 @@ const generateClubsByConfederation = async (confederation: string, count: number
     4. If there are fewer than ${count}, add historically relevant teams until the number is correct.
     5. Provide structured data including:
       - Full club name
+      - Short club name
       - Country
       - Continent
       - Confederation
@@ -48,6 +49,7 @@ const generateClubsByConfederation = async (confederation: string, count: number
       teams: z.array(
         z.object({
           name: z.string(),
+          shortName: z.string(),
           country: z.string(),
           continent: z.string(),
           confederation: z.enum(["UEFA", "CONMEBOL", "CONCACAF", "CAF", "AFC", "OFC"]),
@@ -55,7 +57,7 @@ const generateClubsByConfederation = async (confederation: string, count: number
       ),
     }),
     prompt: `Generate a structured list of **exactly ${count} football clubs** from the ${confederation}
-    confederation. For each club, include: Full club name, Country, Continent and Confederation. Ensure that
+    confederation. For each club, include: Full club name; Short club name; Country; Continent and Confederation. Ensure that
     the total count **is exactly ${count} clubs**. If necessary, adjust the list by removing or adding clubs
     based on historical relevance, but always maintain a fair representation and their relevance to the sport.`,
   });

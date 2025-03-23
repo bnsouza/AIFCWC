@@ -8,9 +8,9 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "teams": "pnpx tsx 01-teams.ts",
-    "squad": "pnpx tsx 02-squad.ts",
-    "attributes": "pnpx tsx 03-attributes.ts"
+    "teams": "pnpx tsx ./01-Teams/clubs-selection.ts",
+    "lineups": "pnpx tsx ./02-Lineups/squad.ts",
+    "attributes": "pnpx tsx ./02-Lineups/attributes.ts"
   },
   "dependencies": {
     "@ai-sdk/openai": "^1.2.5",
