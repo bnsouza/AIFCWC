@@ -1,4 +1,4 @@
-# AIFCWC – All-Time International Football Club World Championship
+# AIFCWC – AI Football Club World Championship
 
 Welcome to the **AIFCWC**: a fictional football tournament that brings together the greatest club teams of all time in a single, epic championship. This project is a fun, creative experiment to imagine what would happen if legends from different eras and styles clashed on the pitch.
 
@@ -6,7 +6,7 @@ Welcome to the **AIFCWC**: a fictional football tournament that brings together 
 
 ## ⚽ What is AIFCWC?
 
-The **All-Time International Football Club World Championship** is a simulated competition between iconic football teams, each chosen from the peak of their historic dominance. Think 2009 Barcelona vs 1970 Santos, or 1999 Manchester United facing off against 1989 AC Milan.
+The **AI Football Club World Championship** is a simulated competition between iconic football teams, each chosen from the peak of their historic dominance. Think 2009 Barcelona vs 1970 Santos, or 1999 Manchester United facing off against 1989 AC Milan.
 
 We aim to answer the ultimate "what if" of football history — through storytelling, match reports, tactics breakdowns, and even fantasy-like interactions between players and coaches from different generations.
 
