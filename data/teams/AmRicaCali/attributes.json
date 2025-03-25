@@ -1,0 +1,526 @@
+{
+  "year": 1996,
+  "coach": {
+    "name": "Diego Edison Umaña",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 82,
+        "defensiveStrategy": 75,
+        "tacticalAdaptability": 78,
+        "pressing": 80,
+        "transitionPlay": 77
+      },
+      "management": {
+        "motivation": 85,
+        "lockerRoomManagement": 83,
+        "discipline": 79
+      },
+      "media": {
+        "mediaInteraction": 74,
+        "crisisManagement": 76
+      }
+    }
+  },
+  "formation": "4-4-2",
+  "players": [
+    {
+      "name": "Óscar Córdoba",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 88,
+          "creativity": 60,
+          "aggressiveness": 70,
+          "teamwork": 84
+        },
+        "technical": {
+          "ballControl": 68,
+          "passing": 72,
+          "finishing": 30,
+          "heading": 55,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "reflexes": 90,
+          "ballDistribution": 85
+        },
+        "specialSkill": "AcrobaticKeeper"
+      }
+    },
+    {
+      "name": "Wilmer Cabrera",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 74,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 70,
+          "creativity": 68,
+          "aggressiveness": 80,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 72,
+          "passing": 74,
+          "finishing": 60,
+          "heading": 70,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "attackingSupport": 75,
+          "crossing": 77
+        }
+      }
+    },
+    {
+      "name": "Jorge Bermúdez",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 82,
+          "strength": 88,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 90,
+          "creativity": 60,
+          "aggressiveness": 88,
+          "teamwork": 86
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 72,
+          "finishing": 50,
+          "heading": 88,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "defensivePositioning": 92,
+          "aerialDuels": 90
+        },
+        "specialSkill": "DefensiveGeneral"
+      }
+    },
+    {
+      "name": "Alexis Mendoza",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 88,
+          "creativity": 60,
+          "aggressiveness": 78,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 72,
+          "finishing": 50,
+          "heading": 84,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "defensivePositioning": 90,
+          "aerialDuels": 86
+        },
+        "specialSkill": "DefensiveGeneral"
+      }
+    },
+    {
+      "name": "Wilson Pérez",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 75,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 74,
+          "leadership": 68,
+          "creativity": 70,
+          "aggressiveness": 80,
+          "teamwork": 77
+        },
+        "technical": {
+          "ballControl": 72,
+          "passing": 74,
+          "finishing": 60,
+          "heading": 68,
+          "marking": 78
+        },
+        "positionSpecific": {
+          "attackingSupport": 76,
+          "crossing": 80
+        }
+      }
+    },
+    {
+      "name": "Leonel Álvarez",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 90,
+          "strength": 85,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 92,
+          "creativity": 70,
+          "aggressiveness": 90,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 80,
+          "finishing": 60,
+          "heading": 75,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "interception": 90,
+          "tackling": 92
+        },
+        "specialSkill": "DefensiveGeneral"
+      }
+    },
+    {
+      "name": "Freddy Rincón",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 90,
+          "strength": 85,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 85,
+          "creativity": 84,
+          "aggressiveness": 75,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 86,
+          "passing": 88,
+          "finishing": 75,
+          "heading": 80,
+          "marking": 78
+        },
+        "positionSpecific": {
+          "vision": 87,
+          "shortPassing": 89
+        },
+        "specialSkill": "BoxToBox"
+      }
+    },
+    {
+      "name": "Anthony de Ávila",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 88,
+          "stamina": 85,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 84,
+          "leadership": 75,
+          "creativity": 82,
+          "aggressiveness": 68,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 86,
+          "passing": 78,
+          "finishing": 85,
+          "heading": 72,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "dribblingSpeed": 89,
+          "offensiveMovement": 87
+        },
+        "specialSkill": "Speedster"
+      }
+    },
+    {
+      "name": "Alex Escobar",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 74,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 88,
+          "aggressiveness": 65,
+          "teamwork": 84
+        },
+        "technical": {
+          "ballControl": 89,
+          "passing": 87,
+          "finishing": 75,
+          "heading": 68,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "creativity": 90,
+          "throughPassing": 88
+        },
+        "specialSkill": "Playmaker"
+      }
+    },
+    {
+      "name": "Jairo Castillo",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 78,
+          "strength": 72,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 74,
+          "leadership": 60,
+          "creativity": 80,
+          "aggressiveness": 68,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 76,
+          "finishing": 79,
+          "heading": 65,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "dribblingSpeed": 86,
+          "offensiveMovement": 83
+        },
+        "specialSkill": "DribblingMaestro"
+      }
+    },
+    {
+      "name": "Adolfo Valencia",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 88,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 70,
+          "creativity": 72,
+          "aggressiveness": 75,
+          "teamwork": 74
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 70,
+          "finishing": 84,
+          "heading": 86,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "aerialDuels": 85,
+          "holdUpPlay": 83
+        },
+        "specialSkill": "PhysicalBeast"
+      }
+    },
+    {
+      "name": "Faryd Mondragón",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 88,
+          "creativity": 50,
+          "aggressiveness": 70,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 60,
+          "passing": 65,
+          "finishing": 20,
+          "heading": 40,
+          "marking": 30
+        },
+        "positionSpecific": {
+          "reflexes": 88,
+          "ballDistribution": 75
+        },
+        "specialSkill": "AcrobaticKeeper"
+      }
+    },
+    {
+      "name": "Frankie Oviedo",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 85,
+          "strength": 74,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 75,
+          "creativity": 84,
+          "aggressiveness": 70,
+          "teamwork": 86
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 87,
+          "finishing": 72,
+          "heading": 68,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "vision": 86,
+          "shortPassing": 88
+        },
+        "specialSkill": "MidfieldMaestro"
+      }
+    },
+    {
+      "name": "Jersson González",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 85,
+          "strength": 78,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 70,
+          "creativity": 68,
+          "aggressiveness": 80,
+          "teamwork": 77
+        },
+        "technical": {
+          "ballControl": 74,
+          "passing": 72,
+          "finishing": 60,
+          "heading": 70,
+          "marking": 78
+        },
+        "positionSpecific": {
+          "attackingSupport": 76,
+          "crossing": 80
+        }
+      }
+    },
+    {
+      "name": "Ricardo Pérez",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 85,
+          "strength": 78,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 84,
+          "leadership": 88,
+          "creativity": 82,
+          "aggressiveness": 75,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 83,
+          "passing": 86,
+          "finishing": 70,
+          "heading": 68,
+          "marking": 74
+        },
+        "positionSpecific": {
+          "vision": 85,
+          "shortPassing": 88
+        },
+        "specialSkill": "Captain"
+      }
+    },
+    {
+      "name": "Hamilton Ricard",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 68,
+          "creativity": 70,
+          "aggressiveness": 72,
+          "teamwork": 74
+        },
+        "technical": {
+          "ballControl": 77,
+          "passing": 68,
+          "finishing": 83,
+          "heading": 84,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "aerialDuels": 85,
+          "holdUpPlay": 82
+        },
+        "specialSkill": "TargetMan"
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 78,
+    "staminaBoost": 82,
+    "injuryPrevention": 75,
+    "medicalResponse": 80
+  }
+}

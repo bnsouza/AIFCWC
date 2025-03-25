@@ -1,0 +1,28 @@
+{
+  "foundationDate": "February 13, 1927",
+  "city": "Cali, Colombia",
+  "fullName": "América de Cali S.A.",
+  "shortName": "América Cali",
+  "stadium": {
+    "name": "Estadio Olímpico Pascual Guerrero",
+    "capacity": 35405
+  },
+  "socialMedia": {
+    "instagram": "americadecali",
+    "tiktok": "americadecali"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(206, 17, 38)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(206, 17, 38)"
+    },
+    "alternate": {
+      "bgColor": "rgb(0, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}
