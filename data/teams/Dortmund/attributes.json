@@ -1,0 +1,524 @@
+{
+  "year": 1997,
+  "coach": {
+    "name": "Ottmar Hitzfeld",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 85,
+        "defensiveStrategy": 92,
+        "tacticalAdaptability": 90,
+        "pressing": 88,
+        "transitionPlay": 87
+      },
+      "management": {
+        "motivation": 93,
+        "lockerRoomManagement": 95,
+        "discipline": 94
+      },
+      "media": {
+        "mediaInteraction": 85,
+        "crisisManagement": 91
+      }
+    }
+  },
+  "formation": "3-5-2",
+  "players": [
+    {
+      "name": "Stefan Klos",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 60,
+          "passing": 65,
+          "finishing": 20,
+          "heading": 40,
+          "marking": 30
+        },
+        "positionSpecific": {
+          "reflexes": 88,
+          "ballDistribution": 75
+        },
+        "specialSkill": "GoldenGlove"
+      }
+    },
+    {
+      "name": "Matthias Sammer",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 85,
+          "strength": 88,
+          "injuryProne": 70
+        },
+        "mental": {
+          "composure": 92,
+          "leadership": 95,
+          "creativity": 78,
+          "aggressiveness": 85,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 70,
+          "heading": 88,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "defensivePositioning": 94,
+          "aerialDuels": 90
+        },
+        "specialSkill": "DefensiveGeneral"
+      }
+    },
+    {
+      "name": "Jürgen Kohler",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 82,
+          "strength": 90,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 92,
+          "creativity": 60,
+          "aggressiveness": 85,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 72,
+          "finishing": 50,
+          "heading": 88,
+          "marking": 94
+        },
+        "positionSpecific": {
+          "defensivePositioning": 95,
+          "aerialDuels": 93
+        },
+        "specialSkill": "DefensiveRock"
+      }
+    },
+    {
+      "name": "Martin Kree",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 75,
+          "strength": 84,
+          "injuryProne": 60
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 72,
+          "creativity": 60,
+          "aggressiveness": 82,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 68,
+          "finishing": 55,
+          "heading": 83,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "defensivePositioning": 84,
+          "aerialDuels": 86
+        }
+      }
+    },
+    {
+      "name": "Stefan Reuter",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 88,
+          "stamina": 90,
+          "strength": 78,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 88,
+          "creativity": 72,
+          "aggressiveness": 80,
+          "teamwork": 87
+        },
+        "technical": {
+          "ballControl": 76,
+          "passing": 78,
+          "finishing": 60,
+          "heading": 74,
+          "marking": 84
+        },
+        "positionSpecific": {
+          "attackingSupport": 75,
+          "crossing": 77
+        },
+        "specialSkill": "Engine"
+      }
+    },
+    {
+      "name": "Jörg Heinrich",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 85,
+          "strength": 78,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 72,
+          "creativity": 74,
+          "aggressiveness": 77,
+          "teamwork": 83
+        },
+        "technical": {
+          "ballControl": 79,
+          "passing": 76,
+          "finishing": 65,
+          "heading": 73,
+          "marking": 81
+        },
+        "positionSpecific": {
+          "attackingSupport": 78,
+          "crossing": 80
+        }
+      }
+    },
+    {
+      "name": "Paul Lambert",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 88,
+          "strength": 80,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 85,
+          "creativity": 75,
+          "aggressiveness": 82,
+          "teamwork": 92
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 85,
+          "finishing": 65,
+          "heading": 72,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "interception": 90,
+          "tackling": 92
+        },
+        "specialSkill": "DefensiveGeneral"
+      }
+    },
+    {
+      "name": "Paulo Sousa",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 85,
+          "strength": 74,
+          "injuryProne": 78
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 84,
+          "creativity": 86,
+          "aggressiveness": 70,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 87,
+          "passing": 89,
+          "finishing": 68,
+          "heading": 70,
+          "marking": 75
+        },
+        "positionSpecific": {
+          "vision": 90,
+          "shortPassing": 91
+        },
+        "specialSkill": "MidfieldMaestro"
+      }
+    },
+    {
+      "name": "Andreas Möller",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 70,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 80,
+          "creativity": 90,
+          "aggressiveness": 65,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 89,
+          "passing": 91,
+          "finishing": 84,
+          "heading": 68,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "creativity": 90,
+          "throughPassing": 92
+        },
+        "specialSkill": "Playmaker"
+      }
+    },
+    {
+      "name": "Karl-Heinz Riedle",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 82,
+          "injuryProne": 60
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 78,
+          "creativity": 72,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 74,
+          "finishing": 86,
+          "heading": 92,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "aerialDuels": 94,
+          "holdUpPlay": 85
+        },
+        "specialSkill": "HeaderSpecialist"
+      }
+    },
+    {
+      "name": "Stéphane Chapuisat",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 74,
+          "injuryProne": 60
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 76,
+          "aggressiveness": 68,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 84,
+          "passing": 75,
+          "finishing": 88,
+          "heading": 79,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "aerialDuels": 77,
+          "holdUpPlay": 81
+        },
+        "specialSkill": "ClinicalFinisher"
+      }
+    },
+    {
+      "name": "Lars Ricken",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 72,
+          "injuryProne": 65
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 84,
+          "aggressiveness": 68,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 86,
+          "passing": 83,
+          "finishing": 80,
+          "heading": 70,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "creativity": 85,
+          "throughPassing": 84
+        },
+        "specialSkill": "ClutchPerformer"
+      }
+    },
+    {
+      "name": "Heiko Herrlich",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 82,
+          "injuryProne": 65
+        },
+        "mental": {
+          "composure": 84,
+          "leadership": 75,
+          "creativity": 72,
+          "aggressiveness": 77,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 79,
+          "passing": 74,
+          "finishing": 85,
+          "heading": 88,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "aerialDuels": 87,
+          "holdUpPlay": 83
+        },
+        "specialSkill": "HeaderSpecialist"
+      }
+    },
+    {
+      "name": "René Tretschok",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 68,
+          "creativity": 74,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 77,
+          "passing": 79,
+          "finishing": 68,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "vision": 76,
+          "shortPassing": 80
+        }
+      }
+    },
+    {
+      "name": "Wolfgang Feiersinger",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 75,
+          "strength": 82,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 70,
+          "creativity": 60,
+          "aggressiveness": 80,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 68,
+          "finishing": 50,
+          "heading": 80,
+          "marking": 84
+        },
+        "positionSpecific": {
+          "defensivePositioning": 83,
+          "aerialDuels": 81
+        }
+      }
+    },
+    {
+      "name": "Knut Reinhardt",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 84,
+          "strength": 78,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 77,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 79,
+          "passing": 82,
+          "finishing": 68,
+          "heading": 70,
+          "marking": 72
+        },
+        "positionSpecific": {
+          "vision": 80,
+          "shortPassing": 83
+        }
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 88,
+    "staminaBoost": 90,
+    "injuryPrevention": 85,
+    "medicalResponse": 87
+  }
+}

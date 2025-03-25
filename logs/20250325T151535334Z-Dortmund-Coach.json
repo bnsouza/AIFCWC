@@ -1,0 +1,101 @@
+{
+  "timestamp": "20250325T151535334Z",
+  "system": "You are a specialized AI assistant designed to generate detailed and precise attributes for football coaches. Coaches define the tactical identity and management style of a team. Each attribute is rated from 1 to 100.\n\n# Coach Attributes\n\n## Tactical Attributes\n\n- `offensiveStrategy`: Ability to set up attacking plays.\n- `defensiveStrategy`: Skill in organizing a solid defense.\n- `tacticalAdaptability`: Ability to adjust the team’s strategy during a match.\n- `pressing`: Level of intensity in applying pressure on the opponent.\n- `transitionPlay`: Effectiveness in switching between attack and defense.\n\n## Squad Management\n\n- `motivation`: Ability to inspire and push players to perform better.\n- `lockerRoomManagement`: Skill in managing egos and maintaining team harmony.\n- `discipline`: Enforcing order and keeping players focused.\n\n## Media Handling\n\n- `mediaInteraction`: Ability to handle press conferences and interviews.\n- `crisisManagement`: Keeping composure during difficult situations.",
+  "prompt": "Generate attributes for a football coach based on the following details:\n-  Coach Name: Ottmar Hitzfeld\n-  Club: Dortmund\n-  Year: 1997",
+  "result": {
+    "name": "Ottmar Hitzfeld",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 85,
+        "defensiveStrategy": 92,
+        "tacticalAdaptability": 90,
+        "pressing": 88,
+        "transitionPlay": 87
+      },
+      "management": {
+        "motivation": 93,
+        "lockerRoomManagement": 95,
+        "discipline": 94
+      },
+      "media": {
+        "mediaInteraction": 85,
+        "crisisManagement": 91
+      }
+    }
+  },
+  "response": {
+    "id": "chatcmpl-BF0HnUizfypBDcXdreYebyEIA44Ed",
+    "model": "gpt-4.5-preview-2025-02-27",
+    "timestamp": "2025-03-25T15:15:19.000Z",
+    "body": {
+      "id": "chatcmpl-BF0HnUizfypBDcXdreYebyEIA44Ed",
+      "object": "chat.completion",
+      "created": 1742915719,
+      "model": "gpt-4.5-preview-2025-02-27",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": null,
+            "tool_calls": [
+              {
+                "id": "call_FA0B158a5hiARO3E8izug0RI",
+                "type": "function",
+                "function": {
+                  "name": "json",
+                  "arguments": "{\n  \"name\": \"Ottmar Hitzfeld\",\n  \"attributes\": {\n    \"tactical\": {\n      \"offensiveStrategy\": 85,\n      \"defensiveStrategy\": 92,\n      \"tacticalAdaptability\": 90,\n      \"pressing\": 88,\n      \"transitionPlay\": 87\n    },\n    \"management\": {\n      \"motivation\": 93,\n      \"lockerRoomManagement\": 95,\n      \"discipline\": 94\n    },\n    \"media\": {\n      \"mediaInteraction\": 85,\n      \"crisisManagement\": 91\n    }\n  }\n}"
+                }
+              }
+            ],
+            "refusal": null,
+            "annotations": []
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 509,
+        "completion_tokens": 129,
+        "total_tokens": 638,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": null
+    },
+    "headers": {
+      "access-control-expose-headers": "X-Request-ID",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "925f5cec0d1ec98c-IAD",
+      "connection": "keep-alive",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Tue, 25 Mar 2025 15:15:35 GMT",
+      "openai-organization": "user-nxjbfqupesafjmn461azfnez",
+      "openai-processing-ms": "16181",
+      "openai-version": "2020-10-01",
+      "server": "cloudflare",
+      "set-cookie": "_cfuvid=d4KdwsBej8v8blC8sNisHqeDPDYPT1fJkExFmp5ziY4-1742915735322-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None",
+      "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+      "transfer-encoding": "chunked",
+      "x-content-type-options": "nosniff",
+      "x-ratelimit-limit-requests": "5000",
+      "x-ratelimit-limit-tokens": "250000",
+      "x-ratelimit-remaining-requests": "4999",
+      "x-ratelimit-remaining-tokens": "248821",
+      "x-ratelimit-reset-requests": "12ms",
+      "x-ratelimit-reset-tokens": "282ms",
+      "x-request-id": "req_3bd4a51e174d998d2059ab7d51d26d39"
+    }
+  }
+}

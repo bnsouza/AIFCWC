@@ -1,0 +1,28 @@
+{
+  "foundationDate": "December 19, 1909",
+  "city": "Dortmund",
+  "fullName": "Ballspielverein Borussia 09 e.V. Dortmund",
+  "shortName": "BVB",
+  "stadium": {
+    "name": "Signal Iduna Park",
+    "capacity": 81365
+  },
+  "socialMedia": {
+    "instagram": "bvb09",
+    "tiktok": "bvb"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(255, 225, 0)",
+      "fontColor": "rgb(0, 0, 0)"
+    },
+    "away": {
+      "bgColor": "rgb(0, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "alternate": {
+      "bgColor": "rgb(128, 128, 128)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}
