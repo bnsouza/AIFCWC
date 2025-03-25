@@ -1,0 +1,55 @@
+name: Generate Squads
+
+on:
+  schedule:
+    - cron: "*/20 * * * *" # every 20 minutes
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-squads:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 8
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "pnpm"
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Create .env file
+        run: |
+          echo "BASETEN_API_KEY=${{ secrets.BASETEN_API_KEY }}" >> .env
+          echo "BASETEN_ENV=${{ secrets.BASETEN_ENV }}" >> .env
+          echo "BASETEN_SD_MODEL=${{ secrets.BASETEN_SD_MODEL }}" >> .env
+          echo "BASETEN_WHISPER_MODEL=${{ secrets.BASETEN_WHISPER_MODEL }}" >> .env
+          echo "ELEVENLABS_API_KEY=${{ secrets.ELEVENLABS_API_KEY }}" >> .env
+          echo "ELEVENLABS_VOICE_ID=${{ secrets.ELEVENLABS_VOICE_ID }}" >> .env
+          echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> .env
+          echo "SERPAPI_API_KEY=${{ secrets.SERPAPI_API_KEY }}" >> .env
+          echo "TAVILY_API_KEY=${{ secrets.TAVILY_API_KEY }}" >> .env
+
+      - name: Genarate a new squad
+        run: pnpm --filter @aifcwc/ai run squads
+
+      - name: Commit generated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add logs/ data/ || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update generated squads on $(date -u +"%Y-%m-%d %H:%M:%S")"
+            git push
+          else
+            echo "No changes to commit."
+          fi

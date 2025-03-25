@@ -3,9 +3,10 @@
 import fs from "fs";
 import path from "path";
 import dotenv from "dotenv";
+import {pascalCase} from "utils/functions.js";
 
 import {TeamSchema} from "./attributes.js";
-import {generateClubData, generateCoach, generatePlayer, generateTechnicalStaff} from "./prompts.js";
+import {generateClubInfo, generateCoach, generatePlayer, generateTeamSquad, generateTechnicalStaff} from "./prompts.js";
 
 // ------------------------------------------------------------------------------------------------
 // Paths of the files
@@ -22,17 +23,11 @@ export const teamsData = JSON.parse(fs.readFileSync(teamsPath, "utf-8"));
 
 // ------------------------------------------------------------------------------------------------
 // Select a random team
-let randomTeam, randomTeamNamePascal, randomTeamDir;
+let randomTeam, randomTeamDir;
 
 while (true) {
   randomTeam = teamsData[Math.floor(Math.random() * teamsData.length)];
-  randomTeamNamePascal = randomTeam.shortName
-    .replace(/[^a-zA-Z0-9]+/g, " ")
-    .trim()
-    .split(" ")
-    .map((word: string) => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
-    .join("");
-  randomTeamDir = path.join(path.resolve(), "..", "..", "data", "teams", randomTeamNamePascal);
+  randomTeamDir = path.join(path.resolve(), "..", "..", "data", "teams", pascalCase(randomTeam.shortName));
 
   if (!fs.existsSync(randomTeamDir)) {
     fs.mkdirSync(randomTeamDir, {recursive: true});
@@ -42,16 +37,18 @@ while (true) {
 }
 
 // Generate the team data and save it into a JSON file
-const {clubDetails, teamLineup} = await generateClubData(randomTeam.name);
-fs.writeFileSync(path.join(randomTeamDir, "info.json"), JSON.stringify(clubDetails, null, 2));
-fs.writeFileSync(path.join(randomTeamDir, "squad.json"), JSON.stringify(teamLineup, null, 2));
+const clubInfo = await generateClubInfo(randomTeam.shortName, randomTeam.country, randomTeam.confederation);
+const teamSquad = await generateTeamSquad(randomTeam.shortName, randomTeam.country, randomTeam.confederation);
+
+fs.writeFileSync(path.join(randomTeamDir, "info.json"), JSON.stringify(clubInfo, null, 2));
+fs.writeFileSync(path.join(randomTeamDir, "squad.json"), JSON.stringify(teamSquad, null, 2));
 
 // Team data
 const teamName = randomTeam.shortName;
-const teamYear = teamLineup.year;
-const teamPlayers = teamLineup.players;
-const teamCoach = teamLineup.coach;
-const teamFormation = teamLineup.formation;
+const teamYear = teamSquad.year;
+const teamPlayers = teamSquad.players;
+const teamCoach = teamSquad.coach;
+const teamFormation = teamSquad.formation;
 
 // Generate player data for each player in the squad
 let playersData = [];
