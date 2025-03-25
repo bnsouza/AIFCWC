@@ -1,0 +1,101 @@
+{
+  "timestamp": "20250325T133922759Z",
+  "system": "You are a specialized AI assistant designed to generate detailed and precise attributes for football coaches. Coaches define the tactical identity and management style of a team. Each attribute is rated from 1 to 100.\n\n# Coach Attributes\n\n## Tactical Attributes\n\n- `offensiveStrategy`: Ability to set up attacking plays.\n- `defensiveStrategy`: Skill in organizing a solid defense.\n- `tacticalAdaptability`: Ability to adjust the team’s strategy during a match.\n- `pressing`: Level of intensity in applying pressure on the opponent.\n- `transitionPlay`: Effectiveness in switching between attack and defense.\n\n## Squad Management\n\n- `motivation`: Ability to inspire and push players to perform better.\n- `lockerRoomManagement`: Skill in managing egos and maintaining team harmony.\n- `discipline`: Enforcing order and keeping players focused.\n\n## Media Handling\n\n- `mediaInteraction`: Ability to handle press conferences and interviews.\n- `crisisManagement`: Keeping composure during difficult situations.",
+  "prompt": "Generate attributes for a football coach based on the following details:\n-  Coach Name: Fabio Capello\n-  Club: Roma\n-  Year: 2001",
+  "result": {
+    "name": "Fabio Capello",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 78,
+        "defensiveStrategy": 92,
+        "tacticalAdaptability": 85,
+        "pressing": 80,
+        "transitionPlay": 83
+      },
+      "management": {
+        "motivation": 88,
+        "lockerRoomManagement": 75,
+        "discipline": 95
+      },
+      "media": {
+        "mediaInteraction": 70,
+        "crisisManagement": 90
+      }
+    }
+  },
+  "response": {
+    "id": "chatcmpl-BEymgeQq3jeosDqq8X20yqbRZwrll",
+    "model": "gpt-4.5-preview-2025-02-27",
+    "timestamp": "2025-03-25T13:39:06.000Z",
+    "body": {
+      "id": "chatcmpl-BEymgeQq3jeosDqq8X20yqbRZwrll",
+      "object": "chat.completion",
+      "created": 1742909946,
+      "model": "gpt-4.5-preview-2025-02-27",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": null,
+            "tool_calls": [
+              {
+                "id": "call_cxltlLSaQz6kyWDsexFkVwi2",
+                "type": "function",
+                "function": {
+                  "name": "json",
+                  "arguments": "{\n  \"name\": \"Fabio Capello\",\n  \"attributes\": {\n    \"tactical\": {\n      \"offensiveStrategy\": 78,\n      \"defensiveStrategy\": 92,\n      \"tacticalAdaptability\": 85,\n      \"pressing\": 80,\n      \"transitionPlay\": 83\n    },\n    \"management\": {\n      \"motivation\": 88,\n      \"lockerRoomManagement\": 75,\n      \"discipline\": 95\n    },\n    \"media\": {\n      \"mediaInteraction\": 70,\n      \"crisisManagement\": 90\n    }\n  }\n}"
+                }
+              }
+            ],
+            "refusal": null,
+            "annotations": []
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 507,
+        "completion_tokens": 128,
+        "total_tokens": 635,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": null
+    },
+    "headers": {
+      "access-control-expose-headers": "X-Request-ID",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "925ecfff1afac94c-IAD",
+      "connection": "keep-alive",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Tue, 25 Mar 2025 13:39:22 GMT",
+      "openai-organization": "user-nxjbfqupesafjmn461azfnez",
+      "openai-processing-ms": "15945",
+      "openai-version": "2020-10-01",
+      "server": "cloudflare",
+      "set-cookie": "_cfuvid=QfY2sCKKbRs6QMGszTOsdJgAIUFFf_nEY4_rSbgFEAs-1742909962753-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None",
+      "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+      "transfer-encoding": "chunked",
+      "x-content-type-options": "nosniff",
+      "x-ratelimit-limit-requests": "5000",
+      "x-ratelimit-limit-tokens": "250000",
+      "x-ratelimit-remaining-requests": "4999",
+      "x-ratelimit-remaining-tokens": "248784",
+      "x-ratelimit-reset-requests": "12ms",
+      "x-ratelimit-reset-tokens": "291ms",
+      "x-request-id": "req_c9c55fa77b8478d5346cccbfbe2d9991"
+    }
+  }
+}
