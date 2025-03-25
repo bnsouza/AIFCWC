@@ -378,7 +378,8 @@ export const generatePlayer = async (year: number, team: string, name: string, p
     "Use the defined attribute system to generate a well-rounded, realistic player profile. Consider the player’s " +
     "historical performance in that specific year, their strengths, weaknesses, and unique characteristics. " +
     "ONLY assign a Special Skill from the predefined list if the player truly deserves it for their exceptional " +
-    "ability or iconic contribution in that specific year. Most players should not have a Special Skill.";
+    "ability or iconic contribution in that specific year. Do not invent new skills, stick to the provided list. " +
+    "Most players should not have a Special Skill, so use it wisely.";
 
   // Generate the object
   const result = await generateObject({
