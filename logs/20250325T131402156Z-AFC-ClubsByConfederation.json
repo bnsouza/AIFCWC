@@ -1,0 +1,166 @@
+{
+  "timestamp": "20250325T131402156Z",
+  "system": "You are an expert in global football history and statistics. Your task is to provide exactly 12 football clubs within the AFC confederation, considering their historical impact, achievements, and significance.\nYou must strictly follow these rules:\n  1. The total number of clubs must be **exactly 12**.\n  2. The distribution must be balanced, ensuring representation from the greatest clubs.\n  3. If the number of clubs exceeds 12, remove less significant clubs while maintaining diversity.\n  4. If there are fewer than 12, add historically relevant teams until the number is correct.\n  5. Provide structured data including:\n    - Full club name\n    - Short club name\n    - Country\n    - Continent\n    - Confederation\nEnsure that the response adheres strictly to these guidelines, and do not exceed or fall below 12.",
+  "prompt": "Generate a structured list of **exactly 12 football clubs** from the AFC confederation. For each club, include: Full club name; Short club name; Country; Continent and Confederation. Ensure that the total count **is exactly 12 clubs**. If necessary, adjust the list by removing or adding clubs based on historical relevance, but always maintain a fair representation and their relevance to the sport.",
+  "result": [
+    {
+      "name": "Al-Hilal Saudi Football Club",
+      "shortName": "Al-Hilal",
+      "country": "Saudi Arabia",
+      "continent": "Asia",
+      "confederation": "AFC"
+    },
+    {
+      "name": "Urawa Red Diamonds",
+      "shortName": "Urawa Reds",
+      "country": "Japan",
+      "continent": "Asia",
+      "confederation": "AFC"
+    },
+    {
+      "name": "Guangzhou Evergrande Taobao Football Club",
+      "shortName": "Guangzhou Evergrande",
+      "country": "China",
+      "continent": "Asia",
+      "confederation": "AFC"
+    },
+    {
+      "name": "Jeonbuk Hyundai Motors Football Club",
+      "shortName": "Jeonbuk Hyundai",
+      "country": "South Korea",
+      "continent": "Asia",
+      "confederation": "AFC"
+    },
+    {
+      "name": "Persepolis Football Club",
+      "shortName": "Persepolis",
+      "country": "Iran",
+      "continent": "Asia",
+      "confederation": "AFC"
+    },
+    {
+      "name": "Al-Ittihad Club",
+      "shortName": "Al-Ittihad",
+      "country": "Saudi Arabia",
+      "continent": "Asia",
+      "confederation": "AFC"
+    },
+    {
+      "name": "Esteghlal Football Club",
+      "shortName": "Esteghlal",
+      "country": "Iran",
+      "continent": "Asia",
+      "confederation": "AFC"
+    },
+    {
+      "name": "Al-Sadd Sports Club",
+      "shortName": "Al-Sadd",
+      "country": "Qatar",
+      "continent": "Asia",
+      "confederation": "AFC"
+    },
+    {
+      "name": "Kashima Antlers Football Club",
+      "shortName": "Kashima Antlers",
+      "country": "Japan",
+      "continent": "Asia",
+      "confederation": "AFC"
+    },
+    {
+      "name": "Pohang Steelers Football Club",
+      "shortName": "Pohang Steelers",
+      "country": "South Korea",
+      "continent": "Asia",
+      "confederation": "AFC"
+    },
+    {
+      "name": "Al-Ain Football Club",
+      "shortName": "Al-Ain",
+      "country": "United Arab Emirates",
+      "continent": "Asia",
+      "confederation": "AFC"
+    },
+    {
+      "name": "Western Sydney Wanderers Football Club",
+      "shortName": "WS Wanderers",
+      "country": "Australia",
+      "continent": "Asia",
+      "confederation": "AFC"
+    }
+  ],
+  "response": {
+    "id": "chatcmpl-BEyNDloRJWMyPaV2iwjhjY2zUdouv",
+    "model": "gpt-4.5-preview-2025-02-27",
+    "timestamp": "2025-03-25T13:12:47.000Z",
+    "body": {
+      "id": "chatcmpl-BEyNDloRJWMyPaV2iwjhjY2zUdouv",
+      "object": "chat.completion",
+      "created": 1742908367,
+      "model": "gpt-4.5-preview-2025-02-27",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": null,
+            "tool_calls": [
+              {
+                "id": "call_IQvlqEJqSFLIp9hl4guBaCKy",
+                "type": "function",
+                "function": {
+                  "name": "json",
+                  "arguments": "{\n  \"teams\": [\n    {\n      \"name\": \"Al-Hilal Saudi Football Club\",\n      \"shortName\": \"Al-Hilal\",\n      \"country\": \"Saudi Arabia\",\n      \"continent\": \"Asia\",\n      \"confederation\": \"AFC\"\n    },\n    {\n      \"name\": \"Urawa Red Diamonds\",\n      \"shortName\": \"Urawa Reds\",\n      \"country\": \"Japan\",\n      \"continent\": \"Asia\",\n      \"confederation\": \"AFC\"\n    },\n    {\n      \"name\": \"Guangzhou Evergrande Taobao Football Club\",\n      \"shortName\": \"Guangzhou Evergrande\",\n      \"country\": \"China\",\n      \"continent\": \"Asia\",\n      \"confederation\": \"AFC\"\n    },\n    {\n      \"name\": \"Jeonbuk Hyundai Motors Football Club\",\n      \"shortName\": \"Jeonbuk Hyundai\",\n      \"country\": \"South Korea\",\n      \"continent\": \"Asia\",\n      \"confederation\": \"AFC\"\n    },\n    {\n      \"name\": \"Persepolis Football Club\",\n      \"shortName\": \"Persepolis\",\n      \"country\": \"Iran\",\n      \"continent\": \"Asia\",\n      \"confederation\": \"AFC\"\n    },\n    {\n      \"name\": \"Al-Ittihad Club\",\n      \"shortName\": \"Al-Ittihad\",\n      \"country\": \"Saudi Arabia\",\n      \"continent\": \"Asia\",\n      \"confederation\": \"AFC\"\n    },\n    {\n      \"name\": \"Esteghlal Football Club\",\n      \"shortName\": \"Esteghlal\",\n      \"country\": \"Iran\",\n      \"continent\": \"Asia\",\n      \"confederation\": \"AFC\"\n    },\n    {\n      \"name\": \"Al-Sadd Sports Club\",\n      \"shortName\": \"Al-Sadd\",\n      \"country\": \"Qatar\",\n      \"continent\": \"Asia\",\n      \"confederation\": \"AFC\"\n    },\n    {\n      \"name\": \"Kashima Antlers Football Club\",\n      \"shortName\": \"Kashima Antlers\",\n      \"country\": \"Japan\",\n      \"continent\": \"Asia\",\n      \"confederation\": \"AFC\"\n    },\n    {\n      \"name\": \"Pohang Steelers Football Club\",\n      \"shortName\": \"Pohang Steelers\",\n      \"country\": \"South Korea\",\n      \"continent\": \"Asia\",\n      \"confederation\": \"AFC\"\n    },\n    {\n      \"name\": \"Al-Ain Football Club\",\n      \"shortName\": \"Al-Ain\",\n      \"country\": \"United Arab Emirates\",\n      \"continent\": \"Asia\",\n      \"confederation\": \"AFC\"\n    },\n    {\n      \"name\": \"Western Sydney Wanderers Football Club\",\n      \"shortName\": \"WS Wanderers\",\n      \"country\": \"Australia\",\n      \"continent\": \"Asia\",\n      \"confederation\": \"AFC\"\n    }\n  ]\n}"
+                }
+              }
+            ],
+            "refusal": null,
+            "annotations": []
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 367,
+        "completion_tokens": 628,
+        "total_tokens": 995,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": null
+    },
+    "headers": {
+      "access-control-expose-headers": "X-Request-ID",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "925ea96e7b395c21-SJC",
+      "connection": "keep-alive",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Tue, 25 Mar 2025 13:14:02 GMT",
+      "openai-organization": "user-nxjbfqupesafjmn461azfnez",
+      "openai-processing-ms": "74971",
+      "openai-version": "2020-10-01",
+      "server": "cloudflare",
+      "set-cookie": "_cfuvid=gRbC3NsZfOz3aAaRBJbuh8.p0ztXG8e88jI6LJQf91E-1742908442154-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None",
+      "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+      "transfer-encoding": "chunked",
+      "x-content-type-options": "nosniff",
+      "x-ratelimit-limit-requests": "5000",
+      "x-ratelimit-limit-tokens": "250000",
+      "x-ratelimit-remaining-requests": "4999",
+      "x-ratelimit-remaining-tokens": "249295",
+      "x-ratelimit-reset-requests": "12ms",
+      "x-ratelimit-reset-tokens": "169ms",
+      "x-request-id": "req_c464b26a4dd097d55331d95e320a7bb7"
+    }
+  }
+}

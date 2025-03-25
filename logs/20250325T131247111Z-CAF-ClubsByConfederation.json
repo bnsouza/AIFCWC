@@ -1,0 +1,166 @@
+{
+  "timestamp": "20250325T131247111Z",
+  "system": "You are an expert in global football history and statistics. Your task is to provide exactly 12 football clubs within the CAF confederation, considering their historical impact, achievements, and significance.\nYou must strictly follow these rules:\n  1. The total number of clubs must be **exactly 12**.\n  2. The distribution must be balanced, ensuring representation from the greatest clubs.\n  3. If the number of clubs exceeds 12, remove less significant clubs while maintaining diversity.\n  4. If there are fewer than 12, add historically relevant teams until the number is correct.\n  5. Provide structured data including:\n    - Full club name\n    - Short club name\n    - Country\n    - Continent\n    - Confederation\nEnsure that the response adheres strictly to these guidelines, and do not exceed or fall below 12.",
+  "prompt": "Generate a structured list of **exactly 12 football clubs** from the CAF confederation. For each club, include: Full club name; Short club name; Country; Continent and Confederation. Ensure that the total count **is exactly 12 clubs**. If necessary, adjust the list by removing or adding clubs based on historical relevance, but always maintain a fair representation and their relevance to the sport.",
+  "result": [
+    {
+      "name": "Al Ahly Sporting Club",
+      "shortName": "Al Ahly",
+      "country": "Egypt",
+      "continent": "Africa",
+      "confederation": "CAF"
+    },
+    {
+      "name": "Zamalek Sporting Club",
+      "shortName": "Zamalek",
+      "country": "Egypt",
+      "continent": "Africa",
+      "confederation": "CAF"
+    },
+    {
+      "name": "Espérance Sportive de Tunis",
+      "shortName": "Espérance",
+      "country": "Tunisia",
+      "continent": "Africa",
+      "confederation": "CAF"
+    },
+    {
+      "name": "Wydad Athletic Club",
+      "shortName": "Wydad",
+      "country": "Morocco",
+      "continent": "Africa",
+      "confederation": "CAF"
+    },
+    {
+      "name": "Raja Club Athletic",
+      "shortName": "Raja",
+      "country": "Morocco",
+      "continent": "Africa",
+      "confederation": "CAF"
+    },
+    {
+      "name": "Tout Puissant Mazembe",
+      "shortName": "TP Mazembe",
+      "country": "DR Congo",
+      "continent": "Africa",
+      "confederation": "CAF"
+    },
+    {
+      "name": "Mamelodi Sundowns Football Club",
+      "shortName": "Sundowns",
+      "country": "South Africa",
+      "continent": "Africa",
+      "confederation": "CAF"
+    },
+    {
+      "name": "Orlando Pirates Football Club",
+      "shortName": "Orlando Pirates",
+      "country": "South Africa",
+      "continent": "Africa",
+      "confederation": "CAF"
+    },
+    {
+      "name": "Asante Kotoko Sporting Club",
+      "shortName": "Asante Kotoko",
+      "country": "Ghana",
+      "continent": "Africa",
+      "confederation": "CAF"
+    },
+    {
+      "name": "Enyimba International Football Club",
+      "shortName": "Enyimba",
+      "country": "Nigeria",
+      "continent": "Africa",
+      "confederation": "CAF"
+    },
+    {
+      "name": "Jeunesse Sportive de Kabylie",
+      "shortName": "JS Kabylie",
+      "country": "Algeria",
+      "continent": "Africa",
+      "confederation": "CAF"
+    },
+    {
+      "name": "Étoile Sportive du Sahel",
+      "shortName": "Étoile du Sahel",
+      "country": "Tunisia",
+      "continent": "Africa",
+      "confederation": "CAF"
+    }
+  ],
+  "response": {
+    "id": "chatcmpl-BEyMPPk8K8yJDRwPztjvO2Mj1VG7m",
+    "model": "gpt-4.5-preview-2025-02-27",
+    "timestamp": "2025-03-25T13:11:57.000Z",
+    "body": {
+      "id": "chatcmpl-BEyMPPk8K8yJDRwPztjvO2Mj1VG7m",
+      "object": "chat.completion",
+      "created": 1742908317,
+      "model": "gpt-4.5-preview-2025-02-27",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": null,
+            "tool_calls": [
+              {
+                "id": "call_EYZeKFDhgCh5U27KJ5vWNdMl",
+                "type": "function",
+                "function": {
+                  "name": "json",
+                  "arguments": "{\n  \"teams\": [\n    {\n      \"name\": \"Al Ahly Sporting Club\",\n      \"shortName\": \"Al Ahly\",\n      \"country\": \"Egypt\",\n      \"continent\": \"Africa\",\n      \"confederation\": \"CAF\"\n    },\n    {\n      \"name\": \"Zamalek Sporting Club\",\n      \"shortName\": \"Zamalek\",\n      \"country\": \"Egypt\",\n      \"continent\": \"Africa\",\n      \"confederation\": \"CAF\"\n    },\n    {\n      \"name\": \"Espérance Sportive de Tunis\",\n      \"shortName\": \"Espérance\",\n      \"country\": \"Tunisia\",\n      \"continent\": \"Africa\",\n      \"confederation\": \"CAF\"\n    },\n    {\n      \"name\": \"Wydad Athletic Club\",\n      \"shortName\": \"Wydad\",\n      \"country\": \"Morocco\",\n      \"continent\": \"Africa\",\n      \"confederation\": \"CAF\"\n    },\n    {\n      \"name\": \"Raja Club Athletic\",\n      \"shortName\": \"Raja\",\n      \"country\": \"Morocco\",\n      \"continent\": \"Africa\",\n      \"confederation\": \"CAF\"\n    },\n    {\n      \"name\": \"Tout Puissant Mazembe\",\n      \"shortName\": \"TP Mazembe\",\n      \"country\": \"DR Congo\",\n      \"continent\": \"Africa\",\n      \"confederation\": \"CAF\"\n    },\n    {\n      \"name\": \"Mamelodi Sundowns Football Club\",\n      \"shortName\": \"Sundowns\",\n      \"country\": \"South Africa\",\n      \"continent\": \"Africa\",\n      \"confederation\": \"CAF\"\n    },\n    {\n      \"name\": \"Orlando Pirates Football Club\",\n      \"shortName\": \"Orlando Pirates\",\n      \"country\": \"South Africa\",\n      \"continent\": \"Africa\",\n      \"confederation\": \"CAF\"\n    },\n    {\n      \"name\": \"Asante Kotoko Sporting Club\",\n      \"shortName\": \"Asante Kotoko\",\n      \"country\": \"Ghana\",\n      \"continent\": \"Africa\",\n      \"confederation\": \"CAF\"\n    },\n    {\n      \"name\": \"Enyimba International Football Club\",\n      \"shortName\": \"Enyimba\",\n      \"country\": \"Nigeria\",\n      \"continent\": \"Africa\",\n      \"confederation\": \"CAF\"\n    },\n    {\n      \"name\": \"Jeunesse Sportive de Kabylie\",\n      \"shortName\": \"JS Kabylie\",\n      \"country\": \"Algeria\",\n      \"continent\": \"Africa\",\n      \"confederation\": \"CAF\"\n    },\n    {\n      \"name\": \"Étoile Sportive du Sahel\",\n      \"shortName\": \"Étoile du Sahel\",\n      \"country\": \"Tunisia\",\n      \"continent\": \"Africa\",\n      \"confederation\": \"CAF\"\n    }\n  ]\n}"
+                }
+              }
+            ],
+            "refusal": null,
+            "annotations": []
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 367,
+        "completion_tokens": 607,
+        "total_tokens": 974,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": null
+    },
+    "headers": {
+      "access-control-expose-headers": "X-Request-ID",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "925ea8355cf55c21-SJC",
+      "connection": "keep-alive",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Tue, 25 Mar 2025 13:12:47 GMT",
+      "openai-organization": "user-nxjbfqupesafjmn461azfnez",
+      "openai-processing-ms": "50027",
+      "openai-version": "2020-10-01",
+      "server": "cloudflare",
+      "set-cookie": "_cfuvid=iC4d9pWGbrF36mMh3rU8ScF6z_tVHj2dciivuUSlr.Y-1742908367106-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None",
+      "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+      "transfer-encoding": "chunked",
+      "x-content-type-options": "nosniff",
+      "x-ratelimit-limit-requests": "5000",
+      "x-ratelimit-limit-tokens": "250000",
+      "x-ratelimit-remaining-requests": "4999",
+      "x-ratelimit-remaining-tokens": "249266",
+      "x-ratelimit-reset-requests": "12ms",
+      "x-ratelimit-reset-tokens": "176ms",
+      "x-request-id": "req_089db290f43f5d93c1269c2b56f40ada"
+    }
+  }
+}
