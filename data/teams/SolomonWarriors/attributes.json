@@ -1,0 +1,485 @@
+{
+  "year": 2020,
+  "coach": {
+    "name": "Selson Molea",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 72,
+        "defensiveStrategy": 68,
+        "tacticalAdaptability": 70,
+        "pressing": 65,
+        "transitionPlay": 67
+      },
+      "management": {
+        "motivation": 75,
+        "lockerRoomManagement": 78,
+        "discipline": 74
+      },
+      "media": {
+        "mediaInteraction": 66,
+        "crisisManagement": 69
+      }
+    }
+  },
+  "formation": "4-3-3",
+  "players": [
+    {
+      "name": "Timothy Maearasia",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 62,
+          "stamina": 68,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 72,
+          "leadership": 65,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 58,
+          "passing": 60,
+          "finishing": 30,
+          "heading": 55,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "reflexes": 78,
+          "ballDistribution": 70
+        }
+      }
+    },
+    {
+      "name": "Emmanuel Poila",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 74,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 72,
+          "leadership": 68,
+          "creativity": 65,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 68,
+          "finishing": 55,
+          "heading": 65,
+          "marking": 74
+        },
+        "positionSpecific": {
+          "attackingSupport": 72,
+          "crossing": 70
+        }
+      }
+    },
+    {
+      "name": "Jason Thomas",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 75,
+          "strength": 82,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 74,
+          "leadership": 78,
+          "creativity": 60,
+          "aggressiveness": 80,
+          "teamwork": 77
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 68,
+          "finishing": 50,
+          "heading": 80,
+          "marking": 83
+        },
+        "positionSpecific": {
+          "defensivePositioning": 82,
+          "aerialDuels": 85
+        },
+        "specialSkill": "DefensiveRock"
+      }
+    },
+    {
+      "name": "Michael Boso",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 72,
+          "leadership": 78,
+          "creativity": 60,
+          "aggressiveness": 77,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 68,
+          "finishing": 50,
+          "heading": 82,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "defensivePositioning": 79,
+          "aerialDuels": 83
+        }
+      }
+    },
+    {
+      "name": "Allen Peter",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 74,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 70,
+          "leadership": 65,
+          "creativity": 68,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 72,
+          "passing": 70,
+          "finishing": 60,
+          "heading": 68,
+          "marking": 76
+        },
+        "positionSpecific": {
+          "attackingSupport": 74,
+          "crossing": 77
+        }
+      }
+    },
+    {
+      "name": "Atkin Kaua",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 74,
+          "leadership": 68,
+          "creativity": 76,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 77,
+          "passing": 79,
+          "finishing": 68,
+          "heading": 62,
+          "marking": 66
+        },
+        "positionSpecific": {
+          "vision": 78,
+          "shortPassing": 80
+        }
+      }
+    },
+    {
+      "name": "John Aeta",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 82,
+          "strength": 77,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 74,
+          "leadership": 70,
+          "creativity": 65,
+          "aggressiveness": 80,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 72,
+          "passing": 75,
+          "finishing": 60,
+          "heading": 70,
+          "marking": 78
+        },
+        "positionSpecific": {
+          "interception": 80,
+          "tackling": 83
+        }
+      }
+    },
+    {
+      "name": "Dennis Ifunaoa",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 74,
+          "leadership": 68,
+          "creativity": 75,
+          "aggressiveness": 65,
+          "teamwork": 77
+        },
+        "technical": {
+          "ballControl": 76,
+          "passing": 78,
+          "finishing": 68,
+          "heading": 65,
+          "marking": 66
+        },
+        "positionSpecific": {
+          "vision": 77,
+          "shortPassing": 79
+        }
+      }
+    },
+    {
+      "name": "Gagame Feni",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 74,
+          "leadership": 68,
+          "creativity": 80,
+          "aggressiveness": 65,
+          "teamwork": 77
+        },
+        "technical": {
+          "ballControl": 81,
+          "passing": 76,
+          "finishing": 75,
+          "heading": 60,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "dribblingSpeed": 83,
+          "offensiveMovement": 79
+        }
+      }
+    },
+    {
+      "name": "Raphael Lea'i",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 72,
+          "leadership": 60,
+          "creativity": 80,
+          "aggressiveness": 65,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 74,
+          "finishing": 77,
+          "heading": 60,
+          "marking": 45
+        },
+        "positionSpecific": {
+          "dribblingSpeed": 86,
+          "offensiveMovement": 80
+        },
+        "specialSkill": "Speedster"
+      }
+    },
+    {
+      "name": "Jerry Donga",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 74,
+          "leadership": 68,
+          "creativity": 70,
+          "aggressiveness": 72,
+          "teamwork": 76
+        },
+        "technical": {
+          "ballControl": 77,
+          "passing": 70,
+          "finishing": 82,
+          "heading": 79,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "aerialDuels": 81,
+          "holdUpPlay": 78
+        }
+      }
+    },
+    {
+      "name": "Haddis Aengari",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 72,
+          "leadership": 78,
+          "creativity": 60,
+          "aggressiveness": 77,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 68,
+          "finishing": 50,
+          "heading": 78,
+          "marking": 82
+        },
+        "positionSpecific": {
+          "defensivePositioning": 80,
+          "aerialDuels": 79
+        }
+      }
+    },
+    {
+      "name": "Tigi Molea",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 74,
+          "leadership": 68,
+          "creativity": 76,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 77,
+          "passing": 79,
+          "finishing": 68,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "vision": 78,
+          "shortPassing": 80
+        }
+      }
+    },
+    {
+      "name": "Clifford Wate",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 74,
+          "leadership": 65,
+          "creativity": 77,
+          "aggressiveness": 68,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 76,
+          "finishing": 72,
+          "heading": 60,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "dribblingSpeed": 83,
+          "offensiveMovement": 79
+        }
+      }
+    },
+    {
+      "name": "Alwin Hou",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 84,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 72,
+          "leadership": 65,
+          "creativity": 80,
+          "aggressiveness": 68,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 76,
+          "finishing": 74,
+          "heading": 60,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "dribblingSpeed": 85,
+          "offensiveMovement": 80
+        }
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 68,
+    "staminaBoost": 72,
+    "injuryPrevention": 65,
+    "medicalResponse": 70
+  }
+}

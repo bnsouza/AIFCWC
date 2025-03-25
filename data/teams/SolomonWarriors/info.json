@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1981",
+  "city": "Honiara",
+  "fullName": "Solomon Warriors Football Club",
+  "shortName": "Warriors",
+  "stadium": {
+    "name": "Lawson Tama Stadium",
+    "capacity": 22000
+  },
+  "socialMedia": {
+    "instagram": "solomonwarriorsfc",
+    "tiktok": "solomonwarriorsfc"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(220, 20, 60)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 0, 0)"
+    },
+    "alternate": {
+      "bgColor": "rgb(0, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}
