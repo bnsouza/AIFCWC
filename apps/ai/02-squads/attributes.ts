@@ -1,6 +1,6 @@
 // ------------------------------------------------------------------------------------------------
 
-import {z} from "zod";
+import { z } from "zod";
 
 // ------------------------------------------------------------------------------------------------
 // Physical, Mental, and Technical attributes (common to all players)
@@ -30,19 +30,19 @@ export const TechnicalSchema = z.object({
 // Position-specific attributes (fixed for each position)
 export const PositionSpecificSchemaGK = z.object({
   reflexes: z.number().min(0).max(100),
-  ballDistribution: z.number().min(0).max(100),
+  oneOnOne: z.number().min(0).max(100),
 });
 export const PositionSpecificSchemaCB = z.object({
-  defensivePositioning: z.number().min(0).max(100),
+  positioning: z.number().min(0).max(100),
   aerialDuels: z.number().min(0).max(100),
 });
 export const PositionSpecificSchemaRB = z.object({
   attackingSupport: z.number().min(0).max(100),
-  crossing: z.number().min(0).max(100),
+  defensiveSupport: z.number().min(0).max(100),
 });
 export const PositionSpecificSchemaLB = z.object({
   attackingSupport: z.number().min(0).max(100),
-  crossing: z.number().min(0).max(100),
+  defensiveSupport: z.number().min(0).max(100),
 });
 export const PositionSpecificSchemaCDM = z.object({
   interception: z.number().min(0).max(100),
@@ -50,27 +50,35 @@ export const PositionSpecificSchemaCDM = z.object({
 });
 export const PositionSpecificSchemaCM = z.object({
   vision: z.number().min(0).max(100),
-  shortPassing: z.number().min(0).max(100),
+  distribution: z.number().min(0).max(100),
+});
+export const PositionSpecificSchemaRM = z.object({
+  vision: z.number().min(0).max(100),
+  crossing: z.number().min(0).max(100),
+});
+export const PositionSpecificSchemaLM = z.object({
+  vision: z.number().min(0).max(100),
+  crossing: z.number().min(0).max(100),
 });
 export const PositionSpecificSchemaCAM = z.object({
-  creativity: z.number().min(0).max(100),
+  longShot: z.number().min(0).max(100),
   throughPassing: z.number().min(0).max(100),
 });
 export const PositionSpecificSchemaRW = z.object({
-  dribblingSpeed: z.number().min(0).max(100),
-  offensiveMovement: z.number().min(0).max(100),
+  dribbling: z.number().min(0).max(100),
+  keyPass: z.number().min(0).max(100),
 });
 export const PositionSpecificSchemaLW = z.object({
-  dribblingSpeed: z.number().min(0).max(100),
-  offensiveMovement: z.number().min(0).max(100),
+  dribbling: z.number().min(0).max(100),
+  keyPass: z.number().min(0).max(100),
 });
 export const PositionSpecificSchemaST = z.object({
+  positioning: z.number().min(0).max(100),
   aerialDuels: z.number().min(0).max(100),
-  holdUpPlay: z.number().min(0).max(100),
 });
 export const PositionSpecificSchemaCF = z.object({
-  finishing: z.number().min(0).max(100),
   offTheBallMovement: z.number().min(0).max(100),
+  combinationPlay: z.number().min(0).max(100),
 });
 
 export const PositionSpecificSchema = z.union([
@@ -80,6 +88,8 @@ export const PositionSpecificSchema = z.union([
   PositionSpecificSchemaLB,
   PositionSpecificSchemaCDM,
   PositionSpecificSchemaCM,
+  PositionSpecificSchemaRM,
+  PositionSpecificSchemaLM,
   PositionSpecificSchemaCAM,
   PositionSpecificSchemaRW,
   PositionSpecificSchemaLW,
@@ -167,7 +177,7 @@ export const SpecialSkillSchema = z.enum([
   "Wonderkid",
 ]);
 
-export const PositionEnum = z.enum(["GK", "CB", "RB", "LB", "CDM", "CM", "CAM", "RW", "LW", "ST", "CF"]);
+export const PositionEnum = z.enum(["GK", "CB", "RB", "LB", "CDM", "CM", "RM", "LM", "CAM", "RW", "LW", "ST", "CF"]);
 
 // ------------------------------------------------------------------------------------------------
 // Player schema with position validation

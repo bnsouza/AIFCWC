@@ -3,10 +3,16 @@
 import fs from "fs";
 import path from "path";
 import dotenv from "dotenv";
-import {pascalCase} from "utils/functions.js";
+import { pascalCase } from "utils/functions.js";
 
-import {TeamSchema} from "./attributes.js";
-import {generateClubInfo, generateCoach, generatePlayer, generateTeamSquad, generateTechnicalStaff} from "./prompts.js";
+import { TeamSchema } from "./attributes.js";
+import {
+  generateClubInfo,
+  generateCoach,
+  generatePlayer,
+  generateTeamSquad,
+  generateTechnicalStaff,
+} from "./prompts.js";
 
 // ------------------------------------------------------------------------------------------------
 // Paths of the files
@@ -15,7 +21,7 @@ const teamsPath = path.join(path.resolve(), "..", "..", "data", "teams.json");
 
 // ------------------------------------------------------------------------------------------------
 // Load environment variables
-dotenv.config({path: envPath});
+dotenv.config({ path: envPath });
 
 // ------------------------------------------------------------------------------------------------
 // Read the teams data from JSON file
@@ -30,7 +36,7 @@ while (true) {
   randomTeamDir = path.join(path.resolve(), "..", "..", "data", "teams", pascalCase(randomTeam.shortName));
 
   if (!fs.existsSync(randomTeamDir)) {
-    fs.mkdirSync(randomTeamDir, {recursive: true});
+    fs.mkdirSync(randomTeamDir, { recursive: true });
     console.log(`Selected team: ${randomTeam.shortName}`);
     break;
   }

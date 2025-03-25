@@ -49,21 +49,24 @@ Players have three categories of attributes: Physical, Mental, and Technical.
 
 ---
 
-### 2.2 Position-Specific Attributes
+### 2.2 Role-Specific Attributes (By Position)
 
-Each player has two additional attributes based on their position, ensuring role differentiation.
+The selection of these attributes is based on how players typically impact games from their respective positions. For instance, strikers and center backs both benefit from `positioning` to enhance realism in duels. Midfielders are defined by vision and distribution skills. Wingers are evaluated based on their ability to beat defenders (`dribbling`) and deliver decisive plays (`keyPass`). Attributes like `reflexes`, `oneOnOnes`, or `aerialDuels` represent critical moments that may change the course of a match.
 
-| **Position**               | **Attribute 1**        | **Attribute 2**      |
-| -------------------------- | ---------------------- | -------------------- |
-| Goalkeeper (GK)            | `reflexes`             | `ballDistribution`   |
-| Center Back (CB)           | `defensivePositioning` | `aerialDuels`        |
-| Right/Left Back (RB/LB)    | `attackingSupport`     | `crossing`           |
-| Defensive Midfielder (CDM) | `interception`         | `tackling`           |
-| Central Midfielder (CM)    | `vision`               | `shortPassing`       |
-| Attacking Midfielder (CAM) | `throughPassing`       | `longShoot`          |
-| Right/Left Wing (RW/LW)    | `dribblingSpeed`       | `offensiveMovement`  |
-| Striker (ST)               | `aerialDuels`          | `holdUpPlay`         |
-| Forward (CF)               | `finishing`            | `offTheBallMovement` |
+Each player has two additional attributes based on their primary position, adding differentiation and tactical depth. These attributes are carefully chosen to reflect key traits that can impact match outcomes and player interactions on the pitch.
+
+| **Position**                  | **Attribute 1**      | **Attribute 2**    |
+| ----------------------------- | -------------------- | ------------------ |
+| Goalkeeper (GK)               | `reflexes`           | `oneOnOnes`        |
+| Center Back (CB)              | `positioning`        | `aerialDuels`      |
+| Right/Left Back (RB/LB)       | `attackingSupport`   | `defensiveSupport` |
+| Defensive Midfielder (CDM)    | `interception`       | `tackling`         |
+| Central Midfielder (CM)       | `vision`             | `distribution`     |
+| Right/Left Midfielder (RM/LM) | `vision`             | `crossing`         |
+| Attacking Midfielder (CAM)    | `throughPassing`     | `longShot`         |
+| Right/Left Wing (RW/LW)       | `dribbling`          | `keyPass`          |
+| Striker (ST)                  | `aerialDuels`        | `positioning`      |
+| Forward (CF)                  | `offTheBallMovement` | `combinationPlay`  |
 
 ---
 
@@ -183,7 +186,7 @@ Coaches define the tactical identity and management style of a team.
 | `media_interaction` | Ability to handle press conferences and interviews. |
 | `crisis_management` | Keeping composure during difficult situations.      |
 
---
+---
 
 ## 4. Technical Staff Attributes
 

@@ -4,7 +4,7 @@
     "name": "Bruno Souza",
     "email": "bruno@nfenarede.com.br"
   },
-  "description": "AIFCWC - AI Football Club World Cup 🏆 The ultimate championship featuring the greatest clubs in football history, powered by AI.",
+  "description": "AIFCWC - AI Football Club World Cup 🏆 The ultimate cup featuring the greatest clubs in football history, powered by AI.",
   "version": "0.0.1",
   "scripts": {
     "build": "turbo build",
@@ -20,6 +20,7 @@
     "@types/node": "^22.13.10",
     "@workspace/eslint-config": "workspace:*",
     "@workspace/typescript-config": "workspace:*",
+    "eslint": "^9.20.1",
     "husky": "^9.1.7",
     "lint-staged": "^15.5.0",
     "prettier": "^3.5.1",

@@ -20,11 +20,11 @@ export type AILogData = {
 };
 
 // ------------------------------------------------------------------------------------------------
-export const logAIGeneration = async ({task, system, prompt, result, response}: AILogData) => {
+export const logAIGeneration = async ({ task, system, prompt, result, response }: AILogData) => {
   // Create logs directory if it doesn't exist
   const logDir = path.join(path.resolve(), "..", "..", "logs");
   if (!fs.existsSync(logDir)) {
-    fs.mkdirSync(logDir, {recursive: true});
+    fs.mkdirSync(logDir, { recursive: true });
   }
 
   // Generate a timestamped filename

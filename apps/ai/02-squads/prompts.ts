@@ -1,12 +1,12 @@
 // ------------------------------------------------------------------------------------------------
 
-import {openai} from "@ai-sdk/openai";
-import {generateObject} from "ai";
-import {pascalCase} from "utils/functions.js";
-import {logAIGeneration} from "utils/logger.js";
-import {z} from "zod";
+import { openai } from "@ai-sdk/openai";
+import { generateObject } from "ai";
+import { pascalCase } from "utils/functions.js";
+import { logAIGeneration } from "utils/logger.js";
+import { z } from "zod";
 
-import {CoachSchema, PlayerSchema, TechnicalStaffSchema} from "./attributes.js";
+import { CoachSchema, PlayerSchema, TechnicalStaffSchema } from "./attributes.js";
 
 // ------------------------------------------------------------------------------------------------
 // Generate club information based on the team, country, and confederation
@@ -43,7 +43,7 @@ export const generateClubInfo = async (team: string, country: string, confederat
 
   // Generate the object
   const result = await generateObject({
-    model: openai("gpt-4.5-preview"),
+    model: openai("o3-mini"),
     system: systemPrompt,
     schema: z.object({
       foundationDate: z.string(),
@@ -121,6 +121,8 @@ export const generateTeamSquad = async (team: string, country: string, confedera
     "  - `LB`: Left-back\n" +
     "  - `CDM`: Central defensive midfielder\n" +
     "  - `CM`: Central midfielder\n" +
+    "  - `RM`: Right midfielder\n" +
+    "  - `LM`: Left midfielder\n" +
     "  - `CAM`: Central attacking midfielder\n" +
     "  - `RW`: Right winger\n" +
     "  - `LW`: Left winger\n" +
@@ -139,7 +141,7 @@ export const generateTeamSquad = async (team: string, country: string, confedera
 
   // Generate the object
   const result = await generateObject({
-    model: openai("gpt-4.5-preview"),
+    model: openai("o3-mini"),
     system: systemPrompt,
     schema: z.object({
       year: z.number(),
@@ -149,7 +151,7 @@ export const generateTeamSquad = async (team: string, country: string, confedera
         .array(
           z.object({
             name: z.string(),
-            position: z.enum(["GK", "CB", "RB", "LB", "CDM", "CM", "CAM", "RW", "LW", "ST", "CF"]),
+            position: z.enum(["GK", "CB", "RB", "LB", "CDM", "CM", "RM", "LM", "CAM", "RW", "LW", "ST", "CF"]),
           })
         )
         .min(15)
@@ -210,7 +212,7 @@ export const generateCoach = async (year: number, team: string, name: string) =>
 
   // Generate the object
   const result = await generateObject({
-    model: openai("gpt-4.5-preview"),
+    model: openai("o3-mini"),
     system: systemPrompt,
     schema: CoachSchema,
     prompt: userPrompt,
@@ -268,15 +270,16 @@ export const generatePlayer = async (year: number, team: string, name: string, p
     "- `marking`: Defensive skill in stopping opponents.\n\n" +
     "## Position-Specific Attributes\n\n" +
     "Players have role-specific attributes, enhancing differentiation by position.\n\n" +
-    "- **Goalkeeper (GK):** `reflexes`, `ballDistribution`\n" +
-    "- **Center Back (CB):** `defensivePositioning`, `aerialDuels`\n" +
-    "- **Right/Left Back (RB/LB):** `attackingSupport`, `crossing`\n" +
+    "- **Goalkeeper (GK):** `reflexes`, `oneOnOne`\n" +
+    "- **Center Back (CB):** `positioning`, `aerialDuels`\n" +
+    "- **Right/Left Back (RB/LB):** `attackingSupport`, `defensiveSupport`\n" +
     "- **Defensive Midfielder (CDM):** `interception`, `tackling`\n" +
-    "- **Central Midfielder (CM):** `vision`, `shortPassing`\n" +
-    "- **Attacking Midfielder (CAM):** `throughPassing`, `longShoot`\n" +
-    "- **Right/Left Wing (RW/LW):** `dribblingSpeed`, `offensiveMovement`\n" +
-    "- **Striker (ST):** `aerialDuels`, `holdUpPlay`\n" +
-    "- **Forward (CF):** `finishing`, `offTheBallMovement`\n\n" +
+    "- **Central Midfielder (CM):** `vision`, `distribution`\n" +
+    "- **Right/Left Midfielder (RM/LM):** `vision`, `crossing`\n" +
+    "- **Attacking Midfielder (CAM):** `throughPassing`, `longShot`\n" +
+    "- **Right/Left Wing (RW/LW):** `dribbling`, `keyPass`\n" +
+    "- **Striker (ST):** `positioning`, `aerialDuels`\n" +
+    "- **Forward (CF):** `combinationPlay`, `offTheBallMovement`\n\n" +
     "## Special Skill (Unique Ability)\n\n" +
     "Assign unique skills sparingly. Only award a special skill if the player exemplified " +
     "extraordinary qualities during that specific year.\n\n" +
@@ -383,7 +386,7 @@ export const generatePlayer = async (year: number, team: string, name: string, p
 
   // Generate the object
   const result = await generateObject({
-    model: openai("gpt-4.5-preview"),
+    model: openai("o3-mini"),
     system: systemPrompt,
     schema: PlayerSchema,
     prompt: userPrompt,
@@ -442,7 +445,7 @@ export const generateTechnicalStaff = async (year: number, team: string) => {
 
   // Generate the object
   const result = await generateObject({
-    model: openai("gpt-4.5-preview"),
+    model: openai("o3-mini"),
     system: systemPrompt,
     schema: TechnicalStaffSchema,
     prompt: userPrompt,
