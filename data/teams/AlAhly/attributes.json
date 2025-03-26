@@ -1,0 +1,513 @@
+{
+  "year": 2006,
+  "coach": {
+    "name": "Manuel José",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 85,
+        "defensiveStrategy": 80,
+        "tacticalAdaptability": 90,
+        "pressing": 75,
+        "transitionPlay": 80
+      },
+      "management": {
+        "motivation": 88,
+        "lockerRoomManagement": 85,
+        "discipline": 87
+      },
+      "media": {
+        "mediaInteraction": 80,
+        "crisisManagement": 90
+      }
+    }
+  },
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "name": "Essam El-Hadary",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 85,
+          "creativity": 60,
+          "aggressiveness": 50,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 20,
+          "heading": 70,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 88,
+          "oneOnOne": 85
+        },
+        "specialSkill": "GoldenGlove"
+      }
+    },
+    {
+      "name": "Ahmed Samy",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 65,
+          "creativity": 68,
+          "aggressiveness": 72,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 72,
+          "finishing": 55,
+          "heading": 65,
+          "marking": 75
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 70,
+          "defensiveSupport": 78
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Wael Gomaa",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 60,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 40,
+          "heading": 82,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 80,
+          "aerialDuels": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Hany Said",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 80,
+          "creativity": 65,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 82,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 83,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Ahmed Fathi",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 78,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 68,
+          "creativity": 72,
+          "aggressiveness": 77,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 50,
+          "heading": 74,
+          "marking": 84
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 78,
+          "defensiveSupport": 86
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Ayman Mansour",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 78,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 65,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 80,
+          "finishing": 55,
+          "heading": 68,
+          "marking": 82
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 78,
+          "tackling": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Ahmed Hassan",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 85,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 83,
+          "passing": 85,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 82,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Emad Moteab",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 78,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 83,
+          "passing": 78,
+          "finishing": 82,
+          "heading": 70,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 85,
+          "keyPass": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Mohamed Aboutrika",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 85,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 80,
+          "creativity": 95,
+          "aggressiveness": 70,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 95,
+          "passing": 92,
+          "finishing": 80,
+          "heading": 60,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 85,
+          "throughPassing": 92
+        },
+        "specialSkill": "Playmaker"
+      }
+    },
+    {
+      "name": "Hossam Ashour",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 60,
+          "creativity": 82,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 75,
+          "heading": 65,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 88,
+          "keyPass": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Tamer Sobhy",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 75,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 60,
+          "creativity": 75,
+          "aggressiveness": 72,
+          "teamwork": 70
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 70,
+          "finishing": 85,
+          "heading": 80,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 85,
+          "aerialDuels": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Gedo",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 78,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 83,
+          "leadership": 65,
+          "creativity": 68,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 65,
+          "finishing": 85,
+          "heading": 82,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 85,
+          "aerialDuels": 80
+        },
+        "specialSkill": "GoalPoacher"
+      }
+    },
+    {
+      "name": "Mohamed Barakat",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 85,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 88,
+          "aggressiveness": 70,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 88,
+          "finishing": 75,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 88,
+          "distribution": 85
+        },
+        "specialSkill": "MidfieldMaestro"
+      }
+    },
+    {
+      "name": "Tarek Yehia",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 65,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 50,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 80,
+          "tackling": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Mahmoud El-Gohary",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 80,
+          "finishing": 40,
+          "heading": 90,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 90
+        },
+        "specialSkill": "DefensiveGeneral"
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 84,
+    "staminaBoost": 80,
+    "injuryPrevention": 76,
+    "medicalResponse": 82
+  }
+}

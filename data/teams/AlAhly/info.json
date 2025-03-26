@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1907-04-24",
+  "city": "Cairo",
+  "fullName": "Al Ahly Sporting Club",
+  "shortName": "Al Ahly",
+  "stadium": {
+    "name": "Cairo International Stadium",
+    "capacity": 75000
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/alahlyegypt",
+    "tiktok": "https://www.tiktok.com/@alahlyegypt"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(206,17,38)",
+      "fontColor": "rgb(255,255,255)"
+    },
+    "away": {
+      "bgColor": "rgb(255,255,255)",
+      "fontColor": "rgb(0,0,0)"
+    },
+    "alternate": {
+      "bgColor": "rgb(0,0,0)",
+      "fontColor": "rgb(255,255,255)"
+    }
+  }
+}
