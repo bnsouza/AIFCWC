@@ -60,11 +60,23 @@ export const generateClubInfo = async (team: string, country: string, confederat
       }),
       colors: z
         .object({
-          home: z.object({ bgColor: z.string(), fontColor: z.string() }),
-          away: z.object({ bgColor: z.string(), fontColor: z.string() }),
-          alternate: z.object({ bgColor: z.string(), fontColor: z.string() }).optional(),
+          home: z.object({
+            bgColor: z.string(),
+            fontColor: z.string(),
+          }),
+          away: z.object({
+            bgColor: z.string(),
+            fontColor: z.string(),
+          }),
         })
-        .strict(),
+        .extend({
+          alternate: z
+            .object({
+              bgColor: z.string(),
+              fontColor: z.string(),
+            })
+            .optional(),
+        }),
     }),
     prompt: userPrompt,
   });
