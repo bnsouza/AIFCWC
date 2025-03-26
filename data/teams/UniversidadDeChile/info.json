@@ -1,0 +1,28 @@
+{
+  "foundationDate": "May 24, 1927",
+  "city": "Santiago",
+  "fullName": "Club Universidad de Chile",
+  "shortName": "Universidad de Chile",
+  "stadium": {
+    "name": "Estadio Nacional Julio Martínez Prádanos",
+    "capacity": 48000
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/udechileoficial/",
+    "tiktok": "https://www.tiktok.com/@udechileoficial"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(0, 51, 160)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 51, 160)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}

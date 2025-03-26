@@ -1,0 +1,68 @@
+{
+  "year": 2011,
+  "coach": "Jorge Sampaoli",
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "name": "Johnny Herrera",
+      "position": "GK"
+    },
+    {
+      "name": "Mauricio Isla",
+      "position": "RB"
+    },
+    {
+      "name": "Gonzalo Jara",
+      "position": "CB"
+    },
+    {
+      "name": "Francisco Silva",
+      "position": "CB"
+    },
+    {
+      "name": "Manuel Iturra",
+      "position": "LB"
+    },
+    {
+      "name": "Marcelo Díaz",
+      "position": "CDM"
+    },
+    {
+      "name": "Charles Aránguiz",
+      "position": "CDM"
+    },
+    {
+      "name": "Jorge Valdivia",
+      "position": "CAM"
+    },
+    {
+      "name": "Eduardo Vargas",
+      "position": "LW"
+    },
+    {
+      "name": "Sebastián Ubilla",
+      "position": "RW"
+    },
+    {
+      "name": "Felipe Mora",
+      "position": "ST"
+    },
+    {
+      "name": "Rodrigo Rojas",
+      "position": "GK"
+    },
+    {
+      "name": "Jorge Ormeño",
+      "position": "CB"
+    },
+    {
+      "name": "Eugenio Mena",
+      "position": "CM"
+    },
+    {
+      "name": "Sebastián Toro",
+      "position": "ST"
+    }
+  ],
+  "explanation": "The 2011 Copa Sudamericana Final is arguably the most significant game in Universidad de Chile's history, as it secured the club’s first international title and marked the peak of the ‘Ballet Azul’ era. Under Jorge Sampaoli’s revolutionary 4-2-3-1 system, the team blended defensive solidity – provided by a backline anchored by Mauricio Isla, Gonzalo Jara, Francisco Silva, and Manuel Iturra – with a dynamic and creative midfield duo in Marcelo Díaz and Charles Aránguiz. The attacking trident of Jorge Valdivia’s playmaking, Eduardo Vargas’s incisiveness on the left, and Sebastián Ubilla’s pace on the right, supported by Felipe Mora’s clinical finishing, exemplified a perfect balance of flair and discipline. All these players shared the field in that iconic final, symbolizing the pinnacle of Universidad de Chile’s performance and legacy."
+}
