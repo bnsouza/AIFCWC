@@ -147,15 +147,12 @@ export const generateTeamSquad = async (team: string, country: string, confedera
       year: z.number(),
       coach: z.string(),
       formation: z.string(),
-      players: z
-        .array(
-          z.object({
-            name: z.string(),
-            position: z.enum(["GK", "CB", "RB", "LB", "CDM", "CM", "RM", "LM", "CAM", "RW", "LW", "ST", "CF"]),
-          })
-        )
-        .min(15)
-        .max(20),
+      players: z.array(
+        z.object({
+          name: z.string(),
+          position: z.enum(["GK", "CB", "RB", "LB", "CDM", "CM", "RM", "LM", "CAM", "RW", "LW", "ST", "CF"]),
+        })
+      ),
       explanation: z.string(),
     }),
     prompt: userPrompt,
