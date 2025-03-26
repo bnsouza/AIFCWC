@@ -1,0 +1,68 @@
+{
+  "year": 1979,
+  "coach": "Luis Cubilla",
+  "formation": "4-3-3",
+  "players": [
+    {
+      "name": "Ricardo Tavarelli",
+      "position": "GK"
+    },
+    {
+      "name": "Aníbal Insfrán",
+      "position": "RB"
+    },
+    {
+      "name": "Ever Hugo Almeida",
+      "position": "CB"
+    },
+    {
+      "name": "Julio Melgarejo",
+      "position": "CB"
+    },
+    {
+      "name": "Zenón Zaldivar",
+      "position": "LB"
+    },
+    {
+      "name": "Clemente Rodríguez",
+      "position": "CDM"
+    },
+    {
+      "name": "Luis Martínez",
+      "position": "CM"
+    },
+    {
+      "name": "Alfredo Mendoza",
+      "position": "CM"
+    },
+    {
+      "name": "Raúl Vicente Amarilla",
+      "position": "RW"
+    },
+    {
+      "name": "Carlos León",
+      "position": "LW"
+    },
+    {
+      "name": "Eduardo Blanco",
+      "position": "ST"
+    },
+    {
+      "name": "Gabriel González",
+      "position": "GK"
+    },
+    {
+      "name": "Miguel Ángel Giménez",
+      "position": "CB"
+    },
+    {
+      "name": "Jorge da Silva",
+      "position": "CM"
+    },
+    {
+      "name": "Nicolás Cabrera",
+      "position": "ST"
+    }
+  ],
+  "explanation": "The 1979 Copa Libertadores final remains the crowning moment in Olimpia’s history—a match where the Paraguayan giants faced Boca Juniors on the biggest stage in South America. Under the masterful guidance of coach Luis Cubilla, this lineup was fielded in a 4-3-3 formation that perfectly balanced defensive solidity, midfield creativity, and attacking flair. Every one of these 15 players shared the field in that historic game, and their performances not only secured the trophy but also defined a golden era for the club, inspiring generations of Olimpia supporters and setting an enduring standard of excellence."
+}
