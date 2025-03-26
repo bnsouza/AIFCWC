@@ -1,7 +1,6 @@
 ## AI Generation Log: YokohamaFMarinos-ClubInfo
 
 - **Model:** gpt-4o-2024-08-06
-- **Response ID:** chatcmpl-BFH268h5mBSPL7yjuC5NcAQNqarvz
 - **Timestamp:** 2025-03-26T09:08:14.000Z
 
 ### System Prompt

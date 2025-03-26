@@ -1,7 +1,6 @@
 ## AI Generation Log: UniversidadDeChile-ClubInfo
 
 - **Model:** gpt-4o-2024-08-06
-- **Response ID:** chatcmpl-BFKroBtJ4h6wUPd343n7QChBPMx6e
 - **Timestamp:** 2025-03-26T13:13:52.000Z
 
 ### System Prompt

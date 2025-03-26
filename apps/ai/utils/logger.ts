@@ -11,12 +11,17 @@ export type AILogData = {
   prompt: string;
   result: any;
   response: {
-    id: string;
     model: string;
     timestamp: string;
-    body?: unknown;
-    headers?: Record<string, string>;
   };
+};
+
+export type AILogSafeData = {
+  task: string;
+  model: string;
+  system: string;
+  prompt: string;
+  result: any;
 };
 
 // ------------------------------------------------------------------------------------------------
@@ -32,12 +37,12 @@ export const logAIGeneration = async ({ task, system, prompt, result, response }
   const baseFileName = `${timestamp}-${task}`;
 
   // Prepare full log object
-  const fullLog = {
-    timestamp,
+  const fullLog: AILogSafeData = {
+    task,
+    model: response.model,
     system,
     prompt,
     result,
-    response,
   };
 
   // Save JSON log
@@ -48,7 +53,6 @@ export const logAIGeneration = async ({ task, system, prompt, result, response }
 ## AI Generation Log: ${task}
 
 - **Model:** ${response.model}
-- **Response ID:** ${response.id}
 - **Timestamp:** ${response.timestamp}
 
 ### System Prompt

@@ -1,7 +1,6 @@
 ## AI Generation Log: DynamoKyiv-ClubInfo
 
 - **Model:** gpt-4o-2024-08-06
-- **Response ID:** chatcmpl-BFF9qzpQ1RJ5DxVZ1GJjraHwnHASE
 - **Timestamp:** 2025-03-26T07:08:06.000Z
 
 ### System Prompt

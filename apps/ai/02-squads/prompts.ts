@@ -85,11 +85,8 @@ export const generateClubInfo = async (team: string, country: string, confederat
     prompt: userPrompt,
     result: result.object,
     response: {
-      id: result.response?.id ?? "unknown",
       model: result.response?.modelId ?? "unknown",
       timestamp: result.response?.timestamp?.toISOString() ?? new Date().toISOString(),
-      body: result.response?.body,
-      headers: result.response?.headers,
     },
   });
 
@@ -165,11 +162,8 @@ export const generateTeamSquad = async (team: string, country: string, confedera
     prompt: userPrompt,
     result: result.object,
     response: {
-      id: result.response?.id ?? "unknown",
       model: result.response?.modelId ?? "unknown",
       timestamp: result.response?.timestamp?.toISOString() ?? new Date().toISOString(),
-      body: result.response?.body,
-      headers: result.response?.headers,
     },
   });
 
@@ -222,11 +216,8 @@ export const generateCoach = async (year: number, team: string, name: string) =>
     prompt: userPrompt,
     result: result.object,
     response: {
-      id: result.response?.id ?? "unknown",
       model: result.response?.modelId ?? "unknown",
       timestamp: result.response?.timestamp?.toISOString() ?? new Date().toISOString(),
-      body: result.response?.body,
-      headers: result.response?.headers,
     },
   });
 
@@ -397,11 +388,8 @@ export const generatePlayer = async (year: number, team: string, name: string, p
     prompt: userPrompt,
     result: result.object,
     response: {
-      id: result.response?.id ?? "unknown",
       model: result.response?.modelId ?? "unknown",
       timestamp: result.response?.timestamp?.toISOString() ?? new Date().toISOString(),
-      body: result.response?.body,
-      headers: result.response?.headers,
     },
   });
 
@@ -456,11 +444,8 @@ export const generateTechnicalStaff = async (year: number, team: string) => {
     prompt: userPrompt,
     result: result.object,
     response: {
-      id: result.response?.id ?? "unknown",
       model: result.response?.modelId ?? "unknown",
       timestamp: result.response?.timestamp?.toISOString() ?? new Date().toISOString(),
-      body: result.response?.body,
-      headers: result.response?.headers,
     },
   });
 

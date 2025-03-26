@@ -63,11 +63,8 @@ export const generateClubsSelection = async () => {
     prompt: userPrompt,
     result: result.object.teams,
     response: {
-      id: result.response?.id ?? "unknown",
       model: result.response?.modelId ?? "unknown",
       timestamp: result.response?.timestamp?.toISOString() ?? new Date().toISOString(),
-      body: result.response?.body,
-      headers: result.response?.headers,
     },
   });
 

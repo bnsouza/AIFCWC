@@ -1,7 +1,6 @@
 ## AI Generation Log: Esperance-ClubInfo
 
 - **Model:** gpt-4o-2024-08-06
-- **Response ID:** chatcmpl-BFEGBnkJlNW2rhTvCTRmnfpYCjFWc
 - **Timestamp:** 2025-03-26T06:10:35.000Z
 
 ### System Prompt

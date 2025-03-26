@@ -1,7 +1,6 @@
 ## AI Generation Log: NottinghamForest-ClubInfo
 
 - **Model:** gpt-4o-2024-08-06
-- **Response ID:** chatcmpl-BFCMpcOvvMgRxIenTPiRF56VbGAxm
 - **Timestamp:** 2025-03-26T04:09:19.000Z
 
 ### System Prompt

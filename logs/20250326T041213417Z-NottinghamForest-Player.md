@@ -1,7 +1,6 @@
 ## AI Generation Log: NottinghamForest-Player
 
 - **Model:** o3-mini-2025-01-31
-- **Response ID:** chatcmpl-BFCPQy23iTWtYta8AK8CD2n0rWGl3
 - **Timestamp:** 2025-03-26T04:12:00.000Z
 
 ### System Prompt

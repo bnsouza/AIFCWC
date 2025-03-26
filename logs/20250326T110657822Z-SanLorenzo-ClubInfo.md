@@ -1,7 +1,6 @@
 ## AI Generation Log: SanLorenzo-ClubInfo
 
 - **Model:** gpt-4o-2024-08-06
-- **Response ID:** chatcmpl-BFIsy9dRUAUO4lG9RfBmBw7T8wa0M
 - **Timestamp:** 2025-03-26T11:06:56.000Z
 
 ### System Prompt
