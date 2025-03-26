@@ -1,0 +1,513 @@
+{
+  "year": 2018,
+  "coach": {
+    "name": "Nabil Maâloul",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 78,
+        "defensiveStrategy": 82,
+        "tacticalAdaptability": 80,
+        "pressing": 75,
+        "transitionPlay": 77
+      },
+      "management": {
+        "motivation": 85,
+        "lockerRoomManagement": 88,
+        "discipline": 90
+      },
+      "media": {
+        "mediaInteraction": 70,
+        "crisisManagement": 80
+      }
+    }
+  },
+  "formation": "4-3-3",
+  "players": [
+    {
+      "name": "Majdi Cherif",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 70,
+          "strength": 68,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 75,
+          "creativity": 55,
+          "aggressiveness": 60,
+          "teamwork": 72
+        },
+        "technical": {
+          "ballControl": 62,
+          "passing": 68,
+          "finishing": 20,
+          "heading": 55,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 82,
+          "oneOnOne": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Sami Ben Jemaa",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 85,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 78,
+          "finishing": 60,
+          "heading": 70,
+          "marking": 75
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 80,
+          "defensiveSupport": 75
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Zied Loulou",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 75,
+          "creativity": 60,
+          "aggressiveness": 72,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 68,
+          "passing": 72,
+          "finishing": 45,
+          "heading": 82,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 80,
+          "aerialDuels": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Nadim Saidi",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Ali Maâloul",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 84,
+          "strength": 70,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 82,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 83,
+          "passing": 80,
+          "finishing": 60,
+          "heading": 68,
+          "marking": 78
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 85,
+          "defensiveSupport": 75
+        },
+        "specialSkill": "SetPieceSpecialist"
+      }
+    },
+    {
+      "name": "Ahmed Akaichi",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 74,
+          "creativity": 65,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 83,
+          "tackling": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Ellyes Skhiri",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 82,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 80,
+          "distribution": 78
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Youssef Msakni",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 75,
+          "strength": 65,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 65,
+          "creativity": 85,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 87,
+          "passing": 82,
+          "finishing": 78,
+          "heading": 60,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 80,
+          "throughPassing": 83
+        },
+        "specialSkill": "FlairPlayer"
+      }
+    },
+    {
+      "name": "Mohamed Mrad",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 88,
+          "stamina": 75,
+          "strength": 68,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 60,
+          "creativity": 82,
+          "aggressiveness": 70,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 86,
+          "passing": 81,
+          "finishing": 76,
+          "heading": 60,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 88,
+          "keyPass": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Mourad Mrih",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 60,
+          "creativity": 82,
+          "aggressiveness": 65,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 78,
+          "finishing": 70,
+          "heading": 60,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 87,
+          "keyPass": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Anice Badri",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 76,
+          "strength": 78,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 75,
+          "teamwork": 72
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 70,
+          "finishing": 84,
+          "heading": 82,
+          "marking": 30
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 82,
+          "aerialDuels": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Ridha Dekhil",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 50,
+          "stamina": 70,
+          "strength": 65,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 15,
+          "heading": 30,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Anis Aouini",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 80,
+          "aerialDuels": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Taha Rabhi",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 73,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 77,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 80,
+          "distribution": 78
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Nabil Mghaieth",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 68,
+          "strength": 66,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 68,
+          "leadership": 60,
+          "creativity": 65,
+          "aggressiveness": 67,
+          "teamwork": 70
+        },
+        "technical": {
+          "ballControl": 72,
+          "passing": 68,
+          "finishing": 75,
+          "heading": 70,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 70,
+          "aerialDuels": 65
+        },
+        "specialSkill": "None"
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 85,
+    "staminaBoost": 80,
+    "injuryPrevention": 78,
+    "medicalResponse": 88
+  }
+}

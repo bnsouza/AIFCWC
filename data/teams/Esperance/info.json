@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1919-01-15",
+  "city": "Tunis",
+  "fullName": "Espérance Sportive de Tunis",
+  "shortName": "EST",
+  "stadium": {
+    "name": "Stade Olympique de Radès",
+    "capacity": 60000
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/esperancetunis",
+    "tiktok": "https://www.tiktok.com/@esperancetunis"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(255, 0, 0)",
+      "fontColor": "rgb(255, 255, 0)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 0, 0)"
+    },
+    "alternate": {
+      "bgColor": "rgb(0, 0, 0)",
+      "fontColor": "rgb(255, 255, 0)"
+    }
+  }
+}
