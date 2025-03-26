@@ -1,0 +1,513 @@
+{
+  "year": 1977,
+  "coach": {
+    "name": "Eddie Firmani",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 80,
+        "defensiveStrategy": 70,
+        "tacticalAdaptability": 75,
+        "pressing": 65,
+        "transitionPlay": 70
+      },
+      "management": {
+        "motivation": 85,
+        "lockerRoomManagement": 80,
+        "discipline": 78
+      },
+      "media": {
+        "mediaInteraction": 60,
+        "crisisManagement": 70
+      }
+    }
+  },
+  "formation": "4-3-3",
+  "players": [
+    {
+      "name": "Shep Messing",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 60,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 50,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 70,
+          "finishing": 20,
+          "heading": 30,
+          "marking": 35
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 88,
+          "oneOnOne": 85
+        },
+        "specialSkill": "AcrobaticKeeper"
+      }
+    },
+    {
+      "name": "Carlos Alberto Torres",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 88,
+          "creativity": 82,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 70,
+          "heading": 82,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 80,
+          "defensiveSupport": 90
+        },
+        "specialSkill": "Captain"
+      }
+    },
+    {
+      "name": "Franz Beckenbauer",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 74,
+          "stamina": 78,
+          "strength": 80,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 92,
+          "leadership": 94,
+          "creativity": 86,
+          "aggressiveness": 70,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 86,
+          "passing": 90,
+          "finishing": 60,
+          "heading": 85,
+          "marking": 92
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 94,
+          "aerialDuels": 88
+        },
+        "specialSkill": "CompleteDefender"
+      }
+    },
+    {
+      "name": "Werner Roth",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 60,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 65,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Jorge Mas",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 77,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 70,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 73,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 73,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 75,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Rick Davis",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 85,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 84,
+          "distribution": 83
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Carlos Metidieri",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 74,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 72,
+          "creativity": 82,
+          "aggressiveness": 68,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 84,
+          "passing": 88,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 88,
+          "distribution": 86
+        },
+        "specialSkill": "Playmaker"
+      }
+    },
+    {
+      "name": "Pelé",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 75,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 85,
+          "creativity": 95,
+          "aggressiveness": 60,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 95,
+          "passing": 93,
+          "finishing": 92,
+          "heading": 85,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 92,
+          "throughPassing": 90
+        },
+        "specialSkill": "Playmaker"
+      }
+    },
+    {
+      "name": "Giorgio Chinaglia",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 78,
+          "strength": 85,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 65,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 65,
+          "finishing": 90,
+          "heading": 85,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 90,
+          "aerialDuels": 85
+        },
+        "specialSkill": "GoalPoacher"
+      }
+    },
+    {
+      "name": "Jair da Costa",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 90,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 92,
+          "aggressiveness": 75,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 95,
+          "passing": 85,
+          "finishing": 80,
+          "heading": 65,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 96,
+          "keyPass": 88
+        },
+        "specialSkill": "DribblingMaestro"
+      }
+    },
+    {
+      "name": "Amarildo",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 60,
+          "creativity": 82,
+          "aggressiveness": 65,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 88,
+          "keyPass": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Antonio Alzamendi",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 80,
+          "finishing": 65,
+          "heading": 70,
+          "marking": 67
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 80,
+          "distribution": 78
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Adolfo Gori",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 78,
+          "creativity": 55,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 40,
+          "heading": 88,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Carlos Ruiz",
+      "position": "LM",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 70,
+          "creativity": 82,
+          "aggressiveness": 68,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 75,
+          "finishing": 68,
+          "heading": 60,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "LM",
+          "vision": 82,
+          "crossing": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Julio Morales",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 75,
+          "teamwork": 70
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 65,
+          "finishing": 85,
+          "heading": 80,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 85,
+          "aerialDuels": 80
+        },
+        "specialSkill": "None"
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 70,
+    "staminaBoost": 68,
+    "injuryPrevention": 62,
+    "medicalResponse": 58
+  }
+}

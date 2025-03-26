@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1970-12-10",
+  "city": "New York",
+  "fullName": "New York Cosmos",
+  "shortName": "NY Cosmos",
+  "stadium": {
+    "name": "Mitchel Athletic Complex",
+    "capacity": 10000
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/nycosmos",
+    "tiktok": "https://www.tiktok.com/@nycosmos"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(0, 51, 102)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 51, 102)"
+    },
+    "alternate": {
+      "bgColor": "rgb(0, 102, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}
