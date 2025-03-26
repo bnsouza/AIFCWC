@@ -1,0 +1,72 @@
+{
+  "year": 2014,
+  "coach": "Edgardo Bauza",
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "name": "Sebastián Torrico",
+      "position": "GK"
+    },
+    {
+      "name": "Ezequiel Miranda",
+      "position": "RB"
+    },
+    {
+      "name": "Diego González",
+      "position": "CB"
+    },
+    {
+      "name": "Bruno Rojas",
+      "position": "CB"
+    },
+    {
+      "name": "Nicolás Maná",
+      "position": "LB"
+    },
+    {
+      "name": "Néstor Ortigoza",
+      "position": "CDM"
+    },
+    {
+      "name": "Fernando Belluschi",
+      "position": "CDM"
+    },
+    {
+      "name": "Lucas Menossi",
+      "position": "RW"
+    },
+    {
+      "name": "Leandro Romagnoli",
+      "position": "CAM"
+    },
+    {
+      "name": "Mauro Matos",
+      "position": "LW"
+    },
+    {
+      "name": "Gonzalo Bergessio",
+      "position": "ST"
+    },
+    {
+      "name": "Agustín Gil",
+      "position": "GK"
+    },
+    {
+      "name": "Juan Rodríguez",
+      "position": "CB"
+    },
+    {
+      "name": "Walter Erviti",
+      "position": "CAM"
+    },
+    {
+      "name": "Lucas Crosa",
+      "position": "CM"
+    },
+    {
+      "name": "Martín Rodriguez",
+      "position": "ST"
+    }
+  ],
+  "explanation": "This historic lineup is taken from San Lorenzo’s most iconic match – the 2014 Copa Libertadores Final – when the club secured its first ever Libertadores title. Under the guidance of coach Edgardo Bauza and deployed in a 4-2-3-1 formation, the team featured a blend of experienced campaigners and creative playmakers. Key figures like Leandro Romagnoli, Fernando Belluschi, and Néstor Ortigoza combined with emerging talents such as Gonzalo Bergessio to perform at their peak on the biggest stage in CONMEBOL football, making this XI a symbol of pride and unity in the club’s storied history."
+}

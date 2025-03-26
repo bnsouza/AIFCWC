@@ -1,0 +1,28 @@
+{
+  "foundationDate": "April 1, 1908",
+  "city": "Buenos Aires",
+  "fullName": "Club Atlético San Lorenzo de Almagro",
+  "shortName": "San Lorenzo",
+  "stadium": {
+    "name": "Estadio Pedro Bidegain",
+    "capacity": 47964
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/sanlorenzo",
+    "tiktok": "https://www.tiktok.com/@sanlorenzo"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(0, 51, 153)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 51, 153)"
+    },
+    "alternate": {
+      "bgColor": "rgb(204, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}
