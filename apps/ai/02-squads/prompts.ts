@@ -358,6 +358,7 @@ export const generatePlayer = async (year: number, team: string, name: string, p
     "- `WingWizard`: A magician on the flanks, delivering dribbles, assists, and goals.\n" +
     "- `Wonderkid`: A young prodigy with immense potential to become world-class.\n\n" +
     "### Additional Considerations\n\n" +
+    "- If the player has no special skill, set it as ‘None’.\n" +
     "- Reflect stability in consistent players’ attributes.\n" +
     "- Assign a high Injury Prone attribute to frequently injured players.\n" +
     "- Indicate a decline for players past their prime in the given year.\n" +

@@ -139,6 +139,7 @@ export const PositionSpecificSchema = z.union([
 
 // Define special skills as a fixed set of known abilities
 export const SpecialSkillSchema = z.enum([
+  "None",
   "AcrobaticKeeper",
   "AerialDominance",
   "AgelessWonder",
@@ -229,7 +230,7 @@ export const PlayerSchema = z.object({
     mental: MentalSchema,
     technical: TechnicalSchema,
     positionSpecific: PositionSpecificSchema,
-    specialSkill: SpecialSkillSchema.optional(),
+    specialSkill: SpecialSkillSchema,
   }),
 });
 
