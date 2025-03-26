@@ -58,22 +58,13 @@ export const generateClubInfo = async (team: string, country: string, confederat
         instagram: z.string(),
         tiktok: z.string(),
       }),
-      colors: z.object({
-        home: z.object({
-          bgColor: z.string(),
-          fontColor: z.string(),
-        }),
-        away: z.object({
-          bgColor: z.string(),
-          fontColor: z.string(),
-        }),
-        alternate: z
-          .object({
-            bgColor: z.string(),
-            fontColor: z.string(),
-          })
-          .optional(),
-      }),
+      colors: z
+        .object({
+          home: z.object({ bgColor: z.string(), fontColor: z.string() }),
+          away: z.object({ bgColor: z.string(), fontColor: z.string() }),
+          alternate: z.object({ bgColor: z.string(), fontColor: z.string() }).optional(),
+        })
+        .strict(),
     }),
     prompt: userPrompt,
   });
