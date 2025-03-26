@@ -1,0 +1,28 @@
+{
+  "foundationDate": "May 14, 1899",
+  "city": "Montevideo",
+  "fullName": "Club Nacional de Football",
+  "shortName": "Nacional",
+  "stadium": {
+    "name": "Gran Parque Central",
+    "capacity": 34000
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/nacional/",
+    "tiktok": "https://www.tiktok.com/@nacional"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 0, 139)"
+    },
+    "away": {
+      "bgColor": "rgb(0, 0, 139)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}
