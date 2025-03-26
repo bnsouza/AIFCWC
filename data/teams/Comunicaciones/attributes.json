@@ -1,0 +1,513 @@
+{
+  "year": 2015,
+  "coach": {
+    "name": "Everardo 'El Pato' Ramírez",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 75,
+        "defensiveStrategy": 70,
+        "tacticalAdaptability": 80,
+        "pressing": 65,
+        "transitionPlay": 75
+      },
+      "management": {
+        "motivation": 85,
+        "lockerRoomManagement": 80,
+        "discipline": 78
+      },
+      "media": {
+        "mediaInteraction": 70,
+        "crisisManagement": 68
+      }
+    }
+  },
+  "formation": "4-3-3",
+  "players": [
+    {
+      "name": "Juan Carlos Paredes",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 70,
+          "strength": 65,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 50,
+          "aggressiveness": 55,
+          "teamwork": 70
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 60,
+          "finishing": 30,
+          "heading": 50,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Marco Antonio Flores",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 75,
+          "strength": 72,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 70,
+          "leadership": 60,
+          "creativity": 65,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 72,
+          "passing": 78,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 75,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Alejandro López",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 70,
+          "strength": 80,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 65,
+          "creativity": 55,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 60,
+          "finishing": 40,
+          "heading": 80,
+          "marking": 78
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 75,
+          "aerialDuels": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Víctor Maldonado",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 75,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 70,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 80,
+          "aerialDuels": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Bernardo Castañeda",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 70,
+          "leadership": 60,
+          "creativity": 65,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 72,
+          "passing": 70,
+          "finishing": 50,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 75,
+          "defensiveSupport": 70
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Miguel Aguilar",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 65,
+          "creativity": 60,
+          "aggressiveness": 72,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 45,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 78,
+          "tackling": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Sergio Rodríguez",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 65,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 80,
+          "finishing": 60,
+          "heading": 55,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 82,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "José Manuel Contreras",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 68,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 85,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 70,
+          "heading": 60,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 78,
+          "throughPassing": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "José Amílcar Flores",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 60,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 78,
+          "finishing": 70,
+          "heading": 50,
+          "marking": 45
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 88,
+          "keyPass": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Felipe Morales",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 78,
+          "strength": 62,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 82,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 83,
+          "passing": 78,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 87,
+          "keyPass": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Carlos Ruiz",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 80,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 70,
+          "finishing": 90,
+          "heading": 85,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 88,
+          "aerialDuels": 85
+        },
+        "specialSkill": "ClinicalFinisher"
+      }
+    },
+    {
+      "name": "Marvin López",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 55,
+          "stamina": 70,
+          "strength": 65,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 40,
+          "aggressiveness": 50,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 60,
+          "passing": 65,
+          "finishing": 30,
+          "heading": 50,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 80,
+          "oneOnOne": 75
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Ramón Gutiérrez",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 65,
+          "finishing": 50,
+          "heading": 80,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 82,
+          "aerialDuels": 84
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Guillermo Tovar",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 70,
+          "creativity": 77,
+          "aggressiveness": 68,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 76,
+          "passing": 78,
+          "finishing": 65,
+          "heading": 62,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 80,
+          "distribution": 78
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Elmer Rojas",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 50,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 78,
+          "finishing": 70,
+          "heading": 60,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 84,
+          "keyPass": 75
+        },
+        "specialSkill": "None"
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 78,
+    "staminaBoost": 74,
+    "injuryPrevention": 82,
+    "medicalResponse": 76
+  }
+}
