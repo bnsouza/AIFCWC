@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1945-09-20",
+  "city": "Tehran",
+  "fullName": "Esteghlal Football Club",
+  "shortName": "Esteghlal",
+  "stadium": {
+    "name": "Azadi Stadium",
+    "capacity": 78116
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/esteghlal.fc",
+    "tiktok": "https://www.tiktok.com/@esteghlal.fc"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(0, 51, 153)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 51, 153)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 204, 0)",
+      "fontColor": "rgb(0, 51, 153)"
+    }
+  }
+}
