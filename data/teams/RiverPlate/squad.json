@@ -1,0 +1,68 @@
+{
+  "year": 2018,
+  "coach": "Marcelo Gallardo",
+  "formation": "4-3-3",
+  "players": [
+    {
+      "name": "Franco Armani",
+      "position": "GK"
+    },
+    {
+      "name": "Gonzalo Montiel",
+      "position": "RB"
+    },
+    {
+      "name": "Javier Pinola",
+      "position": "CB"
+    },
+    {
+      "name": "Lucas Martínez-Quarta",
+      "position": "CB"
+    },
+    {
+      "name": "Milton Casco",
+      "position": "LB"
+    },
+    {
+      "name": "Leonardo Ponzio",
+      "position": "CDM"
+    },
+    {
+      "name": "Exequiel Palacios",
+      "position": "CM"
+    },
+    {
+      "name": "Matías Kranevitter",
+      "position": "CM"
+    },
+    {
+      "name": "Ignacio Fernández",
+      "position": "RW"
+    },
+    {
+      "name": "Gonzalo Martínez",
+      "position": "ST"
+    },
+    {
+      "name": "Julián Álvarez",
+      "position": "LW"
+    },
+    {
+      "name": "Juan Musso",
+      "position": "GK"
+    },
+    {
+      "name": "Enzo Pérez",
+      "position": "CM"
+    },
+    {
+      "name": "Lucas Pratto",
+      "position": "ST"
+    },
+    {
+      "name": "Leonardo Sigali",
+      "position": "CB"
+    }
+  ],
+  "explanation": "The chosen lineup is that of River Plate’s historic 2018 Copa Libertadores final – arguably the most significant game in the club’s history. In a dramatic showdown against arch‐rivals Boca Juniors (played on a neutral stage in Madrid), Marcelo Gallardo’s side fielded a 4-3-3 formation that epitomized both defensive solidity and attacking flair. Every player – from Franco Armani in goal to the dynamic forward pairing of Gonzalo Martínez and Julián Álvarez – contributed to a cohesive unit that, on that day, performed at its peak. The match not only secured River Plate’s fourth Libertadores title but also marked a defining moment in the club’s storied legacy. The substitutes listed (Juan Musso, Enzo Pérez, Lucas Pratto, and Leonardo Sigali) were part of the official matchday squad, underscoring the depth and quality available on that historic occasion."
+}

@@ -1,0 +1,28 @@
+{
+  "foundationDate": "May 25, 1901",
+  "city": "Buenos Aires",
+  "fullName": "Club Atlético River Plate",
+  "shortName": "River Plate",
+  "stadium": {
+    "name": "Estadio Monumental Antonio Vespucio Liberti",
+    "capacity": 83000
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/riverplate/",
+    "tiktok": "https://www.tiktok.com/@riverplate"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(204, 0, 0)"
+    },
+    "away": {
+      "bgColor": "rgb(0, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "alternate": {
+      "bgColor": "rgb(204, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}
