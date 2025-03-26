@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1888-11-06",
+  "city": "Glasgow",
+  "fullName": "The Celtic Football Club",
+  "shortName": "Celtic",
+  "stadium": {
+    "name": "Celtic Park",
+    "capacity": 60832
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/celticfc/",
+    "tiktok": "https://www.tiktok.com/@celticfc"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(0, 102, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 102, 0)"
+    },
+    "alternate": {
+      "bgColor": "rgb(0, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}
