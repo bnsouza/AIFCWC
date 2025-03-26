@@ -10,7 +10,7 @@ import { CoachSchema, PlayerSchema, TechnicalStaffSchema } from "./attributes.js
 
 // ------------------------------------------------------------------------------------------------
 
-const RequiredColorsSchema = z.object({
+const FullColorsSchema = z.object({
   home: z.object({
     bgColor: z.string(),
     fontColor: z.string(),
@@ -19,9 +19,6 @@ const RequiredColorsSchema = z.object({
     bgColor: z.string(),
     fontColor: z.string(),
   }),
-});
-
-const OptionalColorsSchema = z.object({
   alternate: z
     .object({
       bgColor: z.string(),
@@ -29,8 +26,6 @@ const OptionalColorsSchema = z.object({
     })
     .optional(),
 });
-
-const FullColorsSchema = RequiredColorsSchema.merge(OptionalColorsSchema).strict();
 
 // ------------------------------------------------------------------------------------------------
 // Generate club information based on the team, country, and confederation
