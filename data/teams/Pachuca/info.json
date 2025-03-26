@@ -1,0 +1,28 @@
+{
+  "foundationDate": "November 28, 1901",
+  "city": "Pachuca",
+  "fullName": "Club de Fútbol Pachuca",
+  "shortName": "Pachuca",
+  "stadium": {
+    "name": "Estadio Hidalgo",
+    "capacity": 30000
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/tuzosoficial/",
+    "tiktok": "https://www.tiktok.com/@tuzosoficial"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(0, 56, 168)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 56, 168)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}
