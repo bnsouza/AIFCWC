@@ -27,6 +27,9 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
+      - name: Set PNPM store path
+        run: pnpm config set store-dir .pnpm-store
+
       - name: Create .env file
         run: |
           echo "BASETEN_API_KEY=${{ secrets.BASETEN_API_KEY }}" >> .env

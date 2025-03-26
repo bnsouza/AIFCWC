@@ -5,80 +5,120 @@ import { z } from "zod";
 // ------------------------------------------------------------------------------------------------
 // Physical, Mental, and Technical attributes (common to all players)
 export const PhysicalSchema = z.object({
-  speed: z.number().min(0).max(100),
-  stamina: z.number().min(0).max(100),
-  strength: z.number().min(0).max(100),
-  injuryProne: z.number().min(0).max(100),
+  speed: z.number(),
+  // .min(0).max(100),
+  stamina: z.number(),
+  // .min(0).max(100),
+  strength: z.number(),
+  // .min(0).max(100),
+  injuryProne: z.number(),
+  // .min(0).max(100),
 });
 
 export const MentalSchema = z.object({
-  composure: z.number().min(0).max(100),
-  leadership: z.number().min(0).max(100),
-  creativity: z.number().min(0).max(100),
-  aggressiveness: z.number().min(0).max(100),
-  teamwork: z.number().min(0).max(100),
+  composure: z.number(),
+  // .min(0).max(100),
+  leadership: z.number(),
+  // .min(0).max(100),
+  creativity: z.number(),
+  // .min(0).max(100),
+  aggressiveness: z.number(),
+  // .min(0).max(100),
+  teamwork: z.number(),
+  // .min(0).max(100),
 });
 
 export const TechnicalSchema = z.object({
-  ballControl: z.number().min(0).max(100),
-  passing: z.number().min(0).max(100),
-  finishing: z.number().min(0).max(100),
-  heading: z.number().min(0).max(100),
-  marking: z.number().min(0).max(100),
+  ballControl: z.number(),
+  // .min(0).max(100),
+  passing: z.number(),
+  // .min(0).max(100),
+  finishing: z.number(),
+  // .min(0).max(100),
+  heading: z.number(),
+  // .min(0).max(100),
+  marking: z.number(),
+  // .min(0).max(100),
 });
 
 // Position-specific attributes (fixed for each position)
 export const PositionSpecificSchemaGK = z.object({
-  reflexes: z.number().min(0).max(100),
-  oneOnOne: z.number().min(0).max(100),
+  reflexes: z.number(),
+  // .min(0).max(100),
+  oneOnOne: z.number(),
+  // .min(0).max(100),
 });
 export const PositionSpecificSchemaCB = z.object({
-  positioning: z.number().min(0).max(100),
-  aerialDuels: z.number().min(0).max(100),
+  positioning: z.number(),
+  // .min(0).max(100),
+  aerialDuels: z.number(),
+  // .min(0).max(100),
 });
 export const PositionSpecificSchemaRB = z.object({
-  attackingSupport: z.number().min(0).max(100),
-  defensiveSupport: z.number().min(0).max(100),
+  attackingSupport: z.number(),
+  // .min(0).max(100),
+  defensiveSupport: z.number(),
+  // .min(0).max(100),
 });
 export const PositionSpecificSchemaLB = z.object({
-  attackingSupport: z.number().min(0).max(100),
-  defensiveSupport: z.number().min(0).max(100),
+  attackingSupport: z.number(),
+  // .min(0).max(100),
+  defensiveSupport: z.number(),
+  // .min(0).max(100),
 });
 export const PositionSpecificSchemaCDM = z.object({
-  interception: z.number().min(0).max(100),
-  tackling: z.number().min(0).max(100),
+  interception: z.number(),
+  // .min(0).max(100),
+  tackling: z.number(),
+  // .min(0).max(100),
 });
 export const PositionSpecificSchemaCM = z.object({
-  vision: z.number().min(0).max(100),
-  distribution: z.number().min(0).max(100),
+  vision: z.number(),
+  // .min(0).max(100),
+  distribution: z.number(),
+  // .min(0).max(100),
 });
 export const PositionSpecificSchemaRM = z.object({
-  vision: z.number().min(0).max(100),
-  crossing: z.number().min(0).max(100),
+  vision: z.number(),
+  // .min(0).max(100),
+  crossing: z.number(),
+  // .min(0).max(100),
 });
 export const PositionSpecificSchemaLM = z.object({
-  vision: z.number().min(0).max(100),
-  crossing: z.number().min(0).max(100),
+  vision: z.number(),
+  // .min(0).max(100),
+  crossing: z.number(),
+  // .min(0).max(100),
 });
 export const PositionSpecificSchemaCAM = z.object({
-  longShot: z.number().min(0).max(100),
-  throughPassing: z.number().min(0).max(100),
+  longShot: z.number(),
+  // .min(0).max(100),
+  throughPassing: z.number(),
+  // .min(0).max(100),
 });
 export const PositionSpecificSchemaRW = z.object({
-  dribbling: z.number().min(0).max(100),
-  keyPass: z.number().min(0).max(100),
+  dribbling: z.number(),
+  // .min(0).max(100),
+  keyPass: z.number(),
+  // .min(0).max(100),
 });
 export const PositionSpecificSchemaLW = z.object({
-  dribbling: z.number().min(0).max(100),
-  keyPass: z.number().min(0).max(100),
+  dribbling: z.number(),
+  // .min(0).max(100),
+  keyPass: z.number(),
+  // .min(0).max(100),
 });
 export const PositionSpecificSchemaST = z.object({
-  positioning: z.number().min(0).max(100),
-  aerialDuels: z.number().min(0).max(100),
+  positioning: z.number(),
+  // .min(0).max(100),
+  aerialDuels: z.number(),
+  // .min(0).max(100),
 });
 export const PositionSpecificSchemaCF = z.object({
-  offTheBallMovement: z.number().min(0).max(100),
-  combinationPlay: z.number().min(0).max(100),
+  offTheBallMovement: z.number(),
+  // .min(0).max(100),
+  combinationPlay: z.number(),
+  // .min(0).max(100),
 });
 
 export const PositionSpecificSchema = z.union([
@@ -199,20 +239,30 @@ export const CoachSchema = z.object({
   name: z.string(),
   attributes: z.object({
     tactical: z.object({
-      offensiveStrategy: z.number().min(0).max(100),
-      defensiveStrategy: z.number().min(0).max(100),
-      tacticalAdaptability: z.number().min(0).max(100),
-      pressing: z.number().min(0).max(100),
-      transitionPlay: z.number().min(0).max(100),
+      offensiveStrategy: z.number(),
+      // .min(0).max(100),
+      defensiveStrategy: z.number(),
+      // .min(0).max(100),
+      tacticalAdaptability: z.number(),
+      // .min(0).max(100),
+      pressing: z.number(),
+      // .min(0).max(100),
+      transitionPlay: z.number(),
+      // .min(0).max(100),
     }),
     management: z.object({
-      motivation: z.number().min(0).max(100),
-      lockerRoomManagement: z.number().min(0).max(100),
-      discipline: z.number().min(0).max(100),
+      motivation: z.number(),
+      // .min(0).max(100),
+      lockerRoomManagement: z.number(),
+      // .min(0).max(100),
+      discipline: z.number(),
+      // .min(0).max(100),
     }),
     media: z.object({
-      mediaInteraction: z.number().min(0).max(100),
-      crisisManagement: z.number().min(0).max(100),
+      mediaInteraction: z.number(),
+      // .min(0).max(100),
+      crisisManagement: z.number(),
+      // .min(0).max(100),
     }),
   }),
 });
@@ -220,10 +270,14 @@ export const CoachSchema = z.object({
 // ------------------------------------------------------------------------------------------------
 // Technical Staff Schema
 export const TechnicalStaffSchema = z.object({
-  fitnessRecovery: z.number().min(0).max(100),
-  staminaBoost: z.number().min(0).max(100),
-  injuryPrevention: z.number().min(0).max(100),
-  medicalResponse: z.number().min(0).max(100),
+  fitnessRecovery: z.number(),
+  // .min(0).max(100),
+  staminaBoost: z.number(),
+  // .min(0).max(100),
+  injuryPrevention: z.number(),
+  // .min(0).max(100),
+  medicalResponse: z.number(),
+  // .min(0).max(100),
 });
 
 // ------------------------------------------------------------------------------------------------

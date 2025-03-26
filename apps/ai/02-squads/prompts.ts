@@ -244,7 +244,7 @@ export const generatePlayer = async (year: number, team: string, name: string, p
     "on their club, year, and position, accurately reflecting their real-life playing style and " +
     "strengths. Ensure each player’s profile is rooted in historical records, statistics, and " +
     "expert football analysis. Each attribute should align with the player’s known abilities " +
-    "and be rated from 1 to 100.\n\n" +
+    "and must be rated from 1 to 100.\n\n" +
     "# Player Attributes\n\n" +
     "## General Attributes (All Players)\n\n" +
     "Players are categorized under three main attributes: Physical, Mental, and Technical.\n\n" +
