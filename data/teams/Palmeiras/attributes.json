@@ -1,0 +1,545 @@
+{
+  "year": 2021,
+  "coach": {
+    "name": "Abel Ferreira",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 80,
+        "defensiveStrategy": 92,
+        "tacticalAdaptability": 85,
+        "pressing": 78,
+        "transitionPlay": 82
+      },
+      "management": {
+        "motivation": 88,
+        "lockerRoomManagement": 90,
+        "discipline": 85
+      },
+      "media": {
+        "mediaInteraction": 80,
+        "crisisManagement": 88
+      }
+    }
+  },
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "name": "Weverton",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 55,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 75,
+          "creativity": 65,
+          "aggressiveness": 60,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 72,
+          "finishing": 50,
+          "heading": 60,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 90,
+          "oneOnOne": 88
+        },
+        "specialSkill": "GoldenGlove"
+      }
+    },
+    {
+      "name": "Marcos Rocha",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 65,
+          "aggressiveness": 78,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 78,
+          "finishing": 55,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 75,
+          "defensiveSupport": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Gustavo Gómez",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 75,
+          "creativity": 65,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 78,
+          "finishing": 50,
+          "heading": 90,
+          "marking": 87
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 88,
+          "aerialDuels": 90
+        },
+        "specialSkill": "AerialDominance"
+      }
+    },
+    {
+      "name": "Luan",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 75,
+          "strength": 82,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 82,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Mayke",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 78,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 75
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 80,
+          "defensiveSupport": 78
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Danilo",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 85,
+          "strength": 78,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 83,
+          "leadership": 70,
+          "creativity": 68,
+          "aggressiveness": 80,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 80,
+          "finishing": 50,
+          "heading": 67,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 82,
+          "tackling": 84
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Zé Rafael",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 76,
+          "stamina": 82,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 84,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 83,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Raphael Veiga",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 76,
+          "stamina": 82,
+          "strength": 68,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 88,
+          "aggressiveness": 60,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 86,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 85,
+          "throughPassing": 83
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Dudu",
+      "position": "LM",
+      "attributes": {
+        "physical": {
+          "speed": 88,
+          "stamina": 86,
+          "strength": 72,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 86,
+          "leadership": 78,
+          "creativity": 85,
+          "aggressiveness": 75,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 87,
+          "passing": 82,
+          "finishing": 80,
+          "heading": 68,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "LM",
+          "vision": 82,
+          "crossing": 87
+        },
+        "specialSkill": "WingWizard"
+      }
+    },
+    {
+      "name": "Rony",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 88,
+          "stamina": 83,
+          "strength": 72,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 84,
+          "aggressiveness": 70,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 86,
+          "passing": 81,
+          "finishing": 78,
+          "heading": 60,
+          "marking": 45
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 88,
+          "keyPass": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Luiz Adriano",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 70,
+          "strength": 80,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 60,
+          "creativity": 65,
+          "aggressiveness": 65,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 70,
+          "finishing": 85,
+          "heading": 80,
+          "marking": 30
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 85,
+          "aerialDuels": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Breno Lopes",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 78,
+          "strength": 80,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 70,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 75,
+          "finishing": 82,
+          "heading": 85,
+          "marking": 30
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 84,
+          "aerialDuels": 86
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Matías Viña",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 88,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 80,
+          "teamwork": 84
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 60,
+          "heading": 72,
+          "marking": 78
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 85,
+          "defensiveSupport": 78
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Patrick de Paula",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 82,
+          "strength": 72,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 72,
+          "creativity": 78,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 65,
+          "heading": 67,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 80,
+          "distribution": 78
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Gustavo Scarpa",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 68,
+          "injuryProne": 35
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 90,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 88,
+          "passing": 85,
+          "finishing": 70,
+          "heading": 60,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 80,
+          "throughPassing": 86
+        },
+        "specialSkill": "Playmaker"
+      }
+    },
+    {
+      "name": "Egídio",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 86,
+          "aerialDuels": 83
+        },
+        "specialSkill": "None"
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 86,
+    "staminaBoost": 82,
+    "injuryPrevention": 88,
+    "medicalResponse": 90
+  }
+}
