@@ -24,11 +24,11 @@ jobs:
           node-version: 20
           cache: "pnpm"
 
-      - name: Install dependencies
-        run: pnpm install
-
       - name: Set PNPM store path
         run: pnpm config set store-dir .pnpm-store
+
+      - name: Install dependencies
+        run: pnpm install
 
       - name: Create .env file
         run: |
