@@ -1,0 +1,513 @@
+{
+  "year": 1986,
+  "coach": {
+    "name": "Valeriy Lobanovskyi",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 85,
+        "defensiveStrategy": 90,
+        "tacticalAdaptability": 90,
+        "pressing": 95,
+        "transitionPlay": 87
+      },
+      "management": {
+        "motivation": 92,
+        "lockerRoomManagement": 88,
+        "discipline": 95
+      },
+      "media": {
+        "mediaInteraction": 80,
+        "crisisManagement": 90
+      }
+    }
+  },
+  "formation": "4-4-2",
+  "players": [
+    {
+      "name": "Viktor Chanov",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 55,
+          "stamina": 70,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 75,
+          "creativity": 50,
+          "aggressiveness": 65,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 60,
+          "passing": 65,
+          "finishing": 10,
+          "heading": 45,
+          "marking": 75
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 90,
+          "oneOnOne": 88
+        },
+        "specialSkill": "GoldenGlove"
+      }
+    },
+    {
+      "name": "Vasyl Rats",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 75,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 75
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 70,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Anatoliy Demyanenko",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 85,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 85,
+          "creativity": 70,
+          "aggressiveness": 80,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 80,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 90,
+          "aerialDuels": 88
+        },
+        "specialSkill": "CompleteDefender"
+      }
+    },
+    {
+      "name": "Serhiy Zaytsev",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 60,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 40,
+          "heading": 90,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 90
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Vitaliy Kosovsky",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 65,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 80,
+          "finishing": 50,
+          "heading": 70,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 70,
+          "defensiveSupport": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Oleh Kuznetsov",
+      "position": "RM",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 80,
+          "strength": 72,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 84,
+          "leadership": 75,
+          "creativity": 87,
+          "aggressiveness": 70,
+          "teamwork": 83
+        },
+        "technical": {
+          "ballControl": 86,
+          "passing": 83,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 66
+        },
+        "positionSpecific": {
+          "positionType": "RM",
+          "vision": 83,
+          "crossing": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Ivan Hetsko",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 78,
+          "aggressiveness": 72,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 84,
+          "finishing": 65,
+          "heading": 68,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 83
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Yuriy Hudymenko",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 85,
+          "strength": 78,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 80,
+          "creativity": 85,
+          "aggressiveness": 75,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 88,
+          "finishing": 70,
+          "heading": 75,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 90,
+          "distribution": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Igor Belanov",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 90,
+          "stamina": 82,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 90,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 92,
+          "passing": 80,
+          "finishing": 80,
+          "heading": 65,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 93,
+          "keyPass": 85
+        },
+        "specialSkill": "DribblingMaestro"
+      }
+    },
+    {
+      "name": "Oleh Blokhin",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 70,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 85,
+          "creativity": 87,
+          "aggressiveness": 80,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 75,
+          "finishing": 92,
+          "heading": 85,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 90,
+          "aerialDuels": 85
+        },
+        "specialSkill": "ClinicalFinisher"
+      }
+    },
+    {
+      "name": "Vladimir Bessonov",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 78,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 82,
+          "aggressiveness": 80,
+          "teamwork": 83
+        },
+        "technical": {
+          "ballControl": 83,
+          "passing": 78,
+          "finishing": 85,
+          "heading": 80,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 88,
+          "aerialDuels": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Serhiy Zolotnyuk",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 50,
+          "heading": 80,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Viktor Hryshko",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 85,
+          "strength": 80,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 65,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 60,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 80,
+          "tackling": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Oleksandr Zavarov",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 70,
+          "creativity": 85,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 86,
+          "finishing": 75,
+          "heading": 68,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 80,
+          "throughPassing": 86
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Vladimir Muntyan",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 82,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 87,
+    "staminaBoost": 90,
+    "injuryPrevention": 85,
+    "medicalResponse": 75
+  }
+}

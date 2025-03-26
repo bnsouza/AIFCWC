@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1927-05-13",
+  "city": "Kyiv",
+  "fullName": "Football Club Dynamo Kyiv",
+  "shortName": "Dynamo Kyiv",
+  "stadium": {
+    "name": "NSC Olimpiyskiy",
+    "capacity": 70050
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/fc_dynamo_kyiv/",
+    "tiktok": "https://www.tiktok.com/@fcdynamokyiv"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(0, 51, 153)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 51, 153)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 204, 0)",
+      "fontColor": "rgb(0, 0, 0)"
+    }
+  }
+}
