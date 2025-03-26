@@ -9,30 +9,6 @@ import { z } from "zod";
 import { CoachSchema, PlayerSchema, TechnicalStaffSchema } from "./attributes.js";
 
 // ------------------------------------------------------------------------------------------------
-
-const RequiredColorsSchema = z.object({
-  home: z.object({
-    bgColor: z.string(),
-    fontColor: z.string(),
-  }),
-  away: z.object({
-    bgColor: z.string(),
-    fontColor: z.string(),
-  }),
-});
-
-const OptionalColorsSchema = z
-  .object({
-    alternate: z.object({
-      bgColor: z.string(),
-      fontColor: z.string(),
-    }),
-  })
-  .partial();
-
-const FullColorsSchema = RequiredColorsSchema.merge(OptionalColorsSchema);
-
-// ------------------------------------------------------------------------------------------------
 // Generate club information based on the team, country, and confederation
 export const generateClubInfo = async (team: string, country: string, confederation: string) => {
   // System Prompt: Specifies the behavior of the model
@@ -67,7 +43,7 @@ export const generateClubInfo = async (team: string, country: string, confederat
 
   // Generate the object
   const result = await generateObject({
-    model: openai("o3-mini"),
+    model: openai("gpt-4o"),
     system: systemPrompt,
     schema: z.object({
       foundationDate: z.string(),
@@ -82,7 +58,22 @@ export const generateClubInfo = async (team: string, country: string, confederat
         instagram: z.string(),
         tiktok: z.string(),
       }),
-      colors: FullColorsSchema,
+      colors: z.object({
+        home: z.object({
+          bgColor: z.string(),
+          fontColor: z.string(),
+        }),
+        away: z.object({
+          bgColor: z.string(),
+          fontColor: z.string(),
+        }),
+        alternate: z
+          .object({
+            bgColor: z.string(),
+            fontColor: z.string(),
+          })
+          .optional(),
+      }),
     }),
     prompt: userPrompt,
   });
