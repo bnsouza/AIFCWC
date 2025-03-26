@@ -1,0 +1,513 @@
+{
+  "year": 1995,
+  "coach": {
+    "name": "Louis van Gaal",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 85,
+        "defensiveStrategy": 80,
+        "tacticalAdaptability": 90,
+        "pressing": 70,
+        "transitionPlay": 85
+      },
+      "management": {
+        "motivation": 80,
+        "lockerRoomManagement": 75,
+        "discipline": 90
+      },
+      "media": {
+        "mediaInteraction": 70,
+        "crisisManagement": 80
+      }
+    }
+  },
+  "formation": "3-5-2",
+  "players": [
+    {
+      "name": "Edwin van der Sar",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 55,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 80,
+          "creativity": 65,
+          "aggressiveness": 50,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 75,
+          "finishing": 30,
+          "heading": 70,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 88,
+          "oneOnOne": 85
+        },
+        "specialSkill": "GoldenGlove"
+      }
+    },
+    {
+      "name": "Danny Blind",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 90,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 50,
+          "heading": 82,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 90,
+          "aerialDuels": 88
+        },
+        "specialSkill": "Captain"
+      }
+    },
+    {
+      "name": "Frank de Boer",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 82,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 85,
+          "creativity": 70,
+          "aggressiveness": 80,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 90,
+          "aerialDuels": 88
+        },
+        "specialSkill": "DefensiveGeneral"
+      }
+    },
+    {
+      "name": "Michael Reiziger",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 60,
+          "heading": 82,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 90,
+          "aerialDuels": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Winston Bogarde",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 85,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 70,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 40,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 78,
+          "defensiveSupport": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Marc Overmars",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 93,
+          "stamina": 85,
+          "strength": 65,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 86,
+          "leadership": 70,
+          "creativity": 92,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 85,
+          "finishing": 75,
+          "heading": 60,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 93,
+          "keyPass": 85
+        },
+        "specialSkill": "Speedster"
+      }
+    },
+    {
+      "name": "Edgar Davids",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 88,
+          "strength": 80,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 85,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 83,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 86,
+          "tackling": 88
+        },
+        "specialSkill": "TacklingMachine"
+      }
+    },
+    {
+      "name": "Ronald de Boer",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 85,
+          "strength": 70,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 85,
+          "aggressiveness": 65,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 88,
+          "finishing": 70,
+          "heading": 60,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 88,
+          "distribution": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Clarence Seedorf",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 85,
+          "strength": 78,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 85,
+          "creativity": 88,
+          "aggressiveness": 70,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 88,
+          "finishing": 70,
+          "heading": 72,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 90,
+          "distribution": 88
+        },
+        "specialSkill": "Playmaker"
+      }
+    },
+    {
+      "name": "Jari Litmanen",
+      "position": "CF",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 85,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 75,
+          "creativity": 92,
+          "aggressiveness": 60,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 92,
+          "passing": 90,
+          "finishing": 85,
+          "heading": 75,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "CF",
+          "offTheBallMovement": 88,
+          "combinationPlay": 90
+        },
+        "specialSkill": "Visionary"
+      }
+    },
+    {
+      "name": "Patrick Kluivert",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 86,
+          "stamina": 83,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 87,
+          "passing": 80,
+          "finishing": 90,
+          "heading": 78,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 92,
+          "aerialDuels": 76
+        },
+        "specialSkill": "GoalPoacher"
+      }
+    },
+    {
+      "name": "Nwankwo Kanu",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 76,
+          "strength": 70,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 85,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 75,
+          "heading": 65,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 80,
+          "aerialDuels": 70
+        },
+        "specialSkill": "DribblingMaestro"
+      }
+    },
+    {
+      "name": "Richard Witschge",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 85,
+          "aggressiveness": 65,
+          "teamwork": 87
+        },
+        "technical": {
+          "ballControl": 86,
+          "passing": 88,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 87
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Wim Jonk",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 72,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 75,
+          "creativity": 83,
+          "aggressiveness": 68,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 84,
+          "passing": 88,
+          "finishing": 65,
+          "heading": 70,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 87,
+          "distribution": 85
+        },
+        "specialSkill": "DeepLyingPlaymaker"
+      }
+    },
+    {
+      "name": "Sonny Silooy",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 78,
+          "strength": 80,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 84,
+          "leadership": 80,
+          "creativity": 65,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 78,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 88,
+          "aerialDuels": 84
+        },
+        "specialSkill": "None"
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 85,
+    "staminaBoost": 88,
+    "injuryPrevention": 82,
+    "medicalResponse": 78
+  }
+}
