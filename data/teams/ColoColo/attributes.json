@@ -1,0 +1,513 @@
+{
+  "year": 1991,
+  "coach": {
+    "name": "Mirko Jozić",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 75,
+        "defensiveStrategy": 80,
+        "tacticalAdaptability": 70,
+        "pressing": 65,
+        "transitionPlay": 70
+      },
+      "management": {
+        "motivation": 85,
+        "lockerRoomManagement": 80,
+        "discipline": 85
+      },
+      "media": {
+        "mediaInteraction": 60,
+        "crisisManagement": 65
+      }
+    }
+  },
+  "formation": "4-3-1-2",
+  "players": [
+    {
+      "name": "Roberto Rojas",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 50,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 60,
+          "finishing": 25,
+          "heading": 50,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Patricio Yáñez",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 80,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 78
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 80,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Mauricio Echeverría",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 68,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 88,
+          "aerialDuels": 90
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Cristian Muñoz",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 70,
+          "creativity": 60,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 70,
+          "finishing": 55,
+          "heading": 82,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 78,
+          "aerialDuels": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Claudio Sáez",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 68,
+          "creativity": 70,
+          "aggressiveness": 72,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 74,
+          "passing": 78,
+          "finishing": 55,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 75,
+          "defensiveSupport": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Eduardo Berizzo",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 70,
+          "creativity": 65,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 50,
+          "heading": 62,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 80,
+          "tackling": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Marcelo Vega",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 85,
+          "aggressiveness": 70,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 88,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 88
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "José Luis Sierra",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 80,
+          "strength": 74,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 78,
+          "creativity": 76,
+          "aggressiveness": 70,
+          "teamwork": 84
+        },
+        "technical": {
+          "ballControl": 79,
+          "passing": 83,
+          "finishing": 62,
+          "heading": 66,
+          "marking": 64
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 81
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Jorge Contreras",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 65,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 88,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 87,
+          "passing": 90,
+          "finishing": 70,
+          "heading": 60,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 80,
+          "throughPassing": 88
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Ivo Basay",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 70,
+          "leadership": 60,
+          "creativity": 68,
+          "aggressiveness": 75,
+          "teamwork": 65
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 85,
+          "heading": 80,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 80,
+          "aerialDuels": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Leonel Herrera",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 60,
+          "creativity": 70,
+          "aggressiveness": 65,
+          "teamwork": 70
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 70,
+          "finishing": 85,
+          "heading": 80,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 88,
+          "aerialDuels": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "José Soto",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 70,
+          "strength": 65,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 60,
+          "finishing": 30,
+          "heading": 40,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 83
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Fernando Astengo",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 78,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 90
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Ricardo González",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 78,
+          "creativity": 80,
+          "aggressiveness": 72,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 83,
+          "passing": 87,
+          "finishing": 68,
+          "heading": 70,
+          "marking": 72
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 84
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Arturo Carrasco",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 72,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 75,
+          "finishing": 88,
+          "heading": 82,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 85,
+          "aerialDuels": 80
+        },
+        "specialSkill": "None"
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 68,
+    "staminaBoost": 72,
+    "injuryPrevention": 63,
+    "medicalResponse": 66
+  }
+}
