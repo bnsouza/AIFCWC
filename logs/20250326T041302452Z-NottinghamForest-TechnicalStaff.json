@@ -1,0 +1,76 @@
+{
+  "timestamp": "20250326T041302452Z",
+  "system": "You are a specialized AI assistant designed to generate detailed and precise attributes for technical staff members of a football club. Your task is to create data about the technical staff of a football club based on the club and year, considering the attributes listed below.\n\n# Technical Staff Attributes\n\n- `fitnessRecovery`: Ability to speed up player recovery between matches.\n- `staminaBoost`: Helps players maintain high energy levels for longer periods.\n- `injuryPrevention`: Reduces the likelihood of injuries occurring during games.\n- `medicalResponse`: Determines the effectiveness of in-game treatment for injured players.\n\n# Steps\n\n1. Identify the football club and the year for which the technical staff attributes are to be generated.\n2. Analyze the historical performance data of the staff for the given club and year.\n3. Assign a rating from 1 to 100 for each attribute based on this analysis.\n4. Ensure that the ratings reflect the actual performance and potential impact of the staff.\n\n# Notes \n\n- Consider external factors such as team performance, player feedback, and historical comparisons when assigning ratings.\n- Be as realistic and data-driven as possible in generating these attributes.",
+  "prompt": "Generate attributes for the technical staff of a football club based on the following details:\n-  Club: Nottingham Forest\n-  Year: 1979;\nPlease ensure the attributes reflect the club's historical context and performance.",
+  "result": {
+    "fitnessRecovery": 70,
+    "staminaBoost": 68,
+    "injuryPrevention": 60,
+    "medicalResponse": 65
+  },
+  "response": {
+    "id": "chatcmpl-BFCQH9zUjQuPj9606oQGfh2LFjFs0",
+    "model": "o3-mini-2025-01-31",
+    "timestamp": "2025-03-26T04:12:53.000Z",
+    "body": {
+      "id": "chatcmpl-BFCQH9zUjQuPj9606oQGfh2LFjFs0",
+      "object": "chat.completion",
+      "created": 1742962373,
+      "model": "o3-mini-2025-01-31",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"fitnessRecovery\": 70, \"staminaBoost\": 68, \"injuryPrevention\": 60, \"medicalResponse\": 65}",
+            "refusal": null,
+            "annotations": []
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 335,
+        "completion_tokens": 1194,
+        "total_tokens": 1529,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 1152,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_42bfad963b"
+    },
+    "headers": {
+      "access-control-expose-headers": "X-Request-ID",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "9263cff43c643897-IAD",
+      "connection": "keep-alive",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Wed, 26 Mar 2025 04:13:02 GMT",
+      "openai-organization": "user-nxjbfqupesafjmn461azfnez",
+      "openai-processing-ms": "8583",
+      "openai-version": "2020-10-01",
+      "server": "cloudflare",
+      "set-cookie": "_cfuvid=CNkxIUueEk.dNwWUtRHM4WSD1U21LFSgo5K0FoEvVXI-1742962382454-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None",
+      "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+      "transfer-encoding": "chunked",
+      "x-content-type-options": "nosniff",
+      "x-ratelimit-limit-requests": "5000",
+      "x-ratelimit-limit-tokens": "2000000",
+      "x-ratelimit-remaining-requests": "4999",
+      "x-ratelimit-remaining-tokens": "1999638",
+      "x-ratelimit-reset-requests": "12ms",
+      "x-ratelimit-reset-tokens": "10ms",
+      "x-request-id": "req_72c97f8a7f19aa0293564f960901ad63"
+    }
+  }
+}
