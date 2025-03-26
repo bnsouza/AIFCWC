@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1956-04-08",
+  "city": "Tashkent",
+  "fullName": "Pakhtakor Tashkent FK",
+  "shortName": "Pakhtakor",
+  "stadium": {
+    "name": "Pakhtakor Markaziy Stadium",
+    "capacity": 35000
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/pakhtakor_fc",
+    "tiktok": "https://www.tiktok.com/@pakhtakor_fc"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(0, 0, 139)",
+      "fontColor": "rgb(255, 255, 0)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 0, 139)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 215, 0)",
+      "fontColor": "rgb(0, 0, 139)"
+    }
+  }
+}

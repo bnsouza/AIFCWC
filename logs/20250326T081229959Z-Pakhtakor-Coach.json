@@ -1,0 +1,91 @@
+{
+  "timestamp": "20250326T081229959Z",
+  "system": "You are a specialized AI assistant designed to generate detailed and precise attributes for football coaches. Coaches define the tactical identity and management style of a team. Each attribute is rated from 1 to 100.\n\n# Coach Attributes\n\n## Tactical Attributes\n\n- `offensiveStrategy`: Ability to set up attacking plays.\n- `defensiveStrategy`: Skill in organizing a solid defense.\n- `tacticalAdaptability`: Ability to adjust the team’s strategy during a match.\n- `pressing`: Level of intensity in applying pressure on the opponent.\n- `transitionPlay`: Effectiveness in switching between attack and defense.\n\n## Squad Management\n\n- `motivation`: Ability to inspire and push players to perform better.\n- `lockerRoomManagement`: Skill in managing egos and maintaining team harmony.\n- `discipline`: Enforcing order and keeping players focused.\n\n## Media Handling\n\n- `mediaInteraction`: Ability to handle press conferences and interviews.\n- `crisisManagement`: Keeping composure during difficult situations.",
+  "prompt": "Generate attributes for a football coach based on the following details:\n-  Coach Name: Murod Ismoilov\n-  Club: Pakhtakor\n-  Year: 2019",
+  "result": {
+    "name": "Murod Ismoilov",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 80,
+        "defensiveStrategy": 75,
+        "tacticalAdaptability": 85,
+        "pressing": 70,
+        "transitionPlay": 75
+      },
+      "management": {
+        "motivation": 90,
+        "lockerRoomManagement": 85,
+        "discipline": 88
+      },
+      "media": {
+        "mediaInteraction": 80,
+        "crisisManagement": 82
+      }
+    }
+  },
+  "response": {
+    "id": "chatcmpl-BFGA645D2UitWdpPaIwAsjWKRylqt",
+    "model": "o3-mini-2025-01-31",
+    "timestamp": "2025-03-26T08:12:26.000Z",
+    "body": {
+      "id": "chatcmpl-BFGA645D2UitWdpPaIwAsjWKRylqt",
+      "object": "chat.completion",
+      "created": 1742976746,
+      "model": "o3-mini-2025-01-31",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"name\": \"Murod Ismoilov\",\n  \"attributes\": {\n    \"tactical\": {\n      \"offensiveStrategy\": 80,\n      \"defensiveStrategy\": 75,\n      \"tacticalAdaptability\": 85,\n      \"pressing\": 70,\n      \"transitionPlay\": 75\n    },\n    \"management\": {\n      \"motivation\": 90,\n      \"lockerRoomManagement\": 85,\n      \"discipline\": 88\n    },\n    \"media\": {\n      \"mediaInteraction\": 80,\n      \"crisisManagement\": 82\n    }\n  }\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 393,
+        "completion_tokens": 460,
+        "total_tokens": 853,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 320,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_617f206dd9"
+    },
+    "headers": {
+      "access-control-expose-headers": "X-Request-ID",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "cf-cache-status": "DYNAMIC",
+      "cf-ray": "92652ed63df22317-ORD",
+      "connection": "keep-alive",
+      "content-encoding": "br",
+      "content-type": "application/json",
+      "date": "Wed, 26 Mar 2025 08:12:29 GMT",
+      "openai-organization": "user-nxjbfqupesafjmn461azfnez",
+      "openai-processing-ms": "3930",
+      "openai-version": "2020-10-01",
+      "server": "cloudflare",
+      "set-cookie": "_cfuvid=lYvMkS9I4C3YAq8c0Xv2kIEwEV0mgIs5BZSlD2POZNU-1742976749953-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None",
+      "strict-transport-security": "max-age=31536000; includeSubDomains; preload",
+      "transfer-encoding": "chunked",
+      "x-content-type-options": "nosniff",
+      "x-ratelimit-limit-requests": "5000",
+      "x-ratelimit-limit-tokens": "2000000",
+      "x-ratelimit-remaining-requests": "4999",
+      "x-ratelimit-remaining-tokens": "1999711",
+      "x-ratelimit-reset-requests": "12ms",
+      "x-ratelimit-reset-tokens": "8ms",
+      "x-request-id": "req_6babf47e0b056015ab06e41f67d2dc52"
+    }
+  }
+}
