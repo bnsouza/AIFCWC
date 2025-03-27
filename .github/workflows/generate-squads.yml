@@ -46,7 +46,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add logs/ data/ || true
+          git add logs/ packages/data/ || true
           if ! git diff --cached --quiet; then
             git commit -m "chore: update generated squads on $(date -u +"%Y-%m-%d %H:%M:%S")"
             git push
