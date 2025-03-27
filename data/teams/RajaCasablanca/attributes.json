@@ -1,0 +1,545 @@
+{
+  "year": 1997,
+  "coach": {
+    "name": "Fathi Jamal",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 78,
+        "defensiveStrategy": 74,
+        "tacticalAdaptability": 82,
+        "pressing": 70,
+        "transitionPlay": 76
+      },
+      "management": {
+        "motivation": 85,
+        "lockerRoomManagement": 80,
+        "discipline": 83
+      },
+      "media": {
+        "mediaInteraction": 68,
+        "crisisManagement": 72
+      }
+    }
+  },
+  "formation": "4-3-3",
+  "players": [
+    {
+      "name": "Badou Zaki",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 65,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 85,
+          "creativity": 40,
+          "aggressiveness": 50,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 60,
+          "passing": 55,
+          "finishing": 10,
+          "heading": 50,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "GoldenGlove"
+      }
+    },
+    {
+      "name": "Abdelqadir Ouariti",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 70,
+          "creativity": 68,
+          "aggressiveness": 75,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 78,
+          "finishing": 60,
+          "heading": 70,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 78,
+          "defensiveSupport": 84
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Abdellatif Ouahb",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 75,
+          "strength": 82,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 72,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 65,
+          "finishing": 40,
+          "heading": 84,
+          "marking": 82
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 80,
+          "aerialDuels": 86
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Abdelkader Alami",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 62,
+          "stamina": 70,
+          "strength": 78,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 55,
+          "aggressiveness": 72,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 65,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 82
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 80,
+          "aerialDuels": 86
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Abdesslam Achchab",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 72,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 74,
+          "finishing": 55,
+          "heading": 70,
+          "marking": 78
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 74,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Abdelmajid Dolmy",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 82,
+          "aggressiveness": 70,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 88,
+          "passing": 85,
+          "finishing": 65,
+          "heading": 70,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 88,
+          "distribution": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Mohamed Tarchoune",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 78,
+          "strength": 74,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 65,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 83,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 83
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Badr El Kassis",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 82,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 76,
+          "finishing": 50,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 83,
+          "tackling": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Mustapha Hadji",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 90,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 88,
+          "passing": 82,
+          "finishing": 75,
+          "heading": 60,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 88,
+          "keyPass": 85
+        },
+        "specialSkill": "DribblingMaestro"
+      }
+    },
+    {
+      "name": "Abdeljalil Hadda",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 60,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 88,
+          "keyPass": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Mohamed Timoumi",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 85,
+          "aggressiveness": 65,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 75,
+          "finishing": 85,
+          "heading": 70,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 90,
+          "aerialDuels": 75
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Mohamed Amine",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 45,
+          "aggressiveness": 60,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 60,
+          "passing": 65,
+          "finishing": 10,
+          "heading": 50,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Khalid Fouad",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 70,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 88,
+          "aerialDuels": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Younes Chikhi",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 78,
+          "strength": 68,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 85,
+          "finishing": 65,
+          "heading": 60,
+          "marking": 62
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 86,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Soufiane El Massi",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 65,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 70,
+          "finishing": 88,
+          "heading": 75,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 85,
+          "aerialDuels": 70
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Tarik Doukali",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 90,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 88,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 82,
+          "throughPassing": 87
+        },
+        "specialSkill": "None"
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 70,
+    "staminaBoost": 68,
+    "injuryPrevention": 65,
+    "medicalResponse": 72
+  }
+}
