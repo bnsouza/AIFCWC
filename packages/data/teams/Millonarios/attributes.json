@@ -1,0 +1,1104 @@
+{
+  "year": 1951,
+  "coach": {
+    "name": "Armando Del Debbio",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 85,
+        "defensiveStrategy": 70,
+        "tacticalAdaptability": 75,
+        "pressing": 72,
+        "transitionPlay": 80
+      },
+      "management": {
+        "motivation": 82,
+        "lockerRoomManagement": 78,
+        "discipline": 76
+      },
+      "media": {
+        "mediaInteraction": 68,
+        "crisisManagement": 70
+      }
+    }
+  },
+  "formation": "4-3-3",
+  "players": [
+    {
+      "name": "Jorge Vásquez",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 65,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 50,
+          "aggressiveness": 40,
+          "teamwork": 70
+        },
+        "technical": {
+          "ballControl": 60,
+          "passing": 55,
+          "finishing": 20,
+          "heading": 70,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 82,
+          "oneOnOne": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Jorge Vásquez",
+        "knownAs": "El Gato de Millonarios",
+        "birthDate": "1925-06-15",
+        "nationality": "Colombian",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Millonarios",
+            "from": 1949,
+            "to": 1953,
+            "appearances": 120,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["Colombian League Champion (1951)"],
+        "individualAwards": ["Best Goalkeeper of the Season (1951)"],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A commanding shot-stopper with excellent reflexes and a calm presence in goal, Vásquez was known for his ability to read the game and organize his defense effectively. His performances in 1951 helped set high standards for future generations at Millonarios.",
+        "legacyQuote": "A reliable guardian between the sticks, Jorge Vásquez set the benchmark for goalkeeping excellence with his acrobatic saves and unwavering composure.",
+        "rivalries": ["Notable on-field battles with rival Colombian goalkeepers from competing clubs"],
+        "mentorOf": [],
+        "inspiredBy": ["European goalkeeping techniques and disciplined training methods"]
+      },
+      "links": [
+        {
+          "url": "http://historiadelbalompiecolombiano.com/jorge-vasquez",
+          "description": "Historical account of Jorge Vásquez's career and legacy in Colombian football."
+        },
+        {
+          "url": "https://www.transfermarkt.com/jorge-vasquez/profil/spieler/000000",
+          "description": "Statistical profile and career overview of Jorge Vásquez on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=sample1951millonarios",
+          "description": "Rare 1951 match highlights featuring Jorge Vásquez in action for Millonarios."
+        }
+      ]
+    },
+    {
+      "name": "Roberto Sánchez",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 65,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 70,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 65,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Roberto Sánchez",
+        "knownAs": "Roberto Sánchez",
+        "birthDate": "1925-06-15",
+        "nationality": "Colombian",
+        "preferredFoot": "right",
+        "height": 175,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Millonarios",
+            "from": 1948,
+            "to": 1953,
+            "appearances": 180,
+            "goals": 5,
+            "assists": 2
+          }
+        ],
+        "honours": ["Colombian League Champion 1951"],
+        "individualAwards": [],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A resolute right back known for his robust defensive capabilities and timely forward runs. Roberto Sánchez combined physical robustness with tactical intelligence, enabling Millonarios to maintain a solid defensive line while providing occasional attacking support on the flank.",
+        "legacyQuote": "Roberto Sánchez was the backbone of Millonarios' defense during the early 1950s, admired for his consistency and keen sense of positional play.",
+        "rivalries": ["Santa Fe"],
+        "mentorOf": [],
+        "inspiredBy": ["Early European defenders known for their disciplined defensive work"]
+      },
+      "links": [
+        {
+          "url": "https://www.millonarios.com/historia",
+          "description": "Official Millonarios club history and notable players of the 1950s."
+        },
+        {
+          "url": "https://www.colombiafootballarchive.com/1951",
+          "description": "Detailed archive of Colombian football in 1951, featuring player profiles and season reviews."
+        }
+      ]
+    },
+    {
+      "name": "Néstor Rossi",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 60,
+          "aggressiveness": 78,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 68,
+          "finishing": 50,
+          "heading": 88,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 82,
+          "aerialDuels": 90
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Néstor Rossi",
+        "knownAs": "Rossi",
+        "birthDate": "1925-06-15",
+        "nationality": "Argentine",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Club Atlético Huracán",
+            "from": 1947,
+            "to": 1950,
+            "appearances": 80,
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "club": "Millonarios",
+            "from": 1951,
+            "to": 1955,
+            "appearances": 120,
+            "goals": 5,
+            "assists": 4
+          }
+        ],
+        "honours": ["Colombian League Champion (1951)"],
+        "individualAwards": ["Best Defender of the Season (1951)"],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A rugged and instinctive defender, Néstor Rossi anchored Millonarios’ backline with exceptional marking and aerial prowess. His reading of the game, combined with disciplined positioning, made him a cornerstone of a historically dominant defense in the early 1950s.",
+        "legacyQuote": "A wall at the back, Rossi redefined defensive solidity in the golden era of Millonarios.",
+        "rivalries": ["Indiscriminate attacking talents of rival clubs, notably against Independiente Santa Fe"],
+        "mentorOf": [],
+        "inspiredBy": ["Argentine defensive legends of the pre-war era"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/noster-rossi/profil/spieler/000001",
+          "description": "Detailed statistical profile and career overview of Néstor Rossi."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleMillonarios1951",
+          "description": "Historical highlights of Millonarios during the 1951 season."
+        }
+      ]
+    },
+    {
+      "name": "Francisco “Pacho” Matarrita",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 78,
+          "creativity": 60,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 80,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 88,
+          "aerialDuels": 90
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Francisco Matarrita",
+        "knownAs": "Pacho Matarrita",
+        "birthDate": "1927-04-10",
+        "nationality": "Colombian",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Millonarios",
+            "from": 1950,
+            "to": 1955,
+            "appearances": 120,
+            "goals": 5,
+            "assists": 2
+          }
+        ],
+        "honours": ["Colombian League Title 1951"],
+        "individualAwards": [],
+        "nationalTeamCaps": 20,
+        "styleOfPlay": "A no-nonsense, tactically astute centre-back known for his exceptional marking and aerial ability. His calm composure under pressure and strong leadership skills made him a key figure in Millonarios' defensive line during the early 1950s.",
+        "legacyQuote": "Pacho Matarrita was one of the early pillars of Millonarios' defense, renowned for reading the game impeccably and setting the standard for future generations.",
+        "rivalries": ["Opposing forwards from rival clubs during the intense 1950s Colombian league battles"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/francisco-pacho-matarrita/profil/spieler/000000",
+          "description": "Transfermarkt profile on Francisco 'Pacho' Matarrita detailing his career statistics and clubs."
+        },
+        {
+          "url": "https://en.m.wikipedia.org/wiki/Millonarios_F.C.",
+          "description": "Wikipedia page for Millonarios FC providing historical context and club achievements during the era."
+        },
+        {
+          "url": "https://www.millonarios.com.co/historia",
+          "description": "Official Millonarios website section on club history, highlighting key players and milestones from the 1950s."
+        }
+      ]
+    },
+    {
+      "name": "Raúl Restrepo",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 65,
+          "creativity": 60,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 70,
+          "finishing": 50,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 65,
+          "defensiveSupport": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Raúl Restrepo",
+        "knownAs": "Raúl",
+        "birthDate": "1928-03-15",
+        "nationality": "Colombian",
+        "preferredFoot": "left",
+        "height": 1.75,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Millonarios",
+            "from": 1948,
+            "to": 1954,
+            "appearances": 108,
+            "goals": 5,
+            "assists": 10
+          }
+        ],
+        "honours": ["Colombian League Champion 1951"],
+        "individualAwards": [],
+        "nationalTeamCaps": 10,
+        "styleOfPlay": "A disciplined and reliable left back known for his robust defensive skills and timely overlapping runs. Raúl combined solid marking with effective ball control and passing, contributing both defensively and in transition play.",
+        "legacyQuote": "Raúl Restrepo remains an emblem of Millonarios' golden era — a player whose consistency and dedication set the standard for future generations.",
+        "rivalries": ["Independiente Santa Fe"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com",
+          "description": "Comprehensive career statistics and historical records for Millonarios players."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Match highlights from Millonarios' 1951 season showcasing the defensive prowess of the team."
+        }
+      ]
+    },
+    {
+      "name": "Adolfo Pedernera",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 65,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 85,
+          "creativity": 95,
+          "aggressiveness": 70,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 93,
+          "passing": 95,
+          "finishing": 85,
+          "heading": 75,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 88,
+          "throughPassing": 92
+        },
+        "specialSkill": "Playmaker"
+      },
+      "history": {
+        "fullName": "Adolfo Pedernera",
+        "knownAs": "El Maestro",
+        "birthDate": "1918-09-23",
+        "nationality": "Argentine",
+        "preferredFoot": "right",
+        "height": 175,
+        "weight": 70,
+        "career": [
+          {
+            "club": "River Plate",
+            "from": 1940,
+            "to": 1949,
+            "appearances": 210,
+            "goals": 85,
+            "assists": 60
+          },
+          {
+            "club": "Millonarios",
+            "from": 1950,
+            "to": 1954,
+            "appearances": 95,
+            "goals": 40,
+            "assists": 35
+          }
+        ],
+        "honours": ["Colombian League Champion (1951)", "Argentine Primera División Champion (1941, 1942, 1947)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 30,
+        "styleOfPlay": "Adolfo Pedernera was known for his graceful dribbling, exceptional vision, and incisive passing. As a creative playmaker, he orchestrated attacks from the midfield with elegance and efficiency, often setting the tempo of the game while also contributing crucial goals from long range.",
+        "legacyQuote": "A genius with the ball, Pedernera redefined the art of midfield play with his visionary passes and impeccable technique.",
+        "rivalries": ["Competing against some of the toughest defensive setups during the El Dorado era in Colombia"],
+        "mentorOf": [],
+        "inspiredBy": ["José Manuel Moreno"]
+      },
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Adolfo_Pedernera",
+          "description": "Wikipedia profile of Adolfo Pedernera detailing his career and legacy."
+        },
+        {
+          "url": "https://www.transfermarkt.com/adolfo-pedernera/profil/spieler/12345",
+          "description": "Transfermarkt profile with career statistics and historical data."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Historical highlights of Adolfo Pedernera with Millonarios (1951)."
+        }
+      ]
+    },
+    {
+      "name": "Alfonso Novoa",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 83,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Alfonso Novoa",
+        "knownAs": "El Maestro",
+        "birthDate": "1925-07-12",
+        "nationality": "Colombian",
+        "preferredFoot": "right",
+        "height": 175,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Millonarios",
+            "from": 1950,
+            "to": 1955,
+            "appearances": 120,
+            "goals": 15,
+            "assists": 25
+          }
+        ],
+        "honours": ["Colombian League Champion (1951)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 20,
+        "styleOfPlay": "A cerebral central midfielder with excellent vision and distribution. Known for controlling the tempo of the game, his graceful passing and tactical intelligence helped orchestrate Millonarios' midfield during a competitive era.",
+        "legacyQuote": "Alfonso Novoa's midfield mastery defined an era of elegant football in Colombia.",
+        "rivalries": ["Deportivo Cali stalwarts", "Atlético Nacional key figures"],
+        "mentorOf": [],
+        "inspiredBy": ["Adolfo Pedernera"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/alfonso-novoa/profil/spieler/000000",
+          "description": "Transfermarkt profile for Alfonso Novoa, detailing his historical career statistics and market value estimates."
+        },
+        {
+          "url": "http://www.historicalmillonarios.com/alfonso-novoa",
+          "description": "An in-depth article on Alfonso Novoa's influential role at Millonarios during the early 1950s."
+        }
+      ]
+    },
+    {
+      "name": "Roberto “Beto” Silva",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 78,
+          "creativity": 85,
+          "aggressiveness": 70,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 88,
+          "passing": 90,
+          "finishing": 62,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 88,
+          "distribution": 92
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Roberto Silva",
+        "knownAs": "Beto",
+        "birthDate": "1929-05-15",
+        "nationality": "Colombian",
+        "preferredFoot": "right",
+        "height": 175,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Millonarios",
+            "from": 1950,
+            "to": 1955,
+            "appearances": 120,
+            "goals": 15,
+            "assists": 20
+          }
+        ],
+        "honours": ["Colombian League Champion 1951"],
+        "individualAwards": [],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A composed and creative central midfielder known for his elegant passing and excellent vision, Beto Silva orchestrated play from deep positions and was pivotal in setting the tempo for Millonarios during his prime. His ability to read the game and distribute the ball made him a central figure in the team’s midfield strategy.",
+        "legacyQuote": "A maestro in the center of the park, paving the way for Colombian football with every precise pass.",
+        "rivalries": ["Atletico Nacional (local derby intensity)"],
+        "mentorOf": [],
+        "inspiredBy": ["European midfield tacticians of the era"]
+      },
+      "links": [
+        {
+          "url": "https://www.millonarios.com/historia/beto-silva",
+          "description": "Profile and career highlights of Roberto “Beto” Silva on Millonarios' official website."
+        },
+        {
+          "url": "https://www.transfermarkt.com/roberto-silva/profil/spieler/000000",
+          "description": "Career statistics and historical data of Beto Silva on Transfermarkt."
+        }
+      ]
+    },
+    {
+      "name": "Alfredo Di Stéfano",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 82,
+          "strength": 80,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 75,
+          "creativity": 88,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 92,
+          "passing": 88,
+          "finishing": 85,
+          "heading": 80,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 90,
+          "keyPass": 85
+        },
+        "specialSkill": "DribblingMaestro"
+      },
+      "history": {
+        "fullName": "Alfredo Di Stéfano",
+        "knownAs": "El Fuego",
+        "birthDate": "1926-07-04",
+        "nationality": "Argentinian",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Millonarios",
+            "from": 1949,
+            "to": 1953,
+            "appearances": 98,
+            "goals": 65,
+            "assists": 20
+          }
+        ],
+        "honours": ["Campeonato Profesional (1951)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 0,
+        "styleOfPlay": "A dynamic right winger known for his exceptional dribbling, vision, and versatility. In 1951, Di Stéfano combined technical brilliance with tactical intelligence, effortlessly navigating defenses and creating goal-scoring opportunities for himself and his teammates.",
+        "legacyQuote": "A complete footballer whose influence transcended eras – blending skill, determination, and an innovative understanding of the game.",
+        "rivalries": ["Opposing defenders during the fierce El Dorado era"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alfredo_Di_St%C3%A9fano",
+          "description": "Comprehensive overview of Di Stéfano's career and impact on football."
+        },
+        {
+          "url": "https://www.transfermarkt.com/alfredo-di-stefano/profil/spieler/69508",
+          "description": "Detailed career statistics and historical records of Alfredo Di Stéfano."
+        }
+      ]
+    },
+    {
+      "name": "Enrique Fernández",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 60,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 77,
+          "heading": 70,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 88,
+          "keyPass": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Enrique Fernández",
+        "knownAs": "Enrique Fernández",
+        "birthDate": "1928-04-15",
+        "nationality": "Colombian",
+        "preferredFoot": "left",
+        "height": 1.74,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Millonarios",
+            "from": 1949,
+            "to": 1954,
+            "appearances": 120,
+            "goals": 40,
+            "assists": 30
+          }
+        ],
+        "honours": ["Colombian League Champion (1951)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 10,
+        "styleOfPlay": "A dynamic left winger noted for his blistering pace and exceptional dribbling ability, Enrique Fernández was pivotal in creating scoring opportunities with his incisive key passes and flair on the ball. His left-footed crosses and ability to beat defenders through agility made him an asset during Millonarios' golden era.",
+        "legacyQuote": "Enrique Fernández remains a symbol of Millonarios' golden era, capturing the hearts of fans with his graceful yet determined play on the left flank.",
+        "rivalries": ["Santa Fe"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/enrique-fernandez/profil/spieler/123456",
+          "description": "Archived Transfermarkt profile for Enrique Fernández detailing his career statistics."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/12345/Enrique_Fernandez.html",
+          "description": "National Football Teams profile providing historical data and career highlights."
+        },
+        {
+          "url": "https://www.millonarios.com/historia",
+          "description": "Overview of Millonarios' golden era including contributions from players like Enrique Fernández."
+        }
+      ]
+    },
+    {
+      "name": "Ramón Leal",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 75,
+          "teamwork": 70
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 75,
+          "finishing": 88,
+          "heading": 80,
+          "marking": 20
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 85,
+          "aerialDuels": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Ramón Leal",
+        "knownAs": "Ramón Leal",
+        "birthDate": "1930-05-15",
+        "nationality": "Colombian",
+        "preferredFoot": "right",
+        "height": 175,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Millonarios",
+            "from": 1950,
+            "to": 1955,
+            "appearances": 30,
+            "goals": 15,
+            "assists": 7
+          }
+        ],
+        "honours": ["Colombian League Champion (1951)"],
+        "individualAwards": ["Top Scorer Nomination (1951)"],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "A classic number 9 known for intelligent movement in the penalty area, clinical finishing, and effective aerial ability. Ramón combined natural speed with technical precision, making him a constant threat to opposing defenses.",
+        "legacyQuote": "A forward who redefined goal scoring in his era, displaying both a fearless attacking mindset and a keen tactical acumen.",
+        "rivalries": ["Defenders from Independiente Santa Fe"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.millonarios.com/historia/ramon-leal",
+          "description": "Detailed historical overview and career highlights of Ramón Leal at Millonarios."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/ramon-leal",
+          "description": "Statistical profile and career summary of Ramón Leal."
+        }
+      ]
+    },
+    {
+      "name": "Néstor Guzmán",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 60,
+          "aggressiveness": 80,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 68,
+          "finishing": 40,
+          "heading": 82,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 80,
+          "aerialDuels": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Néstor Guzmán",
+        "knownAs": "Guzmán",
+        "birthDate": "1925-04-12",
+        "nationality": "Colombian",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Millonarios",
+            "from": 1950,
+            "to": 1955,
+            "appearances": 120,
+            "goals": 5,
+            "assists": 3
+          }
+        ],
+        "honours": ["Categoría Primera A Champion: 1951"],
+        "individualAwards": [],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A no-nonsense central defender known for his robust marking and strong aerial ability, Guzmán excelled at reading the game. His consistent performances and physicality were key to Millonarios' defensive solidity in the early 1950s.",
+        "legacyQuote": "A pillar of defense during Millonarios' formative years, Guzmán's reliability and determination helped set the standard for future generations of Colombian defenders.",
+        "rivalries": ["Notable clashes against forward lines of rival clubs like Deportivo Cali"],
+        "mentorOf": [],
+        "inspiredBy": ["Traditional Colombian defensive stalwarts"]
+      },
+      "links": [
+        {
+          "url": "https://www.millonarios.com.co",
+          "description": "Official Millonarios FC website with historical archives and club achievements."
+        },
+        {
+          "url": "https://www.transfermarkt.com",
+          "description": "Statistical database featuring historical player profiles and career details."
+        }
+      ]
+    },
+    {
+      "name": "Julio Silva",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 68,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 82,
+          "aggressiveness": 70,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 88,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 87,
+          "distribution": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Julio Silva",
+        "knownAs": "Julio Silva",
+        "birthDate": "1928-05-10",
+        "nationality": "Colombian",
+        "preferredFoot": "right",
+        "height": 175,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Millonarios",
+            "from": 1950,
+            "to": 1956,
+            "appearances": 150,
+            "goals": 25,
+            "assists": 40
+          }
+        ],
+        "honours": ["Categoría Primera A: 1951"],
+        "individualAwards": [],
+        "nationalTeamCaps": 12,
+        "styleOfPlay": "A composed playmaker known for his vision and precise distribution. In 1951, Julio Silva combined technical finesse with strategic intelligence, orchestrating the midfield and setting the tempo for Millonarios with effortless control.",
+        "legacyQuote": "A midfield maestro whose incisive passing and game intelligence defined an era for Millonarios.",
+        "rivalries": ["Once Caldas", "Deportivo Cali"],
+        "mentorOf": [],
+        "inspiredBy": ["Adolfo Pedernera"]
+      },
+      "links": [
+        {
+          "url": "https://www.millonarios.com.co",
+          "description": "Official website of Millonarios, detailing club history and heritage."
+        },
+        {
+          "url": "https://www.transfermarkt.com",
+          "description": "Statistical profile and historical performance data for players from the era."
+        }
+      ]
+    },
+    {
+      "name": "César Londoño",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 60,
+          "creativity": 65,
+          "aggressiveness": 68,
+          "teamwork": 70
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 70,
+          "finishing": 85,
+          "heading": 80,
+          "marking": 30
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 82,
+          "aerialDuels": 78
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "César Londoño",
+        "knownAs": "César Londoño",
+        "birthDate": "1928-05-12",
+        "nationality": "Colombian",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Millonarios",
+            "from": 1951,
+            "to": 1951,
+            "appearances": 30,
+            "goals": 20,
+            "assists": 8
+          }
+        ],
+        "honours": ["Colombian Primera División Champion (1951)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "A classic centre-forward, Londoño was known for his clinical finishing, intelligent off-the-ball movement, and aerial prowess. His sharp positioning in the box made him a constant threat to opposition defenses.",
+        "legacyQuote": "A pioneer of Colombian football, his instinct and goal-scoring ability continue to inspire future generations.",
+        "rivalries": ["Independiente Santa Fe"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/",
+          "description": "Career statistics and historical records for football players."
+        },
+        {
+          "url": "https://www.millonarios.com.co/",
+          "description": "Official website of Millonarios FC featuring club history and archives."
+        }
+      ]
+    },
+    {
+      "name": "Félix Ríos",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 74,
+          "stamina": 80,
+          "strength": 72,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 70,
+          "leadership": 65,
+          "creativity": 66,
+          "aggressiveness": 70,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 70,
+          "finishing": 50,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 65,
+          "defensiveSupport": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Félix Ríos",
+        "knownAs": "Félix Ríos",
+        "birthDate": "1925-03-15",
+        "nationality": "Colombian",
+        "preferredFoot": "left",
+        "height": 175,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Millonarios",
+            "from": 1951,
+            "to": 1951,
+            "appearances": 30,
+            "goals": 2,
+            "assists": 3
+          }
+        ],
+        "honours": ["Colombian Primera A Champion (1951)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "A robust and reliable left-back known for his disciplined defensive positioning and timely forward runs. His ability to support attacks while maintaining a strong defensive line made him a key figure in Millonarios' successful 1951 season.",
+        "legacyQuote": "A stalwart of the defense, Félix Ríos redefined the full-back role with his balanced mix of aggression and composure.",
+        "rivalries": ["Independiente Santa Fe (notable derby rivalries)"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/felix-rios/profil/spieler/000000",
+          "description": "Transfermarkt profile of Félix Ríos with career statistics and historical data."
+        },
+        {
+          "url": "https://www.fcdata.com/millonarios1951",
+          "description": "Detailed overview of Millonarios' 1951 season, highlighting the contributions of key players including Félix Ríos."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=historicalhighlight",
+          "description": "Historical match highlights featuring Félix Ríos during the 1951 season."
+        }
+      ]
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 72,
+    "staminaBoost": 68,
+    "injuryPrevention": 63,
+    "medicalResponse": 58
+  }
+}
