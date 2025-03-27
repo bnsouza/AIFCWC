@@ -6,7 +6,7 @@
     "country": "Spain",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Spain’s most decorated club, famous for their record European titles."
+    "explanation": "Record holders of the European Cup/UEFA Champions League, with a storied global legacy."
   },
   {
     "rank": 2,
@@ -15,439 +15,439 @@
     "country": "Spain",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Iconic Catalan club known for its La Masia academy and multiple Champions League trophies."
+    "explanation": "Renowned for its attacking philosophy and La Masia academy; multiple Champions League titles."
   },
   {
     "rank": 3,
-    "fullName": "Manchester United Football Club",
-    "shortName": "Manchester United",
-    "country": "England",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "One of England’s most successful clubs with a rich history under Sir Alex Ferguson."
-  },
-  {
-    "rank": 4,
-    "fullName": "Liverpool Football Club",
-    "shortName": "Liverpool",
-    "country": "England",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "English powerhouse with multiple European Cup/Champions League titles."
-  },
-  {
-    "rank": 5,
-    "fullName": "FC Bayern München",
-    "shortName": "Bayern Munich",
-    "country": "Germany",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Germany’s most dominant club, boasting numerous Bundesliga and European titles."
-  },
-  {
-    "rank": 6,
     "fullName": "Associazione Calcio Milan",
     "shortName": "AC Milan",
     "country": "Italy",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Historic Italian club with a strong European Cup/Champions League pedigree."
+    "explanation": "Among Europe's most decorated clubs; seven-time European Cup/Champions League winners."
+  },
+  {
+    "rank": 4,
+    "fullName": "Fußball-Club Bayern München e.V.",
+    "shortName": "FC Bayern Munich",
+    "country": "Germany",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Germany’s most successful club; multiple European and world titles."
+  },
+  {
+    "rank": 5,
+    "fullName": "Liverpool Football Club",
+    "shortName": "Liverpool",
+    "country": "England",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "One of England’s most historically successful teams; six-time European champions."
+  },
+  {
+    "rank": 6,
+    "fullName": "Manchester United Football Club",
+    "shortName": "Manchester United",
+    "country": "England",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Iconic English club with a global following; multiple Premier League and European titles."
   },
   {
     "rank": 7,
-    "fullName": "Football Club Internazionale Milano",
-    "shortName": "Inter",
-    "country": "Italy",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Italian giants, one of the most successful clubs in Serie A and Europe."
-  },
-  {
-    "rank": 8,
     "fullName": "Juventus Football Club",
     "shortName": "Juventus",
     "country": "Italy",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Turin-based club, the most successful team in Italian Serie A history."
+    "explanation": "Italy’s most successful club; known for domestic dominance and European pedigree."
+  },
+  {
+    "rank": 8,
+    "fullName": "Football Club Internazionale Milano",
+    "shortName": "Inter Milan",
+    "country": "Italy",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "One of Italy’s greatest clubs; multiple Serie A and Champions League victories."
   },
   {
     "rank": 9,
-    "fullName": "Chelsea Football Club",
-    "shortName": "Chelsea",
-    "country": "England",
+    "fullName": "Amsterdamsche Football Club Ajax",
+    "shortName": "AFC Ajax",
+    "country": "Netherlands",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "London-based club that has risen to prominence in the Premier League era."
+    "explanation": "Famed for its youth academy and Total Football; four-time European champions."
   },
   {
     "rank": 10,
-    "fullName": "Arsenal Football Club",
-    "shortName": "Arsenal",
-    "country": "England",
+    "fullName": "Sport Lisboa e Benfica",
+    "shortName": "SL Benfica",
+    "country": "Portugal",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "North London powerhouse, famous for its 'Invincibles' season and European pedigree."
+    "explanation": "Portugal’s most successful club; back-to-back European Cup wins in the early 1960s."
   },
   {
     "rank": 11,
-    "fullName": "Manchester City Football Club",
-    "shortName": "Manchester City",
-    "country": "England",
+    "fullName": "Futebol Clube do Porto",
+    "shortName": "FC Porto",
+    "country": "Portugal",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Revitalized by new ownership, has accrued multiple Premier League titles."
+    "explanation": "Multiple European titles, including Champions League and Europa League triumphs."
   },
   {
     "rank": 12,
-    "fullName": "Tottenham Hotspur Football Club",
-    "shortName": "Tottenham",
-    "country": "England",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Storied London club with domestic success and strong European performances."
-  },
-  {
-    "rank": 13,
-    "fullName": "Amsterdamsche Football Club Ajax",
-    "shortName": "Ajax",
-    "country": "Netherlands",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Dutch titan renowned for its youth academy and multiple European Cups."
-  },
-  {
-    "rank": 14,
-    "fullName": "Philips Sport Vereniging Eindhoven",
-    "shortName": "PSV",
-    "country": "Netherlands",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Constant presence in top Dutch football, winners of multiple Eredivisie titles."
-  },
-  {
-    "rank": 15,
-    "fullName": "Feyenoord Rotterdam",
-    "shortName": "Feyenoord",
-    "country": "Netherlands",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Historic Dutch club with continental success and strong fanbase in Rotterdam."
-  },
-  {
-    "rank": 16,
-    "fullName": "Futebol Clube do Porto",
-    "shortName": "Porto",
-    "country": "Portugal",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "One of Portugal’s 'Big Three,' famous for European success, including Champions League wins."
-  },
-  {
-    "rank": 17,
-    "fullName": "Sport Lisboa e Benfica",
-    "shortName": "Benfica",
-    "country": "Portugal",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Lisbon-based Portuguese giant with extensive domestic and continental success."
-  },
-  {
-    "rank": 18,
     "fullName": "Sporting Clube de Portugal",
     "shortName": "Sporting CP",
     "country": "Portugal",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Iconic Lisbon club, recognized for its youth academy producing global stars."
+    "explanation": "Historically significant in Portugal; famous for developing world-class talent."
   },
   {
-    "rank": 19,
-    "fullName": "Celtic Football Club",
-    "shortName": "Celtic",
-    "country": "Scotland",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Legendary Scottish club, first British side to win the European Cup (1967)."
-  },
-  {
-    "rank": 20,
-    "fullName": "Rangers Football Club",
-    "shortName": "Rangers",
-    "country": "Scotland",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Glasgow-based giant, one of the most successful clubs in Scottish football."
-  },
-  {
-    "rank": 21,
-    "fullName": "Olympique de Marseille",
-    "shortName": "Marseille",
-    "country": "France",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "French club with a passionate fanbase, only French side to win the Champions League."
-  },
-  {
-    "rank": 22,
-    "fullName": "Paris Saint-Germain Football Club",
-    "shortName": "Paris Saint-Germain",
-    "country": "France",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Paris-based club transformed by strong investment, dominating Ligue 1 in recent years."
-  },
-  {
-    "rank": 23,
-    "fullName": "Olympique Lyonnais",
-    "shortName": "Lyon",
-    "country": "France",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Dominated French football in the 2000s, exceptionally strong youth academy."
-  },
-  {
-    "rank": 24,
-    "fullName": "Association Sportive de Monaco Football Club",
-    "shortName": "Monaco",
-    "country": "Monaco",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Principality-based club with notable runs in European competitions."
-  },
-  {
-    "rank": 25,
+    "rank": 13,
     "fullName": "Ballspielverein Borussia 09 e.V. Dortmund",
     "shortName": "Borussia Dortmund",
     "country": "Germany",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "German club admired for passionate fanbase and a Champions League title."
+    "explanation": "Renowned for passionate fans; Champions League winners in 1997."
+  },
+  {
+    "rank": 14,
+    "fullName": "Paris Saint-Germain Football Club",
+    "shortName": "Paris Saint-Germain",
+    "country": "France",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "France’s dominant force in recent years; growing European presence."
+  },
+  {
+    "rank": 15,
+    "fullName": "Olympique de Marseille",
+    "shortName": "Marseille",
+    "country": "France",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "First and only French club to win the Champions League (1993)."
+  },
+  {
+    "rank": 16,
+    "fullName": "Olympique Lyonnais",
+    "shortName": "Lyon",
+    "country": "France",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Dominated French football in the 2000s; strong European runs."
+  },
+  {
+    "rank": 17,
+    "fullName": "Chelsea Football Club",
+    "shortName": "Chelsea",
+    "country": "England",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Multiple Premier League and Champions League titles; global brand."
+  },
+  {
+    "rank": 18,
+    "fullName": "Arsenal Football Club",
+    "shortName": "Arsenal",
+    "country": "England",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Historic London club with a large global fanbase; Invincibles of 2003–04."
+  },
+  {
+    "rank": 19,
+    "fullName": "Tottenham Hotspur Football Club",
+    "shortName": "Tottenham Hotspur",
+    "country": "England",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "One of England’s traditional powerhouses; notable European campaigns."
+  },
+  {
+    "rank": 20,
+    "fullName": "Manchester City Football Club",
+    "shortName": "Manchester City",
+    "country": "England",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Risen to prominence in the 21st century; multiple Premier League titles and European success."
+  },
+  {
+    "rank": 21,
+    "fullName": "Club Atlético de Madrid",
+    "shortName": "Atlético de Madrid",
+    "country": "Spain",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "La Liga champions on multiple occasions; strong performances in Europe."
+  },
+  {
+    "rank": 22,
+    "fullName": "Valencia Club de Fútbol",
+    "shortName": "Valencia",
+    "country": "Spain",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Multiple European final appearances; historically successful in Spain."
+  },
+  {
+    "rank": 23,
+    "fullName": "Società Sportiva Calcio Napoli",
+    "shortName": "Napoli",
+    "country": "Italy",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Led by Maradona to major honors in the late 1980s; a strong Italian contender."
+  },
+  {
+    "rank": 24,
+    "fullName": "Associazione Sportiva Roma",
+    "shortName": "AS Roma",
+    "country": "Italy",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Notable Italian side with passionate fanbase; multiple domestic titles."
+  },
+  {
+    "rank": 25,
+    "fullName": "Società Sportiva Lazio",
+    "shortName": "Lazio",
+    "country": "Italy",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Historic Rome-based club; winners of Serie A and European Cup Winners' Cup."
   },
   {
     "rank": 26,
-    "fullName": "Fußballclub Gelsenkirchen-Schalke 04 e.V.",
-    "shortName": "Schalke 04",
-    "country": "Germany",
+    "fullName": "Celtic Football Club",
+    "shortName": "Celtic",
+    "country": "Scotland",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Historic German club with a large following in the Ruhr area."
+    "explanation": "First British club to win the European Cup (1967); dominant in Scotland."
   },
   {
     "rank": 27,
-    "fullName": "Sportverein Werder Bremen von 1899 e.V.",
-    "shortName": "Werder Bremen",
-    "country": "Germany",
+    "fullName": "Rangers Football Club",
+    "shortName": "Rangers",
+    "country": "Scotland",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Bremen-based club with multiple Bundesliga titles and a strong German Cup record."
+    "explanation": "One of the most successful clubs in Scotland; record domestic titles."
   },
   {
     "rank": 28,
-    "fullName": "Hamburger Sport-Verein e.V.",
-    "shortName": "Hamburg",
-    "country": "Germany",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Only German side never relegated from Bundesliga until recent times; European Cup winner."
-  },
-  {
-    "rank": 29,
-    "fullName": "Fudbalski Klub Crvena zvezda",
-    "shortName": "Red Star Belgrade",
-    "country": "Serbia",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Legendary Eastern European club, winners of the 1991 European Cup."
-  },
-  {
-    "rank": 30,
-    "fullName": "Fotbal Club FCSB (formerly Steaua București)",
-    "shortName": "Steaua Bucharest",
-    "country": "Romania",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "First Eastern European club to win the European Cup (1986)."
-  },
-  {
-    "rank": 31,
-    "fullName": "Football Club Dynamo Kyiv",
-    "shortName": "Dynamo Kyiv",
-    "country": "Ukraine",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Most successful Ukrainian club; famed under legendary coach Valeriy Lobanovskyi."
-  },
-  {
-    "rank": 32,
-    "fullName": "Football Club Shakhtar Donetsk",
-    "shortName": "Shakhtar Donetsk",
-    "country": "Ukraine",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Ukrainian powerhouse with multiple domestic titles and strong European showings."
-  },
-  {
-    "rank": 33,
     "fullName": "Galatasaray Spor Kulübü",
     "shortName": "Galatasaray",
     "country": "Turkey",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Istanbul-based club, first Turkish team to win a major European trophy (UEFA Cup)."
+    "explanation": "First Turkish club to win a major European trophy (UEFA Cup 2000)."
   },
   {
-    "rank": 34,
+    "rank": 29,
     "fullName": "Fenerbahçe Spor Kulübü",
     "shortName": "Fenerbahçe",
     "country": "Turkey",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "One of Turkey’s most widely supported clubs, multiple domestic titles."
+    "explanation": "Historically successful Turkish club with a massive fanbase."
+  },
+  {
+    "rank": 30,
+    "fullName": "Fotbal Club FCSB (formerly FC Steaua București)",
+    "shortName": "Steaua București",
+    "country": "Romania",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Won the European Cup in 1986; Romania’s most decorated club."
+  },
+  {
+    "rank": 31,
+    "fullName": "Fudbalski klub Crvena zvezda",
+    "shortName": "Red Star Belgrade",
+    "country": "Serbia",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Won the European Cup in 1991; most successful Serbian club."
+  },
+  {
+    "rank": 32,
+    "fullName": "Građanski nogometni klub Dinamo Zagreb",
+    "shortName": "Dinamo Zagreb",
+    "country": "Croatia",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Croatia’s dominant force; consistent performers in European competitions."
+  },
+  {
+    "rank": 33,
+    "fullName": "Football Club Dynamo Kyiv",
+    "shortName": "Dynamo Kyiv",
+    "country": "Ukraine",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Historic Soviet and Ukrainian champions; notable European Cup runs."
+  },
+  {
+    "rank": 34,
+    "fullName": "Football Club Shakhtar Donetsk",
+    "shortName": "Shakhtar Donetsk",
+    "country": "Ukraine",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Prominent Ukrainian club; UEFA Cup winners in 2009."
   },
   {
     "rank": 35,
-    "fullName": "Panathinaikos Football Club",
-    "shortName": "Panathinaikos",
-    "country": "Greece",
+    "fullName": "Football Club Zenit",
+    "shortName": "Zenit Saint Petersburg",
+    "country": "Russia",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Historic Greek club with European Cup final appearance in 1971."
+    "explanation": "Won the 2008 UEFA Cup; consistently top in Russia."
   },
   {
     "rank": 36,
-    "fullName": "Olympiacos Football Club",
-    "shortName": "Olympiacos",
-    "country": "Greece",
+    "fullName": "Football Club Spartak Moscow",
+    "shortName": "Spartak Moscow",
+    "country": "Russia",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Piraeus-based giants, Greek record champions, historically dominant."
+    "explanation": "Historically the most popular and successful club in Russia (Soviet era)."
   },
   {
     "rank": 37,
-    "fullName": "Royal Sporting Club Anderlecht",
-    "shortName": "Anderlecht",
-    "country": "Belgium",
+    "fullName": "Fudbalski klub Partizan",
+    "shortName": "FK Partizan",
+    "country": "Serbia",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Belgium’s most successful club, several European trophies in the 1970s and 1980s."
+    "explanation": "Among Serbia’s top clubs; European Cup finalists in 1966."
   },
   {
     "rank": 38,
-    "fullName": "Club Brugge Koninklijke Voetbalvereniging",
-    "shortName": "Club Brugge",
-    "country": "Belgium",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Regular Belgian champions and perennial participants in European competition."
-  },
-  {
-    "rank": 39,
-    "fullName": "Royal Standard de Liège",
-    "shortName": "Standard Liège",
-    "country": "Belgium",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Historic Belgian side with strong domestic credentials."
-  },
-  {
-    "rank": 40,
     "fullName": "Fussball Club Basel 1893",
     "shortName": "FC Basel",
     "country": "Switzerland",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Dominant in Swiss football in the 21st century, featuring strong European performances."
+    "explanation": "Switzerland’s leading club in modern times; frequent European appearances."
   },
   {
-    "rank": 41,
-    "fullName": "Fussballclub Zürich",
-    "shortName": "FC Zürich",
+    "rank": 39,
+    "fullName": "Grasshopper Club Zürich",
+    "shortName": "Grasshoppers",
     "country": "Switzerland",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Swiss club with multiple domestic championships and a long history."
+    "explanation": "Most successful Swiss club historically with multiple league titles."
+  },
+  {
+    "rank": 40,
+    "fullName": "Royal Sporting Club Anderlecht",
+    "shortName": "Anderlecht",
+    "country": "Belgium",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Belgium’s most decorated club; European Cup Winners’ Cup successes."
+  },
+  {
+    "rank": 41,
+    "fullName": "Club Brugge Koninklijke Voetbalvereniging",
+    "shortName": "Club Brugge",
+    "country": "Belgium",
+    "continent": "Europe",
+    "confederation": "UEFA",
+    "explanation": "Consistent Belgian powerhouse; European Cup finalists in 1978."
   },
   {
     "rank": 42,
-    "fullName": "Futbolʹnyy Klub Spartak Moskva",
-    "shortName": "Spartak Moscow",
-    "country": "Russia",
+    "fullName": "Philips Sport Vereniging",
+    "shortName": "PSV Eindhoven",
+    "country": "Netherlands",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Traditionally Russia’s most successful club, strong Soviet-era record."
+    "explanation": "European Cup winners in 1988; part of Netherlands’ “big three.”"
   },
   {
     "rank": 43,
-    "fullName": "Professionalʹnyy Futbolʹnyy Klub CSKA Moskva",
-    "shortName": "CSKA Moscow",
-    "country": "Russia",
+    "fullName": "Feyenoord Rotterdam",
+    "shortName": "Feyenoord",
+    "country": "Netherlands",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Established Russian club, notable UEFA Cup triumph in 2005."
+    "explanation": "Won the European Cup in 1970; a historic Dutch giant."
   },
   {
     "rank": 44,
-    "fullName": "Football Club Zenit",
-    "shortName": "Zenit",
-    "country": "Russia",
+    "fullName": "Hamburger Sport-Verein e.V.",
+    "shortName": "Hamburger SV",
+    "country": "Germany",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "St. Petersburg-based club that gained prominence with UEFA Cup victory in 2008."
+    "explanation": "European Cup winners (1983); long-standing Bundesliga member."
   },
   {
     "rank": 45,
-    "fullName": "Professional Football Club Ludogorets 1945 Razgrad",
-    "shortName": "Ludogorets Razgrad",
-    "country": "Bulgaria",
+    "fullName": "Fußballclub Gelsenkirchen-Schalke 04 e. V.",
+    "shortName": "Schalke 04",
+    "country": "Germany",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Modern Bulgarian success story, frequent participants in European tournaments."
+    "explanation": "One of Germany’s most supported clubs; UEFA Cup victors in 1997."
   },
   {
     "rank": 46,
-    "fullName": "Legia Warszawa Spółka Akcyjna",
-    "shortName": "Legia Warsaw",
-    "country": "Poland",
+    "fullName": "Nottingham Forest Football Club",
+    "shortName": "Nottingham Forest",
+    "country": "England",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Poland’s most successful club in European competitions with strong domestic record."
+    "explanation": "Back-to-back European Cup winners in 1979 and 1980."
   },
   {
     "rank": 47,
-    "fullName": "Sportklub Rapid Wien",
-    "shortName": "Rapid Wien",
-    "country": "Austria",
+    "fullName": "Aston Villa Football Club",
+    "shortName": "Aston Villa",
+    "country": "England",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Austria’s most titled club, established presence in Austrian Bundesliga and Europe."
+    "explanation": "European Cup winners in 1982; one of England’s oldest clubs."
   },
   {
     "rank": 48,
-    "fullName": "FC Red Bull Salzburg",
-    "shortName": "FC Salzburg",
-    "country": "Austria",
+    "fullName": "Olympiacos Football Club",
+    "shortName": "Olympiacos",
+    "country": "Greece",
     "continent": "Europe",
     "confederation": "UEFA",
-    "explanation": "Austrian champion numerous times in recent years, known for producing new talents."
+    "explanation": "Greece’s most successful club with a rich domestic record."
   },
   {
     "rank": 49,
-    "fullName": "Sportovní Klub Slavia Praha",
-    "shortName": "Slavia Prague",
-    "country": "Czech Republic",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Historic Czech side known for its domestic success and strong fanbase."
+    "fullName": "Club Atlético Peñarol",
+    "shortName": "Peñarol",
+    "country": "Uruguay",
+    "continent": "South America",
+    "confederation": "CONMEBOL",
+    "explanation": "Five-time Copa Libertadores champions; historic Uruguayan giant."
   },
   {
     "rank": 50,
-    "fullName": "FC Viktoria Plzeň",
-    "shortName": "Viktoria Plzeň",
-    "country": "Czech Republic",
-    "continent": "Europe",
-    "confederation": "UEFA",
-    "explanation": "Prominent Czech team with multiple league titles in recent years."
+    "fullName": "Club Nacional de Football",
+    "shortName": "Nacional",
+    "country": "Uruguay",
+    "continent": "South America",
+    "confederation": "CONMEBOL",
+    "explanation": "Multiple continental and international titles; Uruguayan powerhouse."
   },
   {
     "rank": 51,
@@ -456,7 +456,7 @@
     "country": "Argentina",
     "continent": "South America",
     "confederation": "CONMEBOL",
-    "explanation": "Argentine giant with numerous Copa Libertadores victories and massive following."
+    "explanation": "One of the most successful teams in Argentina; multiple Copa Libertadores titles."
   },
   {
     "rank": 52,
@@ -465,690 +465,690 @@
     "country": "Argentina",
     "continent": "South America",
     "confederation": "CONMEBOL",
-    "explanation": "Historic Argentine club, many domestic titles, strong continental performances."
+    "explanation": "Archrivals of Boca Juniors; successful in domestic and continental competitions."
   },
   {
     "rank": 53,
-    "fullName": "Club Atlético Independiente",
-    "shortName": "Independiente",
-    "country": "Argentina",
-    "continent": "South America",
-    "confederation": "CONMEBOL",
-    "explanation": "Record holder of the most Copa Libertadores titles in the 20th century."
-  },
-  {
-    "rank": 54,
-    "fullName": "Racing Club de Avellaneda",
-    "shortName": "Racing Club",
-    "country": "Argentina",
-    "continent": "South America",
-    "confederation": "CONMEBOL",
-    "explanation": "Historic Argentine club, among the 'big five,' known for passionate supporters."
-  },
-  {
-    "rank": 55,
-    "fullName": "Club Atlético San Lorenzo de Almagro",
-    "shortName": "San Lorenzo",
-    "country": "Argentina",
-    "continent": "South America",
-    "confederation": "CONMEBOL",
-    "explanation": "One of Argentina’s big five, Copa Libertadores champions in 2014."
-  },
-  {
-    "rank": 56,
-    "fullName": "Clube de Regatas do Flamengo",
-    "shortName": "Flamengo",
-    "country": "Brazil",
-    "continent": "South America",
-    "confederation": "CONMEBOL",
-    "explanation": "Rio-based giant, among Brazil’s most popular clubs, multiple Libertadores trophies."
-  },
-  {
-    "rank": 57,
-    "fullName": "Fluminense Football Club",
-    "shortName": "Fluminense",
-    "country": "Brazil",
-    "continent": "South America",
-    "confederation": "CONMEBOL",
-    "explanation": "Historic Rio de Janeiro club, credited with developing numerous Brazilian talents."
-  },
-  {
-    "rank": 58,
-    "fullName": "Sport Club Corinthians Paulista",
-    "shortName": "Corinthians",
-    "country": "Brazil",
-    "continent": "South America",
-    "confederation": "CONMEBOL",
-    "explanation": "Popular São Paulo club, FIFA Club World Cup winner and consistent success."
-  },
-  {
-    "rank": 59,
-    "fullName": "Sociedade Esportiva Palmeiras",
-    "shortName": "Palmeiras",
-    "country": "Brazil",
-    "continent": "South America",
-    "confederation": "CONMEBOL",
-    "explanation": "São Paulo powerhouse, multiple Libertadores runs and founding member of Brazilian league."
-  },
-  {
-    "rank": 60,
     "fullName": "São Paulo Futebol Clube",
     "shortName": "São Paulo",
     "country": "Brazil",
     "continent": "South America",
     "confederation": "CONMEBOL",
-    "explanation": "Three-time world champion, highly successful in domestic and continental competitions."
+    "explanation": "Three-time Libertadores champions; globally recognized Brazilian club."
   },
   {
-    "rank": 61,
+    "rank": 54,
     "fullName": "Santos Futebol Clube",
     "shortName": "Santos",
     "country": "Brazil",
     "continent": "South America",
     "confederation": "CONMEBOL",
-    "explanation": "Pelé’s former club, famed for launching many Brazilian legends."
+    "explanation": "Home of Pelé; multiple Libertadores titles; famous attacking style."
   },
   {
-    "rank": 62,
-    "fullName": "Cruzeiro Esporte Clube",
-    "shortName": "Cruzeiro",
+    "rank": 55,
+    "fullName": "Clube de Regatas do Flamengo",
+    "shortName": "Flamengo",
     "country": "Brazil",
     "continent": "South America",
     "confederation": "CONMEBOL",
-    "explanation": "Belo Horizonte-based side, well-known for domestic and continental success."
+    "explanation": "Massive fanbase; Libertadores and Intercontinental Cup winners."
   },
   {
-    "rank": 63,
-    "fullName": "Clube Atlético Mineiro",
-    "shortName": "Atlético Mineiro",
+    "rank": 56,
+    "fullName": "Sociedade Esportiva Palmeiras",
+    "shortName": "Palmeiras",
     "country": "Brazil",
     "continent": "South America",
     "confederation": "CONMEBOL",
-    "explanation": "Historic Belo Horizonte club, Copa Libertadores champions in 2013."
+    "explanation": "One of Brazil’s most storied clubs; multiple Libertadores trophies."
   },
   {
-    "rank": 64,
+    "rank": 57,
+    "fullName": "Sport Club Corinthians Paulista",
+    "shortName": "Corinthians",
+    "country": "Brazil",
+    "continent": "South America",
+    "confederation": "CONMEBOL",
+    "explanation": "Enormous Brazilian following; FIFA Club World Cup and Libertadores winners."
+  },
+  {
+    "rank": 58,
     "fullName": "Grêmio Foot-Ball Porto Alegrense",
     "shortName": "Grêmio",
     "country": "Brazil",
     "continent": "South America",
     "confederation": "CONMEBOL",
-    "explanation": "Porto Alegre giant, multiple-time Copa Libertadores winners."
+    "explanation": "Multiple Libertadores titles; strong international presence."
   },
   {
-    "rank": 65,
-    "fullName": "Sport Club Internacional",
-    "shortName": "Internacional",
-    "country": "Brazil",
-    "continent": "South America",
-    "confederation": "CONMEBOL",
-    "explanation": "Porto Alegre side, Libertadores winner, and FIFA Club World Cup champion."
-  },
-  {
-    "rank": 66,
-    "fullName": "Club Nacional de Football",
-    "shortName": "Nacional",
-    "country": "Uruguay",
-    "continent": "South America",
-    "confederation": "CONMEBOL",
-    "explanation": "Storied Uruguayan club, winners of multiple Copa Libertadores titles."
-  },
-  {
-    "rank": 67,
-    "fullName": "Club Atlético Peñarol",
-    "shortName": "Peñarol",
-    "country": "Uruguay",
-    "continent": "South America",
-    "confederation": "CONMEBOL",
-    "explanation": "Uruguayan giant with a rich history of domestic and South American success."
-  },
-  {
-    "rank": 68,
+    "rank": 59,
     "fullName": "Club Olimpia",
-    "shortName": "Olimpia (Paraguay)",
+    "shortName": "Olimpia",
     "country": "Paraguay",
     "continent": "South America",
     "confederation": "CONMEBOL",
-    "explanation": "Asunción-based club with multiple Copa Libertadores triumphs and a large fan base."
+    "explanation": "The most decorated Paraguayan club; three-time Libertadores champions."
   },
   {
-    "rank": 69,
+    "rank": 60,
     "fullName": "Club Cerro Porteño",
     "shortName": "Cerro Porteño",
     "country": "Paraguay",
     "continent": "South America",
     "confederation": "CONMEBOL",
-    "explanation": "Historic Paraguayan club with frequent Libertadores appearances."
+    "explanation": "Historic rival to Olimpia; consistent top-tier finishes in Paraguay."
   },
   {
-    "rank": 70,
-    "fullName": "Club Social y Deportivo Colo-Colo",
-    "shortName": "Colo-Colo",
-    "country": "Chile",
+    "rank": 61,
+    "fullName": "Club Atlético Independiente",
+    "shortName": "Independiente",
+    "country": "Argentina",
     "continent": "South America",
     "confederation": "CONMEBOL",
-    "explanation": "Chile’s most successful team, the only Chilean club to win the Copa Libertadores."
+    "explanation": "Holds a record seven Copa Libertadores titles; “King of Cups.”"
   },
   {
-    "rank": 71,
+    "rank": 62,
+    "fullName": "Racing Club",
+    "shortName": "Racing",
+    "country": "Argentina",
+    "continent": "South America",
+    "confederation": "CONMEBOL",
+    "explanation": "Historic Argentine club; first Argentine winners of the Intercontinental Cup (1967)."
+  },
+  {
+    "rank": 63,
+    "fullName": "Club Atlético San Lorenzo de Almagro",
+    "shortName": "San Lorenzo",
+    "country": "Argentina",
+    "continent": "South America",
+    "confederation": "CONMEBOL",
+    "explanation": "Popular Argentine side; Copa Libertadores champions in 2014."
+  },
+  {
+    "rank": 64,
+    "fullName": "Club Atlético Vélez Sarsfield",
+    "shortName": "Vélez Sarsfield",
+    "country": "Argentina",
+    "continent": "South America",
+    "confederation": "CONMEBOL",
+    "explanation": "Libertadores and Intercontinental Cup winners (1994)."
+  },
+  {
+    "rank": 65,
+    "fullName": "Club de Regatas Vasco da Gama",
+    "shortName": "Vasco da Gama",
+    "country": "Brazil",
+    "continent": "South America",
+    "confederation": "CONMEBOL",
+    "explanation": "Historic Rio-based club; Libertadores champions in 1998."
+  },
+  {
+    "rank": 66,
     "fullName": "Club Universidad de Chile",
     "shortName": "Universidad de Chile",
     "country": "Chile",
     "continent": "South America",
     "confederation": "CONMEBOL",
-    "explanation": "Popular Chilean side, known as 'La U,' winners of the Copa Sudamericana."
+    "explanation": "Popular Chilean club; Copa Sudamericana winners in 2011."
   },
   {
-    "rank": 72,
+    "rank": 67,
+    "fullName": "Colo-Colo",
+    "shortName": "Colo-Colo",
+    "country": "Chile",
+    "continent": "South America",
+    "confederation": "CONMEBOL",
+    "explanation": "Chile’s most successful club; 1991 Libertadores champions."
+  },
+  {
+    "rank": 68,
     "fullName": "Liga Deportiva Universitaria de Quito",
     "shortName": "LDU Quito",
     "country": "Ecuador",
     "continent": "South America",
     "confederation": "CONMEBOL",
-    "explanation": "Ecuadorian club that famously won the Copa Libertadores in 2008."
+    "explanation": "First Ecuadorian club to win the Libertadores (2008)."
   },
   {
-    "rank": 73,
-    "fullName": "Club Sport Emelec",
-    "shortName": "Emelec",
-    "country": "Ecuador",
-    "continent": "South America",
-    "confederation": "CONMEBOL",
-    "explanation": "Traditional Guayaquil-based club with a large following and strong domestic record."
-  },
-  {
-    "rank": 74,
-    "fullName": "Club Alianza Lima",
-    "shortName": "Alianza Lima",
-    "country": "Peru",
-    "continent": "South America",
-    "confederation": "CONMEBOL",
-    "explanation": "Historic Peruvian club, recognized for developing Peruvian national team players."
-  },
-  {
-    "rank": 75,
+    "rank": 69,
     "fullName": "Barcelona Sporting Club",
     "shortName": "Barcelona SC",
     "country": "Ecuador",
     "continent": "South America",
     "confederation": "CONMEBOL",
-    "explanation": "Popular club from Guayaquil, multiple Libertadores semifinals appearances."
+    "explanation": "Ecuador’s most popular club; twice Libertadores runners-up."
+  },
+  {
+    "rank": 70,
+    "fullName": "Club Sporting Cristal",
+    "shortName": "Sporting Cristal",
+    "country": "Peru",
+    "continent": "South America",
+    "confederation": "CONMEBOL",
+    "explanation": "Among Peru’s top clubs; regular continental participants."
+  },
+  {
+    "rank": 71,
+    "fullName": "Club Alianza Lima",
+    "shortName": "Alianza Lima",
+    "country": "Peru",
+    "continent": "South America",
+    "confederation": "CONMEBOL",
+    "explanation": "One of Peru’s oldest and most popular clubs; multiple league titles."
+  },
+  {
+    "rank": 72,
+    "fullName": "Club Atlético Nacional S.A.",
+    "shortName": "Atlético Nacional",
+    "country": "Colombia",
+    "continent": "South America",
+    "confederation": "CONMEBOL",
+    "explanation": "Two-time Libertadores winners; Colombian football powerhouse."
+  },
+  {
+    "rank": 73,
+    "fullName": "Millonarios Fútbol Club",
+    "shortName": "Millonarios",
+    "country": "Colombia",
+    "continent": "South America",
+    "confederation": "CONMEBOL",
+    "explanation": "Historic Colombian giant; known for the ‘El Dorado’ era."
+  },
+  {
+    "rank": 74,
+    "fullName": "Al Hilal Saudi Football Club",
+    "shortName": "Al Hilal",
+    "country": "Saudi Arabia",
+    "continent": "Asia",
+    "confederation": "AFC",
+    "explanation": "Most successful Saudi and Asian Champions League club."
+  },
+  {
+    "rank": 75,
+    "fullName": "Ittihad Club (Jeddah)",
+    "shortName": "Al Ittihad",
+    "country": "Saudi Arabia",
+    "continent": "Asia",
+    "confederation": "AFC",
+    "explanation": "Multiple AFC Champions League titles; Saudi Arabian powerhouse."
   },
   {
     "rank": 76,
-    "fullName": "Club de Fútbol América",
-    "shortName": "Club América",
-    "country": "Mexico",
-    "continent": "North America",
-    "confederation": "CONCACAF",
-    "explanation": "Mexico’s most successful club internationally, multiple CONCACAF Champions League titles."
-  },
-  {
-    "rank": 77,
-    "fullName": "Club Deportivo Guadalajara",
-    "shortName": "Chivas",
-    "country": "Mexico",
-    "continent": "North America",
-    "confederation": "CONCACAF",
-    "explanation": "One of Mexico’s most popular teams, fields only Mexican players, rich history."
-  },
-  {
-    "rank": 78,
-    "fullName": "Cruz Azul Fútbol Club, A.C.",
-    "shortName": "Cruz Azul",
-    "country": "Mexico",
-    "continent": "North America",
-    "confederation": "CONCACAF",
-    "explanation": "Historic Mexican side, multiple domestic and regional trophies."
-  },
-  {
-    "rank": 79,
-    "fullName": "Club Universidad Nacional A.C.",
-    "shortName": "Pumas UNAM",
-    "country": "Mexico",
-    "continent": "North America",
-    "confederation": "CONCACAF",
-    "explanation": "Founded by the National Autonomous University of Mexico, known for youth development."
-  },
-  {
-    "rank": 80,
-    "fullName": "Club de Fútbol Monterrey",
-    "shortName": "Monterrey",
-    "country": "Mexico",
-    "continent": "North America",
-    "confederation": "CONCACAF",
-    "explanation": "Nicknamed 'Rayados,' multiple-time CONCACAF Champions League winners."
-  },
-  {
-    "rank": 81,
-    "fullName": "Club de Fútbol Tigres de la Universidad Autónoma de Nuevo León",
-    "shortName": "Tigres UANL",
-    "country": "Mexico",
-    "continent": "North America",
-    "confederation": "CONCACAF",
-    "explanation": "Achieved recent success in Liga MX and strong showings in international competitions."
-  },
-  {
-    "rank": 82,
-    "fullName": "Deportivo Saprissa",
-    "shortName": "Saprissa",
-    "country": "Costa Rica",
-    "continent": "North America",
-    "confederation": "CONCACAF",
-    "explanation": "Costa Rica’s most decorated team, frequent appearances in CONCACAF tournaments."
-  },
-  {
-    "rank": 83,
-    "fullName": "Liga Deportiva Alajuelense",
-    "shortName": "Alajuelense",
-    "country": "Costa Rica",
-    "continent": "North America",
-    "confederation": "CONCACAF",
-    "explanation": "Historic rival to Saprissa, known for domestic championships and competitive squads."
-  },
-  {
-    "rank": 84,
-    "fullName": "Los Angeles Galaxy",
-    "shortName": "LA Galaxy",
-    "country": "United States",
-    "continent": "North America",
-    "confederation": "CONCACAF",
-    "explanation": "One of MLS’s most high-profile clubs, featuring signings like David Beckham and Zlatan Ibrahimović."
-  },
-  {
-    "rank": 85,
-    "fullName": "D.C. United",
-    "shortName": "D.C. United",
-    "country": "United States",
-    "continent": "North America",
-    "confederation": "CONCACAF",
-    "explanation": "Early MLS powerhouse, multiple MLS Cup wins, historically significant in American soccer."
-  },
-  {
-    "rank": 86,
-    "fullName": "Club de Foot Montréal",
-    "shortName": "CF Montréal",
-    "country": "Canada",
-    "continent": "North America",
-    "confederation": "CONCACAF",
-    "explanation": "Previously the Montreal Impact, representing a major Canadian market in MLS."
-  },
-  {
-    "rank": 87,
-    "fullName": "Toronto Football Club",
-    "shortName": "Toronto FC",
-    "country": "Canada",
-    "continent": "North America",
-    "confederation": "CONCACAF",
-    "explanation": "Achieved MLS Cup success in 2017, a leader in Canadian club soccer."
-  },
-  {
-    "rank": 88,
-    "fullName": "Vancouver Whitecaps Football Club",
-    "shortName": "Vancouver Whitecaps",
-    "country": "Canada",
-    "continent": "North America",
-    "confederation": "CONCACAF",
-    "explanation": "One of the three Canadian outfits in MLS, carrying on the legacy of earlier NASL clubs."
-  },
-  {
-    "rank": 89,
-    "fullName": "Club Olimpia Deportivo",
-    "shortName": "Olimpia (Honduras)",
-    "country": "Honduras",
-    "continent": "North America",
-    "confederation": "CONCACAF",
-    "explanation": "Most successful Honduran club, recognized for regional Central American triumphs."
-  },
-  {
-    "rank": 90,
-    "fullName": "Club Social y Deportivo Comunicaciones",
-    "shortName": "Comunicaciones",
-    "country": "Guatemala",
-    "continent": "North America",
-    "confederation": "CONCACAF",
-    "explanation": "Guatemala’s historically prominent club, multiple domestic and regional titles."
-  },
-  {
-    "rank": 91,
-    "fullName": "Al Ahly Sporting Club",
-    "shortName": "Al Ahly",
-    "country": "Egypt",
-    "continent": "Africa",
-    "confederation": "CAF",
-    "explanation": "Africa’s most successful club side, winners of numerous CAF Champions League titles."
-  },
-  {
-    "rank": 92,
-    "fullName": "Zamalek Sporting Club",
-    "shortName": "Zamalek",
-    "country": "Egypt",
-    "continent": "Africa",
-    "confederation": "CAF",
-    "explanation": "Cairo-based rival to Al Ahly, recognized for continental success in CAF competitions."
-  },
-  {
-    "rank": 93,
-    "fullName": "Espérance Sportive de Tunis",
-    "shortName": "Espérance",
-    "country": "Tunisia",
-    "continent": "Africa",
-    "confederation": "CAF",
-    "explanation": "Dominant Tunisian club, multiple-time CAF Champions League winners."
-  },
-  {
-    "rank": 94,
-    "fullName": "Étoile Sportive du Sahel",
-    "shortName": "Étoile du Sahel",
-    "country": "Tunisia",
-    "continent": "Africa",
-    "confederation": "CAF",
-    "explanation": "Successful Tunisian club with several Confederation Cup and Champions League trophies."
-  },
-  {
-    "rank": 95,
-    "fullName": "Raja Club Athletic",
-    "shortName": "Raja Casablanca",
-    "country": "Morocco",
-    "continent": "Africa",
-    "confederation": "CAF",
-    "explanation": "Casablanca-based powerhouse, big fan culture and continental triumphs."
-  },
-  {
-    "rank": 96,
-    "fullName": "Wydad Athletic Club",
-    "shortName": "Wydad Casablanca",
-    "country": "Morocco",
-    "continent": "Africa",
-    "confederation": "CAF",
-    "explanation": "Major Moroccan club, consistent success in domestic and continental tournaments."
-  },
-  {
-    "rank": 97,
-    "fullName": "Tout Puissant Mazembe",
-    "shortName": "TP Mazembe",
-    "country": "DR Congo",
-    "continent": "Africa",
-    "confederation": "CAF",
-    "explanation": "Congolese giant, famed for multiple CAF Champions League victories."
-  },
-  {
-    "rank": 98,
-    "fullName": "Association Sportive Vita Club",
-    "shortName": "AS Vita Club",
-    "country": "DR Congo",
-    "continent": "Africa",
-    "confederation": "CAF",
-    "explanation": "Historic Kinshasa-based club with a strong domestic and continental presence."
-  },
-  {
-    "rank": 99,
-    "fullName": "Mamelodi Sundowns Football Club",
-    "shortName": "Mamelodi Sundowns",
-    "country": "South Africa",
-    "continent": "Africa",
-    "confederation": "CAF",
-    "explanation": "Modern South African powerhouse, 2016 CAF Champions League winners."
-  },
-  {
-    "rank": 100,
-    "fullName": "Kaizer Chiefs Football Club",
-    "shortName": "Kaizer Chiefs",
-    "country": "South Africa",
-    "continent": "Africa",
-    "confederation": "CAF",
-    "explanation": "Massively supported club in South Africa, multiple PSL titles."
-  },
-  {
-    "rank": 101,
-    "fullName": "Orlando Pirates Football Club",
-    "shortName": "Orlando Pirates",
-    "country": "South Africa",
-    "continent": "Africa",
-    "confederation": "CAF",
-    "explanation": "Historic South African club, CAF Champions League title in 1995."
-  },
-  {
-    "rank": 102,
-    "fullName": "Al-Hilal Club",
-    "shortName": "Al-Hilal Omdurman",
-    "country": "Sudan",
-    "continent": "Africa",
-    "confederation": "CAF",
-    "explanation": "Major club in Sudan, multiple league titles and regular continental appearances."
-  },
-  {
-    "rank": 103,
-    "fullName": "Al-Merrikh Sporting Club",
-    "shortName": "Al-Merrikh",
-    "country": "Sudan",
-    "continent": "Africa",
-    "confederation": "CAF",
-    "explanation": "Historic rival of Al-Hilal in Sudan, strong domestic record."
-  },
-  {
-    "rank": 104,
-    "fullName": "Jeunesse Sportive de Kabylie",
-    "shortName": "JS Kabylie",
-    "country": "Algeria",
-    "continent": "Africa",
-    "confederation": "CAF",
-    "explanation": "One of Algeria’s most successful clubs, recognized in continental competitions."
-  },
-  {
-    "rank": 105,
-    "fullName": "Enyimba International Football Club",
-    "shortName": "Enyimba",
-    "country": "Nigeria",
-    "continent": "Africa",
-    "confederation": "CAF",
-    "explanation": "Nigerian side with multiple CAF Champions League successes in the 2000s."
-  },
-  {
-    "rank": 106,
-    "fullName": "Al Hilal Saudi Football Club",
-    "shortName": "Al-Hilal (KSA)",
-    "country": "Saudi Arabia",
-    "continent": "Asia",
-    "confederation": "AFC",
-    "explanation": "Saudi Arabia’s most decorated club, multiple AFC Champions League trophies."
-  },
-  {
-    "rank": 107,
-    "fullName": "Al-Ittihad Club (Jeddah)",
-    "shortName": "Al-Ittihad",
-    "country": "Saudi Arabia",
-    "continent": "Asia",
-    "confederation": "AFC",
-    "explanation": "Jeddah-based team, two-time AFC Champions League winners."
-  },
-  {
-    "rank": 108,
-    "fullName": "Al-Sadd Sports Club",
-    "shortName": "Al-Sadd",
-    "country": "Qatar",
-    "continent": "Asia",
-    "confederation": "AFC",
-    "explanation": "Qatar’s most successful club, has won the AFC Champions League."
-  },
-  {
-    "rank": 109,
-    "fullName": "Al-Duhail Sports Club",
-    "shortName": "Al-Duhail",
-    "country": "Qatar",
-    "continent": "Asia",
-    "confederation": "AFC",
-    "explanation": "Emergent Qatari side, multiple league titles since forming under various names."
-  },
-  {
-    "rank": 110,
-    "fullName": "Suwon Samsung Bluewings Football Club",
-    "shortName": "Suwon Bluewings",
-    "country": "South Korea",
-    "continent": "Asia",
-    "confederation": "AFC",
-    "explanation": "Noted Korean club, multi-time K League and Asian title contender."
-  },
-  {
-    "rank": 111,
-    "fullName": "Pohang Steelers Football Club",
-    "shortName": "Pohang Steelers",
-    "country": "South Korea",
-    "continent": "Asia",
-    "confederation": "AFC",
-    "explanation": "Korean club with several AFC Champions League triumphs."
-  },
-  {
-    "rank": 112,
-    "fullName": "Jeonbuk Hyundai Motors Football Club",
-    "shortName": "Jeonbuk Hyundai",
-    "country": "South Korea",
-    "continent": "Asia",
-    "confederation": "AFC",
-    "explanation": "K League powerhouse, known for multiple AFC Champions League victories."
-  },
-  {
-    "rank": 113,
-    "fullName": "Urawa Red Diamonds",
-    "shortName": "Urawa Reds",
-    "country": "Japan",
-    "continent": "Asia",
-    "confederation": "AFC",
-    "explanation": "One of the most popular J1 League clubs with AFC Champions League success."
-  },
-  {
-    "rank": 114,
-    "fullName": "Kashima Antlers Football Club",
-    "shortName": "Kashima Antlers",
-    "country": "Japan",
-    "continent": "Asia",
-    "confederation": "AFC",
-    "explanation": "J1 League’s most successful club domestically with continental presence."
-  },
-  {
-    "rank": 115,
-    "fullName": "Yokohama F. Marinos",
-    "shortName": "Yokohama Marinos",
-    "country": "Japan",
-    "continent": "Asia",
-    "confederation": "AFC",
-    "explanation": "Historic Japanese club, multiple J1 League titles."
-  },
-  {
-    "rank": 116,
-    "fullName": "Al-Ain Football Club",
-    "shortName": "Al-Ain",
+    "fullName": "Al Ain Football Club",
+    "shortName": "Al Ain",
     "country": "United Arab Emirates",
     "continent": "Asia",
     "confederation": "AFC",
-    "explanation": "UAE’s most successful club, winners of an AFC Champions League title."
+    "explanation": "First UAE club to win the AFC Champions League (2003)."
   },
   {
-    "rank": 117,
-    "fullName": "Persepolis Football Club",
-    "shortName": "Persepolis",
-    "country": "Iran",
+    "rank": 77,
+    "fullName": "Al Sadd Sports Club",
+    "shortName": "Al Sadd",
+    "country": "Qatar",
     "continent": "Asia",
     "confederation": "AFC",
-    "explanation": "One of Iran’s most supported clubs, multiple league successes and continental finals."
+    "explanation": "Qatar’s most successful club; AFC Champions League champions."
   },
   {
-    "rank": 118,
+    "rank": 78,
     "fullName": "Esteghlal Football Club",
     "shortName": "Esteghlal",
     "country": "Iran",
     "continent": "Asia",
     "confederation": "AFC",
-    "explanation": "Tehran-based rival to Persepolis, two-time Asian club champion historically."
+    "explanation": "Two-time Asian club champions; historically significant Iranian team."
   },
   {
-    "rank": 119,
+    "rank": 79,
+    "fullName": "Persepolis Football Club",
+    "shortName": "Persepolis",
+    "country": "Iran",
+    "continent": "Asia",
+    "confederation": "AFC",
+    "explanation": "Iran’s most popular club with strong domestic success."
+  },
+  {
+    "rank": 80,
     "fullName": "Foolad Mobarakeh Sepahan Sport Club",
     "shortName": "Sepahan",
     "country": "Iran",
     "continent": "Asia",
     "confederation": "AFC",
-    "explanation": "Consistent performer in Iran’s top flight, well-known in AFC competitions."
+    "explanation": "Successful Iranian side; first Iranian club to reach AFC Champions League final (2007)."
   },
   {
-    "rank": 120,
+    "rank": 81,
+    "fullName": "Pakhtakor Tashkent FK",
+    "shortName": "Pakhtakor",
+    "country": "Uzbekistan",
+    "continent": "Asia",
+    "confederation": "AFC",
+    "explanation": "Uzbekistan’s most prominent club; frequent AFC Champions League participant."
+  },
+  {
+    "rank": 82,
+    "fullName": "Urawa Red Diamonds",
+    "shortName": "Urawa Reds",
+    "country": "Japan",
+    "continent": "Asia",
+    "confederation": "AFC",
+    "explanation": "Multiple-time AFC Champions League winners; huge fanbase."
+  },
+  {
+    "rank": 83,
+    "fullName": "Kashima Antlers Football Club",
+    "shortName": "Kashima Antlers",
+    "country": "Japan",
+    "continent": "Asia",
+    "confederation": "AFC",
+    "explanation": "Japan’s most successful J.League club; strong international showings."
+  },
+  {
+    "rank": 84,
+    "fullName": "Yokohama F. Marinos",
+    "shortName": "Yokohama F. Marinos",
+    "country": "Japan",
+    "continent": "Asia",
+    "confederation": "AFC",
+    "explanation": "One of the oldest and most successful Japanese clubs; multiple J.League titles."
+  },
+  {
+    "rank": 85,
     "fullName": "Guangzhou Evergrande Taobao Football Club",
     "shortName": "Guangzhou Evergrande",
     "country": "China",
     "continent": "Asia",
     "confederation": "AFC",
-    "explanation": "Financially backed Chinese club, multiple-time AFC Champions League winners."
+    "explanation": "Revitalized Chinese football; multiple AFC Champions League trophies."
   },
   {
-    "rank": 121,
-    "fullName": "Shanghai Greenland Shenhua Football Club",
+    "rank": 86,
+    "fullName": "Shanghai Shenhua Football Club",
     "shortName": "Shanghai Shenhua",
     "country": "China",
     "continent": "Asia",
     "confederation": "AFC",
-    "explanation": "One of China’s oldest professional clubs, significant investment and big-name signings."
+    "explanation": "Prominent Chinese club; known for high-profile signings and rivalries."
   },
   {
-    "rank": 122,
+    "rank": 87,
+    "fullName": "Jeonbuk Hyundai Motors Football Club",
+    "shortName": "Jeonbuk Hyundai",
+    "country": "South Korea",
+    "continent": "Asia",
+    "confederation": "AFC",
+    "explanation": "Consistent K League and AFC Champions League contender."
+  },
+  {
+    "rank": 88,
+    "fullName": "Pohang Steelers Football Club",
+    "shortName": "Pohang Steelers",
+    "country": "South Korea",
+    "continent": "Asia",
+    "confederation": "AFC",
+    "explanation": "Multiple AFC Champions League titles; historic Korean club."
+  },
+  {
+    "rank": 89,
+    "fullName": "Suwon Samsung Bluewings Football Club",
+    "shortName": "Suwon Bluewings",
+    "country": "South Korea",
+    "continent": "Asia",
+    "confederation": "AFC",
+    "explanation": "Korean powerhouse; successful domestically and in Asia."
+  },
+  {
+    "rank": 90,
     "fullName": "Johor Darul Ta'zim Football Club",
-    "shortName": "Johor Darul Ta'zim",
+    "shortName": "JDT",
     "country": "Malaysia",
     "continent": "Asia",
     "confederation": "AFC",
-    "explanation": "Malaysian champion with rising regional presence in Southeast Asia."
+    "explanation": "Dominant Malaysian club; first Malaysian side to win the AFC Cup (2015)."
+  },
+  {
+    "rank": 91,
+    "fullName": "Al Shorta Sports Club",
+    "shortName": "Al Shorta",
+    "country": "Iraq",
+    "continent": "Asia",
+    "confederation": "AFC",
+    "explanation": "Historical Iraqi club; multiple domestic titles, continental appearances."
+  },
+  {
+    "rank": 92,
+    "fullName": "Mohun Bagan Athletic Club",
+    "shortName": "Mohun Bagan",
+    "country": "India",
+    "continent": "Asia",
+    "confederation": "AFC",
+    "explanation": "Founded in 1889; one of the oldest and most celebrated clubs in India."
+  },
+  {
+    "rank": 93,
+    "fullName": "East Bengal Club",
+    "shortName": "East Bengal",
+    "country": "India",
+    "continent": "Asia",
+    "confederation": "AFC",
+    "explanation": "Historic Kolkata club; major rival to Mohun Bagan with widespread support."
+  },
+  {
+    "rank": 94,
+    "fullName": "Al Ahly Sporting Club",
+    "shortName": "Al Ahly",
+    "country": "Egypt",
+    "continent": "Africa",
+    "confederation": "CAF",
+    "explanation": "Record CAF Champions League titles; “Club of the Century” in Africa."
+  },
+  {
+    "rank": 95,
+    "fullName": "Zamalek Sporting Club",
+    "shortName": "Zamalek",
+    "country": "Egypt",
+    "continent": "Africa",
+    "confederation": "CAF",
+    "explanation": "Historic Egyptian rival to Al Ahly; multiple African and domestic trophies."
+  },
+  {
+    "rank": 96,
+    "fullName": "Espérance Sportive de Tunis",
+    "shortName": "Espérance",
+    "country": "Tunisia",
+    "continent": "Africa",
+    "confederation": "CAF",
+    "explanation": "Tunisia’s top club; multiple CAF Champions League titles."
+  },
+  {
+    "rank": 97,
+    "fullName": "Étoile Sportive du Sahel",
+    "shortName": "Étoile du Sahel",
+    "country": "Tunisia",
+    "continent": "Africa",
+    "confederation": "CAF",
+    "explanation": "One of Tunisia’s elite clubs; won all major CAF competitions."
+  },
+  {
+    "rank": 98,
+    "fullName": "Raja Club Athletic",
+    "shortName": "Raja Casablanca",
+    "country": "Morocco",
+    "continent": "Africa",
+    "confederation": "CAF",
+    "explanation": "Renowned Moroccan side; multiple CAF Champions League titles."
+  },
+  {
+    "rank": 99,
+    "fullName": "Wydad Athletic Club",
+    "shortName": "Wydad Casablanca",
+    "country": "Morocco",
+    "continent": "Africa",
+    "confederation": "CAF",
+    "explanation": "Historic Casablanca club; multiple domestic and African titles."
+  },
+  {
+    "rank": 100,
+    "fullName": "Tout Puissant Mazembe",
+    "shortName": "TP Mazembe",
+    "country": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "confederation": "CAF",
+    "explanation": "Five-time African champions; reached FIFA Club World Cup final."
+  },
+  {
+    "rank": 101,
+    "fullName": "Association Sportive Vita Club",
+    "shortName": "AS Vita Club",
+    "country": "Democratic Republic of the Congo",
+    "continent": "Africa",
+    "confederation": "CAF",
+    "explanation": "Prominent DR Congo club; strong CAF Champions League history."
+  },
+  {
+    "rank": 102,
+    "fullName": "Kaizer Chiefs Football Club",
+    "shortName": "Kaizer Chiefs",
+    "country": "South Africa",
+    "continent": "Africa",
+    "confederation": "CAF",
+    "explanation": "One of South Africa’s most popular clubs; regular continental contender."
+  },
+  {
+    "rank": 103,
+    "fullName": "Mamelodi Sundowns Football Club",
+    "shortName": "Mamelodi Sundowns",
+    "country": "South Africa",
+    "continent": "Africa",
+    "confederation": "CAF",
+    "explanation": "CAF Champions League winners in 2016; dominant in South Africa."
+  },
+  {
+    "rank": 104,
+    "fullName": "Al-Merrikh Sporting Club",
+    "shortName": "Al-Merrikh",
+    "country": "Sudan",
+    "continent": "Africa",
+    "confederation": "CAF",
+    "explanation": "Historically significant Sudanese club; intense rivalry with Al-Hilal."
+  },
+  {
+    "rank": 105,
+    "fullName": "Al-Hilal Club (Omdurman)",
+    "shortName": "Al-Hilal Omdurman",
+    "country": "Sudan",
+    "continent": "Africa",
+    "confederation": "CAF",
+    "explanation": "Consistent CAF Champions League participant; top Sudanese side."
+  },
+  {
+    "rank": 106,
+    "fullName": "Jeunesse Sportive de Kabylie",
+    "shortName": "JS Kabylie",
+    "country": "Algeria",
+    "continent": "Africa",
+    "confederation": "CAF",
+    "explanation": "Algeria’s most successful club; multiple African cup wins."
+  },
+  {
+    "rank": 107,
+    "fullName": "Enyimba International Football Club",
+    "shortName": "Enyimba",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "confederation": "CAF",
+    "explanation": "Nigeria’s foremost club; two-time CAF Champions League winners."
+  },
+  {
+    "rank": 108,
+    "fullName": "Asante Kotoko Sporting Club",
+    "shortName": "Asante Kotoko",
+    "country": "Ghana",
+    "continent": "Africa",
+    "confederation": "CAF",
+    "explanation": "Two-time African champions; among Ghana’s most historic clubs."
+  },
+  {
+    "rank": 109,
+    "fullName": "Club de Fútbol América S.A. de C.V.",
+    "shortName": "Club América",
+    "country": "Mexico",
+    "continent": "North/Central America and Caribbean",
+    "confederation": "CONCACAF",
+    "explanation": "Mexico’s most successful club in CONCACAF Champions League titles."
+  },
+  {
+    "rank": 110,
+    "fullName": "Club Deportivo Guadalajara",
+    "shortName": "Chivas",
+    "country": "Mexico",
+    "continent": "North/Central America and Caribbean",
+    "confederation": "CONCACAF",
+    "explanation": "Famed for fielding only Mexican players; highly popular domestically."
+  },
+  {
+    "rank": 111,
+    "fullName": "Club Deportivo Social y Cultural Cruz Azul",
+    "shortName": "Cruz Azul",
+    "country": "Mexico",
+    "continent": "North/Central America and Caribbean",
+    "confederation": "CONCACAF",
+    "explanation": "Historic Mexican club; multiple CONCACAF Champions League triumphs."
+  },
+  {
+    "rank": 112,
+    "fullName": "Club Universidad Nacional A.C.",
+    "shortName": "Pumas UNAM",
+    "country": "Mexico",
+    "continent": "North/Central America and Caribbean",
+    "confederation": "CONCACAF",
+    "explanation": "Well-known for its youth system; multiple continental titles."
+  },
+  {
+    "rank": 113,
+    "fullName": "Club de Fútbol Monterrey",
+    "shortName": "Monterrey",
+    "country": "Mexico",
+    "continent": "North/Central America and Caribbean",
+    "confederation": "CONCACAF",
+    "explanation": "One of the region’s strongest clubs in recent years; multiple CONCACAF titles."
+  },
+  {
+    "rank": 114,
+    "fullName": "Los Angeles Galaxy",
+    "shortName": "LA Galaxy",
+    "country": "United States",
+    "continent": "North/Central America and Caribbean",
+    "confederation": "CONCACAF",
+    "explanation": "Flagship MLS club; won five MLS Cups; famous for high-profile signings."
+  },
+  {
+    "rank": 115,
+    "fullName": "D.C. United",
+    "shortName": "D.C. United",
+    "country": "United States",
+    "continent": "North/Central America and Caribbean",
+    "confederation": "CONCACAF",
+    "explanation": "Early MLS powerhouse; multiple MLS Cups and a CONCACAF Champions Cup."
+  },
+  {
+    "rank": 116,
+    "fullName": "New York Cosmos",
+    "shortName": "New York Cosmos",
+    "country": "United States",
+    "continent": "North/Central America and Caribbean",
+    "confederation": "CONCACAF",
+    "explanation": "Historic NASL club famous for signing Pelé and other stars in the 1970s."
+  },
+  {
+    "rank": 117,
+    "fullName": "Deportivo Saprissa",
+    "shortName": "Saprissa",
+    "country": "Costa Rica",
+    "continent": "North/Central America and Caribbean",
+    "confederation": "CONCACAF",
+    "explanation": "Costa Rica’s most successful club; strong continental record."
+  },
+  {
+    "rank": 118,
+    "fullName": "Liga Deportiva Alajuelense",
+    "shortName": "Alajuelense",
+    "country": "Costa Rica",
+    "continent": "North/Central America and Caribbean",
+    "confederation": "CONCACAF",
+    "explanation": "Historic Costa Rican side; multiple domestic and regional honors."
+  },
+  {
+    "rank": 119,
+    "fullName": "Club de Fútbol Pachuca",
+    "shortName": "Pachuca",
+    "country": "Mexico",
+    "continent": "North/Central America and Caribbean",
+    "confederation": "CONCACAF",
+    "explanation": "One of Mexico’s oldest clubs; successful in continental competitions."
+  },
+  {
+    "rank": 120,
+    "fullName": "Club Deportivo Olimpia",
+    "shortName": "Olimpia (Honduras)",
+    "country": "Honduras",
+    "continent": "North/Central America and Caribbean",
+    "confederation": "CONCACAF",
+    "explanation": "Honduran giant; multiple domestic and regional championships."
+  },
+  {
+    "rank": 121,
+    "fullName": "Comunicaciones Fútbol Club",
+    "shortName": "Comunicaciones",
+    "country": "Guatemala",
+    "continent": "North/Central America and Caribbean",
+    "confederation": "CONCACAF",
+    "explanation": "Guatemala’s most successful club; strong local dominance."
+  },
+  {
+    "rank": 122,
+    "fullName": "Club Deportivo FAS",
+    "shortName": "FAS",
+    "country": "El Salvador",
+    "continent": "North/Central America and Caribbean",
+    "confederation": "CONCACAF",
+    "explanation": "El Salvador’s most successful club; multiple league titles and regional success."
   },
   {
     "rank": 123,
-    "fullName": "Muangthong United Football Club",
-    "shortName": "Muangthong United",
-    "country": "Thailand",
-    "continent": "Asia",
-    "confederation": "AFC",
-    "explanation": "Thai League club benefiting from strong support and domestic success."
+    "fullName": "Defence Force Football Club",
+    "shortName": "Defence Force",
+    "country": "Trinidad and Tobago",
+    "continent": "North/Central America and Caribbean",
+    "confederation": "CONCACAF",
+    "explanation": "Historic Caribbean club; CONCACAF Champions Cup winners in the 1970s."
   },
   {
     "rank": 124,
-    "fullName": "Buriram United Football Club",
-    "shortName": "Buriram United",
-    "country": "Thailand",
-    "continent": "Asia",
-    "confederation": "AFC",
-    "explanation": "Dominant Thai club, consistently challenging in Southeast Asian competitions."
-  },
-  {
-    "rank": 125,
     "fullName": "Auckland City Football Club",
     "shortName": "Auckland City",
     "country": "New Zealand",
     "continent": "Oceania",
     "confederation": "OFC",
-    "explanation": "Multiple OFC Champions League titles, record-breaker at the FIFA Club World Cup."
+    "explanation": "Dominant Oceania side; frequent FIFA Club World Cup participant."
   },
   {
-    "rank": 126,
+    "rank": 125,
     "fullName": "Waitakere United",
-    "shortName": "Waitakere United",
+    "shortName": "Waitakere",
     "country": "New Zealand",
     "continent": "Oceania",
     "confederation": "OFC",
-    "explanation": "Fierce NZ rival to Auckland City, also successful in OFC competitions."
+    "explanation": "Multiple OFC Champions League titles; strong New Zealand club."
+  },
+  {
+    "rank": 126,
+    "fullName": "Association Sportive Pirae",
+    "shortName": "AS Pirae",
+    "country": "Tahiti",
+    "continent": "Oceania",
+    "confederation": "OFC",
+    "explanation": "Tahiti’s representative in OFC competitions; known for regional upsets."
   },
   {
     "rank": 127,
-    "fullName": "Hienghène Sport",
-    "shortName": "Hienghène",
-    "country": "New Caledonia",
+    "fullName": "Hekari United Football Club",
+    "shortName": "Hekari United",
+    "country": "Papua New Guinea",
     "continent": "Oceania",
     "confederation": "OFC",
-    "explanation": "Surprise winners of the 2019 OFC Champions League, representing New Caledonia."
+    "explanation": "First Papua New Guinea club to win the OFC Champions League (2010)."
   },
   {
     "rank": 128,
-    "fullName": "Association Sportive Magenta",
-    "shortName": "AS Magenta",
-    "country": "New Caledonia",
+    "fullName": "Ba Football Club",
+    "shortName": "Ba FC",
+    "country": "Fiji",
     "continent": "Oceania",
     "confederation": "OFC",
-    "explanation": "Regular competitor in Oceania’s top club competition, adding diversity to OFC representation."
+    "explanation": "Fiji’s most successful club; regular participants in OFC competitions."
   }
 ]
