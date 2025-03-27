@@ -1,0 +1,545 @@
+{
+  "year": 2008,
+  "coach": {
+    "name": "Viliame Naupoto",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 75,
+        "defensiveStrategy": 82,
+        "tacticalAdaptability": 78,
+        "pressing": 70,
+        "transitionPlay": 74
+      },
+      "management": {
+        "motivation": 80,
+        "lockerRoomManagement": 77,
+        "discipline": 85
+      },
+      "media": {
+        "mediaInteraction": 68,
+        "crisisManagement": 72
+      }
+    }
+  },
+  "formation": "4-3-3",
+  "players": [
+    {
+      "name": "Simione Mataika",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 70,
+          "strength": 65,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 55,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 70,
+          "finishing": 10,
+          "heading": 20,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 88,
+          "oneOnOne": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Savenaca Baledrokadroka",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 83,
+          "stamina": 79,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 78,
+          "finishing": 50,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 72,
+          "defensiveSupport": 78
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Josefa Vula",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 80,
+          "creativity": 65,
+          "aggressiveness": 75,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 72,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 90
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Ratu Manoa",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 80,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 50,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 65,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 80,
+          "aerialDuels": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Inia Vethanakula",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 68,
+          "creativity": 65,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 78,
+          "finishing": 40,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 75,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Ratu Satala",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 78,
+          "strength": 74,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 62,
+          "creativity": 55,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 80,
+          "tackling": 83
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Roy Krishna",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 65,
+          "creativity": 82,
+          "aggressiveness": 60,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 80,
+          "distribution": 78
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Manasa Qio",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 78,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 65,
+          "heading": 60,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Semi Tabua",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 88,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 50,
+          "creativity": 78,
+          "aggressiveness": 68,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 75,
+          "finishing": 70,
+          "heading": 60,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 85,
+          "keyPass": 78
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Peni Matanitobua",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 68,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 75,
+          "finishing": 68,
+          "heading": 55,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 86,
+          "keyPass": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Timoci Damu",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 60,
+          "creativity": 65,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 77,
+          "passing": 70,
+          "finishing": 85,
+          "heading": 80,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 83,
+          "aerialDuels": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Opeta Tale",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 65,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 50,
+          "aggressiveness": 50,
+          "teamwork": 70
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 60,
+          "finishing": 30,
+          "heading": 55,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 80,
+          "oneOnOne": 78
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Viliame Nawadra",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 65,
+          "creativity": 50,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 60,
+          "passing": 65,
+          "finishing": 40,
+          "heading": 80,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 80,
+          "aerialDuels": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Sakiusa Waqa",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 65,
+          "heading": 60,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 82,
+          "distribution": 83
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Vakarau Vunivalu",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 82,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 60,
+          "creativity": 85,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 87,
+          "passing": 80,
+          "finishing": 75,
+          "heading": 68,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 88,
+          "keyPass": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Jone Ratu",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 75,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 60,
+          "creativity": 68,
+          "aggressiveness": 74,
+          "teamwork": 70
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 65,
+          "finishing": 82,
+          "heading": 80,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 85,
+          "aerialDuels": 83
+        },
+        "specialSkill": "None"
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 68,
+    "staminaBoost": 64,
+    "injuryPrevention": 70,
+    "medicalResponse": 72
+  }
+}
