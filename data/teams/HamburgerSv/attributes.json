@@ -1,0 +1,513 @@
+{
+  "year": 1983,
+  "coach": {
+    "name": "Ernst Happel",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 78,
+        "defensiveStrategy": 88,
+        "tacticalAdaptability": 92,
+        "pressing": 80,
+        "transitionPlay": 85
+      },
+      "management": {
+        "motivation": 90,
+        "lockerRoomManagement": 85,
+        "discipline": 95
+      },
+      "media": {
+        "mediaInteraction": 70,
+        "crisisManagement": 85
+      }
+    }
+  },
+  "formation": "4-3-3",
+  "players": [
+    {
+      "name": "Uli Stein",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 50,
+          "stamina": 70,
+          "strength": 65,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 60,
+          "passing": 65,
+          "finishing": 30,
+          "heading": 55,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 80,
+          "oneOnOne": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Manfred Kaltz",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 80,
+          "aggressiveness": 75,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 80,
+          "finishing": 65,
+          "heading": 75,
+          "marking": 78
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 88,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "CrossingExpert"
+      }
+    },
+    {
+      "name": "Gerd Schock",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 78,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 86,
+          "aerialDuels": 90
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Friedhelm Funkel",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 65,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 90,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Bernd Wehmeyer",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 78,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 68,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 78,
+          "finishing": 50,
+          "heading": 70,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 70,
+          "defensiveSupport": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Felix Magath",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Ewald Lienen",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 80,
+          "creativity": 78,
+          "aggressiveness": 80,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 80,
+          "finishing": 65,
+          "heading": 68,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 84,
+          "distribution": 80
+        },
+        "specialSkill": "TacticalBrain"
+      }
+    },
+    {
+      "name": "Wolfgang Rolff",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 70,
+          "creativity": 85,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 86,
+          "passing": 84,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 78,
+          "throughPassing": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Klaus Allofs",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 82,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 88,
+          "heading": 80,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 88,
+          "keyPass": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Thomas von Heesen",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 70,
+          "leadership": 60,
+          "creativity": 80,
+          "aggressiveness": 65,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 78,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 85,
+          "keyPass": 78
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Horst Hrubesch",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 85,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 65,
+          "aggressiveness": 80,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 75,
+          "finishing": 90,
+          "heading": 95,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 90,
+          "aerialDuels": 95
+        },
+        "specialSkill": "AerialDominance"
+      }
+    },
+    {
+      "name": "Bernd Hölzenbein",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 88,
+          "aggressiveness": 72,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 82,
+          "finishing": 75,
+          "heading": 68,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 78,
+          "throughPassing": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Peter Nogly",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 83
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Andreas Brehme",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 75,
+          "aggressiveness": 80,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 78,
+          "finishing": 68,
+          "heading": 75,
+          "marking": 77
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 85,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Horst Schade",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 80,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 83,
+          "leadership": 70,
+          "creativity": 65,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 72,
+          "passing": 75,
+          "finishing": 45,
+          "heading": 68,
+          "marking": 76
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 82,
+          "tackling": 80
+        },
+        "specialSkill": "None"
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 75,
+    "staminaBoost": 70,
+    "injuryPrevention": 65,
+    "medicalResponse": 68
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "foundationDate": "29 September 1887",
+  "city": "Hamburg",
+  "fullName": "Hamburger Sport-Verein e.V.",
+  "shortName": "HSV",
+  "stadium": {
+    "name": "Volksparkstadion",
+    "capacity": 57000
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/hamburgersv/",
+    "tiktok": "https://www.tiktok.com/@hamburgersv"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 0, 0)"
+    },
+    "away": {
+      "bgColor": "rgb(0, 51, 102)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}
