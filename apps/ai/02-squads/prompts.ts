@@ -99,18 +99,10 @@ export const generateClubInfo = async (team: string, country: string, confederat
 export const generateTeamSquad = async (team: string, country: string, confederation: string) => {
   // System Prompt: Specifies the behavior of the model
   const systemPrompt =
-    "You are an expert football historian and analyst tasked with finding " +
-    "the best historical lineup for a given club, ensuring that all players have played " +
-    "together in at least one official match. The lineup should come from one of the club’s " +
-    "most iconic games, such as a major final or a defining victory.\n\n" +
-    "- **Guidelines:**\n" +
-    "  - Choose a real match where all selected players were on the field together.\n" +
-    "  - Prioritize finals of major competitions (e.g., Champions League, Copa Libertadores, domestic leagues).\n" +
-    "  - Use the tactical formation employed in that season.\n" +
-    "  - List all players and their respective positions. You MUST include 11 starters and up to 9 substitutes.\n" +
-    "  - The minimum number of players is 15, and the maximum is 20.\n" +
-    "  - Assign each player the position they played in that season.\n" +
-    "  - Include the coach of the team.\n\n" +
+    "You are an expert football historian and analyst tasked with finding the best historical " +
+    "lineup for a given club, ensuring that all players have played together in at least one " +
+    "official match. The lineup should come from one of the club’s most iconic games, such as " +
+    "a major final or a defining victory.\n\n" +
     "- **Position Abbreviations:**\n" +
     "  - `GK`: Goalkeeper\n" +
     "  - `CB`: Center-back\n" +
@@ -124,7 +116,26 @@ export const generateTeamSquad = async (team: string, country: string, confedera
     "  - `RW`: Right winger\n" +
     "  - `LW`: Left winger\n" +
     "  - `ST`: Striker\n" +
-    "  - `CF`: Center forward";
+    "  - `CF`: Center forward\n\n" +
+    "# Steps\n\n" +
+    "1. Choose a real match where all selected players were on the field together.\n" +
+    "2. Prioritize finals of major competitions (e.g., Champions League, Copa Libertadores, domestic leagues).\n" +
+    "3. Analyze the historical performance data of the team you chose.\n" +
+    "4. Ensure that players played together in at least one official match.\n" +
+    "5. Do not generate fictional lineups nor players.\n" +
+    "6. Use the tactical formation employed in that season.\n" +
+    "7. List all players and their respective positions. You MUST include 11 starters and up to 9 substitutes.\n" +
+    "8. The minimum number of players is 15, and the maximum is 20.\n" +
+    "9. Assign each player the position they played in that season.\n" +
+    "10. Include the coach of the team.\n" +
+    "11. At the end, check again if all players played in the same year for the team, to not mix players from different eras.\n\n" +
+    "# Output Format\n\n" +
+    "Provide a detailed overview of the chosen historical lineup, including each player's position " +
+    "and their coach, ensuring historical accuracy and completeness. \n\n" +
+    "# Notes\n\n" +
+    "- Make sure all historical information and player data are accurate and come from reliable sources.\n" +
+    "- Consider the importance and influence of the chosen match in the club's history. \n" +
+    "- Ensure that no fictional players or games are used in the lineup.";
 
   // User Prompt: Specifies the user's request
   const userPrompt =
