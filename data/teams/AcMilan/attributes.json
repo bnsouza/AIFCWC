@@ -1,0 +1,385 @@
+{
+  "year": 2007,
+  "coach": {
+    "name": "Carlo Ancelotti",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 85,
+        "defensiveStrategy": 80,
+        "tacticalAdaptability": 90,
+        "pressing": 65,
+        "transitionPlay": 75
+      },
+      "management": {
+        "motivation": 90,
+        "lockerRoomManagement": 95,
+        "discipline": 80
+      },
+      "media": {
+        "mediaInteraction": 85,
+        "crisisManagement": 80
+      }
+    }
+  },
+  "formation": "4-4-1-1",
+  "players": [
+    {
+      "name": "Dida",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 50,
+          "stamina": 70,
+          "strength": 65,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 92,
+          "leadership": 85,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 70,
+          "finishing": 10,
+          "heading": 55,
+          "marking": 75
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 92,
+          "oneOnOne": 85
+        },
+        "specialSkill": "GoldenGlove"
+      }
+    },
+    {
+      "name": "Maicon",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 82,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 78,
+          "finishing": 60,
+          "heading": 72,
+          "marking": 75
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 88,
+          "defensiveSupport": 75
+        },
+        "specialSkill": "CrossingExpert"
+      }
+    },
+    {
+      "name": "Alessandro Nesta",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 80,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 95,
+          "leadership": 85,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 50,
+          "heading": 80,
+          "marking": 93
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 95,
+          "aerialDuels": 85
+        },
+        "specialSkill": "CompleteDefender"
+      }
+    },
+    {
+      "name": "Paolo Maldini",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 95,
+          "leadership": 95,
+          "creativity": 70,
+          "aggressiveness": 85,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 85,
+          "finishing": 40,
+          "heading": 88,
+          "marking": 95
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 95,
+          "aerialDuels": 90
+        },
+        "specialSkill": "CompleteDefender"
+      }
+    },
+    {
+      "name": "Cafu",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 90,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 85,
+          "creativity": 80,
+          "aggressiveness": 80,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 60,
+          "heading": 75,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 85,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "Captain"
+      }
+    },
+    {
+      "name": "Gennaro Gattuso",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 85,
+          "strength": 80,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 90,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 60,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 85,
+          "tackling": 88
+        },
+        "specialSkill": "TacklingMachine"
+      }
+    },
+    {
+      "name": "Andrea Pirlo",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 65,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 95,
+          "leadership": 80,
+          "creativity": 90,
+          "aggressiveness": 50,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 92,
+          "passing": 95,
+          "finishing": 75,
+          "heading": 60,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 95,
+          "distribution": 93
+        },
+        "specialSkill": "DeepLyingPlaymaker"
+      }
+    },
+    {
+      "name": "Clarence Seedorf",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 85,
+          "creativity": 92,
+          "aggressiveness": 75,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 88,
+          "finishing": 75,
+          "heading": 70,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 90,
+          "distribution": 87
+        },
+        "specialSkill": "MidfieldMaestro"
+      }
+    },
+    {
+      "name": "Massimo Ambrosini",
+      "position": "LM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 82,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 70,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 80,
+          "finishing": 65,
+          "heading": 70,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LM",
+          "vision": 78,
+          "crossing": 72
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Kaká",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 80,
+          "creativity": 95,
+          "aggressiveness": 60,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 92,
+          "passing": 90,
+          "finishing": 85,
+          "heading": 65,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 88,
+          "throughPassing": 90
+        },
+        "specialSkill": "Playmaker"
+      }
+    },
+    {
+      "name": "Filippo Inzaghi",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 75,
+          "creativity": 60,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 55,
+          "finishing": 90,
+          "heading": 80,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 90,
+          "aerialDuels": 85
+        },
+        "specialSkill": "FoxInTheBox"
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 85,
+    "staminaBoost": 80,
+    "injuryPrevention": 83,
+    "medicalResponse": 87
+  }
+}

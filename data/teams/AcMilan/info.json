@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1899-12-16",
+  "city": "Milan",
+  "fullName": "Associazione Calcio Milan",
+  "shortName": "AC Milan",
+  "stadium": {
+    "name": "San Siro",
+    "capacity": 80018
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/acmilan",
+    "tiktok": "https://www.tiktok.com/@acmilan"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(206,17,38)",
+      "fontColor": "rgb(255,255,255)"
+    },
+    "away": {
+      "bgColor": "rgb(255,255,255)",
+      "fontColor": "rgb(0,0,0)"
+    },
+    "alternate": {
+      "bgColor": "rgb(0,0,0)",
+      "fontColor": "rgb(255,255,255)"
+    }
+  }
+}
