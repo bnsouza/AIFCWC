@@ -1,0 +1,68 @@
+{
+  "year": 2019,
+  "coach": "Jorge Jesus",
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "name": "Diego Alves",
+      "position": "GK"
+    },
+    {
+      "name": "Rafinha",
+      "position": "RB"
+    },
+    {
+      "name": "Rodrigo Caio",
+      "position": "CB"
+    },
+    {
+      "name": "Gustavo Henrique",
+      "position": "CB"
+    },
+    {
+      "name": "Filipe Luís",
+      "position": "LB"
+    },
+    {
+      "name": "Willian Arão",
+      "position": "CDM"
+    },
+    {
+      "name": "Gerson",
+      "position": "CDM"
+    },
+    {
+      "name": "Everton Ribeiro",
+      "position": "RM"
+    },
+    {
+      "name": "Arrascaeta",
+      "position": "CAM"
+    },
+    {
+      "name": "Bruno Henrique",
+      "position": "LM"
+    },
+    {
+      "name": "Gabriel Barbosa",
+      "position": "ST"
+    },
+    {
+      "name": "Matheuzinho",
+      "position": "GK"
+    },
+    {
+      "name": "Léo Pereira",
+      "position": "CB"
+    },
+    {
+      "name": "Vitinho",
+      "position": "CM"
+    },
+    {
+      "name": "Pedro",
+      "position": "ST"
+    }
+  ],
+  "explanation": "The selected lineup is taken from Flamengo’s 2019 Copa Libertadores final – one of the most defining matches in the club’s history. In that historic encounter, Flamengo beat River Plate to win its second Libertadores title, cementing a status of peak performance under coach Jorge Jesus. The starting XI featured a balanced and dynamic 4-2-3-1 formation with star players like Diego Alves in goal; a robust defensive partnership with Rodrigo Caio and Gustavo Henrique; full‐backs Rafinha and Filipe Luís providing width; a double pivot of Willian Arão and Gerson offering solidity; and an electrifying attacking trio of Everton Ribeiro, Arrascaeta, and Bruno Henrique supporting Gabriel Barbosa up front. The carefully chosen substitutes – Matheuzinho, Léo Pereira, Vitinho, and Pedro – all were integral parts of that match’s squad, guaranteeing that every official player on the field shared that unforgettable night. This lineup not only represents Flamengo at its tactical and technical best but also symbolizes a turning point in modern South American club football."
+}

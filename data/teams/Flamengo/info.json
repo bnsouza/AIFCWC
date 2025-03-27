@@ -1,0 +1,28 @@
+{
+  "foundationDate": "November 17, 1895",
+  "city": "Rio de Janeiro",
+  "fullName": "Clube de Regatas do Flamengo",
+  "shortName": "Flamengo",
+  "stadium": {
+    "name": "Maracanã Stadium",
+    "capacity": 78838
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/flamengo/",
+    "tiktok": "https://www.tiktok.com/@flamengo"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(204,0,0)",
+      "fontColor": "rgb(255,255,255)"
+    },
+    "away": {
+      "bgColor": "rgb(255,255,255)",
+      "fontColor": "rgb(0,0,0)"
+    },
+    "alternate": {
+      "bgColor": "rgb(0,0,0)",
+      "fontColor": "rgb(255,255,255)"
+    }
+  }
+}

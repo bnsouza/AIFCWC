@@ -1,0 +1,513 @@
+{
+  "year": 2019,
+  "coach": {
+    "name": "Jorge Jesus",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 92,
+        "defensiveStrategy": 84,
+        "tacticalAdaptability": 88,
+        "pressing": 80,
+        "transitionPlay": 86
+      },
+      "management": {
+        "motivation": 90,
+        "lockerRoomManagement": 85,
+        "discipline": 75
+      },
+      "media": {
+        "mediaInteraction": 82,
+        "crisisManagement": 87
+      }
+    }
+  },
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "name": "Diego Alves",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 50,
+          "stamina": 70,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 50,
+          "aggressiveness": 55,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 60,
+          "finishing": 30,
+          "heading": 60,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 88,
+          "oneOnOne": 85
+        },
+        "specialSkill": "AcrobaticKeeper"
+      }
+    },
+    {
+      "name": "Rafinha",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 72,
+          "creativity": 75,
+          "aggressiveness": 68,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 78,
+          "defensiveSupport": 75
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Rodrigo Caio",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 78,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 83
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 80,
+          "finishing": 50,
+          "heading": 88,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Gustavo Henrique",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 78,
+          "strength": 82,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 84,
+          "leadership": 70,
+          "creativity": 60,
+          "aggressiveness": 82,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 78,
+          "finishing": 45,
+          "heading": 86,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 87
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Filipe Luís",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 77,
+          "strength": 75,
+          "injuryProne": 60
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 82,
+          "creativity": 70,
+          "aggressiveness": 73,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 60,
+          "heading": 78,
+          "marking": 83
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 75,
+          "defensiveSupport": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Willian Arão",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 80,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 75
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 80,
+          "tackling": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Gerson",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 60,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 80,
+          "finishing": 55,
+          "heading": 60,
+          "marking": 78
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 85,
+          "tackling": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Everton Ribeiro",
+      "position": "RM",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 80,
+          "strength": 60,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 88,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 85,
+          "finishing": 75,
+          "heading": 60,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "RM",
+          "vision": 84,
+          "crossing": 82
+        },
+        "specialSkill": "DribblingMaestro"
+      }
+    },
+    {
+      "name": "Arrascaeta",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 86,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 78,
+          "creativity": 92,
+          "aggressiveness": 70,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 91,
+          "passing": 88,
+          "finishing": 75,
+          "heading": 65,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 84,
+          "throughPassing": 90
+        },
+        "specialSkill": "Playmaker"
+      }
+    },
+    {
+      "name": "Bruno Henrique",
+      "position": "LM",
+      "attributes": {
+        "physical": {
+          "speed": 89,
+          "stamina": 84,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 85,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 87,
+          "passing": 80,
+          "finishing": 78,
+          "heading": 65,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "LM",
+          "vision": 82,
+          "crossing": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Gabriel Barbosa",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 78,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 84,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 72,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 86,
+          "passing": 76,
+          "finishing": 90,
+          "heading": 82,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 88,
+          "aerialDuels": 80
+        },
+        "specialSkill": "ClinicalFinisher"
+      }
+    },
+    {
+      "name": "Matheuzinho",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 70,
+          "strength": 68,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 65,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 70
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 60,
+          "finishing": 20,
+          "heading": 30,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Léo Pereira",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 55,
+          "aggressiveness": 70,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 68,
+          "finishing": 40,
+          "heading": 82,
+          "marking": 84
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 82,
+          "aerialDuels": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Vitinho",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 75,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 81,
+          "passing": 83,
+          "finishing": 68,
+          "heading": 65,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 84,
+          "distribution": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Pedro",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 78,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 75,
+          "finishing": 84,
+          "heading": 80,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 85,
+          "aerialDuels": 82
+        },
+        "specialSkill": "None"
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 88,
+    "staminaBoost": 87,
+    "injuryPrevention": 85,
+    "medicalResponse": 90
+  }
+}
