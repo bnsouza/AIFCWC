@@ -1,0 +1,513 @@
+{
+  "year": 1970,
+  "coach": {
+    "name": "Ernst Happel",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 83,
+        "defensiveStrategy": 92,
+        "tacticalAdaptability": 88,
+        "pressing": 75,
+        "transitionPlay": 80
+      },
+      "management": {
+        "motivation": 85,
+        "lockerRoomManagement": 88,
+        "discipline": 90
+      },
+      "media": {
+        "mediaInteraction": 70,
+        "crisisManagement": 82
+      }
+    }
+  },
+  "formation": "4-3-3",
+  "players": [
+    {
+      "name": "Eddy Pieters Graafland",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 75,
+          "strength": 65,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 40,
+          "aggressiveness": 50,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 55,
+          "finishing": 20,
+          "heading": 50,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "GoldenGlove"
+      }
+    },
+    {
+      "name": "Jaap Oud",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 75,
+          "finishing": 60,
+          "heading": 68,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 72,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Rinus Israël",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 78,
+          "strength": 82,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 88,
+          "creativity": 70,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 78,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 87
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 86,
+          "aerialDuels": 88
+        },
+        "specialSkill": "CompleteDefender"
+      }
+    },
+    {
+      "name": "Bennie Muller",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 88,
+          "aerialDuels": 85
+        },
+        "specialSkill": "CompleteDefender"
+      }
+    },
+    {
+      "name": "Wim van der Perre",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 80,
+          "finishing": 50,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 75,
+          "defensiveSupport": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Willem van Hanegem",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 85,
+          "creativity": 90,
+          "aggressiveness": 70,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 88,
+          "passing": 90,
+          "finishing": 70,
+          "heading": 75,
+          "marking": 75
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 88,
+          "distribution": 90
+        },
+        "specialSkill": "MidfieldMaestro"
+      }
+    },
+    {
+      "name": "Wim Jansen",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Sjaak Troost",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 65,
+          "creativity": 88,
+          "aggressiveness": 60,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 88,
+          "passing": 85,
+          "finishing": 74,
+          "heading": 60,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 80,
+          "throughPassing": 85
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Henk Groot",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 75,
+          "strength": 65,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 72,
+          "leadership": 60,
+          "creativity": 78,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 75,
+          "finishing": 65,
+          "heading": 55,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 82,
+          "keyPass": 78
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Ove Kindvall",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 65,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 75,
+          "finishing": 90,
+          "heading": 75,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 88,
+          "aerialDuels": 78
+        },
+        "specialSkill": "ClinicalFinisher"
+      }
+    },
+    {
+      "name": "Coen Moulijn",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 90,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 85,
+          "finishing": 75,
+          "heading": 65,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 90,
+          "keyPass": 85
+        },
+        "specialSkill": "WingWizard"
+      }
+    },
+    {
+      "name": "Frits Soetekouw",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 65,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 50,
+          "heading": 75,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 70,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Ger de Klerk",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 78,
+          "strength": 75,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 68,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 83,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 83
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Wim van der Gijp",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 70,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 70,
+          "leadership": 65,
+          "creativity": 55,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 40,
+          "heading": 60,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 82,
+          "tackling": 88
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Piet van Reenen",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 60,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 65,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 80,
+          "aerialDuels": 85
+        },
+        "specialSkill": "None"
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 70,
+    "staminaBoost": 68,
+    "injuryPrevention": 65,
+    "medicalResponse": 60
+  }
+}

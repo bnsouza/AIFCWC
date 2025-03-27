@@ -1,0 +1,28 @@
+{
+  "foundationDate": "July 19, 1908",
+  "city": "Rotterdam",
+  "fullName": "Feyenoord Rotterdam",
+  "shortName": "Feyenoord",
+  "stadium": {
+    "name": "De Kuip",
+    "capacity": 51117
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/feyenoord",
+    "tiktok": "https://www.tiktok.com/@feyenoord"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(255,0,0)",
+      "fontColor": "rgb(255,255,255)"
+    },
+    "away": {
+      "bgColor": "rgb(0,0,0)",
+      "fontColor": "rgb(255,255,255)"
+    },
+    "alternate": {
+      "bgColor": "rgb(0,102,204)",
+      "fontColor": "rgb(255,255,255)"
+    }
+  }
+}
