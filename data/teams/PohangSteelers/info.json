@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1973-04-01",
+  "city": "Pohang",
+  "fullName": "Pohang Steelers Football Club",
+  "shortName": "Pohang Steelers",
+  "stadium": {
+    "name": "Pohang Steel Yard",
+    "capacity": 17000
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/pohangsteelers",
+    "tiktok": "https://www.tiktok.com/@pohangsteelers"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(255,0,0)",
+      "fontColor": "rgb(255,255,255)"
+    },
+    "away": {
+      "bgColor": "rgb(0,0,0)",
+      "fontColor": "rgb(255,255,255)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255,255,0)",
+      "fontColor": "rgb(0,0,0)"
+    }
+  }
+}
