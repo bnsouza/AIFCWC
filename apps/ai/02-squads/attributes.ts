@@ -1,137 +1,98 @@
 // ------------------------------------------------------------------------------------------------
 
+import { url } from "inspector";
 import { z } from "zod";
 
 // ------------------------------------------------------------------------------------------------
 // Physical, Mental, and Technical attributes (common to all players)
 export const PhysicalSchema = z.object({
   speed: z.number(),
-  // .min(0).max(100),
   stamina: z.number(),
-  // .min(0).max(100),
   strength: z.number(),
-  // .min(0).max(100),
   injuryProne: z.number(),
-  // .min(0).max(100),
 });
 
 export const MentalSchema = z.object({
   composure: z.number(),
-  // .min(0).max(100),
   leadership: z.number(),
-  // .min(0).max(100),
   creativity: z.number(),
-  // .min(0).max(100),
   aggressiveness: z.number(),
-  // .min(0).max(100),
   teamwork: z.number(),
-  // .min(0).max(100),
 });
 
 export const TechnicalSchema = z.object({
   ballControl: z.number(),
-  // .min(0).max(100),
   passing: z.number(),
-  // .min(0).max(100),
   finishing: z.number(),
-  // .min(0).max(100),
   heading: z.number(),
-  // .min(0).max(100),
   marking: z.number(),
-  // .min(0).max(100),
 });
 
 // Position-specific attributes (fixed for each position)
 export const PositionSpecificSchemaGK = z.object({
   positionType: z.literal("GK"),
   reflexes: z.number(),
-  // .min(0).max(100),
   oneOnOne: z.number(),
-  // .min(0).max(100),
 });
 export const PositionSpecificSchemaCB = z.object({
   positionType: z.literal("CB"),
   positioning: z.number(),
-  // .min(0).max(100),
   aerialDuels: z.number(),
-  // .min(0).max(100),
 });
 export const PositionSpecificSchemaRB = z.object({
   positionType: z.literal("RB"),
   attackingSupport: z.number(),
-  // .min(0).max(100),
   defensiveSupport: z.number(),
-  // .min(0).max(100),
 });
 export const PositionSpecificSchemaLB = z.object({
   positionType: z.literal("LB"),
   attackingSupport: z.number(),
-  // .min(0).max(100),
   defensiveSupport: z.number(),
-  // .min(0).max(100),
 });
 export const PositionSpecificSchemaCDM = z.object({
   positionType: z.literal("CDM"),
   interception: z.number(),
-  // .min(0).max(100),
   tackling: z.number(),
-  // .min(0).max(100),
 });
 export const PositionSpecificSchemaCM = z.object({
   positionType: z.literal("CM"),
   vision: z.number(),
-  // .min(0).max(100),
   distribution: z.number(),
-  // .min(0).max(100),
 });
 export const PositionSpecificSchemaRM = z.object({
   positionType: z.literal("RM"),
   vision: z.number(),
-  // .min(0).max(100),
   crossing: z.number(),
-  // .min(0).max(100),
 });
 export const PositionSpecificSchemaLM = z.object({
   positionType: z.literal("LM"),
   vision: z.number(),
-  // .min(0).max(100),
   crossing: z.number(),
-  // .min(0).max(100),
 });
 export const PositionSpecificSchemaCAM = z.object({
   positionType: z.literal("CAM"),
   longShot: z.number(),
-  // .min(0).max(100),
   throughPassing: z.number(),
-  // .min(0).max(100),
 });
 export const PositionSpecificSchemaRW = z.object({
   positionType: z.literal("RW"),
   dribbling: z.number(),
-  // .min(0).max(100),
   keyPass: z.number(),
-  // .min(0).max(100),
 });
 export const PositionSpecificSchemaLW = z.object({
   positionType: z.literal("LW"),
   dribbling: z.number(),
-  // .min(0).max(100),
   keyPass: z.number(),
-  // .min(0).max(100),
 });
 export const PositionSpecificSchemaST = z.object({
   positionType: z.literal("ST"),
   positioning: z.number(),
-  // .min(0).max(100),
   aerialDuels: z.number(),
-  // .min(0).max(100),
 });
 export const PositionSpecificSchemaCF = z.object({
   positionType: z.literal("CF"),
   offTheBallMovement: z.number(),
-  // .min(0).max(100),
   combinationPlay: z.number(),
-  // .min(0).max(100),
 });
 
 export const PositionSpecificSchema = z.discriminatedUnion("positionType", [
@@ -245,6 +206,39 @@ export const PlayerSchema = z.object({
     positionSpecific: PositionSpecificSchema,
     specialSkill: SpecialSkillSchema,
   }),
+  history: z.object({
+    fullName: z.string(),
+    knownAs: z.string(),
+    birthDate: z.string(),
+    nationality: z.string(),
+    preferredFoot: z.enum(["left", "right", "both"]),
+    height: z.number(),
+    weight: z.number(),
+    career: z.array(
+      z.object({
+        club: z.string(),
+        from: z.number(),
+        to: z.number(),
+        appearances: z.number(),
+        goals: z.number(),
+        assists: z.number(),
+      })
+    ),
+    honours: z.array(z.string()),
+    individualAwards: z.array(z.string()),
+    nationalTeamCaps: z.number(),
+    styleOfPlay: z.string(),
+    legacyQuote: z.string(),
+    rivalries: z.array(z.string()),
+    mentorOf: z.array(z.string()),
+    inspiredBy: z.array(z.string()),
+  }),
+  links: z.array(
+    z.object({
+      url: z.string(),
+      description: z.string(),
+    })
+  ),
 });
 
 // ------------------------------------------------------------------------------------------------
@@ -254,29 +248,19 @@ export const CoachSchema = z.object({
   attributes: z.object({
     tactical: z.object({
       offensiveStrategy: z.number(),
-      // .min(0).max(100),
       defensiveStrategy: z.number(),
-      // .min(0).max(100),
       tacticalAdaptability: z.number(),
-      // .min(0).max(100),
       pressing: z.number(),
-      // .min(0).max(100),
       transitionPlay: z.number(),
-      // .min(0).max(100),
     }),
     management: z.object({
       motivation: z.number(),
-      // .min(0).max(100),
       lockerRoomManagement: z.number(),
-      // .min(0).max(100),
       discipline: z.number(),
-      // .min(0).max(100),
     }),
     media: z.object({
       mediaInteraction: z.number(),
-      // .min(0).max(100),
       crisisManagement: z.number(),
-      // .min(0).max(100),
     }),
   }),
 });
@@ -285,13 +269,9 @@ export const CoachSchema = z.object({
 // Technical Staff Schema
 export const TechnicalStaffSchema = z.object({
   fitnessRecovery: z.number(),
-  // .min(0).max(100),
   staminaBoost: z.number(),
-  // .min(0).max(100),
   injuryPrevention: z.number(),
-  // .min(0).max(100),
   medicalResponse: z.number(),
-  // .min(0).max(100),
 });
 
 // ------------------------------------------------------------------------------------------------

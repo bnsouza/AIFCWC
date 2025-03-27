@@ -356,6 +356,16 @@ export const generatePlayer = async (year: number, team: string, name: string, p
     "- Young players should have developing attributes, not nearing maximum.\n" +
     "- Peak-period players’ stats should reflect their best form.\n" +
     "- Consider historical tactics of the team in that year.\n\n" +
+    "# History\n" +
+    "Provide accurate information about the player's life and career. Focus on:\n" +
+    "- Clubs trajectories and season stats\n" +
+    "- Honours and awards\n" +
+    "- Influence, legacy, style, rivalries\n\n" +
+    "# External Links\n" +
+    "Provide up to 3 high-quality links with a short description for each. Prioritize:\n" +
+    "- Career highlights (ex: YouTube, FIFA, UEFA)\n" +
+    "- Historical articles or interviews\n" +
+    "- Statistical profiles (e.g. Transfermarkt, National-Football-Teams.com)\n\n" +
     "# Notes\n\n" +
     "Ensure profiles align with historical performance analysis and are consistent with " +
     "known team tactics and playing style from the specified year.";
@@ -367,7 +377,8 @@ export const generatePlayer = async (year: number, team: string, name: string, p
     `-  Club: ${team}\n` +
     `-  Year: ${year}\n` +
     `-  Position: ${position}\n\n` +
-    "Use the defined attribute system to generate a well-rounded, realistic player profile. Consider the player’s " +
+    "Use the full schema provided (attributes, history, links). Provide rich but accurate information " +
+    "to generate a well-rounded, realistic player profile. Consider the player’s " +
     "historical performance in that specific year, their strengths, weaknesses, and unique characteristics. " +
     "ONLY assign a Special Skill from the predefined list if the player truly deserves it for their exceptional " +
     "ability or iconic contribution in that specific year. Do not invent new skills, stick to the provided list. " +

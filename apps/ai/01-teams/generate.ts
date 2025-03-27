@@ -9,7 +9,7 @@ import { generateClubsSelection } from "./prompts.js";
 // ------------------------------------------------------------------------------------------------
 // Paths of the files
 const envPath = path.join(path.resolve(), "..", "..", ".env");
-const dataPath = path.join(path.resolve(), "..", "..", "data");
+const dataPath = path.join(path.resolve(), "..", "..", "packages", "data");
 
 // ------------------------------------------------------------------------------------------------
 // Load environment variables

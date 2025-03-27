@@ -17,7 +17,7 @@ import {
 // ------------------------------------------------------------------------------------------------
 // Paths of the files
 const envPath = path.join(path.resolve(), "..", "..", ".env");
-const teamsPath = path.join(path.resolve(), "..", "..", "data", "teams.json");
+const teamsPath = path.join(path.resolve(), "..", "..", "packages", "data", "teams.json");
 
 // ------------------------------------------------------------------------------------------------
 // Load environment variables
@@ -33,7 +33,7 @@ let randomTeam, randomTeamDir;
 
 while (true) {
   randomTeam = teamsData[Math.floor(Math.random() * teamsData.length)];
-  randomTeamDir = path.join(path.resolve(), "..", "..", "data", "teams", pascalCase(randomTeam.shortName));
+  randomTeamDir = path.join(path.resolve(), "..", "..", "packages", "data", "teams", pascalCase(randomTeam.shortName));
 
   if (!fs.existsSync(randomTeamDir)) {
     fs.mkdirSync(randomTeamDir, { recursive: true });
