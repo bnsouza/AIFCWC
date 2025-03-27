@@ -1,0 +1,513 @@
+{
+  "year": 1962,
+  "coach": {
+    "name": "Lula",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 90,
+        "defensiveStrategy": 75,
+        "tacticalAdaptability": 78,
+        "pressing": 82,
+        "transitionPlay": 75
+      },
+      "management": {
+        "motivation": 88,
+        "lockerRoomManagement": 83,
+        "discipline": 77
+      },
+      "media": {
+        "mediaInteraction": 85,
+        "crisisManagement": 80
+      }
+    }
+  },
+  "formation": "4-2-4",
+  "players": [
+    {
+      "name": "Gilmar",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 85,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 30,
+          "heading": 65,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 90,
+          "oneOnOne": 85
+        },
+        "specialSkill": "GoldenGlove"
+      }
+    },
+    {
+      "name": "Zequinha",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 60,
+          "heading": 70,
+          "marking": 75
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 80,
+          "defensiveSupport": 75
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Mauro Ramos",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 85,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 88,
+          "creativity": 70,
+          "aggressiveness": 80,
+          "teamwork": 95
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 80,
+          "finishing": 40,
+          "heading": 88,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 92,
+          "aerialDuels": 90
+        },
+        "specialSkill": "CompleteDefender"
+      }
+    },
+    {
+      "name": "Menecão",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 40,
+          "heading": 80,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Arouca",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 78,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 82,
+          "finishing": 60,
+          "heading": 74,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 80,
+          "defensiveSupport": 86
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Zito",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 85,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 90,
+          "creativity": 80,
+          "aggressiveness": 75,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 88,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 90,
+          "distribution": 88
+        },
+        "specialSkill": "Captain"
+      }
+    },
+    {
+      "name": "Mengálvio",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 68,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 88,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 87,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 88,
+          "distribution": 86
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Pepe",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 85,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 88,
+          "passing": 80,
+          "finishing": 78,
+          "heading": 70,
+          "marking": 45
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 90,
+          "keyPass": 82
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Coutinho",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 90,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 85,
+          "finishing": 83,
+          "heading": 65,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 90,
+          "keyPass": 85
+        },
+        "specialSkill": "SambaStyle"
+      }
+    },
+    {
+      "name": "Pelé",
+      "position": "CF",
+      "attributes": {
+        "physical": {
+          "speed": 92,
+          "stamina": 90,
+          "strength": 87,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 96,
+          "leadership": 88,
+          "creativity": 98,
+          "aggressiveness": 80,
+          "teamwork": 95
+        },
+        "technical": {
+          "ballControl": 98,
+          "passing": 92,
+          "finishing": 99,
+          "heading": 90,
+          "marking": 35
+        },
+        "positionSpecific": {
+          "positionType": "CF",
+          "offTheBallMovement": 98,
+          "combinationPlay": 96
+        },
+        "specialSkill": "CompleteForward"
+      }
+    },
+    {
+      "name": "Edu",
+      "position": "CF",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 85,
+          "strength": 78,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 65,
+          "creativity": 80,
+          "aggressiveness": 75,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 86,
+          "passing": 82,
+          "finishing": 88,
+          "heading": 76,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "CF",
+          "offTheBallMovement": 87,
+          "combinationPlay": 83
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "José Henrique",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 50,
+          "stamina": 60,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 65,
+          "creativity": 40,
+          "aggressiveness": 40,
+          "teamwork": 70
+        },
+        "technical": {
+          "ballControl": 50,
+          "passing": 50,
+          "finishing": 10,
+          "heading": 20,
+          "marking": 10
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Oscar",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 60,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 65,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Toninho Guerreiro",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 70,
+          "creativity": 78,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 88,
+          "finishing": 60,
+          "heading": 68,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 87,
+          "distribution": 86
+        },
+        "specialSkill": "None"
+      }
+    },
+    {
+      "name": "Liro",
+      "position": "CF",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 90,
+          "heading": 75,
+          "marking": 30
+        },
+        "positionSpecific": {
+          "positionType": "CF",
+          "offTheBallMovement": 88,
+          "combinationPlay": 82
+        },
+        "specialSkill": "None"
+      }
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 82,
+    "staminaBoost": 87,
+    "injuryPrevention": 75,
+    "medicalResponse": 70
+  }
+}
