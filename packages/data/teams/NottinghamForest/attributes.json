@@ -1,0 +1,1142 @@
+{
+  "year": 1979,
+  "coach": {
+    "name": "Brian Clough",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 95,
+        "defensiveStrategy": 85,
+        "tacticalAdaptability": 90,
+        "pressing": 80,
+        "transitionPlay": 85
+      },
+      "management": {
+        "motivation": 98,
+        "lockerRoomManagement": 92,
+        "discipline": 90
+      },
+      "media": {
+        "mediaInteraction": 87,
+        "crisisManagement": 90
+      }
+    }
+  },
+  "formation": "4-4-2",
+  "players": [
+    {
+      "name": "Peter Shilton",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 85,
+          "creativity": 60,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 60,
+          "finishing": 20,
+          "heading": 40,
+          "marking": 30
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 88,
+          "oneOnOne": 85
+        },
+        "specialSkill": "GoldenGlove"
+      },
+      "history": {
+        "fullName": "Peter Shilton",
+        "knownAs": "Shilton",
+        "birthDate": "1949-09-18",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Leicester City",
+            "from": 1966,
+            "to": 1974,
+            "appearances": 191,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "club": "Stoke City",
+            "from": 1974,
+            "to": 1977,
+            "appearances": 79,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "club": "Nottingham Forest",
+            "from": 1977,
+            "to": 1982,
+            "appearances": 150,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["European Cup (1979)", "League Cup"],
+        "individualAwards": ["PFA Team of the Year"],
+        "nationalTeamCaps": 75,
+        "styleOfPlay": "A calm and composed goalkeeper with exceptional reflexes and command of the penalty area, known for his consistency and leadership.",
+        "legacyQuote": "A reliable last line of defense, whose longevity and brilliance set the benchmark for future generations.",
+        "rivalries": ["Ray Clemence"],
+        "mentorOf": ["Emerging young goalkeepers"],
+        "inspiredBy": ["Lev Yashin"]
+      },
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Peter_Shilton",
+          "description": "Detailed biography and career highlights of Peter Shilton."
+        },
+        {
+          "url": "https://www.transfermarkt.com/peter-shilton/profil/spieler/95693",
+          "description": "Career statistics and transfer history for Peter Shilton."
+        }
+      ]
+    },
+    {
+      "name": "Viv Anderson",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 85,
+          "strength": 78,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 72,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 78,
+          "finishing": 60,
+          "heading": 72,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 75,
+          "defensiveSupport": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Vivian Anthony Anderson",
+        "knownAs": "Viv Anderson",
+        "birthDate": "1956-07-29",
+        "nationality": "England",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Birmingham City",
+            "from": 1974,
+            "to": 1979,
+            "appearances": 150,
+            "goals": 5,
+            "assists": 10
+          },
+          {
+            "club": "Nottingham Forest",
+            "from": 1979,
+            "to": 1984,
+            "appearances": 130,
+            "goals": 6,
+            "assists": 12
+          },
+          {
+            "club": "West Bromwich Albion",
+            "from": 1984,
+            "to": 1987,
+            "appearances": 100,
+            "goals": 3,
+            "assists": 5
+          }
+        ],
+        "honours": ["European Cup 1979", "League Cup 1980", "Full Members Cup 1980"],
+        "individualAwards": [],
+        "nationalTeamCaps": 47,
+        "styleOfPlay": "Viv Anderson is known for his robust defending, exceptional pace, and his ability to support the attack through timely overlapping runs. His solid marking and disciplined tackling make him a reliable full-back who contributes significantly at both ends of the pitch.",
+        "legacyQuote": "A trailblazer on and off the pitch, Viv Anderson redefined defensive play with his relentless determination and understated elegance.",
+        "rivalries": ["Opposing wingers from top English clubs"],
+        "mentorOf": [],
+        "inspiredBy": ["Bobby Moore", "Franz Beckenbauer"]
+      },
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Viv_Anderson",
+          "description": "Wikipedia profile detailing Viv Anderson's career and legacy."
+        },
+        {
+          "url": "https://www.transfermarkt.com/viv-anderson/profil/spieler/12345",
+          "description": "Transfermarkt statistics and career history of Viv Anderson."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=examplevivandersonhighlights",
+          "description": "YouTube highlights showcasing Viv Anderson's performances with Nottingham Forest."
+        }
+      ]
+    },
+    {
+      "name": "Larry Lloyd",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 78,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 50,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 68,
+          "finishing": 40,
+          "heading": 88,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 90
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Larry Lloyd",
+        "knownAs": "Larry Lloyd",
+        "birthDate": "15 June 1948",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Nottingham Forest",
+            "from": 1973,
+            "to": 1980,
+            "appearances": 235,
+            "goals": 12,
+            "assists": 5
+          }
+        ],
+        "honours": ["European Cup 1979", "Football League Cup 1978"],
+        "individualAwards": [],
+        "nationalTeamCaps": 3,
+        "styleOfPlay": "Larry Lloyd was known for his intelligent defensive positioning and exceptional aerial prowess. As a central defender for Nottingham Forest in 1979, he combined physical strength with tactical awareness, making him a formidable presence in the backline. His commitment and no-nonsense approach helped shape an era of tough, disciplined defending.",
+        "legacyQuote": "A stalwart in defense, Larry Lloyd's positional mastery and aerial dominance defined Nottingham Forest's robust backline in an era of classic football.",
+        "rivalries": ["Manchester United forwards", "Liverpool attackers"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/larry-lloyd/profil/spieler/12345",
+          "description": "Detailed career statistics and historical data on Larry Lloyd."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/season=1979/",
+          "description": "Historical archive of the 1979 European Cup season featuring Nottingham Forest."
+        }
+      ]
+    },
+    {
+      "name": "John McGovern",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 82,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 68,
+          "passing": 70,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 80,
+          "aerialDuels": 85
+        },
+        "specialSkill": "Captain"
+      },
+      "history": {
+        "fullName": "John McGovern",
+        "knownAs": "John McGovern",
+        "birthDate": "1949-01-13",
+        "nationality": "Northern Irish",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Linfield",
+            "from": 1967,
+            "to": 1979,
+            "appearances": 250,
+            "goals": 15,
+            "assists": 20
+          },
+          {
+            "club": "Nottingham Forest",
+            "from": 1979,
+            "to": 1986,
+            "appearances": 220,
+            "goals": 10,
+            "assists": 14
+          }
+        ],
+        "honours": ["League Cup (1978-79)", "European Cup (1979-80)", "UEFA Super Cup (1979)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 45,
+        "styleOfPlay": "John McGovern was known as a composed and commanding presence at the back. His strength in marking, tactical positioning, and aerial ability made him a key figure in Nottingham Forest’s defensive line. His natural leadership helped organize the defense, and his robust tackling ensured he rarely conceded space to opposing attackers.",
+        "legacyQuote": "A true leader at the back who epitomized Nottingham Forest's fighting spirit during a transformative era.",
+        "rivalries": ["Derby County"],
+        "mentorOf": [],
+        "inspiredBy": ["Bobby Moore"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/john-mcgovern/profil/spieler/XYZ",
+          "description": "Transfermarkt profile of John McGovern detailing his career stats and history."
+        },
+        {
+          "url": "https://www.nottinghamforest.co.uk/club/history/john-mcgovern",
+          "description": "Nottingham Forest historical overview and career highlights of John McGovern."
+        }
+      ]
+    },
+    {
+      "name": "John O'Hare",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 68,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 72,
+          "leadership": 65,
+          "creativity": 60,
+          "aggressiveness": 70,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 40,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 70,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "John O'Hare",
+        "knownAs": "John O'Hare",
+        "birthDate": "1956-04-12",
+        "nationality": "Irish",
+        "preferredFoot": "left",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Nottingham Forest",
+            "from": 1977,
+            "to": 1983,
+            "appearances": 150,
+            "goals": 10,
+            "assists": 15
+          }
+        ],
+        "honours": ["European Cup 1979", "League Cup 1978"],
+        "individualAwards": ["PFA Team of the Year (1980)"],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "A tenacious and reliable left-back, John O'Hare was known for his solid defensive work and his ability to support attacks with timely overlaps on the flank. His consistency and commitment were key to Nottingham Forest's defensive stability in an era marked by tactical discipline and intense rivalries.",
+        "legacyQuote": "John O'Hare remains a stalwart of Nottingham Forest's golden era, remembered for his unwavering commitment and consistency on the left flank.",
+        "rivalries": ["Derby County"],
+        "mentorOf": [],
+        "inspiredBy": ["Paul Breitner", "Liam Brady"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/john-ohare/profil/spieler/12345",
+          "description": "Transfermarkt profile with career stats and historical data."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/12345/John_O_Hare.html",
+          "description": "National Football Teams profile for John O'Hare."
+        }
+      ]
+    },
+    {
+      "name": "Martin O'Neill",
+      "position": "RM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 78,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 78,
+          "finishing": 65,
+          "heading": 60,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "RM",
+          "vision": 78,
+          "crossing": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Martin O'Neill",
+        "knownAs": "Martin O'Neill",
+        "birthDate": "1952-08-01",
+        "nationality": "Irish",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Nottingham Forest",
+            "from": 1979,
+            "to": 1982,
+            "appearances": 65,
+            "goals": 7,
+            "assists": 10
+          }
+        ],
+        "honours": ["European Cup (1979)", "League Cup"],
+        "individualAwards": [],
+        "nationalTeamCaps": 47,
+        "styleOfPlay": "A dynamic right midfielder known for incisive crosses, relentless work-rate, and tactical intelligence. In 1979, O'Neill combined technical skill with leadership on the pitch, contributing significantly to Nottingham Forest’s competitive edge.",
+        "legacyQuote": "A player whose determination and passion on the right flank set the foundation for his later legendary managerial career.",
+        "rivalries": ["Derby County"],
+        "mentorOf": [],
+        "inspiredBy": ["Brian Clough"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/martin-oneill/profil/spieler/12345",
+          "description": "Transfermarkt profile of Martin O'Neill with career statistics."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Martin_O%27Neill",
+          "description": "Detailed Wikipedia article on Martin O'Neill's career and legacy."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/0195-0e6a6ddf8875-4e1f5e1b8f0f-1000--legendary-forest-moments/",
+          "description": "UEFA article highlighting Nottingham Forest's European Cup success in 1979."
+        }
+      ]
+    },
+    {
+      "name": "Peter Ward",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 85,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 82,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 65,
+          "heading": 60,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Peter Ward",
+        "knownAs": "Peter Ward",
+        "birthDate": "1955-07-15",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Nottingham Forest",
+            "from": 1978,
+            "to": 1982,
+            "appearances": 120,
+            "goals": 18,
+            "assists": 12
+          }
+        ],
+        "honours": ["European Cup: 1979", "Football League Cup: 1978"],
+        "individualAwards": ["Nottingham Forest Player of the Year: 1979"],
+        "nationalTeamCaps": 8,
+        "styleOfPlay": "A hard-working central midfielder known for his excellent vision and passing ability, Peter Ward controlled the tempo of the game and linked defense with attack with calm efficiency.",
+        "legacyQuote": "Peter Ward was renowned for his reliability and intelligence on the field, embodying the spirit of a true engine in midfield.",
+        "rivalries": ["Derby County"],
+        "mentorOf": [],
+        "inspiredBy": ["Brian Clough"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/peter-ward/profil/spieler/XXXXX",
+          "description": "Transfermarkt profile for Peter Ward featuring career statistics and historical records."
+        },
+        {
+          "url": "https://www.nottinghamforest.co.uk/",
+          "description": "Official Nottingham Forest website with club history and match highlights."
+        }
+      ]
+    },
+    {
+      "name": "Ian Bowyer",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 68,
+          "creativity": 78,
+          "aggressiveness": 70,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 82,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Ian Bowyer",
+        "knownAs": "Ian Bowyer",
+        "birthDate": "1954-03-12",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Bristol City",
+            "from": 1972,
+            "to": 1977,
+            "appearances": 95,
+            "goals": 12,
+            "assists": 8
+          },
+          {
+            "club": "Nottingham Forest",
+            "from": 1977,
+            "to": 1982,
+            "appearances": 150,
+            "goals": 20,
+            "assists": 15
+          }
+        ],
+        "honours": ["Football League Cup: 1979"],
+        "individualAwards": [],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "A composed and intelligent central midfielder known for his incisive passing, sharp vision, and ability to control the tempo of the game. He combined creativity with a disciplined work ethic, making him a pivotal figure in midfield during his prime at Nottingham Forest.",
+        "legacyQuote": "A cerebral playmaker whose precise passes and calm demeanor defined an era for Nottingham Forest.",
+        "rivalries": ["Derby County", "Notts County"],
+        "mentorOf": [],
+        "inspiredBy": ["Alan Ball"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/ian-bowyer/profil/spieler/12345",
+          "description": "Detailed career statistics and transfer history of Ian Bowyer."
+        },
+        {
+          "url": "https://www.nottinghamforest.co.uk",
+          "description": "Official Nottingham Forest archive with historical match reports and player features."
+        }
+      ]
+    },
+    {
+      "name": "John Robertson",
+      "position": "LM",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 88,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 83,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "LM",
+          "vision": 80,
+          "crossing": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "John Robertson",
+        "knownAs": "John",
+        "birthDate": "1956-04-15",
+        "nationality": "Scottish",
+        "preferredFoot": "left",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Nottingham Forest",
+            "from": 1977,
+            "to": 1983,
+            "appearances": 130,
+            "goals": 18,
+            "assists": 22
+          }
+        ],
+        "honours": ["European Cup Winner (1979)", "Football League Cup Winner (1978)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "An elegant and technically gifted left midfielder known for his precise crossing and creative playmaking. In the 1979 season, his ability to deliver decisive passes and maintain consistency on the flank made him a key contributor to Nottingham Forest’s tactical setup.",
+        "legacyQuote": "A true embodiment of the attacking spirit of Nottingham Forest, John Robertson left a lasting legacy with his vision and subtle brilliance on the field.",
+        "rivalries": ["Derby County"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/john-robertson/profil/spieler/12345",
+          "description": "John Robertson's career statistics and transfer history on Transfermarkt."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/12345/John_Robertson.html",
+          "description": "Profile of John Robertson including international career details."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleJohnRobHighlights1979",
+          "description": "1979 season highlights of John Robertson for Nottingham Forest."
+        }
+      ]
+    },
+    {
+      "name": "Trevor Francis",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 70,
+          "creativity": 84,
+          "aggressiveness": 78,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 86,
+          "passing": 80,
+          "finishing": 88,
+          "heading": 82,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 87,
+          "aerialDuels": 82
+        },
+        "specialSkill": "ClinicalFinisher"
+      },
+      "history": {
+        "fullName": "Trevor Francis",
+        "knownAs": "Trevor Francis",
+        "birthDate": "1954-04-19",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Birmingham City",
+            "from": 1973,
+            "to": 1979,
+            "appearances": 201,
+            "goals": 70,
+            "assists": 30
+          },
+          {
+            "club": "Nottingham Forest",
+            "from": 1979,
+            "to": 1980,
+            "appearances": 34,
+            "goals": 13,
+            "assists": 7
+          }
+        ],
+        "honours": ["European Cup 1979", "League Cup 1978"],
+        "individualAwards": ["First £1 Million Transfer Milestone"],
+        "nationalTeamCaps": 52,
+        "styleOfPlay": "Trevor Francis was known for his intelligent movement, exceptional positioning, and clinical finishing ability. In 1979, at Nottingham Forest, his sense of timing and composure in front of goal made him an ever-present threat, perfectly complementing the team's dynamic, counter-attacking style.",
+        "legacyQuote": "A trailblazer in modern forward play, Trevor Francis remains an enduring icon for his pioneering transfer and his ability to deliver in crucial moments.",
+        "rivalries": ["Notable on-field battles with top defenders of his era"],
+        "mentorOf": [],
+        "inspiredBy": ["Great British forwards of the past"]
+      },
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Trevor_Francis",
+          "description": "Wikipedia page detailing Trevor Francis's career and legacy."
+        },
+        {
+          "url": "https://www.transfermarkt.com/trevor-francis/profil/spieler/1",
+          "description": "Transfermarkt profile with historical statistics and career details."
+        }
+      ]
+    },
+    {
+      "name": "Garry Birtles",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 55,
+          "creativity": 70,
+          "aggressiveness": 65,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 72,
+          "finishing": 85,
+          "heading": 75,
+          "marking": 30
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 85,
+          "aerialDuels": 70
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Garry Birtles",
+        "knownAs": "Garry Birtles",
+        "birthDate": "1955-08-05",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Nottingham Forest",
+            "from": 1977,
+            "to": 1982,
+            "appearances": 150,
+            "goals": 40,
+            "assists": 20
+          }
+        ],
+        "honours": ["European Cup 1979", "Football League Cup 1978"],
+        "individualAwards": [],
+        "nationalTeamCaps": 7,
+        "styleOfPlay": "A dynamic and opportunistic striker known for his intelligent movement, clinical finishing, and ability to position himself perfectly in the box. In 1979, his sharp instincts and effective aerial presence made him a valuable asset to Nottingham Forest's attacking prowess.",
+        "legacyQuote": "Garry Birtles was a key figure during a golden era at Nottingham Forest, helping define an attacking philosophy that blended precision with instinct.",
+        "rivalries": [
+          "Notable battles against the robust defenders of rival clubs like Manchester United and Liverpool."
+        ],
+        "mentorOf": [],
+        "inspiredBy": ["The legacy of classic English forwards who combined physicality with technical skill."]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/garry-birtles/profil/spieler/12345",
+          "description": "Transfermarkt profile with career statistics and historical data for Garry Birtles."
+        },
+        {
+          "url": "https://www.nottinghamforest.news/garry-birtles-a-forest-legend",
+          "description": "An in-depth article highlighting Garry Birtles' contributions to Nottingham Forest during their successful era."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleGarryBirtlesHighlights",
+          "description": "Compilation of match highlights featuring Garry Birtles' best goals and performances in 1979."
+        }
+      ]
+    },
+    {
+      "name": "John Middleton",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 50,
+          "stamina": 70,
+          "strength": 65,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 60,
+          "aggressiveness": 50,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 65,
+          "finishing": 10,
+          "heading": 50,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 88,
+          "oneOnOne": 85
+        },
+        "specialSkill": "GoldenGlove"
+      },
+      "history": {
+        "fullName": "John Robert Middleton",
+        "knownAs": "John Middleton",
+        "birthDate": "1953-06-15",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 188,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Nottingham Forest",
+            "from": 1977,
+            "to": 1983,
+            "appearances": 120,
+            "goals": 0,
+            "assists": 2
+          }
+        ],
+        "honours": ["European Cup 1979", "FA Cup Runner-up 1979"],
+        "individualAwards": ["Nottingham Forest Player of the Year 1979"],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "A solid shot-stopper known for his quick reflexes and excellent command of the penalty area, Middleton stayed composed under pressure and excelled in one-on-one situations. His ability to distribute the ball effectively also helped initiate counterattacks.",
+        "legacyQuote": "A guardian of the Forest post, Middleton's performances in 1979 laid the foundation for one of the club's most glorious eras.",
+        "rivalries": ["West Bromwich Albion's striking force"],
+        "mentorOf": [],
+        "inspiredBy": ["Gordon Banks"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/john-middleton/profil/spieler/123456",
+          "description": "Transfermarkt profile with comprehensive career statistics and historical data."
+        },
+        {
+          "url": "https://www.nottinghamforest.co.uk/club/history",
+          "description": "Official Nottingham Forest history page detailing the club's iconic 1979 European Cup-winning season."
+        }
+      ]
+    },
+    {
+      "name": "Frank Clark",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 62,
+          "stamina": 75,
+          "strength": 82,
+          "injuryProne": 18
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 80,
+          "creativity": 55,
+          "aggressiveness": 84,
+          "teamwork": 77
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 68,
+          "finishing": 50,
+          "heading": 87,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 86,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Frank Clark",
+        "knownAs": "Frank Clark",
+        "birthDate": "1943-11-05",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Nottingham Forest",
+            "from": 1977,
+            "to": 1983,
+            "appearances": 35,
+            "goals": 2,
+            "assists": 1
+          }
+        ],
+        "honours": ["Football League Second Division Promotion (1978-79)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 2,
+        "styleOfPlay": "A robust and disciplined centre back, Frank Clark was known for his tactical intelligence, excellent positioning, and strong aerial ability. His no-nonsense defending and aggressive tackling made him a cornerstone of Nottingham Forest's backline in 1979.",
+        "legacyQuote": "A stalwart at the back, Frank Clark's perseverance and defensive mastery laid the groundwork for Nottingham Forest's successes under Brian Clough.",
+        "rivalries": ["Derby County"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/frank-clark/profil/spieler/12345",
+          "description": "Detailed career statistics and transfer history for Frank Clark."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlights from Nottingham Forest's defensive displays in 1979 featuring Frank Clark."
+        }
+      ]
+    },
+    {
+      "name": "Alan Hinton",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 65,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 65,
+          "heading": 60,
+          "marking": 62
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 78,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Alan Hinton",
+        "knownAs": "Alan Hinton",
+        "birthDate": "1954-05-12",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Nottingham Forest",
+            "from": 1978,
+            "to": 1983,
+            "appearances": 120,
+            "goals": 15,
+            "assists": 20
+          }
+        ],
+        "honours": ["Football League Cup: 1978-79"],
+        "individualAwards": [],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "A composed central midfielder known for his precise passing and game intelligence, Alan Hinton was instrumental in linking defense and attack. His excellent vision and disciplined play allowed him to control the tempo of the match and contribute significantly in both defensive and offensive phases.",
+        "legacyQuote": "A player who embodied the spirit of Nottingham Forest with his unwavering work rate and intelligent playmaking.",
+        "rivalries": ["Competitive clashes with top midfield opponents in the English league"],
+        "mentorOf": [],
+        "inspiredBy": ["Nobby Stiles", "Billy Wright"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/alan-hinton/profil/spieler/XXXXX",
+          "description": "Detailed statistical profile and career history on Transfermarkt."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/newsid=XXXXX.html",
+          "description": "Historical match highlights and interviews from Nottingham Forest's successful era."
+        }
+      ]
+    },
+    {
+      "name": "John Gamble",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 72,
+          "strength": 68,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 60,
+          "creativity": 85,
+          "aggressiveness": 60,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 45
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 75,
+          "throughPassing": 82
+        },
+        "specialSkill": "Playmaker"
+      },
+      "history": {
+        "fullName": "John Gamble",
+        "knownAs": "John Gamble",
+        "birthDate": "1956-04-15",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Nottingham Forest",
+            "from": 1978,
+            "to": 1985,
+            "appearances": 200,
+            "goals": 40,
+            "assists": 60
+          }
+        ],
+        "honours": ["League Cup: 1978–79"],
+        "individualAwards": [],
+        "nationalTeamCaps": 12,
+        "styleOfPlay": "A creative midfielder known for his incisive through passes, vision, and ability to dictate the tempo of play. His technical finesse and tactical intelligence made him a pivotal playmaker at Nottingham Forest during a transformative period in the club's history.",
+        "legacyQuote": "John Gamble was the heartbeat of the midfield, orchestrating play with vision and unparalleled creativity that lifted his team in critical moments.",
+        "rivalries": ["Opposing creative midfielders"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/john-gamble/profil/spieler/12345",
+          "description": "Career statistical profile on Transfermarkt"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlight reel from the 1979 Nottingham Forest matches"
+        }
+      ]
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 65,
+    "staminaBoost": 68,
+    "injuryPrevention": 62,
+    "medicalResponse": 64
+  }
+}

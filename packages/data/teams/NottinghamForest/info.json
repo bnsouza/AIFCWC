@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1865-12-01",
+  "city": "Nottingham",
+  "fullName": "Nottingham Forest Football Club",
+  "shortName": "NFFC",
+  "stadium": {
+    "name": "City Ground",
+    "capacity": 30445
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/officialnffc",
+    "tiktok": "https://www.tiktok.com/@officialnffc"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(204,0,0)",
+      "fontColor": "rgb(255,255,255)"
+    },
+    "away": {
+      "bgColor": "rgb(255,255,255)",
+      "fontColor": "rgb(0,0,0)"
+    },
+    "alternate": {
+      "bgColor": "rgb(0,51,102)",
+      "fontColor": "rgb(255,255,255)"
+    }
+  }
+}
