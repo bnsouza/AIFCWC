@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1905-03-10",
+  "city": "London",
+  "fullName": "Chelsea Football Club",
+  "shortName": "Chelsea",
+  "stadium": {
+    "name": "Stamford Bridge",
+    "capacity": 40834
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/chelseafc/",
+    "tiktok": "https://www.tiktok.com/@chelseafc"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(0, 71, 171)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 71, 171)"
+    },
+    "alternate": {
+      "bgColor": "rgb(0, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}
