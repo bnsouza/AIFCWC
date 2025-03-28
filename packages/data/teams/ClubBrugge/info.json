@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1891-11-13",
+  "city": "Bruges",
+  "fullName": "Club Brugge Koninklijke Voetbalvereniging",
+  "shortName": "Club Brugge",
+  "stadium": {
+    "name": "Jan Breydel Stadium",
+    "capacity": 29062
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/clubbrugge",
+    "tiktok": "https://www.tiktok.com/@clubbrugge"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(0, 0, 102)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 0, 0)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 204, 0)",
+      "fontColor": "rgb(0, 0, 0)"
+    }
+  }
+}

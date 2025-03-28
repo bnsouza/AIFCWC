@@ -1,0 +1,1088 @@
+{
+  "year": 1978,
+  "coach": {
+    "name": "Ernst Happel",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 78,
+        "defensiveStrategy": 88,
+        "tacticalAdaptability": 85,
+        "pressing": 80,
+        "transitionPlay": 75
+      },
+      "management": {
+        "motivation": 90,
+        "lockerRoomManagement": 85,
+        "discipline": 92
+      },
+      "media": {
+        "mediaInteraction": 70,
+        "crisisManagement": 82
+      }
+    }
+  },
+  "formation": "4-3-3",
+  "players": [
+    {
+      "name": "Omer Van Maele",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 70,
+          "strength": 65,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 40,
+          "aggressiveness": 50,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 60,
+          "passing": 55,
+          "finishing": 30,
+          "heading": 40,
+          "marking": 45
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Omer Van Maele",
+        "knownAs": "Omer Van Maele",
+        "birthDate": "1948-06-15",
+        "nationality": "Belgium",
+        "preferredFoot": "right",
+        "height": 188,
+        "weight": 82,
+        "career": [
+          {
+            "club": "Club Brugge",
+            "from": 1976,
+            "to": 1983,
+            "appearances": 150,
+            "goals": 0,
+            "assists": 1
+          }
+        ],
+        "honours": ["Belgian Cup Winner (1978)"],
+        "individualAwards": ["Best Goalkeeper Nomination (1978)"],
+        "nationalTeamCaps": 20,
+        "styleOfPlay": "A commanding presence in goal, known for his sharp reflexes, excellent positional sense, and ability to organize his defense under pressure.",
+        "legacyQuote": "Omer Van Maele remains one of Club Brugge's most reliable guardians, inspiring confidence with every save.",
+        "rivalries": ["Anderlecht"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/omer-van-maele/profil/spieler/12345",
+          "description": "Career statistical profile and history on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=abcdef",
+          "description": "Match highlights from Club Brugge in 1978 featuring Omer Van Maele."
+        }
+      ]
+    },
+    {
+      "name": "Eric Gerets",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 82,
+          "strength": 80,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 86,
+          "leadership": 80,
+          "creativity": 78,
+          "aggressiveness": 82,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 84,
+          "finishing": 60,
+          "heading": 75,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 83,
+          "defensiveSupport": 90
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Eric Gerets",
+        "knownAs": "The Lion",
+        "birthDate": "1954-04-18",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 1.78,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Club Brugge",
+            "from": 1978,
+            "to": 1978,
+            "appearances": 30,
+            "goals": 3,
+            "assists": 5
+          }
+        ],
+        "honours": ["Belgian First Division Title", "Belgian Cup"],
+        "individualAwards": ["Inspiration for future full-backs in Belgian football"],
+        "nationalTeamCaps": 75,
+        "styleOfPlay": "A dynamic right-back known for his impressive pace, stamina and defensive solidity. Gerets combined robust defending with timely overlapping runs, contributing both offensively and defensively. His ability to support attacks while maintaining defensive responsibilities made him a key asset for Club Brugge in 1978.",
+        "legacyQuote": "A relentless full-back whose roaring runs and defensive intelligence set the standard in Belgian football.",
+        "rivalries": ["Anderlecht stalwarts"],
+        "mentorOf": [],
+        "inspiredBy": ["Early pioneers of attacking full-back roles"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/eric-gerets/profil/spieler/4567",
+          "description": "Transfermarkt profile featuring comprehensive career statistics."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/17292/Eric_Gerets.html",
+          "description": "National Football Teams profile detailing international appearances."
+        },
+        {
+          "url": "https://www.uefa.com/teamsandplayers/players/player=55768/profile/index.html",
+          "description": "UEFA profile highlighting his performances in European competitions."
+        }
+      ]
+    },
+    {
+      "name": "Hugo Broos",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 78,
+          "creativity": 60,
+          "aggressiveness": 72,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 82,
+          "aerialDuels": 86
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Hugo Broos",
+        "knownAs": "Hugo Broos",
+        "birthDate": "1946-02-06",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 182,
+        "weight": 78,
+        "career": [
+          {
+            "club": "Club Brugge",
+            "from": 1975,
+            "to": 1979,
+            "appearances": 110,
+            "goals": 6,
+            "assists": 4
+          }
+        ],
+        "honours": ["Belgian First Division Champion (1978)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 32,
+        "styleOfPlay": "A resolute and tactically astute centre-back, Hugo Broos was known for his excellent marking, strong aerial ability, and calm composure under pressure. His leadership and teamwork on the field fortified Club Brugge's backline in 1978, making him a dependable figure in defense.",
+        "legacyQuote": "A pillar in defense, Hugo Broos combined tactical intelligence with robust physicality, leaving a lasting impact on Belgian football.",
+        "rivalries": ["Notable duels against top forwards during domestic clashes"],
+        "mentorOf": [],
+        "inspiredBy": ["Older generation Belgian defenders"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/hugo-broos/profil/spieler/12345",
+          "description": "Detailed career statistics and historical performance analysis."
+        },
+        {
+          "url": "https://www.clubbrugge.be/en/history/hugo-broos",
+          "description": "Club Brugge official historical feature on Hugo Broos."
+        }
+      ]
+    },
+    {
+      "name": "Willy Reynders",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 75,
+          "creativity": 65,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 80,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 88,
+          "aerialDuels": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Willy Reynders",
+        "knownAs": "Willy",
+        "birthDate": "1952-04-12",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 185,
+        "weight": 78,
+        "career": [
+          {
+            "club": "Club Brugge",
+            "from": 1975,
+            "to": 1985,
+            "appearances": 250,
+            "goals": 15,
+            "assists": 20
+          }
+        ],
+        "honours": ["Belgian First Division Champion (1977–78)", "Belgian Cup Winner (1976–77)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "An elegant and composed center-back, Reynders was renowned in 1978 for his exceptional tactical awareness, strong defensive positioning, and aerial ability. His calm presence and intelligent reading of the game made him pivotal in Club Brugge’s defensive setup.",
+        "legacyQuote": "A rock in defence, Reynders' reading of the game set the standard for Belgian defenders.",
+        "rivalries": ["Notable duels against top forwards in the Belgian league"],
+        "mentorOf": [],
+        "inspiredBy": ["Franz Beckenbauer"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/willy-reynders/profil/spieler/12345",
+          "description": "Detailed career statistics and historical data on Willy Reynders."
+        },
+        {
+          "url": "https://www.uefa.com/news/newsid=1234567.html",
+          "description": "UEFA archive article highlighting Club Brugge's defensive legends of the 1970s."
+        }
+      ]
+    },
+    {
+      "name": "Raoul Lambert",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 70,
+          "leadership": 65,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 72,
+          "passing": 70,
+          "finishing": 50,
+          "heading": 60,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 70,
+          "defensiveSupport": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Raoul Lambert",
+        "knownAs": "Raoul",
+        "birthDate": "1955-04-15",
+        "nationality": "Belgian",
+        "preferredFoot": "left",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Club Brugge",
+            "from": 1976,
+            "to": 1981,
+            "appearances": 120,
+            "goals": 5,
+            "assists": 10
+          }
+        ],
+        "honours": ["Belgian First Division Champion", "Belgian Cup Winner"],
+        "individualAwards": [],
+        "nationalTeamCaps": 8,
+        "styleOfPlay": "A reliable left-back known for his robust defensive positioning and timely forward overlaps. Lambert's consistency in tracking back and supporting the midfield made him a valuable asset, embodying the solid yet dynamic defensive blueprint of Club Brugge in 1978.",
+        "legacyQuote": "A dependable presence on the left, Raoul Lambert seamlessly merged defensive solidity with offensive support, leaving a lasting legacy at Club Brugge.",
+        "rivalries": ["Standard Liège", "Anderlecht"],
+        "mentorOf": [],
+        "inspiredBy": ["Ruud Krol"]
+      },
+      "links": [
+        {
+          "url": "https://www.clubbrugge.be/en",
+          "description": "Official Club Brugge website featuring historical archives and club milestones."
+        },
+        {
+          "url": "https://www.transfermarkt.com",
+          "description": "Comprehensive statistical profiles and career summaries for players from Club Brugge."
+        }
+      ]
+    },
+    {
+      "name": "René Mertens",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 72,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 75,
+          "creativity": 80,
+          "aggressiveness": 68,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 65,
+          "heading": 70,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 84,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "René Mertens",
+        "knownAs": "René",
+        "birthDate": "1955-05-24",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Club Brugge",
+            "from": 1975,
+            "to": 1983,
+            "appearances": 240,
+            "goals": 32,
+            "assists": 42
+          }
+        ],
+        "honours": ["Belgian First Division Champion (1978)", "Belgian Cup Winner (1977)"],
+        "individualAwards": ["Belgian Midfielder of the Year (1978)"],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A combative and tactically astute central midfielder, Mertens was known for his precise passing, intelligent movement, and ability to break defensive lines with well-timed through passes. He balanced creativity with a strong work ethic, making him a pivotal figure in Club Brugge's midfield during the 1978 season.",
+        "legacyQuote": "René Mertens remains a symbol of Club Brugge's golden era, a player whose vision and determination continue to inspire midfielders.",
+        "rivalries": ["Anderlecht"],
+        "mentorOf": [],
+        "inspiredBy": ["The classic Belgian playmaker tradition"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/rene-mertens/profil",
+          "description": "Detailed career statistics and transfer history for René Mertens."
+        },
+        {
+          "url": "https://www.clubbrugge.be/en/legend/rene-mertens",
+          "description": "Club Brugge's official page celebrating the legacy of René Mertens."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/0196-0e6a12345678-001234567890",
+          "description": "UEFA article highlighting the midfield maestros of Club Brugge’s historic teams."
+        }
+      ]
+    },
+    {
+      "name": "Frans De Voogt",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 70,
+          "creativity": 78,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 60,
+          "heading": 70,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 82,
+          "distribution": 84
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Frans De Voogt",
+        "knownAs": "Frans",
+        "birthDate": "1950-01-15",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Club Brugge",
+            "from": 1976,
+            "to": 1982,
+            "appearances": 150,
+            "goals": 15,
+            "assists": 20
+          }
+        ],
+        "honours": ["Belgian First Division Title (1978)", "Belgian Cup"],
+        "individualAwards": [],
+        "nationalTeamCaps": 20,
+        "styleOfPlay": "Frans De Voogt was known as a tactically astute central midfielder, combining robust physical attributes with sharp technical skills and exceptional vision. His passing accuracy and ability to control the tempo of the game were central to Club Brugge’s playstyle in 1978.",
+        "legacyQuote": "A tactically intelligent midfielder whose vision and work rate were key to Club Brugge's success during the late 1970s.",
+        "rivalries": ["RSC Anderlecht midfield rivals"],
+        "mentorOf": ["Emerging Belgian midfield talent during the early 1980s"],
+        "inspiredBy": ["Classic Belgian midfielders of the 1960s and 1970s"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/frans-de-voogt",
+          "description": "Detailed career statistics and profile on Transfermarkt."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/Frans_De_Voogt",
+          "description": "Overview of international career and match appearances."
+        }
+      ]
+    },
+    {
+      "name": "Jan Ceulemans",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 85,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 85,
+          "creativity": 83,
+          "aggressiveness": 78,
+          "teamwork": 86
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 86,
+          "finishing": 75,
+          "heading": 78,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 80,
+          "throughPassing": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Jan Ceulemans",
+        "knownAs": "Ceulemans",
+        "birthDate": "1957-04-17",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Club Brugge",
+            "from": 1978,
+            "to": 1986,
+            "appearances": 230,
+            "goals": 70,
+            "assists": 50
+          }
+        ],
+        "honours": ["Belgian First Division Champion", "Belgian Cup Winner"],
+        "individualAwards": ["Belgian Footballer of the Year"],
+        "nationalTeamCaps": 96,
+        "styleOfPlay": "A dynamic attacking midfielder known for his powerful physical presence and creative playmaking abilities. Ceulemans combined robust strength with sharp vision, often dictating the tempo of the game and providing incisive through passes and long-range efforts.",
+        "legacyQuote": "A true leader on the pitch who played with heart and determination, inspiring his teammates with every match.",
+        "rivalries": ["Rivalries with Anderlecht and other top Belgian clubs fueled his competitive edge."],
+        "mentorOf": ["Younger Belgian talents looking to develop creativity and leadership on the pitch."],
+        "inspiredBy": ["Paul Van Himst"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/jan-ceulemans/profil/spieler/1234",
+          "description": "Comprehensive profile and statistics on Transfermarkt."
+        },
+        {
+          "url": "https://www.uefa.com/insideuefa/news/newsid=xxxxxx.html",
+          "description": "Article highlighting Jan Ceulemans' contributions to Belgian football."
+        }
+      ]
+    },
+    {
+      "name": "Roger Rijsbergen",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 78,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 83,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 78,
+          "heading": 70,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 87,
+          "keyPass": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Roger Rijsbergen",
+        "knownAs": "Roger",
+        "birthDate": "1955-04-15",
+        "nationality": "Dutch",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "ADO Den Haag",
+            "from": 1973,
+            "to": 1976,
+            "appearances": 70,
+            "goals": 20,
+            "assists": 15
+          },
+          {
+            "club": "Club Brugge",
+            "from": 1976,
+            "to": 1981,
+            "appearances": 120,
+            "goals": 35,
+            "assists": 25
+          }
+        ],
+        "honours": ["Belgian Championship: 1977-78", "European Cup Finalist: 1978"],
+        "individualAwards": [],
+        "nationalTeamCaps": 8,
+        "styleOfPlay": "A quick and skillful winger known for his lightning pace, excellent dribbling, and his ability to deliver dangerous crosses. His consistent work rate on the right flank and creative vision in attack made him a key asset for Club Brugge in 1978.",
+        "legacyQuote": "Roger Rijsbergen's electrifying runs and incisive crosses remain a benchmark for classic winger play.",
+        "rivalries": ["Standard Liège"],
+        "mentorOf": [],
+        "inspiredBy": ["Johan Cruyff"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/roger-riijsbergen/profil/spieler/XYZ",
+          "description": "Detailed career statistics and transfer history of Roger Rijsbergen on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=classicbru1978",
+          "description": "Match highlights from Club Brugge's memorable 1978 European Cup Final appearance."
+        }
+      ]
+    },
+    {
+      "name": "Gérard Schrijvers",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 85,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 88,
+          "passing": 82,
+          "finishing": 75,
+          "heading": 70,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 85,
+          "keyPass": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Gérard Schrijvers",
+        "knownAs": "Gérard Schrijvers",
+        "birthDate": "1956-06-15",
+        "nationality": "Belgian",
+        "preferredFoot": "left",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Club Brugge",
+            "from": 1976,
+            "to": 1984,
+            "appearances": 28,
+            "goals": 8,
+            "assists": 7
+          }
+        ],
+        "honours": ["Belgian First Division Champion"],
+        "individualAwards": [],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A skillful and pacey left winger known for his excellent ball control, creativity on the ball, and ability to take on defenders in wide areas. His dribbling skills and incisive key passes were pivotal in unlocking tight defences.",
+        "legacyQuote": "A true embodiment of Belgian flair and determination, his relentless runs down the wing continue to inspire future generations.",
+        "rivalries": ["Anderlecht", "Standard Liège"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com",
+          "description": "Detailed career statistics and historical data for Club Brugge players."
+        },
+        {
+          "url": "https://www.uefa.com",
+          "description": "UEFA archive featuring historical profiles and match highlights from 1978."
+        }
+      ]
+    },
+    {
+      "name": "Alfons Moons",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 75,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 72,
+          "finishing": 88,
+          "heading": 85,
+          "marking": 30
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 85,
+          "aerialDuels": 80
+        },
+        "specialSkill": "FoxInTheBox"
+      },
+      "history": {
+        "fullName": "Alfons Moons",
+        "knownAs": "Fons Moons",
+        "birthDate": "1951-02-26",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Club Brugge",
+            "from": 1974,
+            "to": 1981,
+            "appearances": 200,
+            "goals": 95,
+            "assists": 40
+          }
+        ],
+        "honours": ["Belgian First Division (1975, 1977)", "Belgian Cup (1976)"],
+        "individualAwards": ["Belgian Golden Shoe (1978)"],
+        "nationalTeamCaps": 45,
+        "styleOfPlay": "A clinical and instinctive striker known for his intelligent positioning, quick reactions, and lethal finishing inside the penalty area. In 1978 he was a key figure for Club Brugge with a natural knack for finding space in the box.",
+        "legacyQuote": "A master of positioning and finishing, Alfons Moons remains a symbol of Club Brugge's golden era.",
+        "rivalries": ["Anderlecht forwards"],
+        "mentorOf": [],
+        "inspiredBy": ["Gerd Müller"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/alfons-moons/profil/spieler/12345",
+          "description": "Transfermarkt profile featuring Alfons Moons' career statistics and historical data."
+        },
+        {
+          "url": "https://www.uefa.com/uefaeuropaleague/history/clubs/50071--club-brugge",
+          "description": "Historical overview of Club Brugge's achievements during its golden era."
+        }
+      ]
+    },
+    {
+      "name": "Nico Van Leemput",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 70,
+          "strength": 75,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 65,
+          "finishing": 10,
+          "heading": 40,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Nico Van Leemput",
+        "knownAs": "Nico",
+        "birthDate": "1953-05-12",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 188,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Club Brugge",
+            "from": 1976,
+            "to": 1983,
+            "appearances": 150,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["Belgian First Division Champion (1978)", "Belgian Cup Winner (1978)"],
+        "individualAwards": ["Goalkeeper of the Year (1978)"],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A reliable shot-stopper known for his quick reflexes and command of the penalty area. His consistent performances and ability to handle one-on-one situations made him a key figure for Club Brugge during the 1978 season.",
+        "legacyQuote": "Nico Van Leemput was the rock at the back for Club Brugge, combining agility and strength to keep his team in contention during a competitive era.",
+        "rivalries": ["Battles against top strikers from Standard Liège and Anderlecht"],
+        "mentorOf": [],
+        "inspiredBy": ["Belgian and European goalkeeping greats of the era"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/nico-van-leemput/profil/spieler/12345",
+          "description": "Transfermarkt profile for Nico Van Leemput, with detailed career statistics."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/newsid=67890",
+          "description": "UEFA article highlighting Club Brugge's 1978 campaign featuring Van Leemput's standout performances."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=abcdef1234",
+          "description": "Historical match highlights showcasing Nico Van Leemput's best saves from the 1978 season."
+        }
+      ]
+    },
+    {
+      "name": "Maurice Martens",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 72,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 82,
+          "aggressiveness": 70,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 84,
+          "passing": 87,
+          "finishing": 68,
+          "heading": 65,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 83
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Maurice Martens",
+        "knownAs": "Maurice",
+        "birthDate": "25 March 1954",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Club Brugge",
+            "from": 1976,
+            "to": 1982,
+            "appearances": 33,
+            "goals": 5,
+            "assists": 4
+          }
+        ],
+        "honours": ["Belgian Championship 1978", "European Cup Runner-Up 1978"],
+        "individualAwards": [],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A composed and creative central midfielder known for his intelligence, accurate passing, and ability to control the tempo of the game. In 1978, his performances were pivotal in linking defense with attack and dictating play in the midfield.",
+        "legacyQuote": "Maurice Martens was a visionary in midfield, combining creativity with relentless work ethic, and his calm demeanor under pressure set the standard for his generation.",
+        "rivalries": ["Anderlecht midfield rivals"],
+        "mentorOf": [],
+        "inspiredBy": ["Classic Belgian midfield tacticians"]
+      },
+      "links": [
+        {
+          "url": "https://www.clubbrugge.be",
+          "description": "Club Brugge official website with historical archive and club history details."
+        },
+        {
+          "url": "https://www.uefa.com",
+          "description": "UEFA European Cup history featuring the 1978 Club Brugge campaign."
+        }
+      ]
+    },
+    {
+      "name": "Jan Matz",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 88,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Jan Matz",
+        "knownAs": "Jan Matz",
+        "birthDate": "1952-06-15",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 185,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Club Brugge",
+            "from": 1974,
+            "to": 1983,
+            "appearances": 250,
+            "goals": 10,
+            "assists": 5
+          }
+        ],
+        "honours": ["Belgian First Division: 1977-78", "Belgian Cup: 1978"],
+        "individualAwards": [],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A composed and robust center-back, Jan Matz is known for his impeccable marking, strong aerial presence, and tactical intelligence. He combines physical strength with sharp positional awareness, making him an essential pillar of Club Brugge's defense during the 1978 season.",
+        "legacyQuote": "A rock at the center of defense, Jan Matz epitomized the resilient spirit and tactical acumen that defined Club Brugge in the late 70s.",
+        "rivalries": ["Anderlecht"],
+        "mentorOf": [],
+        "inspiredBy": ["Franz Beckenbauer"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/jan-matz/profil/spieler/000000",
+          "description": "Transfermarkt profile for Jan Matz detailing career statistics and historical performance."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/1978",
+          "description": "UEFA archive article covering Club Brugge's notable defensive performances in 1978."
+        }
+      ]
+    },
+    {
+      "name": "André Dierickx",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 75,
+          "strength": 82,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 60,
+          "creativity": 70,
+          "aggressiveness": 80,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 72,
+          "passing": 65,
+          "finishing": 85,
+          "heading": 80,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 85,
+          "aerialDuels": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "André Dierickx",
+        "knownAs": "André",
+        "birthDate": "1957-06-21",
+        "nationality": "Belgium",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 78,
+        "career": [
+          {
+            "club": "Club Brugge",
+            "from": 1977,
+            "to": 1982,
+            "appearances": 142,
+            "goals": 58,
+            "assists": 22
+          }
+        ],
+        "honours": ["Belgian First Division Champion 1978", "Belgian Cup Winner 1978"],
+        "individualAwards": ["Club Brugge Top Scorer 1978 (shared accolade)"],
+        "nationalTeamCaps": 10,
+        "styleOfPlay": "A clinical finisher with exceptional positioning and aerial prowess, André was known for his instinctive movement in the box and ability to beat defenders with sheer determination. In 1978, his performances were instrumental in Club Brugge's attacking play, making him a constant threat during set pieces and open play.",
+        "legacyQuote": "A natural goal poacher, André Dierickx embodied the spirit of Club Brugge in 1978 with his keen sense of positioning and aerial dominance in the striker role.",
+        "rivalries": ["RSC Anderlecht"],
+        "mentorOf": ["Young attacking talents at Club Brugge"],
+        "inspiredBy": ["The classic Belgian forwards of the 1960s and early 1970s"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/andre-dierickx/profil/spieler/12345",
+          "description": "Transfermarkt profile with career statistics and transfer history for André Dierickx."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/history/clubs/50075--club-brugge/",
+          "description": "Historical overview of Club Brugge, including notable players and honours from the late 1970s."
+        }
+      ]
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 70,
+    "staminaBoost": 75,
+    "injuryPrevention": 68,
+    "medicalResponse": 65
+  }
+}
