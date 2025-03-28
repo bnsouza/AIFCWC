@@ -1,0 +1,28 @@
+{
+  "foundationDate": "May 27, 1908",
+  "city": "Anderlecht, Brussels",
+  "fullName": "Royal Sporting Club Anderlecht",
+  "shortName": "RSC Anderlecht",
+  "stadium": {
+    "name": "Lotto Park",
+    "capacity": 22500
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/rscanderlecht",
+    "tiktok": "https://www.tiktok.com/@rscanderlecht"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(51, 0, 102)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(51, 0, 102)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 204, 0)",
+      "fontColor": "rgb(51, 0, 102)"
+    }
+  }
+}

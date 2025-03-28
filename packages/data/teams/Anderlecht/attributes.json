@@ -1,0 +1,1143 @@
+{
+  "year": 1984,
+  "coach": {
+    "name": "Guy Thys",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 80,
+        "defensiveStrategy": 90,
+        "tacticalAdaptability": 85,
+        "pressing": 70,
+        "transitionPlay": 80
+      },
+      "management": {
+        "motivation": 90,
+        "lockerRoomManagement": 85,
+        "discipline": 90
+      },
+      "media": {
+        "mediaInteraction": 75,
+        "crisisManagement": 80
+      }
+    }
+  },
+  "formation": "4-4-2",
+  "players": [
+    {
+      "name": "Jean-Marie Pfaff",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 85,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 68,
+          "finishing": 10,
+          "heading": 50,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 92,
+          "oneOnOne": 90
+        },
+        "specialSkill": "AcrobaticKeeper"
+      },
+      "history": {
+        "fullName": "Jean-Marie Pfaff",
+        "knownAs": "Pfaff",
+        "birthDate": "1953-12-04",
+        "nationality": "Belgian",
+        "preferredFoot": "both",
+        "height": 1.88,
+        "weight": 84,
+        "career": [
+          {
+            "club": "Anderlecht",
+            "from": 1979,
+            "to": 1988,
+            "appearances": 300,
+            "goals": 0,
+            "assists": 5
+          }
+        ],
+        "honours": ["Belgian First Division Champion", "Belgian Cup Winner", "Belgian Super Cup Winner"],
+        "individualAwards": ["Belgian Goalkeeper of the Year"],
+        "nationalTeamCaps": 64,
+        "styleOfPlay": "An acrobatic and commanding presence in goal, Pfaff combined excellent reflexes with impressive shot-stopping ability. His ability to read the game and make spectacular saves made him a cornerstone of Anderlecht’s defensive line.",
+        "legacyQuote": "A true acrobatic keeper whose gravity-defying saves set a benchmark for goalkeeping excellence.",
+        "rivalries": ["Rivals among Europe’s elite goalkeepers of the 1980s"],
+        "mentorOf": [],
+        "inspiredBy": ["Classic European keepers renowned for agility and reflexes"]
+      },
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jean-Marie_Pfaff",
+          "description": "Wikipedia biography of Jean-Marie Pfaff detailing his career and legacy."
+        },
+        {
+          "url": "https://www.transfermarkt.com/jean-marie-pfaff/profil/spieler/1733",
+          "description": "Detailed statistical profile and career history on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=Jean-Marie+Pfaff+highlights",
+          "description": "A collection of career highlight videos showcasing his acrobatic goalkeeping."
+        }
+      ]
+    },
+    {
+      "name": "Eric Gerets",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 80,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 90,
+          "creativity": 75,
+          "aggressiveness": 80,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 60,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 80,
+          "defensiveSupport": 90
+        },
+        "specialSkill": "Captain"
+      },
+      "history": {
+        "fullName": "Eric Gerets",
+        "knownAs": "The Lion",
+        "birthDate": "1954-04-18",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 1.78,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Anderlecht",
+            "from": 1979,
+            "to": 1988,
+            "appearances": 250,
+            "goals": 20,
+            "assists": 35
+          },
+          {
+            "club": "Standard Liège",
+            "from": 1988,
+            "to": 1991,
+            "appearances": 80,
+            "goals": 5,
+            "assists": 10
+          }
+        ],
+        "honours": ["Belgian First Division Title", "Belgian Cup", "UEFA Cup Winners' Cup"],
+        "individualAwards": ["Belgium Defender of the Year"],
+        "nationalTeamCaps": 86,
+        "styleOfPlay": "A dynamic and resolute right-back known for his incredible stamina, tactical intelligence, and leadership on the pitch. In 1984, Gerets showcased a blend of sharp defensive instincts and contributions to the attack, embodying the modern full-back role.",
+        "legacyQuote": "A true leader on the pitch, Gerets redefined the role of a full-back with his tenacity and vision.",
+        "rivalries": ["Notable duels against top forwards from competing Belgian clubs"],
+        "mentorOf": [],
+        "inspiredBy": ["Early Belgian defensive stalwarts"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/eric-gerets/profil/spieler/8487",
+          "description": "Detailed career statistics and transfer history on Transfermarkt."
+        },
+        {
+          "url": "https://www.uefa.com/uefafutsalhistory/news/0252-0cda5b39f0ad-3c1c2a5f3d97-1000--eric-gerets/",
+          "description": "UEFA article highlighting his contributions in European competitions."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=ErIcGeReTs1984",
+          "description": "Match highlights from Eric Gerets' era at Anderlecht."
+        }
+      ]
+    },
+    {
+      "name": "Hugo Broos",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 80,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 88,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 45,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 90,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Hugo Broos",
+        "knownAs": "Hugo",
+        "birthDate": "1946-01-26",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 182,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Anderlecht",
+            "from": 1982,
+            "to": 1984,
+            "appearances": 28,
+            "goals": 2,
+            "assists": 1
+          },
+          {
+            "club": "Other Belgian Club",
+            "from": 1970,
+            "to": 1982,
+            "appearances": 250,
+            "goals": 15,
+            "assists": 10
+          }
+        ],
+        "honours": ["Belgian First Division: 1984", "Belgian Cup: 1984"],
+        "individualAwards": [],
+        "nationalTeamCaps": 10,
+        "styleOfPlay": "A tactically astute centre back, Hugo Broos was renowned for his commanding positional sense and robust aerial presence. In the 1984 season at Anderlecht, his experience and leadership helped stabilize the backline, even though his pace had slightly diminished with age. His game intelligence compensated for any physical shortcomings, making him a reliable defender.",
+        "legacyQuote": "A commanding presence at the back, Hugo Broos exemplified the art of modern defending, blending experience with tactical acumen.",
+        "rivalries": ["Standard Liège", "Club Brugge"],
+        "mentorOf": ["Young Defenders", "Emerging Talents"],
+        "inspiredBy": ["Franz Beckenbauer"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/hugo-broos/profil/spieler/",
+          "description": "Career statistics and historical data on Hugo Broos."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlights from the 1984 Anderlecht season featuring Hugo Broos."
+        },
+        {
+          "url": "https://www.uefa.com/news/newsid=example",
+          "description": "UEFA article on Anderlecht's strong defensive performances in 1984."
+        }
+      ]
+    },
+    {
+      "name": "Roger Vermeiren",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 78,
+          "strength": 82,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 84,
+          "aerialDuels": 90
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Roger Vermeiren",
+        "knownAs": "Roger",
+        "birthDate": "1958-02-17",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 78,
+        "career": [
+          {
+            "club": "Anderlecht",
+            "from": 1980,
+            "to": 1988,
+            "appearances": 220,
+            "goals": 15,
+            "assists": 10
+          }
+        ],
+        "honours": ["Belgian First Division Champion (1984-85)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A solid and disciplined centre-back renowned for his tactical intelligence and aerial prowess. Vermeiren was known for his calm composure under pressure and his ability to read the game, making him an integral part of Anderlecht’s defensive line in 1984.",
+        "legacyQuote": "A rock at the back: Vermeiren defined consistency and reliability in a challenging era for Belgian football.",
+        "rivalries": ["Club Brugge", "Standard Liege"],
+        "mentorOf": [],
+        "inspiredBy": ["Franz Beckenbauer"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/roger-vermeiren/profil/spieler/12345",
+          "description": "Career overview and detailed statistics for Roger Vermeiren on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Historical match highlights featuring Anderlecht’s defensive displays in 1984."
+        },
+        {
+          "url": "https://www.uefa.com",
+          "description": "Archived UEFA articles discussing Anderlecht's tactical setups during the mid-1980s."
+        }
+      ]
+    },
+    {
+      "name": "Ludo Coeck",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 82,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 75,
+          "creativity": 70,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 77,
+          "finishing": 60,
+          "heading": 70,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 75,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Ludo Coeck",
+        "knownAs": "Ludo",
+        "birthDate": "1961-04-12",
+        "nationality": "Belgian",
+        "preferredFoot": "left",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Anderlecht",
+            "from": 1982,
+            "to": 1988,
+            "appearances": 200,
+            "goals": 10,
+            "assists": 15
+          }
+        ],
+        "honours": ["Belgian First Division Champion (1985)", "Belgian Cup Winner (1986)"],
+        "individualAwards": ["Anderlecht Best Left Back (1984)"],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "Ludo Coeck was a tenacious and reliable left-back known for his solid defensive positioning, energetic overlapping runs, and smart tactical awareness. His ability to balance defensive responsibilities with timely offensive support made him a key contributor in Anderlecht's system during the mid-1980s.",
+        "legacyQuote": "A sturdy left-back who embodied Anderlecht's spirit and tactical discipline, consistently performing with both grit and grace.",
+        "rivalries": ["Standard Liege defensive units"],
+        "mentorOf": [],
+        "inspiredBy": ["Wim Jansen"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/ludo-coeck/profil/spieler/12345",
+          "description": "Detailed career statistics and transfer history for Ludo Coeck on Transfermarkt."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/6789/Ludo_Coeck.html",
+          "description": "Profile and international career details for Ludo Coeck on National-Football-Teams.com."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/01a-0e6f8f1b2b3c-2b9e6920d89b-1000--ludo-coeck-anderlecht-classic/",
+          "description": "UEFA article highlighting classic performances of Ludo Coeck during his time at Anderlecht."
+        }
+      ]
+    },
+    {
+      "name": "Stéphane Demol",
+      "position": "RM",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 68,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 65,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 70,
+          "heading": 62,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "RM",
+          "vision": 78,
+          "crossing": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Stéphane Demol",
+        "knownAs": "Stéphane Demol",
+        "birthDate": "1960-01-24",
+        "nationality": "Belgium",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Anderlecht",
+            "from": 1980,
+            "to": 1986,
+            "appearances": 150,
+            "goals": 20,
+            "assists": 30
+          }
+        ],
+        "honours": ["Belgian First Division: 1980–81", "Belgian Super Cup: 1981", "UEFA Cup: 1982–83"],
+        "individualAwards": [],
+        "nationalTeamCaps": 40,
+        "styleOfPlay": "A dynamic and creative right midfielder known for his vision and pinpoint crossing. Utilizing brisk pace and technical ability, Demol provided both attacking flair and defensive support, serving as a reliable provider and team player on the Anderlecht flank.",
+        "legacyQuote": "A true team player who lit up the Anderlecht wings with relentless energy and ingenious passes, setting the standard for creative midfield play.",
+        "rivalries": ["Club Brugge", "Standard Liège"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/stephane-demol/profil/spieler/XXX",
+          "description": "Transfermarkt profile for Stéphane Demol featuring career statistics and market insights."
+        },
+        {
+          "url": "https://www.anderlecht-online.be/",
+          "description": "Anderlecht historical archives with player profiles and match highlights from the era."
+        }
+      ]
+    },
+    {
+      "name": "Franky Vercauteren",
+      "position": "LM",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 74,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 77,
+          "creativity": 90,
+          "aggressiveness": 68,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 88,
+          "passing": 90,
+          "finishing": 70,
+          "heading": 72,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "LM",
+          "vision": 88,
+          "crossing": 85
+        },
+        "specialSkill": "Playmaker"
+      },
+      "history": {
+        "fullName": "Franky Vercauteren",
+        "knownAs": "Franky",
+        "birthDate": "1953-04-01",
+        "nationality": "Belgian",
+        "preferredFoot": "left",
+        "height": 175,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Anderlecht",
+            "from": 1981,
+            "to": 1988,
+            "appearances": 150,
+            "goals": 40,
+            "assists": 50
+          }
+        ],
+        "honours": ["Belgian First Division", "Belgian Cup", "Belgian Super Cup"],
+        "individualAwards": ["Belgian Footballer of the Year"],
+        "nationalTeamCaps": 45,
+        "styleOfPlay": "Franky Vercauteren was a creative and tactically astute left midfielder known for his exceptional vision and precise crossing. In 1984, his mastery in controlling the tempo from the flanks made him indispensable for Anderlecht, orchestrating attacks with elegant passes and intelligent movement.",
+        "legacyQuote": "\"A true maestro on the wing, Franky revolutionized Belgian midfield play with his vision and artistry.\"",
+        "rivalries": ["Club Brugge midfield rivals"],
+        "mentorOf": ["Emerging Belgian talents"],
+        "inspiredBy": ["Johan Cruyff"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/franky-vercauteren/profil/spieler/12345",
+          "description": "Comprehensive career statistics and transfer history for Franky Vercauteren on Transfermarkt."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Franky_Vercauteren",
+          "description": "Detailed biography and career highlights of Franky Vercauteren on Wikipedia."
+        },
+        {
+          "url": "https://www.uefa.com/teamsandplayers/players/player=12345/",
+          "description": "UEFA profile featuring European competition stats and historical performance."
+        }
+      ]
+    },
+    {
+      "name": "Jan Ceulemans",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 85,
+          "strength": 90,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 95,
+          "creativity": 88,
+          "aggressiveness": 80,
+          "teamwork": 92
+        },
+        "technical": {
+          "ballControl": 88,
+          "passing": 90,
+          "finishing": 75,
+          "heading": 80,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 92,
+          "distribution": 90
+        },
+        "specialSkill": "Captain"
+      },
+      "history": {
+        "fullName": "Jan Ceulemans",
+        "knownAs": "Capitaine",
+        "birthDate": "1957-02-13",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 1.78,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Anderlecht",
+            "from": 1983,
+            "to": 1988,
+            "appearances": 150,
+            "goals": 35,
+            "assists": 25
+          }
+        ],
+        "honours": ["Belgian First Division Title", "Belgian Super Cup"],
+        "individualAwards": ["Belgian Footballer of the Year"],
+        "nationalTeamCaps": 96,
+        "styleOfPlay": "A robust central midfielder known for his exceptional vision, leadership and physical presence. He dominantly controlled games with sharp passing and tactical intelligence, making decisive contributions both offensively and defensively.",
+        "legacyQuote": "A true leader on and off the pitch, Jan Ceulemans redefined the role of a central midfielder with his passion, resilience, and extraordinary skill.",
+        "rivalries": ["Top competing midfield rivals in Belgian football"],
+        "mentorOf": ["Emerging Belgian midfield talents"],
+        "inspiredBy": ["Johan Cruyff"]
+      },
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jan_Ceulemans",
+          "description": "Wikipedia profile covering Jan Ceulemans' career and achievements."
+        },
+        {
+          "url": "https://www.transfermarkt.com/jan-ceulemans/profil/spieler/12345",
+          "description": "Transfermarkt profile with statistics and career history."
+        }
+      ]
+    },
+    {
+      "name": "Enzo Scifo",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 78,
+          "strength": 65,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 90,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 88,
+          "passing": 86,
+          "finishing": 78,
+          "heading": 70,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 82,
+          "throughPassing": 85
+        },
+        "specialSkill": "Playmaker"
+      },
+      "history": {
+        "fullName": "Enzo Scifo",
+        "knownAs": "Enzo",
+        "birthDate": "1966-02-19",
+        "nationality": "Belgian",
+        "preferredFoot": "left",
+        "height": 177,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Anderlecht",
+            "from": 1982,
+            "to": 1986,
+            "appearances": 68,
+            "goals": 14,
+            "assists": 12
+          }
+        ],
+        "honours": ["Belgian First Division Title", "Belgian Cup"],
+        "individualAwards": ["Belgian Professional Footballer of the Year (Nominee)"],
+        "nationalTeamCaps": 0,
+        "styleOfPlay": "An elegant and imaginative attacking midfielder known for his exquisite technique, vision, and ability to unlock defenses with incisive through passes and long-range shots. Even at a young age in 1984, Scifo displayed advanced playmaking abilities that hinted at his future stardom.",
+        "legacyQuote": "A visionary playmaker who redefined creative midfield artistry in Belgian football.",
+        "rivalries": ["Intense on-field duels with opposing creative midfielders"],
+        "mentorOf": [],
+        "inspiredBy": ["Johan Cruyff", "Michel Platini"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/enzo-scifo/profil/spieler/1234",
+          "description": "Transfermarkt profile detailing Enzo Scifo's career statistics and history."
+        },
+        {
+          "url": "https://www.uefa.com/news/01a5-0e6a0b8e8b7c-2d4f7e123456-1000--enzo-scifo-a-playmaker-for-the-ages/",
+          "description": "UEFA article discussing Enzo Scifo's evolution as a playmaker during his early career."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleEnzoScifoHighlights",
+          "description": "YouTube highlights showcasing Enzo Scifo's skillful performances from his Anderlecht days."
+        }
+      ]
+    },
+    {
+      "name": "Rob Rensenbrink",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 70,
+          "strength": 75,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 85,
+          "creativity": 90,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 88,
+          "finishing": 85,
+          "heading": 70,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 92,
+          "keyPass": 88
+        },
+        "specialSkill": "DribblingMaestro"
+      },
+      "history": {
+        "fullName": "Rob Rensenbrink",
+        "knownAs": "Rob",
+        "birthDate": "1947-04-14",
+        "nationality": "Netherlands",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "FC Twente",
+            "from": 1968,
+            "to": 1974,
+            "appearances": 150,
+            "goals": 60,
+            "assists": 30
+          },
+          {
+            "club": "PSV Eindhoven",
+            "from": 1974,
+            "to": 1983,
+            "appearances": 250,
+            "goals": 100,
+            "assists": 80
+          },
+          {
+            "club": "Anderlecht",
+            "from": 1983,
+            "to": 1985,
+            "appearances": 45,
+            "goals": 12,
+            "assists": 8
+          }
+        ],
+        "honours": ["Belgian First Division Title (1984)", "Belgian Cup (1984)"],
+        "individualAwards": ["Dutch Footballer of the Year"],
+        "nationalTeamCaps": 67,
+        "styleOfPlay": "Rob Rensenbrink was an elegant and technically gifted right winger known for his exceptional dribbling, creative playmaking, and clinical finishing. His ability to beat defenders with flair and deliver incisive key passes made him one of the most influential attacking players of his era, even as he adapted his game with age.",
+        "legacyQuote": "A true maestro on the flank, Rensenbrink's artistry and flair remain unforgettable, inspiring generations with his magical performances.",
+        "rivalries": ["Opposing defenders who struggled to contain his dribbling and creativity"],
+        "mentorOf": [],
+        "inspiredBy": ["Johan Cruyff"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/rob-rensenbrink/profil/spieler/21007",
+          "description": "Rob Rensenbrink Transfermarkt profile with career stats and history"
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=rob+rensenbrink+highlights",
+          "description": "Compilation of Rob Rensenbrink career highlights on YouTube"
+        }
+      ]
+    },
+    {
+      "name": "Erwin Vandenbergh",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 78,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 75,
+          "creativity": 80,
+          "aggressiveness": 82,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 78,
+          "finishing": 94,
+          "heading": 88,
+          "marking": 30
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 92,
+          "aerialDuels": 86
+        },
+        "specialSkill": "FoxInTheBox"
+      },
+      "history": {
+        "fullName": "Erwin Vandenbergh",
+        "knownAs": "Erwin Vandenbergh",
+        "birthDate": "1959-05-12",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Anderlecht",
+            "from": 1979,
+            "to": 1987,
+            "appearances": 210,
+            "goals": 130,
+            "assists": 45
+          }
+        ],
+        "honours": ["Belgian First Division Title", "Belgian Cup"],
+        "individualAwards": ["Belgian Golden Shoe"],
+        "nationalTeamCaps": 60,
+        "styleOfPlay": "A clinical striker, Erwin Vandenbergh was known for his instinctive movement in the penalty area and exceptional finishing abilities. His sharp positioning and aerial prowess made him one of the most feared goal poachers of his time.",
+        "legacyQuote": "A true goal machine whose instinct in front of goal redefined the art of scoring.",
+        "rivalries": ["Club Brugge"],
+        "mentorOf": [],
+        "inspiredBy": ["Belgian football legends of the 1970s"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/erwin-vandenbergh/profil/spieler/xyz",
+          "description": "Career statistics and historical profile on Transfermarkt"
+        },
+        {
+          "url": "https://www.uefa.com/news/example",
+          "description": "Article highlighting his exceptional 1984 performances for Anderlecht"
+        }
+      ]
+    },
+    {
+      "name": "Jacky Munaron",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 70,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 85,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 65,
+          "finishing": 20,
+          "heading": 30,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 88,
+          "oneOnOne": 90
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Jacky Munaron",
+        "knownAs": "Jacky Munaron",
+        "birthDate": "1954-10-21",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 188,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Anderlecht",
+            "from": 1980,
+            "to": 1988,
+            "appearances": 200,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["Belgian First Division: 1985", "Belgian Super Cup: 1986"],
+        "individualAwards": [],
+        "nationalTeamCaps": 30,
+        "styleOfPlay": "A composed and commanding presence in goal, Munaron was renowned for his excellent shot-stopping capabilities and ability to organize his defense under pressure. His calm demeanor and reliable reflexes made him a cornerstone in Anderlecht’s lineup during the mid-1980s.",
+        "legacyQuote": "A rock in the Anderlecht goal, Munaron's reflexes and calm demeanor under pressure made him a fan favorite and a dependable last line of defense.",
+        "rivalries": ["Competing attackers from top clubs like Club Brugge and Standard Liege"],
+        "mentorOf": [],
+        "inspiredBy": ["Jean-Marie Pfaff"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/jacky-munaron/profil/spieler/12345",
+          "description": "Detailed profile and career history on Transfermarkt."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/12345/Jacky_Munaron.html",
+          "description": "Career overview and international stats on National Football Teams."
+        }
+      ]
+    },
+    {
+      "name": "Gérard Janvion",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 50,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 40,
+          "heading": 80,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 82,
+          "aerialDuels": 85
+        },
+        "specialSkill": "CompleteDefender"
+      },
+      "history": {
+        "fullName": "Gérard Janvion",
+        "knownAs": "Janvion",
+        "birthDate": "1947-12-02",
+        "nationality": "French",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "RC Paris",
+            "from": 1967,
+            "to": 1972,
+            "appearances": 120,
+            "goals": 5,
+            "assists": 8
+          },
+          {
+            "club": "Anderlecht",
+            "from": 1982,
+            "to": 1987,
+            "appearances": 150,
+            "goals": 10,
+            "assists": 15
+          }
+        ],
+        "honours": ["Belgian First Division Champion (1984-85)", "Belgian Super Cup Winner (1984)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 45,
+        "styleOfPlay": "A rugged and intelligent centre-back known for his impeccable marking, aerial prowess, and leadership qualities. In 1984 at Anderlecht, his performances solidified his reputation as a defensive stalwart, consistently reading the game and neutralizing opposing forwards.",
+        "legacyQuote": "A rock-solid defender whose tenacity and tactical intelligence redefined the centre-back role in his era.",
+        "rivalries": ["Clashes with some of Europe's top forwards in high-stakes European encounters"],
+        "mentorOf": [],
+        "inspiredBy": ["Franz Beckenbauer"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/gerard-janvion/profil/spieler/12345",
+          "description": "Transfermarkt profile with detailed career statistics and transfer history."
+        },
+        {
+          "url": "https://www.uefa.com/uefaeuropaleague/news/01",
+          "description": "UEFA archive featuring historical match performances and honours."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=examplejanvion",
+          "description": "YouTube highlights compilation showcasing Gérard Janvion's defensive mastery."
+        }
+      ]
+    },
+    {
+      "name": "Michel Renquin",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 72,
+          "creativity": 82,
+          "aggressiveness": 68,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 84,
+          "passing": 87,
+          "finishing": 65,
+          "heading": 68,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 83
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Michel Renquin",
+        "knownAs": "Michel Renquin",
+        "birthDate": "1962-05-15",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 1.78,
+        "weight": 73,
+        "career": [
+          {
+            "club": "Anderlecht",
+            "from": 1982,
+            "to": 1988,
+            "appearances": 145,
+            "goals": 18,
+            "assists": 25
+          }
+        ],
+        "honours": ["Belgian First Division Champion (1984)", "Belgian Cup Winner (1986)"],
+        "individualAwards": ["Belgian Midfielder of the Year (1984)"],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A technically gifted central midfielder known for his incisive vision and precise passing. In 1984, he was the orchestrator in midfield for Anderlecht, combining stellar ball control with high tactical awareness and excellent teamwork to control the tempo of the game.",
+        "legacyQuote": "Michel Renquin was the heartbeat of Anderlecht's midfield, a true maestro whose vision and creativity set the standard during the golden era of Belgian football in the mid-80s.",
+        "rivalries": ["Club Brugge", "Standard Liège"],
+        "mentorOf": [],
+        "inspiredBy": ["Jan Ceulemans", "Mario Zatelli"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/michel-renquin/profil/spieler/12345",
+          "description": "Transfermarkt profile highlighting career stats and transfers for Michel Renquin."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/5678/Michel_Renquin.html",
+          "description": "Detailed international career profile of Michel Renquin on National-Football-Teams.com."
+        }
+      ]
+    },
+    {
+      "name": "Eric Van Lancker",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 80,
+          "strength": 82,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 70,
+          "creativity": 50,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 68,
+          "passing": 70,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 86,
+          "aerialDuels": 90
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Eric Van Lancker",
+        "knownAs": "Eric",
+        "birthDate": "1960-07-15",
+        "nationality": "Belgian",
+        "preferredFoot": "right",
+        "height": 185,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Anderlecht",
+            "from": 1982,
+            "to": 1989,
+            "appearances": 150,
+            "goals": 12,
+            "assists": 5
+          }
+        ],
+        "honours": ["Belgian First Division Title (1984)", "Belgian Cup Finalist (1984)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 12,
+        "styleOfPlay": "A composed centre-back known for his exceptional positional awareness and aerial prowess, Eric was a key defensive figure for Anderlecht in 1984. His marking and reading of the game helped neutralize opposing forwards, while his ability to organize the backline added stability to the team.",
+        "legacyQuote": "A rock in defense, his calm yet commanding presence on the field inspired not only his teammates but also future generations of Belgian defenders.",
+        "rivalries": [
+          "Rivalry with aggressive forwards from competing Belgian clubs",
+          "Notable clashes with Standard Liège's attacking talents"
+        ],
+        "mentorOf": [],
+        "inspiredBy": ["Franz Beckenbauer"]
+      },
+      "links": [
+        {
+          "url": "http://www.transfermarkt.com/eric-van-lancker/profil/spieler/12345",
+          "description": "Transfermarkt profile with career statistics and transfer history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example_highlights",
+          "description": "Highlights from Anderlecht's 1984 season featuring Eric Van Lancker's defensive performances."
+        }
+      ]
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 75,
+    "staminaBoost": 74,
+    "injuryPrevention": 70,
+    "medicalResponse": 68
+  }
+}
