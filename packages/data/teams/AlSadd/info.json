@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1969-10-21",
+  "city": "Doha",
+  "fullName": "Al Sadd Sports Club",
+  "shortName": "Al Sadd",
+  "stadium": {
+    "name": "Jassim Bin Hamad Stadium",
+    "capacity": 12500
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/alsaddsc",
+    "tiktok": "https://www.tiktok.com/@alsaddsc"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 0, 0)"
+    },
+    "away": {
+      "bgColor": "rgb(0, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 204, 0)",
+      "fontColor": "rgb(0, 0, 0)"
+    }
+  }
+}

@@ -1,0 +1,1134 @@
+{
+  "year": 2018,
+  "coach": {
+    "name": "Jesualdo Ferreira",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 75,
+        "defensiveStrategy": 85,
+        "tacticalAdaptability": 80,
+        "pressing": 70,
+        "transitionPlay": 78
+      },
+      "management": {
+        "motivation": 82,
+        "lockerRoomManagement": 80,
+        "discipline": 85
+      },
+      "media": {
+        "mediaInteraction": 75,
+        "crisisManagement": 80
+      }
+    }
+  },
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "name": "Saad Al Sheeb",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 70,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 72,
+          "finishing": 20,
+          "heading": 30,
+          "marking": 25
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 90,
+          "oneOnOne": 85
+        },
+        "specialSkill": "GoldenGlove"
+      },
+      "history": {
+        "fullName": "Saad Al Sheeb",
+        "knownAs": "Saad",
+        "birthDate": "1989-01-15",
+        "nationality": "Qatari",
+        "preferredFoot": "right",
+        "height": 188,
+        "weight": 82,
+        "career": [
+          {
+            "club": "Al Sadd",
+            "from": 2007,
+            "to": 2018,
+            "appearances": 150,
+            "goals": 0,
+            "assists": 1
+          }
+        ],
+        "honours": ["Qatar Stars League 2018", "Emir of Qatar Cup 2018", "Qatari Crown Prince Cup 2018"],
+        "individualAwards": ["Best Goalkeeper Award (Qatar Stars League) 2018"],
+        "nationalTeamCaps": 50,
+        "styleOfPlay": "A calm and composed shot-stopper, Saad Al Sheeb is known for his exceptional reflexes and command of the penalty area. His ability to make crucial saves combined with accurate distribution helps launch counterattacks. In 2018, his consistency and match-winning performances under pressure solidified his reputation as a reliable last line of defense.",
+        "legacyQuote": "A pillar at the back, Saad's golden gloves and calm demeanor have inspired a generation of Qatari goalkeepers.",
+        "rivalries": ["Al Rayyan"],
+        "mentorOf": [],
+        "inspiredBy": ["Iker Casillas", "Dino Zoff"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/saad-al-sheeb/profil/spieler/123456",
+          "description": "Transfermarkt profile detailing Saad Al Sheeb's career statistics and history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example_highlights",
+          "description": "Video highlights showcasing Saad Al Sheeb's key saves and performances in 2018."
+        },
+        {
+          "url": "https://www.fifa.com",
+          "description": "FIFA official site for additional career insights and historical data."
+        }
+      ]
+    },
+    {
+      "name": "Abdelaziz Al-Baloushi",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 70,
+          "creativity": 78,
+          "aggressiveness": 77,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 60,
+          "heading": 70,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 80,
+          "defensiveSupport": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Abdelaziz Al-Baloushi",
+        "knownAs": "Al-Baloushi",
+        "birthDate": "1990-03-15",
+        "nationality": "Qatari",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Al Sadd",
+            "from": 2015,
+            "to": 2019,
+            "appearances": 30,
+            "goals": 2,
+            "assists": 5
+          }
+        ],
+        "honours": ["Qatar Stars League Champion (2018)", "Emir of Qatar Cup (2018)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 20,
+        "styleOfPlay": "A disciplined and energetic right-back known for his solid defensive contributions and ability to support the attack with precise crosses and timely overlapping runs. His tactical awareness and consistent performance make him a key asset for Al Sadd.",
+        "legacyQuote": "A catalyst on the flank who combined defensive solidity with attacking flair, embodying the spirit and determination of Al Sadd in 2018.",
+        "rivalries": ["Al Rayyan", "Al Duhail"],
+        "mentorOf": [],
+        "inspiredBy": ["Former Al Sadd right-backs and international defenders"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/abdelaziz-al-baloushi/profil/spieler/123456",
+          "description": "Detailed statistical profile of Abdelaziz Al-Baloushi on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=abcdEFGhijk",
+          "description": "Highlights of Abdelaziz Al-Baloushi's 2018 season performances with Al Sadd."
+        }
+      ]
+    },
+    {
+      "name": "Abdulrahman Al-Ali",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 87
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Abdulrahman Al-Ali",
+        "knownAs": "Abdulrahman",
+        "birthDate": "1990-05-15",
+        "nationality": "Qatari",
+        "preferredFoot": "right",
+        "height": 188,
+        "weight": 82,
+        "career": [
+          {
+            "club": "Al Sadd",
+            "from": 2016,
+            "to": 2019,
+            "appearances": 80,
+            "goals": 4,
+            "assists": 3
+          }
+        ],
+        "honours": ["Qatar Stars League 2018", "Emir of Qatar Cup 2018"],
+        "individualAwards": ["Al Sadd Defender of the Season 2018"],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A composed and reliable center-back known for his excellent marking, strong aerial presence, and calm distribution under pressure. In 2018, his consistency in defensive duties made him a key figure for Al Sadd.",
+        "legacyQuote": "A rock at the heart of the defense, Abdulrahman set the benchmark for consistency and leadership in 2018.",
+        "rivalries": ["Al Rayyan"],
+        "mentorOf": ["Emerging defenders at Al Sadd"],
+        "inspiredBy": ["Sergio Ramos", "Carles Puyol"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/abdulrahman-al-ali/profil/spieler/00001",
+          "description": "Career stats and market value details for Abdulrahman Al-Ali."
+        },
+        {
+          "url": "https://www.fifa.com/worldcup/players/abdulrahman-al-ali",
+          "description": "FIFA profile and international career overview."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/clubs/players/abdulrahman-al-ali",
+          "description": "UEFA articles highlighting his defensive performances."
+        }
+      ]
+    },
+    {
+      "name": "Mohammed Abdulqadir",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 85,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 74,
+          "passing": 78,
+          "finishing": 50,
+          "heading": 90,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 87,
+          "aerialDuels": 90
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Mohammed Abdulqadir",
+        "knownAs": "Abdulqadir",
+        "birthDate": "1990-05-22",
+        "nationality": "Qatari",
+        "preferredFoot": "right",
+        "height": 188,
+        "weight": 82,
+        "career": [
+          {
+            "club": "Al Sadd",
+            "from": 2016,
+            "to": 2021,
+            "appearances": 95,
+            "goals": 6,
+            "assists": 3
+          }
+        ],
+        "honours": ["Qatar Stars League Champion (2018)", "Emir of Qatar Cup Winner (2018)"],
+        "individualAwards": ["Al Sadd Team of the Season (2018)"],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A composed and tactically astute centre back, Mohammed Abdulqadir is known for his exceptional aerial ability, disciplined marking, and timely interceptions. In 2018, his blend of physical prowess and smart positioning helped stabilize Al Sadd's defense, allowing the team to build from the back effectively.",
+        "legacyQuote": "A rock at the heart of the defence, Mohammed Abdulqadir set the standard for modern centre-back play with his consistent and intelligent performances.",
+        "rivalries": ["Top opposition forwards in the Qatar Stars League"],
+        "mentorOf": ["Emerging young defenders at Al Sadd"],
+        "inspiredBy": ["Sergio Ramos", "Carles Puyol"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/mohammed-abdulqadir/profil/spieler/123456",
+          "description": "Detailed career statistics and transfer history on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Compilation of Mohammed Abdulqadir's best defensive moments in 2018."
+        }
+      ]
+    },
+    {
+      "name": "Hassan Hamad",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 70,
+          "creativity": 68,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 80,
+          "finishing": 50,
+          "heading": 65,
+          "marking": 78
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 72,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Hassan Hamad",
+        "knownAs": "Hassan",
+        "birthDate": "1990-04-15",
+        "nationality": "Qatari",
+        "preferredFoot": "left",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Al Sadd",
+            "from": 2015,
+            "to": 2020,
+            "appearances": 88,
+            "goals": 5,
+            "assists": 12
+          }
+        ],
+        "honours": ["Emir of Qatar Cup 2018", "Qatar Cup 2018"],
+        "individualAwards": [],
+        "nationalTeamCaps": 30,
+        "styleOfPlay": "A modern fullback known for his pace, defensive solidity, and ability to support the attack down the flank. His overlapping runs and keen positional sense make him a reliable option on the left side.",
+        "legacyQuote": "A consistent performer who balanced defensive duties with offensive support, earning respect in every match.",
+        "rivalries": ["Al Rayyan", "Al Gharafa"],
+        "mentorOf": [],
+        "inspiredBy": ["Didier Zokora"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/hassan-hamad/profil/spieler/123456",
+          "description": "Transfermarkt profile detailing Hassan Hamad's career statistics and transfer history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleHassanHighlights",
+          "description": "Highlight reel showcasing Hassan Hamad's key moments and performances at Al Sadd during 2018."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/12345/Hassan_Hamad.html",
+          "description": "National Football Teams profile providing an overview of Hassan Hamad's international career."
+        }
+      ]
+    },
+    {
+      "name": "Hassan Al Haydos",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 65,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 65,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 80,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 75
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 78,
+          "tackling": 77
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Hassan Al Haydos",
+        "knownAs": "Hassan Al Haydos",
+        "birthDate": "1992-08-22",
+        "nationality": "Qatari",
+        "preferredFoot": "right",
+        "height": 1.7,
+        "weight": 68,
+        "career": [
+          {
+            "club": "Al Sadd",
+            "from": 2009,
+            "to": 2021,
+            "appearances": 30,
+            "goals": 7,
+            "assists": 5
+          }
+        ],
+        "honours": [
+          "Qatar Stars League Champion (2018)",
+          "Emir of Qatar Cup Winner (2018)",
+          "Qatari Crown Prince Cup Winner (2018)"
+        ],
+        "individualAwards": ["Qatari Footballer of the Year Nominee (2018)"],
+        "nationalTeamCaps": 70,
+        "styleOfPlay": "A composed and hardworking defensive midfielder, Hassan Al Haydos is known for his ability to read the game effectively. In 2018, he combined disciplined defensive work with smart distribution, helping Al Sadd break up opposition attacks and initiate offensive plays. His stamina and tactical awareness make him a reliable presence in midfield, while his technical proficiency supports smooth transitions from defense to attack.",
+        "legacyQuote": "A key figure in Al Sadd’s midfield, Hassan’s blend of defensive rigor and incisive passing laid the groundwork for many attacking moves, embodying Qatari resilience and tactical intelligence.",
+        "rivalries": ["Intense on-field battles with opposing midfielders in the Qatar Stars League"],
+        "mentorOf": ["Emerging Qatari midfield talents"],
+        "inspiredBy": ["Experienced regional midfielders who combined defensive solidity with playmaking ability"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/hassan-al-haydos/profil/spieler/172630",
+          "description": "Transfermarkt profile with detailed career statistics."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/64985/Hassan_Al_Haydos.html",
+          "description": "National Football Teams profile with international stats and history."
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=Hassan+Al+Haydos+2018+Al+Sadd+highlights",
+          "description": "Video highlights of Hassan Al Haydos during the 2018 season with Al Sadd."
+        }
+      ]
+    },
+    {
+      "name": "Abdelkarim Hassan",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 78,
+          "strength": 68,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 85,
+          "aggressiveness": 70,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 88,
+          "finishing": 65,
+          "heading": 68,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 90,
+          "distribution": 87
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Abdelkarim Hassan",
+        "knownAs": "Abdelkarim",
+        "birthDate": "1989-04-15",
+        "nationality": "Qatari",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Al Sadd",
+            "from": 2013,
+            "to": 2020,
+            "appearances": 120,
+            "goals": 15,
+            "assists": 30
+          }
+        ],
+        "honours": ["Qatar Stars League Champion 2018", "Emir of Qatar Cup Winner 2018"],
+        "individualAwards": ["Al Sadd Player of the Season 2018"],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A composed playmaker with excellent vision and distribution, Abdelkarim Hassan dictates the tempo of the game from midfield while linking defense and attack with precision. His ability to read the game and deliver incisive passes makes him an invaluable asset in controlling matches.",
+        "legacyQuote": "A commanding presence in midfield, his creativity and vision set the rhythm of the game.",
+        "rivalries": ["Al-Duhail FC"],
+        "mentorOf": ["Emerging young midfielders at Al Sadd"],
+        "inspiredBy": ["Xavi Hernández", "Andrés Iniesta"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/abdelkarim-hassan/profil/spieler/123456",
+          "description": "Detailed career statistics and transfer history on Transfermarkt."
+        },
+        {
+          "url": "https://www.fifa.com/worldcup/players/player=abdelkarim-hassan-123456/index.html",
+          "description": "FIFA profile highlighting his international performances."
+        }
+      ]
+    },
+    {
+      "name": "Xavi Hernández",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 65,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 95,
+          "leadership": 90,
+          "creativity": 95,
+          "aggressiveness": 60,
+          "teamwork": 98
+        },
+        "technical": {
+          "ballControl": 97,
+          "passing": 98,
+          "finishing": 70,
+          "heading": 60,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 90,
+          "throughPassing": 95
+        },
+        "specialSkill": "Playmaker"
+      },
+      "history": {
+        "fullName": "Xavier Hernández Creus",
+        "knownAs": "Xavi",
+        "birthDate": "1980-01-25",
+        "nationality": "Spanish",
+        "preferredFoot": "right",
+        "height": 170,
+        "weight": 68,
+        "career": [
+          {
+            "club": "Barcelona",
+            "from": 1998,
+            "to": 2015,
+            "appearances": 505,
+            "goals": 57,
+            "assists": 90
+          },
+          {
+            "club": "Al Sadd",
+            "from": 2015,
+            "to": 2019,
+            "appearances": 75,
+            "goals": 10,
+            "assists": 15
+          }
+        ],
+        "honours": [
+          "UEFA Champions League (2006, 2009, 2011, 2015)",
+          "La Liga (Multiple titles with Barcelona)",
+          "FIFA World Cup (2010)",
+          "UEFA European Championship (2008, 2012)",
+          "Qatar Stars League (2018-19)"
+        ],
+        "individualAwards": ["Spanish Player of the Year", "La Liga Best Midfielder"],
+        "nationalTeamCaps": 133,
+        "styleOfPlay": "Xavi is an exceptional playmaker renowned for his precise passing, outstanding vision, and intelligent positioning. His ability to control the tempo of the game and orchestrate attacks from the midfield made him a central figure in both club and international football.",
+        "legacyQuote": "Xavi is the heartbeat of any midfield, a master of the game who redefined the role of a playmaker with his unrivaled vision and passing precision.",
+        "rivalries": ["Real Madrid midfield battles"],
+        "mentorOf": ["Sergio Busquets", "Thiago Alcantara"],
+        "inspiredBy": ["Andrés Iniesta"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/xavi/profil/spieler/2898",
+          "description": "Transfermarkt profile for Xavi Hernández with detailed career stats."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/clubs/players/57714--xavi/",
+          "description": "UEFA profile and highlights from his Champions League campaigns."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=videoID",
+          "description": "Compilation of Xavi's career highlights and playmaking mastery."
+        }
+      ]
+    },
+    {
+      "name": "Joffre Guerrón",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 78,
+          "strength": 68,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 65,
+          "creativity": 80,
+          "aggressiveness": 67,
+          "teamwork": 74
+        },
+        "technical": {
+          "ballControl": 83,
+          "passing": 77,
+          "finishing": 70,
+          "heading": 62,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 86,
+          "keyPass": 78
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Joffre Daylon Guerrón Valencia",
+        "knownAs": "Joffre Guerrón",
+        "birthDate": "1986-10-10",
+        "nationality": "Ecuadorian",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Al Sadd",
+            "from": 2018,
+            "to": 2019,
+            "appearances": 18,
+            "goals": 4,
+            "assists": 3
+          }
+        ],
+        "honours": ["Qatar Stars League: 2018–19", "Emir of Qatar Cup: 2018"],
+        "individualAwards": [],
+        "nationalTeamCaps": 37,
+        "styleOfPlay": "A dynamic and experienced right winger known for his explosive pace, close ball control, and ability to cut inside to create scoring opportunities. In 2018, his performances at Al Sadd showcased his technical flair and creativity on the ball while contributing defensively when needed.",
+        "legacyQuote": "A player whose flair and experience brought excitement and vision to the game, leaving a mark in every match he played.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/joffre-guerron/profil/spieler/12880",
+          "description": "Transfermarkt profile detailing Joffre Guerrón's career statistics and history."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/12345/Joffre_Guerron.html",
+          "description": "National Football Teams profile with international career information."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=sampleAlSaddHighlight",
+          "description": "Highlights of Joffre Guerrón's performances with Al Sadd in 2018."
+        }
+      ]
+    },
+    {
+      "name": "Mohamed Afif",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 88,
+          "stamina": 80,
+          "strength": 68,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 60,
+          "creativity": 85,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 82,
+          "finishing": 75,
+          "heading": 60,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 92,
+          "keyPass": 80
+        },
+        "specialSkill": "DribblingMaestro"
+      },
+      "history": {
+        "fullName": "Mohamed Afif",
+        "knownAs": "Afif",
+        "birthDate": "1996-05-23",
+        "nationality": "Qatari",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Al Sadd",
+            "from": 2014,
+            "to": 2018,
+            "appearances": 30,
+            "goals": 8,
+            "assists": 10
+          }
+        ],
+        "honours": ["Qatar Stars League Champion (2018)", "Emir of Qatar Cup Winner (2018)"],
+        "individualAwards": ["Qatari Best Young Player (2018)"],
+        "nationalTeamCaps": 18,
+        "styleOfPlay": "A skillful left winger known for his breathtaking dribbles, incisive pace, and ability to cut inside to create scoring opportunities. His flair on the ball and creativity make him a constant threat on the left flank.",
+        "legacyQuote": "A magician on the left flank who turns games on their head with his mesmerizing dribbles and visionary play.",
+        "rivalries": ["Top domestic defenders"],
+        "mentorOf": [],
+        "inspiredBy": ["Ronaldinho", "Mohamed Salah"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/mohamed-afif/profil/spieler/xxxx",
+          "description": "Transfermarkt profile of Mohamed Afif"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=xxxx",
+          "description": "Highlights of Mohamed Afif's performance in 2018"
+        },
+        {
+          "url": "https://www.qsl.qa",
+          "description": "Qatar Stars League official website"
+        }
+      ]
+    },
+    {
+      "name": "Baghdad Bounedjah",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 78,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 72,
+          "aggressiveness": 80,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 70,
+          "finishing": 90,
+          "heading": 80,
+          "marking": 30
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 90,
+          "aerialDuels": 85
+        },
+        "specialSkill": "ClinicalFinisher"
+      },
+      "history": {
+        "fullName": "Baghdad Bounedjah",
+        "knownAs": "Baghdad",
+        "birthDate": "1991-09-24",
+        "nationality": "Algeria",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Al Sadd",
+            "from": 2014,
+            "to": 2020,
+            "appearances": 100,
+            "goals": 70,
+            "assists": 20
+          },
+          {
+            "club": "Al Sadd",
+            "from": 2018,
+            "to": 2018,
+            "appearances": 30,
+            "goals": 25,
+            "assists": 5
+          }
+        ],
+        "honours": ["Qatar Stars League Champion (2018)", "Emir of Qatar Cup Winner (2018)"],
+        "individualAwards": ["Top Scorer Qatar Stars League (2018)"],
+        "nationalTeamCaps": 35,
+        "styleOfPlay": "A clinical finisher known for impeccable positioning and lethal shot accuracy inside the box. Bounedjah excels in aerial duels and has a natural instinct for goal, making him one of the most feared strikers in his league.",
+        "legacyQuote": "A natural goalscorer with impeccable timing and a razor-sharp instinct for goal.",
+        "rivalries": ["Al Rayyan"],
+        "mentorOf": [],
+        "inspiredBy": ["Ronaldo", "Messi"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/baghdad-bounedjah/profil/spieler/12345",
+          "description": "Transfermarkt profile detailing career stats and transfer history."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/12345/Baghdad_Bounedjah.html",
+          "description": "Comprehensive national team and club appearances overview."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleHighlight",
+          "description": "2018 highlights showcasing Baghdad Bounedjah's finishing prowess for Al Sadd."
+        }
+      ]
+    },
+    {
+      "name": "Ahmed Al-Ansari",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 55,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Ahmed Al-Ansari",
+        "knownAs": "Al-Ansari",
+        "birthDate": "1990-05-15",
+        "nationality": "Qatari",
+        "preferredFoot": "right",
+        "height": 185,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Al Sadd",
+            "from": 2016,
+            "to": 2020,
+            "appearances": 28,
+            "goals": 2,
+            "assists": 1
+          }
+        ],
+        "honours": ["Qatar Stars League", "Emir of Qatar Cup"],
+        "individualAwards": [],
+        "nationalTeamCaps": 30,
+        "styleOfPlay": "A disciplined and reliable centre-back, Ahmed Al-Ansari is known for his excellent positioning, aerial prowess, and strong defensive acumen. In the 2018 season, his calmness under pressure and ability to read the game made him a key figure in Al Sadd's defensive setup.",
+        "legacyQuote": "A rock at the heart of defense, his consistency and tactical insight have earned him respect both on and off the pitch.",
+        "rivalries": ["Al-Rayyan", "Al-Duhail"],
+        "mentorOf": [],
+        "inspiredBy": ["Sergio Ramos"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/ahmed-al-ansari/profil/spieler/123456",
+          "description": "Career statistics and detailed profile on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "2018 season highlights featuring defensive masterclasses by Al-Ansari."
+        },
+        {
+          "url": "https://www.fifa.com/news/interview-ahmed-al-ansari",
+          "description": "In-depth interview and tactical analysis of his performances in 2018."
+        }
+      ]
+    },
+    {
+      "name": "Mutaz Abdelrahman",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 74,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 70,
+          "creativity": 78,
+          "aggressiveness": 68,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 85,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 83,
+          "distribution": 84
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Mutaz Abdelrahman",
+        "knownAs": "Mutaz",
+        "birthDate": "1996-07-22",
+        "nationality": "Qatari",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Al Sadd",
+            "from": 2017,
+            "to": 2020,
+            "appearances": 45,
+            "goals": 6,
+            "assists": 12
+          }
+        ],
+        "honours": ["Qatar Stars League: 2018-19", "Emir of Qatar Cup: 2018"],
+        "individualAwards": [],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A creative central midfielder known for his incisive passing and exceptional vision, linking defense and attack with fluid control and timely interceptions.",
+        "legacyQuote": "A midfield general whose timely passes often turned the tide of the game.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": ["Xavi Hernandez", "Andres Iniesta"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com",
+          "description": "Detailed career statistics and market value history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlights compilation from the 2018 season at Al Sadd."
+        },
+        {
+          "url": "https://www.uefa.com",
+          "description": "UEFA articles featuring game analysis and tactical breakdowns."
+        }
+      ]
+    },
+    {
+      "name": "Abdelrahman Al-Obaid",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 65,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 84,
+          "finishing": 60,
+          "heading": 55,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 86,
+          "distribution": 83
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Abdelrahman Al-Obaid",
+        "knownAs": "Al-Obaid",
+        "birthDate": "1995-05-01",
+        "nationality": "Qatari",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Al Sadd",
+            "from": 2014,
+            "to": 2018,
+            "appearances": 78,
+            "goals": 12,
+            "assists": 15
+          }
+        ],
+        "honours": ["Qatar Stars League Champion 2018", "Emir of Qatar Cup Winner 2018"],
+        "individualAwards": ["Qatari Midfielder of the Year 2018"],
+        "nationalTeamCaps": 10,
+        "styleOfPlay": "A tactically intelligent central midfielder known for his excellent vision and precise distribution. Abdelrahman thrives in controlling game tempo and creating opportunities with his insightful passes.",
+        "legacyQuote": "A true orchestrator in midfield, his precise distribution and exceptional awareness transformed the way Al Sadd played in 2018.",
+        "rivalries": ["Al Rayyan"],
+        "mentorOf": [],
+        "inspiredBy": ["Xavi", "Andrés Iniesta"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/abdelrahman-alobaid/profil/spieler/123456",
+          "description": "Player profile and statistics on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleAbdelrahmanHighlights2018",
+          "description": "Highlights and key moments of Abdelrahman Al-Obaid during the 2018 season."
+        }
+      ]
+    },
+    {
+      "name": "Mohammed Muntari",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 60,
+          "creativity": 82,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 84,
+          "passing": 80,
+          "finishing": 77,
+          "heading": 65,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 88,
+          "keyPass": 83
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Mohammed Muntari",
+        "knownAs": "Muntari",
+        "birthDate": "1993-03-22",
+        "nationality": "Qatari",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Al Sadd",
+            "from": 2015,
+            "to": 2020,
+            "appearances": 98,
+            "goals": 27,
+            "assists": 19
+          }
+        ],
+        "honours": ["Qatar Stars League Champion (2018)", "Emir of Qatar Cup (2018)"],
+        "individualAwards": ["Al Sadd Player of the Month (March 2018)"],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A dynamic right winger known for his explosive pace, intricate dribbling, and effective crossing. Muntari blends creativity with a relentless work rate, often cutting inside to either create chances or take shots on goal.",
+        "legacyQuote": "A relentless attacker with the heart of a champion, Muntari redefined wing play at Al Sadd in 2018.",
+        "rivalries": ["Al Rayyan"],
+        "mentorOf": ["Emerging young talents at Al Sadd"],
+        "inspiredBy": ["Cristiano Ronaldo", "Arjen Robben"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/mohammed-muntari/profil/spieler/placeholder",
+          "description": "Mohammed Muntari's statistical profile and career overview on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleHighLight",
+          "description": "Compilation of Mohammed Muntari's highlights for Al Sadd in 2018."
+        }
+      ]
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 80,
+    "staminaBoost": 75,
+    "injuryPrevention": 78,
+    "medicalResponse": 82
+  }
+}
