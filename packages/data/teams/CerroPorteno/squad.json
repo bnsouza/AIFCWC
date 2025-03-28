@@ -1,0 +1,68 @@
+{
+  "year": 1992,
+  "coach": "Luis Cubilla",
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "name": "José Luis Chilavert",
+      "position": "GK"
+    },
+    {
+      "name": "Juan Escobar",
+      "position": "RB"
+    },
+    {
+      "name": "Carlos Gamarra",
+      "position": "CB"
+    },
+    {
+      "name": "Roberto Rojas",
+      "position": "CB"
+    },
+    {
+      "name": "Jorge Espínola",
+      "position": "LB"
+    },
+    {
+      "name": "Ariel Bogado",
+      "position": "CDM"
+    },
+    {
+      "name": "Alfredo Mendoza",
+      "position": "CM"
+    },
+    {
+      "name": "Federico Santander",
+      "position": "RW"
+    },
+    {
+      "name": "Néstor Camacho",
+      "position": "CAM"
+    },
+    {
+      "name": "Celso Guerrero",
+      "position": "LW"
+    },
+    {
+      "name": "Mauro Caballero",
+      "position": "ST"
+    },
+    {
+      "name": "Oscar Daniel López",
+      "position": "GK"
+    },
+    {
+      "name": "Carlos Bonet",
+      "position": "CB"
+    },
+    {
+      "name": "Jorge Luis Romero",
+      "position": "CM"
+    },
+    {
+      "name": "Ariel Pereyra",
+      "position": "ST"
+    }
+  ],
+  "explanation": "This lineup is based on the historic 1992 campaign – one of Cerro Porteño’s most significant eras – culminating in a decisive final of the Paraguayan Primera División. Featuring club legends who all shared the pitch in that campaign, the team was built around the inspirational presence of José Luis Chilavert, whose leadership and goalkeeping prowess helped anchor a formidable side. With Carlos Gamarra anchoring the defense alongside Roberto Rojas and full‐backs Juan Escobar and Jorge Espínola, and a midfield combining the hardworking Ariel Bogado and Alfredo Mendoza with the creative spark of Néstor Camacho, the squad showcased both defensive solidity and attacking flair. Federico Santander’s pace on the right, Celso Guerrero’s dynamism on the left, and Mauro Caballero’s clinical finishing upfront ensured that the team’s performance reached its peak. The substitutes – Oscar Daniel López, Carlos Bonet, Jorge Luis Romero, and Ariel Pereyra – further provided depth, having also featured during the campaign. All players represented Cerro Porteño during this iconic period under coach Luis Cubilla, making this lineup a true reflection of the club’s most celebrated moment."
+}

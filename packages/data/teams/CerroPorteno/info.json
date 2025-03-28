@@ -1,0 +1,28 @@
+{
+  "foundationDate": "October 1, 1912",
+  "city": "Asunción",
+  "fullName": "Club Cerro Porteño",
+  "shortName": "Cerro Porteño",
+  "stadium": {
+    "name": "Estadio General Pablo Rojas",
+    "capacity": 45000
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/ccp1912oficial",
+    "tiktok": "https://www.tiktok.com/@ccp1912oficial"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(0, 0, 139)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 0, 139)"
+    },
+    "alternate": {
+      "bgColor": "rgb(139, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}
