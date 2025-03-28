@@ -1,0 +1,68 @@
+{
+  "year": 2007,
+  "coach": "Ever Hugo Almeida",
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "name": "Ricardo Jerez",
+      "position": "GK"
+    },
+    {
+      "name": "Carlos Aguilar",
+      "position": "RB"
+    },
+    {
+      "name": "Víctor Amador",
+      "position": "CB"
+    },
+    {
+      "name": "Armando Velásquez",
+      "position": "CB"
+    },
+    {
+      "name": "Elvin López",
+      "position": "LB"
+    },
+    {
+      "name": "Dagoberto Portillo",
+      "position": "CDM"
+    },
+    {
+      "name": "Juan Carlos Plata",
+      "position": "CM"
+    },
+    {
+      "name": "Felipe Flores",
+      "position": "RW"
+    },
+    {
+      "name": "Juan Manuel Contreras",
+      "position": "CAM"
+    },
+    {
+      "name": "Sergio Bermúdez",
+      "position": "LW"
+    },
+    {
+      "name": "Jairo Arrieta",
+      "position": "ST"
+    },
+    {
+      "name": "José Martínez",
+      "position": "GK"
+    },
+    {
+      "name": "Rafael Mendoza",
+      "position": "CB"
+    },
+    {
+      "name": "Alexis Chacón",
+      "position": "CM"
+    },
+    {
+      "name": "Julio González",
+      "position": "ST"
+    }
+  ],
+  "explanation": "The selected lineup represents the starting XI and key substitutes from Comunicaciones’ iconic Apertura 2007 final – one of the most significant matches in the club’s history. In this classic rivalry clash against Municipal, the team performed at its peak, securing a championship that reinforced Comunicaciones’ status as a dominant force in Guatemalan football. Featuring legendary figures like Jairo Arrieta upfront and midfield maestro Juan Carlos Plata, this group of players not only played together in that decisive final but also established a legacy that fans still celebrate today. Coach Ever Hugo Almeida’s tactical acumen in a 4-2-3-1 formation allowed each player to maximize their strengths, ensuring a historic and memorable victory for the club."
+}

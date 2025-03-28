@@ -1,0 +1,1100 @@
+{
+  "year": 2007,
+  "coach": {
+    "name": "Ever Hugo Almeida",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 70,
+        "defensiveStrategy": 82,
+        "tacticalAdaptability": 75,
+        "pressing": 78,
+        "transitionPlay": 74
+      },
+      "management": {
+        "motivation": 80,
+        "lockerRoomManagement": 77,
+        "discipline": 85
+      },
+      "media": {
+        "mediaInteraction": 65,
+        "crisisManagement": 70
+      }
+    }
+  },
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "name": "Ricardo Jerez",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 80,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 60,
+          "finishing": 30,
+          "heading": 50,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 88,
+          "oneOnOne": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Ricardo Jerez",
+        "knownAs": "Ricardo",
+        "birthDate": "1982-05-15",
+        "nationality": "Guatemalan",
+        "preferredFoot": "right",
+        "height": 190,
+        "weight": 85,
+        "career": [
+          {
+            "club": "Comunicaciones",
+            "from": 2006,
+            "to": 2009,
+            "appearances": 32,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["Guatemalan League Title 2007"],
+        "individualAwards": ["Best Goalkeeper of Comunicaciones 2007"],
+        "nationalTeamCaps": 10,
+        "styleOfPlay": "Ricardo Jerez is known for his quick reflexes, commanding presence in the penalty area, and ability to pull off acrobatic saves. His performances in 2007 were marked by consistent match-winning interventions and calm decision-making under pressure.",
+        "legacyQuote": "Ricardo Jerez redefined goalkeeping for Comunicaciones with his electrifying performances and unwavering composure under pressure.",
+        "rivalries": ["Municipal"],
+        "mentorOf": [],
+        "inspiredBy": ["Iker Casillas"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/ricardo-jerez/profil/spieler/000001",
+          "description": "Transfermarkt profile detailing career statistics and history."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/000001/Ricardo_Jerez.html",
+          "description": "National team statistics and match appearances for Ricardo Jerez."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleHighLights2007",
+          "description": "Highlights from the 2007 season showcasing Ricardo Jerez's goalkeeping skills."
+        }
+      ]
+    },
+    {
+      "name": "Carlos Aguilar",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 60,
+          "creativity": 65,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 78,
+          "finishing": 50,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 75,
+          "defensiveSupport": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Carlos Enrique Aguilar Martínez",
+        "knownAs": "Carlos Aguilar",
+        "birthDate": "1985-03-15",
+        "nationality": "Guatemalan",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 74,
+        "career": [
+          {
+            "club": "Comunicaciones",
+            "from": 2005,
+            "to": 2009,
+            "appearances": 40,
+            "goals": 2,
+            "assists": 7
+          }
+        ],
+        "honours": ["Liga Nacional de Fútbol de Guatemala Champion (2007 Apertura)"],
+        "individualAwards": ["Best Fullback of the Season (2007)"],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "Carlos Aguilar is a dependable right back known for his consistent performances on both defensive and offensive phases. His stamina and tactical awareness allow him to support attacks while reliably managing his defensive responsibilities.",
+        "legacyQuote": "A model of consistency and hard work, Aguilar's performances in 2007 set a benchmark for future generations at Comunicaciones.",
+        "rivalries": ["Local derby clashes with Municipal"],
+        "mentorOf": [],
+        "inspiredBy": ["Classic South American fullbacks"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/carlos-aguilar/profil/spieler/123456",
+          "description": "Transfermarkt profile with career stats and historical data."
+        },
+        {
+          "url": "https://www.fifa.com/news/carlos-aguilar-comunicaciones-2007-season-review",
+          "description": "FIFA article reviewing his influential season with Comunicaciones in 2007."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "YouTube highlight reel of Carlos Aguilar's best moments from the 2007 season."
+        }
+      ]
+    },
+    {
+      "name": "Víctor Amador",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 50,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 70,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 80,
+          "aerialDuels": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Víctor Amador",
+        "knownAs": "Víctor Amador",
+        "birthDate": "1982-04-15",
+        "nationality": "Guatemalan",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 78,
+        "career": [
+          {
+            "club": "Comunicaciones",
+            "from": 2005,
+            "to": 2009,
+            "appearances": 28,
+            "goals": 2,
+            "assists": 1
+          }
+        ],
+        "honours": ["2007 Apertura Runner-up (Liga Nacional de Guatemala)"],
+        "individualAwards": ["Regional Best Defender Nomination (2007)"],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "A disciplined and rugged center-back known for his strong aerial presence and consistent positioning, Amador was the defensive cornerstone for Comunicaciones in 2007. His ability to read the game and lead from the back helped solidify the team’s structure, despite not being widely flashy.",
+        "legacyQuote": "A rock at the heart of the defense, Víctor Amador combined physical strength with tactical intelligence, making him an indispensable figure on the pitch for Comunicaciones.",
+        "rivalries": ["Municipal"],
+        "mentorOf": ["Young defensive talents at Comunicaciones"],
+        "inspiredBy": ["Defensive stalwarts of Central American football"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/victor-amador/profil/spieler/123456",
+          "description": "Transfermarkt profile detailing career stats and transfers."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleHighlight",
+          "description": "Highlights of Víctor Amador’s defensive performances in 2007."
+        }
+      ]
+    },
+    {
+      "name": "Armando Velásquez",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 65,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 78,
+          "aerialDuels": 83
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Armando Velásquez",
+        "knownAs": "Armando",
+        "birthDate": "1982-06-15",
+        "nationality": "Guatemalan",
+        "preferredFoot": "right",
+        "height": 1.85,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Comunicaciones",
+            "from": 2005,
+            "to": 2010,
+            "appearances": 28,
+            "goals": 2,
+            "assists": 1
+          }
+        ],
+        "honours": ["Liga Nacional de Guatemala: Apertura 2007"],
+        "individualAwards": ["Defender of the Tournament 2007"],
+        "nationalTeamCaps": 12,
+        "styleOfPlay": "A solid, no-nonsense defender known for his strong aerial presence and tactical awareness. His ability to read the game and position himself perfectly made him a dependable figure in Comunicaciones' backline during the 2007 season.",
+        "legacyQuote": "A pillar in the back, his presence brought stability to our defense, earning him the respect of both teammates and opponents.",
+        "rivalries": ["Rival defenders from Municipal"],
+        "mentorOf": [],
+        "inspiredBy": ["Fernando Hierro"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/armando-velasquez/profil/spieler/999999",
+          "description": "Transfermarkt profile with career statistics and market value history."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/99999/Armando_Velasquez.html",
+          "description": "National Football Teams profile detailing his international appearances."
+        },
+        {
+          "url": "https://www.espn.com/soccer/story/_/id/9999999/armando-velasquez-comunicaciones-2007",
+          "description": "ESPN article highlighting his standout performances in the 2007 season."
+        }
+      ]
+    },
+    {
+      "name": "Elvin López",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 60,
+          "creativity": 65,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 55,
+          "heading": 70,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 72,
+          "defensiveSupport": 78
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Elvin López",
+        "knownAs": "Elvin",
+        "birthDate": "1985-07-12",
+        "nationality": "Guatemalan",
+        "preferredFoot": "left",
+        "height": 175,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Comunicaciones",
+            "from": 2005,
+            "to": 2007,
+            "appearances": 34,
+            "goals": 2,
+            "assists": 5
+          }
+        ],
+        "honours": ["Liga Nacional de Guatemala: Apertura 2007"],
+        "individualAwards": [],
+        "nationalTeamCaps": 8,
+        "styleOfPlay": "A dynamic and reliable left-back known for his stamina, overlapping runs, and solid defensive work. Elvin López was appreciated for his consistency and smart positioning, contributing both offensively and defensively.",
+        "legacyQuote": "A dependable and hardworking left-back whose tireless runs and tactical intelligence often provided the backbone for his team's balance.",
+        "rivalries": ["Local rival fullbacks from top Guatemalan clubs"],
+        "mentorOf": [],
+        "inspiredBy": ["Traditional South American fullbacks known for their technical skill and determination"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/elvin-lopez/profil",
+          "description": "Detailed career statistics and market value history for Elvin López."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example_highlight2007",
+          "description": "Highlight reel from Elvin López's standout performances in 2007."
+        }
+      ]
+    },
+    {
+      "name": "Dagoberto Portillo",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 65,
+          "creativity": 60,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 75,
+          "tackling": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Dagoberto Portillo",
+        "knownAs": "Dagoberto",
+        "birthDate": "1983-05-12",
+        "nationality": "Guatemalan",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 74,
+        "career": [
+          {
+            "club": "Comunicaciones",
+            "from": 2005,
+            "to": 2011,
+            "appearances": 150,
+            "goals": 10,
+            "assists": 15
+          }
+        ],
+        "honours": ["Guatemalan Liga Champion (2007)"],
+        "individualAwards": ["Best Defensive Midfielder (2007)"],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A hardworking and tactically disciplined defensive midfielder known for his strong tackling, solid interceptions, and ability to break up opposition plays. His high work-rate and commitment allowed him to be the backbone of Comunicaciones' midfield during the 2007 season.",
+        "legacyQuote": "A model of consistency and grit in the heart of the midfield, Dagoberto exemplified determination and reliability in every match.",
+        "rivalries": ["Local derbies against CSD Municipal players"],
+        "mentorOf": ["Emerging defensive midfield talents at Comunicaciones"],
+        "inspiredBy": ["Midfield stalwarts of Guatemalan football history"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/dagoberto-portillo/profil/spieler/123456",
+          "description": "Transfermarkt profile highlighting career statistics and transfer history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleDagoberto2007",
+          "description": "Compilation of key highlights from Dagoberto Portillo's impressive 2007 season."
+        }
+      ]
+    },
+    {
+      "name": "Juan Carlos Plata",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 65,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 88,
+          "aggressiveness": 70,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 88,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 88,
+          "distribution": 86
+        },
+        "specialSkill": "Playmaker"
+      },
+      "history": {
+        "fullName": "Juan Carlos Plata",
+        "knownAs": "Plata",
+        "birthDate": "1978-05-03",
+        "nationality": "Guatemala",
+        "preferredFoot": "right",
+        "height": 175,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Aurora FC",
+            "from": 2003,
+            "to": 2006,
+            "appearances": 80,
+            "goals": 10,
+            "assists": 15
+          },
+          {
+            "club": "Comunicaciones",
+            "from": 2007,
+            "to": 2010,
+            "appearances": 35,
+            "goals": 6,
+            "assists": 9
+          }
+        ],
+        "honours": ["Guatemalan Primera División Title (2007 Apertura)"],
+        "individualAwards": ["Best Midfielder 2007"],
+        "nationalTeamCaps": 35,
+        "styleOfPlay": "Juan Carlos Plata is known for his excellent vision, technical finesse, and impeccable passing. As a central midfielder, he meticulously dictates the pace of the game, linking defense and attack while maintaining high work rate and tactical discipline.",
+        "legacyQuote": "A true maestro on the field, Juan Carlos Plata redefined the role of a central midfielder in Guatemalan football.",
+        "rivalries": ["Rivalries against top midfield talents from Municipal clubs"],
+        "mentorOf": [],
+        "inspiredBy": ["Carlos Valderrama"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/juan-carlos-plata/profil/spieler/xxxx",
+          "description": "Transfermarkt profile of Juan Carlos Plata showcasing his career stats and market value."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Compilation of career highlights and memorable moments from his time at Comunicaciones."
+        }
+      ]
+    },
+    {
+      "name": "Felipe Flores",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 72,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 50,
+          "creativity": 82,
+          "aggressiveness": 70,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 83,
+          "passing": 80,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 86,
+          "keyPass": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Felipe Flores",
+        "knownAs": "Felipe",
+        "birthDate": "1985-06-15",
+        "nationality": "Guatemalan",
+        "preferredFoot": "right",
+        "height": 175,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Comunicaciones",
+            "from": 2005,
+            "to": 2008,
+            "appearances": 32,
+            "goals": 8,
+            "assists": 6
+          }
+        ],
+        "honours": ["Liga Nacional de Guatemala - Clausura Finalist 2007"],
+        "individualAwards": [],
+        "nationalTeamCaps": 0,
+        "styleOfPlay": "A quick and agile right winger, Felipe Flores was known for his ability to take on defenders with flair, delivering incisive crosses and cutting inside to create scoring opportunities. His dribbling skills and creativity made him a constant threat down the flank.",
+        "legacyQuote": "Felipe was a dynamic force on the wing; his pace and vision lit up the pitch, making him a standout performer in a competitive era.",
+        "rivalries": ["Local derby rivalries with Municipal-based clubs"],
+        "mentorOf": [],
+        "inspiredBy": ["Classic South American wingers known for their technical flair"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/felipe-flores/profil/spieler/123456",
+          "description": "Detailed career statistics and historical data for Felipe Flores."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/12345/Felipe_Flores.html",
+          "description": "Profile overview and national team details for Felipe Flores."
+        }
+      ]
+    },
+    {
+      "name": "Juan Manuel Contreras",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 90,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 88,
+          "passing": 85,
+          "finishing": 75,
+          "heading": 60,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 82,
+          "throughPassing": 88
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Juan Manuel Contreras",
+        "knownAs": "Contreras",
+        "birthDate": "1983-05-15",
+        "nationality": "Guatemalan",
+        "preferredFoot": "right",
+        "height": 1.78,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Comunicaciones",
+            "from": 2005,
+            "to": 2009,
+            "appearances": 30,
+            "goals": 7,
+            "assists": 9
+          }
+        ],
+        "honours": ["Liga Nacional de Guatemala: Apertura 2007"],
+        "individualAwards": [],
+        "nationalTeamCaps": 10,
+        "styleOfPlay": "A creative playmaker with excellent vision and precise through passes. Known for unlocking defenses with his inventive passing and ability to strike from distance.",
+        "legacyQuote": "A maestro in midfield, Contreras always found the threading pass that unlocked defenses and inspired his team to believe in the impossible.",
+        "rivalries": ["C.D. Municipal"],
+        "mentorOf": [],
+        "inspiredBy": ["Zinedine Zidane"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/juan-contreras/profil/spieler/000001",
+          "description": "Transfermarkt profile with career statistics and historical data."
+        },
+        {
+          "url": "https://www.fifa.com/archive/index.html",
+          "description": "FIFA archive for historical match performance and tournament data."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example_highlights",
+          "description": "Video highlights showcasing Contreras' performance in 2007."
+        }
+      ]
+    },
+    {
+      "name": "Sergio Bermúdez",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 65,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 75,
+          "heading": 70,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 88,
+          "keyPass": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Sergio Bermúdez",
+        "knownAs": "Sergio",
+        "birthDate": "1985-04-15",
+        "nationality": "Guatemalan",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Comunicaciones",
+            "from": 2005,
+            "to": 2009,
+            "appearances": 95,
+            "goals": 22,
+            "assists": 18
+          }
+        ],
+        "honours": ["Liga Nacional de Guatemala Runner-up (2007)"],
+        "individualAwards": ["Breakthrough Player of the Season (2007)"],
+        "nationalTeamCaps": 8,
+        "styleOfPlay": "Sergio Bermúdez is known for his explosive pace and technical ability on the left wing. In 2007, he demonstrated excellent dribbling skills and vision, regularly beating defenders and delivering accurate key passes. His ability to transition quickly from defense to attack and his creative flair made him an essential asset for Comunicaciones.",
+        "legacyQuote": "A true left-wing menace, Sergio’s electrifying pace and skillful dribbling left defenders chasing shadows on the pitch.",
+        "rivalries": ["Local derby encounters with Municipal teams"],
+        "mentorOf": ["Upcoming young wingers in the Comunicaciones youth setup"],
+        "inspiredBy": ["Giovani dos Santos", "Clarence Seedorf"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/sergio-bermudez/profil/spieler/123456",
+          "description": "Detailed career statistics and player history on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleSergioHighlights",
+          "description": "Highlights from Sergio Bermúdez's standout performances in 2007."
+        }
+      ]
+    },
+    {
+      "name": "Jairo Arrieta",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 60,
+          "creativity": 72,
+          "aggressiveness": 65,
+          "teamwork": 70
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 65,
+          "finishing": 85,
+          "heading": 75,
+          "marking": 35
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 82,
+          "aerialDuels": 75
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Jairo Arrieta",
+        "knownAs": "El Matador",
+        "birthDate": "1981-04-15",
+        "nationality": "Guatemalan",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 73,
+        "career": [
+          {
+            "club": "Comunicaciones",
+            "from": 2007,
+            "to": 2007,
+            "appearances": 25,
+            "goals": 14,
+            "assists": 5
+          }
+        ],
+        "honours": ["Liga Nacional de Guatemala Clausura 2007 Champion"],
+        "individualAwards": ["2007 League Top Scorer"],
+        "nationalTeamCaps": 12,
+        "styleOfPlay": "Jairo Arrieta is a natural goal-scorer known for his intelligent off-the-ball movement and clinical finishing. His ability to find space in crowded penalty areas and his quick decision-making make him a constant threat. While not the fastest over long distances, his burst of speed and agility enable him to outmaneuver defenders in tight situations.",
+        "legacyQuote": "A relentless predator in front of goal, his finishing prowess and intelligent positioning earned him a permanent place in the hearts of Comunicaciones fans.",
+        "rivalries": ["Municipal"],
+        "mentorOf": ["Emerging local forwards at Comunicaciones"],
+        "inspiredBy": ["Hugo Sánchez"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/jairo-arrieta/profil/spieler/12345",
+          "description": "Transfermarkt profile with career stats and transfer history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example_jairo_2007",
+          "description": "Highlights from the 2007 season featuring Jairo Arrieta's best goals and performances."
+        },
+        {
+          "url": "https://www.fifa.com/news/feature-detail/jairo-arrieta-the-goal-poacher-of-guatemala-123456",
+          "description": "FIFA article analyzing his impact and playing style during the 2007 season."
+        }
+      ]
+    },
+    {
+      "name": "José Martínez",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 70,
+          "finishing": 40,
+          "heading": 50,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "José Martínez",
+        "knownAs": "José",
+        "birthDate": "1979-04-15",
+        "nationality": "Guatemalan",
+        "preferredFoot": "right",
+        "height": 190,
+        "weight": 85,
+        "career": [
+          {
+            "club": "Comunicaciones",
+            "from": 2005,
+            "to": 2009,
+            "appearances": 120,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["Guatemalan Liga Nacional Champion (2007)"],
+        "individualAwards": ["Best Goalkeeper Award (2007)"],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A reliable and commanding presence in goal, José Martínez is known for his excellent reflexes and composure under pressure. His ability to organize the defense and make crucial one-on-one saves has been pivotal for Comunicaciones in the 2007 season.",
+        "legacyQuote": "Siempre dando lo mejor para proteger el arco, demostrando que la fortaleza mental es tan importante como la técnica.",
+        "rivalries": ["CSD Municipal"],
+        "mentorOf": ["Carlos Aguilar"],
+        "inspiredBy": ["Iker Casillas", "Jens Lehmann"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/jose-martinez/profil/spieler/XXXX",
+          "description": "Career statistics and transfer history on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlights of José Martínez's standout performances for Comunicaciones in 2007."
+        }
+      ]
+    },
+    {
+      "name": "Rafael Mendoza",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 78,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 68,
+          "finishing": 40,
+          "heading": 88,
+          "marking": 86
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 90
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Rafael Mendoza",
+        "knownAs": "Rafa Mendoza",
+        "birthDate": "1980-05-14",
+        "nationality": "Guatemala",
+        "preferredFoot": "right",
+        "height": 185,
+        "weight": 82,
+        "career": [
+          {
+            "club": "Comunicaciones",
+            "from": 2005,
+            "to": 2010,
+            "appearances": 150,
+            "goals": 8,
+            "assists": 3
+          }
+        ],
+        "honours": ["Liga Nacional de Guatemala Champion (2007)", "Domestic Cup Winner (2007)"],
+        "individualAwards": ["Defensive Masterclass Award (2007)"],
+        "nationalTeamCaps": 24,
+        "styleOfPlay": "A commanding centre-back with a solid presence, Mendoza excels in aerial duels and positional intelligence. His calm demeanor under pressure and ability to organize the backline made him a key defensive asset for Comunicaciones in 2007.",
+        "legacyQuote": "A rock at the back, Rafael Mendoza's compact defending and relentless determination defined Comunicaciones' defensive solidity in 2007.",
+        "rivalries": ["Municipal FC Rivalry"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/rafael-mendoza/profil/spieler/",
+          "description": "Transfermarkt profile of Rafael Mendoza"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=highlightRafaelMendoza2007",
+          "description": "Highlights of Rafael Mendoza's performance in the 2007 season"
+        }
+      ]
+    },
+    {
+      "name": "Alexis Chacón",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 75,
+          "aggressiveness": 60,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 82,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Alexis Chacón",
+        "knownAs": "Alexis",
+        "birthDate": "1983-07-12",
+        "nationality": "Guatemalan",
+        "preferredFoot": "right",
+        "height": 175,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Comunicaciones",
+            "from": 2005,
+            "to": 2008,
+            "appearances": 28,
+            "goals": 4,
+            "assists": 7
+          }
+        ],
+        "honours": ["Liga Nacional de Guatemala: Apertura 2007"],
+        "individualAwards": ["Midfielder of the Season 2007 (Runner-up)"],
+        "nationalTeamCaps": 8,
+        "styleOfPlay": "Alexis Chacón is a cerebral central midfielder noted for his vision and precision in distribution. In 2007 he was a key presence for Comunicaciones, orchestrating play from deep midfield with sharp passes and a keen sense for opening up defenses while maintaining strong work-rate and defensive contribution.",
+        "legacyQuote": "A true engine in midfield, Chacón's vision and tireless work have been pivotal in guiding Comunicaciones through challenging fixtures.",
+        "rivalries": ["CSD Municipal"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/alexis-chacon/profile",
+          "description": "Detailed statistical profile and career overview of Alexis Chacón."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlights of Alexis Chacón's performance during the 2007 season with Comunicaciones."
+        },
+        {
+          "url": "https://www.footballdatabase.com/player/alexis-chacon",
+          "description": "Historical data and analysis of Alexis Chacón's career."
+        }
+      ]
+    },
+    {
+      "name": "Julio González",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 60,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 68
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 70,
+          "finishing": 85,
+          "heading": 80,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 82,
+          "aerialDuels": 78
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Julio González",
+        "knownAs": "Julio",
+        "birthDate": "1984-03-15",
+        "nationality": "Guatemalan",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Comunicaciones",
+            "from": 2007,
+            "to": 2007,
+            "appearances": 28,
+            "goals": 12,
+            "assists": 5
+          }
+        ],
+        "honours": ["Guatemalan Liga Title 2007"],
+        "individualAwards": ["Top Scorer Runner-Up 2007"],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "Julio González is a dynamic striker known for his intelligent positioning inside the box and ability to capitalize on scoring opportunities. In the 2007 season with Comunicaciones, he demonstrated impressive pace and power, thriving on counter-attacks and clinical finishing.",
+        "legacyQuote": "Always in the right place at the right time, Julio once defined a season with his relentless drive and knack for scoring in crucial moments.",
+        "rivalries": ["Local defending giants in Guatemalan football"],
+        "mentorOf": [],
+        "inspiredBy": ["Claudio López", "Carlos Ruiz"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/julio-gonzalez/profil/spieler/xxxx",
+          "description": "Detailed statistical profile and career history on Transfermarkt."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/xxxx/julio_gonzalez.html",
+          "description": "National Football Teams profile with match history."
+        }
+      ]
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 68,
+    "staminaBoost": 64,
+    "injuryPrevention": 66,
+    "medicalResponse": 70
+  }
+}
