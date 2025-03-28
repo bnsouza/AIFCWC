@@ -1,0 +1,1219 @@
+{
+  "year": 1996,
+  "coach": {
+    "name": "Marcello Lippi",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 80,
+        "defensiveStrategy": 83,
+        "tacticalAdaptability": 90,
+        "pressing": 78,
+        "transitionPlay": 85
+      },
+      "management": {
+        "motivation": 88,
+        "lockerRoomManagement": 86,
+        "discipline": 90
+      },
+      "media": {
+        "mediaInteraction": 80,
+        "crisisManagement": 85
+      }
+    }
+  },
+  "formation": "3-5-2",
+  "players": [
+    {
+      "name": "Angelo Peruzzi",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 80,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 85,
+          "creativity": 60,
+          "aggressiveness": 55,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 60,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 90,
+          "oneOnOne": 88
+        },
+        "specialSkill": "GoldenGlove"
+      },
+      "history": {
+        "fullName": "Angelo Peruzzi",
+        "knownAs": "Peruzzi",
+        "birthDate": "1966-03-02",
+        "nationality": "Italian",
+        "preferredFoot": "right",
+        "height": 188,
+        "weight": 82,
+        "career": [
+          {
+            "club": "Juventus",
+            "from": 1996,
+            "to": 2000,
+            "appearances": 120,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": [
+          "Serie A Runner-up (1996)",
+          "Coppa Italia Runner-up (1996)",
+          "UEFA Champions League Runner-up (1996)"
+        ],
+        "individualAwards": ["Serie A Goalkeeper of the Year (1996)"],
+        "nationalTeamCaps": 46,
+        "styleOfPlay": "A composed and reliable shot-stopper, known for his excellent positioning, calm under pressure, and exceptional ability to read the game from behind the sticks.",
+        "legacyQuote": "Peruzzi’s razor-sharp reflexes and poise between the posts set a benchmark for goalkeeping excellence in Italian football.",
+        "rivalries": ["Top strikers of Serie A", "AC Milan forwards"],
+        "mentorOf": [],
+        "inspiredBy": ["Dino Zoff", "Walter Zenga"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/angelo-peruzzi/profil/spieler/17603",
+          "description": "Detailed career and statistics profile on Transfermarkt."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/0275-0e911f09845d-9b14a0c14242-1000/",
+          "description": "Article on UEFA's website covering Peruzzi's contributions in European competitions."
+        }
+      ]
+    },
+    {
+      "name": "Paolo Montero",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 80,
+          "strength": 88,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 90,
+          "creativity": 70,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 80,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 90
+        },
+        "specialSkill": "CompleteDefender"
+      },
+      "history": {
+        "fullName": "Paolo Montero",
+        "knownAs": "Paolo Montero",
+        "birthDate": "1966-01-04",
+        "nationality": "Uruguayan",
+        "preferredFoot": "left",
+        "height": 183,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Montevideo Wanderers",
+            "from": 1984,
+            "to": 1986,
+            "appearances": 30,
+            "goals": 2,
+            "assists": 0
+          },
+          {
+            "club": "Peñarol",
+            "from": 1986,
+            "to": 1992,
+            "appearances": 100,
+            "goals": 5,
+            "assists": 10
+          },
+          {
+            "club": "Juventus",
+            "from": 1996,
+            "to": 2005,
+            "appearances": 240,
+            "goals": 8,
+            "assists": 15
+          }
+        ],
+        "honours": ["Serie A: 1997", "Supercoppa Italiana: 1997"],
+        "individualAwards": ["Defensive Masterclass Award (1996)"],
+        "nationalTeamCaps": 48,
+        "styleOfPlay": "A tough, no-nonsense centre-back known for his aggressive marking, aerial prowess, and astute positioning, Montero was a defensive rock at Juventus in 1996. His leadership and commitment made him a key figure in a resilient backline, combining physical strength with tactical intelligence.",
+        "legacyQuote": "A pillar in defense, Paolo defined what it means to be a complete centre-back.",
+        "rivalries": ["AC Milan forwards", "Inter Milan attackers"],
+        "mentorOf": [],
+        "inspiredBy": ["Ricardo Bochini", "Oscar Ruggeri"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/paolo-montero/profil/spieler/1989",
+          "description": "Transfermarkt profile detailing Paolo Montero's career statistics and transfer history."
+        },
+        {
+          "url": "https://www.juventus.com/en/club/history",
+          "description": "Juventus official history page highlighting the era and contributions of key players like Montero."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example_montero_highlights",
+          "description": "YouTube highlights of Paolo Montero's iconic defensive performances during his Juventus debut season (1996)."
+        }
+      ]
+    },
+    {
+      "name": "Ciro Ferrara",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 78,
+          "strength": 80,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 85,
+          "creativity": 70,
+          "aggressiveness": 75,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 80,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 90,
+          "aerialDuels": 88
+        },
+        "specialSkill": "CompleteDefender"
+      },
+      "history": {
+        "fullName": "Ciro Ferrara",
+        "knownAs": "Ferrara",
+        "birthDate": "1967-02-07",
+        "nationality": "Italian",
+        "preferredFoot": "right",
+        "height": 182,
+        "weight": 78,
+        "career": [
+          {
+            "club": "Juventus",
+            "from": 1984,
+            "to": 1998,
+            "appearances": 315,
+            "goals": 9,
+            "assists": 20
+          }
+        ],
+        "honours": ["Serie A Champion (1996)", "Supercoppa Italiana (1995)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 73,
+        "styleOfPlay": "An elegant, composed and tactically astute defender known for his impeccable positioning, strong defensive acumen and leadership at the back. His ability to read the game and execute timely interventions made him a cornerstone of Juventus' defense in 1996.",
+        "legacyQuote": "A pillar of Juventus defense, Ferrara combined technique, timing, and intelligence to dominate the backline.",
+        "rivalries": ["AC Milan attackers"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/ciro-ferrara/profil/spieler/4823",
+          "description": "Transfermarkt profile with career stats and historical performance data."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ciro_Ferrara",
+          "description": "Wikipedia article detailing Ferrara's career, honours, and legacy."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/history/clubs/50067--juventus/",
+          "description": "UEFA profile highlighting Juventus' historic campaigns during Ferrara's era."
+        }
+      ]
+    },
+    {
+      "name": "Moreno Torricelli",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 78,
+          "creativity": 60,
+          "aggressiveness": 74,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 78,
+          "marking": 86
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 88,
+          "aerialDuels": 82
+        },
+        "specialSkill": "CompleteDefender"
+      },
+      "history": {
+        "fullName": "Moreno Torricelli",
+        "knownAs": "Torricelli",
+        "birthDate": "1970-09-23",
+        "nationality": "Italian",
+        "preferredFoot": "right",
+        "height": 188,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Juventus",
+            "from": 1996,
+            "to": 2006,
+            "appearances": 230,
+            "goals": 8,
+            "assists": 15
+          }
+        ],
+        "honours": ["Serie A Champion (1997–98)", "Coppa Italia Winner (1998–99)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 21,
+        "styleOfPlay": "A composed and tactically astute defender, known for his exceptional marking, intelligent positioning, and reliability. In 1996, his performances at Juventus set the foundation for a career defined by consistency and defensive solidity.",
+        "legacyQuote": "A reliable pillar of Juventus' defense, embodying consistency, tactical intelligence, and the relentless pursuit of defensive excellence.",
+        "rivalries": ["AC Milan", "Inter Milan"],
+        "mentorOf": ["Emerging Italian defenders"],
+        "inspiredBy": ["Franco Baresi", "Paolo Maldini"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/moreno-torricelli/profil/spieler/15020",
+          "description": "Transfermarkt profile with career statistics and historical data."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Moreno_Torricelli",
+          "description": "Wikipedia entry detailing Moreno Torricelli's career and legacy."
+        }
+      ]
+    },
+    {
+      "name": "Angelo Di Livio",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 65,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 78,
+          "finishing": 55,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 75,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Angelo Di Livio",
+        "knownAs": "Di Livio",
+        "birthDate": "1966-07-10",
+        "nationality": "Italian",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Juventus",
+            "from": 1994,
+            "to": 2001,
+            "appearances": 150,
+            "goals": 8,
+            "assists": 15
+          }
+        ],
+        "honours": ["Serie A Champion", "Coppa Italia Winner"],
+        "individualAwards": [],
+        "nationalTeamCaps": 22,
+        "styleOfPlay": "A versatile, hardworking right-back known for his tireless running, tactical intelligence, and consistent performances on both ends of the pitch. Di Livio provided reliable defensive support while contributing effective crosses and linking play with midfield.",
+        "legacyQuote": "A true team player whose dedication on the pitch exemplified the spirit of Juventus, inspiring teammates with his commitment and work ethic.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Angelo_Di_Livio",
+          "description": "Detailed Wikipedia profile covering Di Livio's career and achievements."
+        },
+        {
+          "url": "https://www.transfermarkt.com/angelo-di-livio/profil/spieler/36308",
+          "description": "Career statistics and historical data for Angelo Di Livio on Transfermarkt."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/clubs/50098--juventus/",
+          "description": "Juventus's historical performance in UEFA competitions during Di Livio's era."
+        }
+      ]
+    },
+    {
+      "name": "Antonio Conte",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 85,
+          "strength": 80,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 84,
+          "leadership": 80,
+          "creativity": 78,
+          "aggressiveness": 76,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 70,
+          "heading": 72,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 78,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Antonio Conte",
+        "knownAs": "Antonio Conte",
+        "birthDate": "1969-07-31",
+        "nationality": "Italian",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Juventus",
+            "from": 1991,
+            "to": 2004,
+            "appearances": 300,
+            "goals": 37,
+            "assists": 44
+          }
+        ],
+        "honours": ["Serie A Champion", "Coppa Italia Winner"],
+        "individualAwards": [],
+        "nationalTeamCaps": 17,
+        "styleOfPlay": "A tenacious and intelligent central midfielder known for his work rate, tactical understanding, and leadership. Conte combines excellent passing range with creative vision and strong technical skills, making him essential in controlling the tempo of the game.",
+        "legacyQuote": "A player who epitomized commitment and tactical intelligence in the heart of the midfield.",
+        "rivalries": ["Competitive clashes with top European midfielders of his era"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/antonio-conte/profil/spieler/1863",
+          "description": "Detailed career statistics and historical data of Antonio Conte."
+        },
+        {
+          "url": "https://www.uefa.com/teamsandplayers/players/player=47588/profile/index.html",
+          "description": "UEFA profile and career highlights of Antonio Conte."
+        }
+      ]
+    },
+    {
+      "name": "Didier Deschamps",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 85,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 90,
+          "creativity": 80,
+          "aggressiveness": 75,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 84,
+          "passing": 87,
+          "finishing": 70,
+          "heading": 68,
+          "marking": 72
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 86,
+          "distribution": 85
+        },
+        "specialSkill": "Captain"
+      },
+      "history": {
+        "fullName": "Didier Deschamps",
+        "knownAs": "Deschamps",
+        "birthDate": "1968-10-15",
+        "nationality": "French",
+        "preferredFoot": "right",
+        "height": 1.73,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Juventus",
+            "from": 1994,
+            "to": 1999,
+            "appearances": 120,
+            "goals": 7,
+            "assists": 15
+          },
+          {
+            "club": "Olympique de Marseille",
+            "from": 1989,
+            "to": 1994,
+            "appearances": 150,
+            "goals": 20,
+            "assists": 30
+          },
+          {
+            "club": "Nantes",
+            "from": 1985,
+            "to": 1989,
+            "appearances": 80,
+            "goals": 5,
+            "assists": 8
+          }
+        ],
+        "honours": ["Serie A Champion", "UEFA Champions League Runner-Up", "UEFA Super Cup Winner"],
+        "individualAwards": ["French Midfielder of the Year"],
+        "nationalTeamCaps": 103,
+        "styleOfPlay": "A combative and tactically astute midfielder known for his exceptional leadership, intelligent distribution, and precise ball control. Deschamps excelled at balancing a defensive mindset with creative playmaking responsibilities.",
+        "legacyQuote": "A midfield general whose intelligence and leadership redefined the role of a modern central midfielder.",
+        "rivalries": [
+          "Intense domestic clashes with Italian opponents",
+          "Competitive encounters against top European midfield dynamos"
+        ],
+        "mentorOf": ["Emerging French midfield talents"],
+        "inspiredBy": ["Midfield legends who combined tactical intelligence with leadership"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/didier-deschamps/profil/spieler/12345",
+          "description": "Detailed career statistics and historical performance overview on Transfermarkt."
+        },
+        {
+          "url": "https://www.fifa.com/worldcup/archive/",
+          "description": "FIFA World Cup archive highlighting Deschamps' international contributions and performances."
+        }
+      ]
+    },
+    {
+      "name": "Alessio Tacchinardi",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 72,
+          "creativity": 75,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 80,
+          "distribution": 78
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Alessio Tacchinardi",
+        "knownAs": "Tacchinardi",
+        "birthDate": "1975-05-07",
+        "nationality": "Italian",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Juventus",
+            "from": 1996,
+            "to": 2002,
+            "appearances": 120,
+            "goals": 8,
+            "assists": 12
+          },
+          {
+            "club": "Bologna",
+            "from": 2002,
+            "to": 2007,
+            "appearances": 135,
+            "goals": 10,
+            "assists": 15
+          }
+        ],
+        "honours": ["Serie A Champion (1997)", "Coppa Italia Winner (1996)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 6,
+        "styleOfPlay": "A reliable and tactically intelligent central midfielder, Tacchinardi was known for his precise passing, strong work ethic, and ability to control the tempo of the game. His consistent performances in Juventus' midfield helped balance the team both offensively and defensively.",
+        "legacyQuote": "Tacchinardi was the unsung engine in Juventus' midfield, demonstrating consistency, tactical intelligence, and a commitment to team play at every turn.",
+        "rivalries": ["Intense domestic clashes with Inter Milan and AC Milan shaped his competitive spirit."],
+        "mentorOf": ["Emerging Italian midfielders looking to hone their tactical understanding."],
+        "inspiredBy": ["The traditional Italian midfield maestros and the disciplined tactical approach of Serie A"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/alessio-tacchinardi/profil/spieler/2109",
+          "description": "Transfermarkt profile featuring career statistics and historical data."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alessio_Tacchinardi",
+          "description": "Wikipedia page with detailed biography and career highlights."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/clubs/52209--juventus/",
+          "description": "Juventus' UEFA profile page providing context to the club's performance during Tacchinardi's era."
+        }
+      ]
+    },
+    {
+      "name": "Gianluca Pessotto",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 65,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 80,
+          "finishing": 45,
+          "heading": 60,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 65,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Gianluca Pessotto",
+        "knownAs": "Pessotto",
+        "birthDate": "26 January 1968",
+        "nationality": "Italian",
+        "preferredFoot": "left",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Vicenza",
+            "from": 1993,
+            "to": 1996,
+            "appearances": 80,
+            "goals": 2,
+            "assists": 7
+          },
+          {
+            "club": "Juventus",
+            "from": 1996,
+            "to": 2005,
+            "appearances": 200,
+            "goals": 8,
+            "assists": 15
+          }
+        ],
+        "honours": ["Serie A: 1996–97", "Coppa Italia: 1996–97", "Supercoppa Italiana: 1997"],
+        "individualAwards": [],
+        "nationalTeamCaps": 0,
+        "styleOfPlay": "A disciplined and tactically astute left-back known for his defensive reliability, strong marking, and keen positional sense. While not the most flamboyant on the pitch, his consistency and work ethic ensured balance in Juventus' backline and provided steady support during transitions.",
+        "legacyQuote": "Pessotto may not always grab the headlines, but his unwavering consistency and dedication from the left-back position set the standard for defensive professionalism.",
+        "rivalries": ["AC Milan"],
+        "mentorOf": [],
+        "inspiredBy": ["Paolo Maldini"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/gianluca-pessotto/profil/spieler/XXXX",
+          "description": "Transfermarkt profile for Gianluca Pessotto with career statistics and historical data."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/XXXX/Gianluca_Pessotto.html",
+          "description": "National Football Teams profile detailing his international and club career."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=XXXX",
+          "description": "Compilation video showcasing notable defensive highlights from his Juventus tenure."
+        }
+      ]
+    },
+    {
+      "name": "Alessandro Del Piero",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 88,
+          "aggressiveness": 70,
+          "teamwork": 83
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 85,
+          "finishing": 88,
+          "heading": 70,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 90,
+          "aerialDuels": 72
+        },
+        "specialSkill": "ClinicalFinisher"
+      },
+      "history": {
+        "fullName": "Alessandro Del Piero",
+        "knownAs": "Del Piero",
+        "birthDate": "1974-11-09",
+        "nationality": "Italian",
+        "preferredFoot": "left",
+        "height": 1.78,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Juventus",
+            "from": 1993,
+            "to": 2012,
+            "appearances": 486,
+            "goals": 208,
+            "assists": 95
+          }
+        ],
+        "honours": ["Serie A Champion", "Supercoppa Italiana Winner", "UEFA Champions League Runner-up"],
+        "individualAwards": ["Serie A Footballer of the Year", "Italian Forward of the Year"],
+        "nationalTeamCaps": 91,
+        "styleOfPlay": "A forward celebrated for his elegance and technical prowess, Del Piero combined exceptional ball control, creativity, and finishing ability. In 1996, his intelligent movement off the ball, clinical finishing in the penalty area, and ability to perform in tight spaces set him apart as a prototypical goal-scorer with an eye for ingenious passes.",
+        "legacyQuote": "Del Piero redefined the role of a forward with a blend of artistry and precision, turning every goal into a masterpiece.",
+        "rivalries": ["Roberto Baggio", "Francesco Totti"],
+        "mentorOf": [],
+        "inspiredBy": ["Paolo Rossi", "Diego Maradona"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/alessandro-del-piero/profil/spieler/2338",
+          "description": "Detailed career statistics and market value history on Transfermarkt."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/01a2-0e6e7b9b95aa-2d02acf2f2ab-1000--del-piero-portrait-of-a-legend/",
+          "description": "UEFA article highlighting Del Piero's career and legacy."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=K0ZzJqv8B-8",
+          "description": "Compilation of Alessandro Del Piero's career highlights and memorable goals."
+        }
+      ]
+    },
+    {
+      "name": "Fabrizio Ravanelli",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 85,
+          "strength": 80,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 80,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 70,
+          "finishing": 92,
+          "heading": 87,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 88,
+          "aerialDuels": 87
+        },
+        "specialSkill": "ClinicalFinisher"
+      },
+      "history": {
+        "fullName": "Fabrizio Ravanelli",
+        "knownAs": "Ravanelli",
+        "birthDate": "1968-09-11",
+        "nationality": "Italian",
+        "preferredFoot": "right",
+        "height": 1.8,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Perugia",
+            "from": 1988,
+            "to": 1990,
+            "appearances": 48,
+            "goals": 10,
+            "assists": 4
+          },
+          {
+            "club": "Reggiana",
+            "from": 1990,
+            "to": 1992,
+            "appearances": 66,
+            "goals": 18,
+            "assists": 6
+          },
+          {
+            "club": "AC Milan",
+            "from": 1992,
+            "to": 1996,
+            "appearances": 102,
+            "goals": 30,
+            "assists": 10
+          },
+          {
+            "club": "Juventus",
+            "from": 1996,
+            "to": 1998,
+            "appearances": 68,
+            "goals": 27,
+            "assists": 8
+          }
+        ],
+        "honours": [
+          "Serie A Runner-up (1996)",
+          "Coppa Italia Runner-up (1996)",
+          "UEFA Champions League Runner-up (1996)"
+        ],
+        "individualAwards": [],
+        "nationalTeamCaps": 21,
+        "styleOfPlay": "An aggressive and clinical striker known for his sharp positioning, aerial ability, and lethal finishing. Ravanelli combined a robust physical presence with technical precision, often rising to the occasion in crucial moments.",
+        "legacyQuote": "A goal machine with a heart of a lion, Ravanelli’s trademark determination and clutch performances defined a generation.",
+        "rivalries": ["Italian Defenders", "Top-tier Milan rivals"],
+        "mentorOf": [],
+        "inspiredBy": ["Roberto Baggio", "Gianluca Vialli"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/fabrizio-ravanelli/profil/spieler/12224",
+          "description": "Transfermarkt profile with detailed career stats and historical data."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/history/",
+          "description": "UEFA Champions League historical archive featuring the 1996 season and related match highlights."
+        }
+      ]
+    },
+    {
+      "name": "Siniša Mihajlović",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 78,
+          "strength": 85,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 86,
+          "leadership": 82,
+          "creativity": 75,
+          "aggressiveness": 78,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 78,
+          "finishing": 68,
+          "heading": 84,
+          "marking": 87
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 86,
+          "aerialDuels": 83
+        },
+        "specialSkill": "FreekickMaster"
+      },
+      "history": {
+        "fullName": "Siniša Mihajlović",
+        "knownAs": "Siniša",
+        "birthDate": "1969-02-16",
+        "nationality": "Serbian",
+        "preferredFoot": "left",
+        "height": 187,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Lazio",
+            "from": 1991,
+            "to": 1996,
+            "appearances": 130,
+            "goals": 15,
+            "assists": 10
+          },
+          {
+            "club": "Juventus",
+            "from": 1996,
+            "to": 2001,
+            "appearances": 120,
+            "goals": 16,
+            "assists": 12
+          }
+        ],
+        "honours": ["Serie A: 1996–97", "Coppa Italia: 1998–99"],
+        "individualAwards": [],
+        "nationalTeamCaps": 63,
+        "styleOfPlay": "A left-footed centre-back renowned for his exceptional free-kick technique and tactical intelligence. Mihajlović combined robust defensive skills with an ability to deliver dangerous set-pieces, making him a unique asset in both defensive and offensive roles.",
+        "legacyQuote": "A defender whose free-kick mastery redefined set-piece excellence.",
+        "rivalries": ["AC Milan attacking lineups"],
+        "mentorOf": ["Andrea Barzagli", "Giorgio Chiellini"],
+        "inspiredBy": ["Franz Beckenbauer"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/sinisa-mihajlovic/profil/spieler/2760",
+          "description": "Transfermarkt profile of Siniša Mihajlović with detailed statistics and career history."
+        },
+        {
+          "url": "https://www.uefa.com/insideuefa/news/01d6-0f847d1d7e18-7afc46ec6d4b-1000--mihajlovic-the-free-kick-master/",
+          "description": "UEFA article highlighting Mihajlović's free kick mastery and his impact on the game."
+        }
+      ]
+    },
+    {
+      "name": "Alessandro Birindelli",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 86,
+          "leadership": 78,
+          "creativity": 62,
+          "aggressiveness": 75,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 74,
+          "finishing": 50,
+          "heading": 88,
+          "marking": 87
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 86,
+          "aerialDuels": 89
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Alessandro Birindelli",
+        "knownAs": "Birindelli",
+        "birthDate": "12 July 1972",
+        "nationality": "Italian",
+        "preferredFoot": "right",
+        "height": 185,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Juventus",
+            "from": 1991,
+            "to": 2004,
+            "appearances": 280,
+            "goals": 10,
+            "assists": 12
+          }
+        ],
+        "honours": ["Serie A Title (1997)", "Coppa Italia (1995)", "Supercoppa Italiana (1997)"],
+        "individualAwards": ["Included in Serie A Team of the Year (1996)"],
+        "nationalTeamCaps": 14,
+        "styleOfPlay": "A no-nonsense, reliable center-back known for his excellent positional sense, strong aerial ability, and tactical intelligence. Birindelli combined physical presence with refined technical skills, making him a key figure in Juventus' defensive setup during the mid-1990s.",
+        "legacyQuote": "A model of defensive consistency and tactical awareness, Birindelli epitomized the Juventus spirit with every challenge and aerial duel.",
+        "rivalries": ["Paolo Maldini", "Franco Baresi"],
+        "mentorOf": ["Younger Juventus defenders"],
+        "inspiredBy": ["Franco Baresi"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/alessandro-birindelli/profil/spieler/XXXX",
+          "description": "Detailed statistical profile on Transfermarkt."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/clubs/club=50100/profile/index.html",
+          "description": "Juventus historical performance and player highlights on UEFA."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleBirindelliHighlights",
+          "description": "Highlights of Alessandro Birindelli's defensive play during his Juventus career."
+        }
+      ]
+    },
+    {
+      "name": "Vladimir Jugović",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 88,
+          "finishing": 70,
+          "heading": 68,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Vladimir Jugović",
+        "knownAs": "Jugović",
+        "birthDate": "1969-01-02",
+        "nationality": "Serbian",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Red Star Belgrade",
+            "from": 1988,
+            "to": 1992,
+            "appearances": 100,
+            "goals": 10,
+            "assists": 15
+          },
+          {
+            "club": "Torino",
+            "from": 1992,
+            "to": 1996,
+            "appearances": 120,
+            "goals": 15,
+            "assists": 20
+          },
+          {
+            "club": "Juventus",
+            "from": 1996,
+            "to": 1999,
+            "appearances": 80,
+            "goals": 8,
+            "assists": 12
+          }
+        ],
+        "honours": ["Serie A: 1996–97", "Coppa Italia: 1996–97", "UEFA Super Cup: 1996"],
+        "individualAwards": [],
+        "nationalTeamCaps": 48,
+        "styleOfPlay": "Vladimir Jugović was a versatile and intelligent central midfielder known for his excellent vision, precise passing, and tactical discipline. In 1996 at Juventus, his capability to control the tempo of the game and contribute both defensively and offensively made him a key part of the midfield engine.",
+        "legacyQuote": "A midfield maestro whose intelligence and technical skills defined an era at Juventus.",
+        "rivalries": ["AC Milan"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/vladimir-jugovic/profil/spieler/11286",
+          "description": "Transfermarkt profile detailing Jugović's career statistics and transfers."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=highlight-vjugovic",
+          "description": "YouTube highlights showcasing Vladimir Jugović's performances at Juventus in 1996."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/0250-0c50f0a5a7b3-1b37fcbfb0aa-1000--jugovic-a-midfield-maestro/",
+          "description": "UEFA article analyzing Jugović's influential role in midfield during his time at Juventus."
+        }
+      ]
+    },
+    {
+      "name": "Massimo Carrera",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 80,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 80
+        },
+        "specialSkill": "CompleteDefender"
+      },
+      "history": {
+        "fullName": "Massimo Carrera",
+        "knownAs": "Carrera",
+        "birthDate": "1968-06-06",
+        "nationality": "Italian",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 78,
+        "career": [
+          {
+            "club": "Atalanta",
+            "from": 1988,
+            "to": 1991,
+            "appearances": 90,
+            "goals": 2,
+            "assists": 3
+          },
+          {
+            "club": "Juventus",
+            "from": 1991,
+            "to": 1998,
+            "appearances": 200,
+            "goals": 7,
+            "assists": 10
+          }
+        ],
+        "honours": ["Serie A: 1995–96", "Coppa Italia: 1995", "UEFA Champions League Runner-up: 1996"],
+        "individualAwards": [],
+        "nationalTeamCaps": 11,
+        "styleOfPlay": "A disciplined and tactically astute centre back, Carrera is known for his excellent marking, positioning, and ability to lead from the back. In 1996 at Juventus, his no-nonsense defending and intelligent reading of the game provided stability to a star-studded squad.",
+        "legacyQuote": "A defender who embodied consistency and commitment, always putting the team's needs ahead of personal glory.",
+        "rivalries": ["Paolo Maldini"],
+        "mentorOf": [],
+        "inspiredBy": ["Franco Baresi", "Gaetano Scirea"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/massimo-carrera/profil/spieler/1234",
+          "description": "Detailed career statistics and transfer history on Transfermarkt."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/history/clubs/50045--juventus/",
+          "description": "Historical overview of Juventus' campaign including the 1996 season on UEFA."
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=Massimo+Carrera+Juventus+1996+highlights",
+          "description": "Video highlights showcasing Carrera's defensive performances for Juventus in 1996."
+        }
+      ]
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 82,
+    "staminaBoost": 78,
+    "injuryPrevention": 80,
+    "medicalResponse": 79
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1897-11-01",
+  "city": "Turin",
+  "fullName": "Juventus Football Club",
+  "shortName": "Juventus",
+  "stadium": {
+    "name": "Allianz Stadium",
+    "capacity": 41507
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/juventus/",
+    "tiktok": "https://www.tiktok.com/@juventus"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 0, 0)"
+    },
+    "away": {
+      "bgColor": "rgb(0, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 165, 0)",
+      "fontColor": "rgb(0, 0, 0)"
+    }
+  }
+}
