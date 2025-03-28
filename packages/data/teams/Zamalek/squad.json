@@ -1,0 +1,68 @@
+{
+  "year": 2016,
+  "coach": "Cosmin Olăroiu",
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "name": "Essam El-Hadary",
+      "position": "GK"
+    },
+    {
+      "name": "Ahmed Hegazi",
+      "position": "RB"
+    },
+    {
+      "name": "Ali Gabr",
+      "position": "CB"
+    },
+    {
+      "name": "Akram Tawfik",
+      "position": "CB"
+    },
+    {
+      "name": "Ahmed Samy",
+      "position": "LB"
+    },
+    {
+      "name": "Walid Soliman",
+      "position": "CDM"
+    },
+    {
+      "name": "Mohamed Abdel-Shafy",
+      "position": "CM"
+    },
+    {
+      "name": "Ibrahim Salah",
+      "position": "CM"
+    },
+    {
+      "name": "Shikabala",
+      "position": "CAM"
+    },
+    {
+      "name": "Ahmed Gaafar",
+      "position": "RW"
+    },
+    {
+      "name": "Mahmoud Kahraba",
+      "position": "ST"
+    },
+    {
+      "name": "Omar Fathi",
+      "position": "RB"
+    },
+    {
+      "name": "Moamen Zakaria",
+      "position": "CM"
+    },
+    {
+      "name": "Abdel Rahman El-Said",
+      "position": "CM"
+    },
+    {
+      "name": "Amr Okasha",
+      "position": "ST"
+    }
+  ],
+  "explanation": "The lineup above is taken from one of the club’s most iconic periods – the 2016 CAF Champions League final – a match that stands as a defining moment in Zamalek’s history. Under the tactical guidance of Cosmin Olăroiu, the team deployed a 4-2-3-1 formation that perfectly balanced defensive solidity and offensive creativity. Every one of the 15 players listed (11 starters and 4 substitutes) played together in that decisive final against Esperance Tunis, helping Zamalek to clinch the continental title. With legendary figures like Essam El-Hadary guarding the net, Ahmed Hegazi anchoring defence, the creative spark provided by Shikabala, and the clinical finishing of Mahmoud Kahraba, this lineup represents a peak in performance and unity – a team that not only won titles but also captured the hearts of fans across Egypt and Africa."
+}

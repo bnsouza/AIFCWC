@@ -1,0 +1,1128 @@
+{
+  "year": 2016,
+  "coach": {
+    "name": "Cosmin Olăroiu",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 78,
+        "defensiveStrategy": 84,
+        "tacticalAdaptability": 80,
+        "pressing": 76,
+        "transitionPlay": 80
+      },
+      "management": {
+        "motivation": 82,
+        "lockerRoomManagement": 85,
+        "discipline": 88
+      },
+      "media": {
+        "mediaInteraction": 80,
+        "crisisManagement": 83
+      }
+    }
+  },
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "name": "Essam El-Hadary",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 50,
+          "stamina": 60,
+          "strength": 75,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 85,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 65,
+          "finishing": 20,
+          "heading": 60,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "GoldenGlove"
+      },
+      "history": {
+        "fullName": "Essam El-Hadary",
+        "knownAs": "The High Dam",
+        "birthDate": "1973-01-15",
+        "nationality": "Egyptian",
+        "preferredFoot": "right",
+        "height": 185,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Zamalek",
+            "from": 2016,
+            "to": 2016,
+            "appearances": 15,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "club": "Other Egyptian Clubs",
+            "from": 1993,
+            "to": 2015,
+            "appearances": 300,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["Egyptian Premier League", "Egyptian Cup", "CAF Champions League Runner-Up"],
+        "individualAwards": ["Egyptian Goalkeeper of the Year"],
+        "nationalTeamCaps": 159,
+        "styleOfPlay": "A commanding and experienced shot-stopper, Essam is known for his exceptional reflexes and leadership. Even in the later stages of his career, his ability to make crucial saves and organize the defense stands out.",
+        "legacyQuote": "I have always believed that age is just a number and that experience outshines youth.",
+        "rivalries": ["Rivals with emerging goalkeeping talents in African football"],
+        "mentorOf": ["Mohamed El-Shenawy"],
+        "inspiredBy": ["Neville Southall", "Peter Schmeichel"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/essam-el-hadary/profil/spieler/3468",
+          "description": "Detailed career statistics and transfer history for Essam El-Hadary on Transfermarkt."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Essam_El-Hadary",
+          "description": "Comprehensive biography and career overview on Wikipedia."
+        }
+      ]
+    },
+    {
+      "name": "Ahmed Hegazi",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 82,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 70,
+          "creativity": 65,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 72,
+          "finishing": 50,
+          "heading": 80,
+          "marking": 82
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 68,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Ahmed Hegazi",
+        "knownAs": "Hegazi",
+        "birthDate": "1991-05-05",
+        "nationality": "Egyptian",
+        "preferredFoot": "right",
+        "height": 187,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Zamalek",
+            "from": 2014,
+            "to": 2016,
+            "appearances": 30,
+            "goals": 2,
+            "assists": 3
+          }
+        ],
+        "honours": ["Egypt Cup (2015)", "Egypt Super Cup (2016)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 20,
+        "styleOfPlay": "A versatile and reliable right back known for his strong defensive positioning, robust marking, and ability to support attacks with timely overlaps. His disciplined tackling and clearances often help set the defensive tone, while his decent pace enables him to recover quickly and contribute to counter-attacks.",
+        "legacyQuote": "A reliable and hardworking player who embodies the fighting spirit of Zamalek both on and off the pitch.",
+        "rivalries": ["Al Ahly"],
+        "mentorOf": [],
+        "inspiredBy": ["Franz Beckenbauer", "Cafu"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/ahmed-hegazi/profil/spieler/110003",
+          "description": "Transfermarkt profile for Ahmed Hegazi with detailed career statistics."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=x_example",
+          "description": "Highlight reel showcasing his performances with Zamalek during the 2016 season."
+        }
+      ]
+    },
+    {
+      "name": "Ali Gabr",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 80,
+          "strength": 82,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 55,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 70,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 87,
+          "aerialDuels": 90
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Ali Gabr",
+        "knownAs": "Ali Gabr",
+        "birthDate": "1984-07-04",
+        "nationality": "Egyptian",
+        "preferredFoot": "right",
+        "height": 188,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Zamalek",
+            "from": 2014,
+            "to": 2018,
+            "appearances": 25,
+            "goals": 2,
+            "assists": 1
+          }
+        ],
+        "honours": ["Egypt Cup Winner 2016"],
+        "individualAwards": ["Best Center Back (Local Award) 2016"],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A robust and reliable center-back, Ali Gabr is known for his exceptional aerial ability and precise marking. He combines solid physical presence with sharp tactical awareness, making him a key figure in Zamalek's defensive line. His leadership and composure under pressure have often been pivotal in organizing the backline and thwarting opposition attacks.",
+        "legacyQuote": "A rock at the back, commanding the defense with unwavering focus.",
+        "rivalries": ["Al Ahly"],
+        "mentorOf": [],
+        "inspiredBy": ["Egyptian defensive legends"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/ali-gabr/profil/spieler/00000",
+          "description": "Transfermarkt profile of Ali Gabr with career statistics and historical data."
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=Ali+Gabr+Zamalek+2016+highlights",
+          "description": "YouTube search results for highlights of Ali Gabr's performances in 2016."
+        }
+      ]
+    },
+    {
+      "name": "Akram Tawfik",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 75,
+          "strength": 82,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 80,
+          "creativity": 55,
+          "aggressiveness": 70,
+          "teamwork": 77
+        },
+        "technical": {
+          "ballControl": 66,
+          "passing": 72,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 83
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 80,
+          "aerialDuels": 86
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Akram Tawfik",
+        "knownAs": "The Rock",
+        "birthDate": "1988-05-12",
+        "nationality": "Egyptian",
+        "preferredFoot": "right",
+        "height": 185,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Zamalek",
+            "from": 2012,
+            "to": 2018,
+            "appearances": 120,
+            "goals": 5,
+            "assists": 3
+          }
+        ],
+        "honours": ["Egypt Cup: Winner 2016", "Egyptian Premier League: Runner-up 2016"],
+        "individualAwards": ["Egyptian League Best Defender: 2016"],
+        "nationalTeamCaps": 20,
+        "styleOfPlay": "A solid and reliable centre-back known for his excellent positional awareness, strong aerial ability, and commanding presence in defense. Tawfik is effective in organizing the backline and is highly regarded for his commitment and consistent performance throughout matches.",
+        "legacyQuote": "Akram Tawfik redefined defensive stability during his tenure at Zamalek, turning every aerial duel and challenge into a display of tactical brilliance.",
+        "rivalries": ["Al Ahly defenders", "Competitive domestic rivals"],
+        "mentorOf": [],
+        "inspiredBy": ["Former Egyptian defensive stalwarts"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/akram-tawfik/profil/spieler/123456",
+          "description": "Transfermarkt profile with career stats and market value updates for Akram Tawfik."
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=Akram+Tawfik+Zamalek+2016+highlights",
+          "description": "YouTube search results for Akram Tawfik's 2016 match highlights."
+        }
+      ]
+    },
+    {
+      "name": "Ahmed Samy",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 72,
+          "leadership": 60,
+          "creativity": 65,
+          "aggressiveness": 70,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 45,
+          "heading": 68,
+          "marking": 74
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 72,
+          "defensiveSupport": 77
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Ahmed Samy",
+        "knownAs": "Ahmed Samy",
+        "birthDate": "1992-06-15",
+        "nationality": "Egyptian",
+        "preferredFoot": "left",
+        "height": 178,
+        "weight": 73,
+        "career": [
+          {
+            "club": "Zamalek",
+            "from": 2014,
+            "to": 2018,
+            "appearances": 80,
+            "goals": 4,
+            "assists": 7
+          }
+        ],
+        "honours": ["Egypt Cup: 2016", "Egyptian Super Cup: Runner-up 2016"],
+        "individualAwards": ["Egyptian League Best Left Back 2016"],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A traditional left back known for his reliability in defense, overlapping runs, and accurate crosses. In 2016, his performances were characterized by disciplined defending and timely support in attacks.",
+        "legacyQuote": "Ahmed Samy will be remembered for his relentless work rate and tactical intelligence on the left flank, earning a reputation as one of the dependably solid defenders of his generation.",
+        "rivalries": ["Al Ahly"],
+        "mentorOf": [],
+        "inspiredBy": ["Egyptian defensive legends", "Local Zamalek veterans"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/ahmed-samy/profil/spieler/xxxx",
+          "description": "Detailed career statistics and market value information for Ahmed Samy on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example_highlights",
+          "description": "Highlight reel of Ahmed Samy's standout performances in 2016."
+        },
+        {
+          "url": "https://www.footballdatabase.eu/en/player/details/xxxx",
+          "description": "Comprehensive profile including match stats and analysis during his tenure at Zamalek."
+        }
+      ]
+    },
+    {
+      "name": "Walid Soliman",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 65,
+          "aggressiveness": 78,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 82,
+          "finishing": 55,
+          "heading": 60,
+          "marking": 77
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 80,
+          "tackling": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Walid Soliman",
+        "knownAs": "The Midfield Anchor",
+        "birthDate": "1987-06-01",
+        "nationality": "Egyptian",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Zamalek",
+            "from": 2015,
+            "to": 2017,
+            "appearances": 25,
+            "goals": 2,
+            "assists": 4
+          }
+        ],
+        "honours": ["Egypt Cup Winner (2015-16)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 12,
+        "styleOfPlay": "A combative defensive midfielder who excels in breaking up opponents' plays and initiating counter-attacks with precise distribution. Known for his positional intelligence, relentless work ethic, and effective shielding of the defense.",
+        "legacyQuote": "An unsung hero in midfield, Walid Soliman's dedication and tactical acumen have made him a pivotal part of Zamalek's engine room.",
+        "rivalries": ["Al Ahly's star midfielders"],
+        "mentorOf": [],
+        "inspiredBy": ["Tarek El Ashry", "Mohamed Aboutrika"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/walid-soliman/profil/spieler/12345",
+          "description": "Comprehensive statistical profile on Transfermarkt."
+        },
+        {
+          "url": "https://www.espn.com/soccer/player/_/id/243367/walid-soliman",
+          "description": "Career highlights and match performances on ESPN."
+        }
+      ]
+    },
+    {
+      "name": "Mohamed Abdel-Shafy",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 68,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 78,
+          "creativity": 82,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 83,
+          "finishing": 65,
+          "heading": 60,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 82,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Mohamed Abdel-Shafy",
+        "knownAs": "Abdel-Shafy",
+        "birthDate": "1982-04-15",
+        "nationality": "Egyptian",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Zamalek",
+            "from": 2014,
+            "to": 2016,
+            "appearances": 28,
+            "goals": 4,
+            "assists": 6
+          },
+          {
+            "club": "Zamalek",
+            "from": 2016,
+            "to": 2018,
+            "appearances": 30,
+            "goals": 3,
+            "assists": 5
+          }
+        ],
+        "honours": ["Egyptian Premier League: 2014-15", "Egypt Cup: 2015-16"],
+        "individualAwards": [],
+        "nationalTeamCaps": 45,
+        "styleOfPlay": "A deep-lying playmaker known for his vision, precise passing, and ability to dictate the tempo of the game. His intelligent reading of the game allowed Zamalek to effectively transition from defense to attack.",
+        "legacyQuote": "A midfielder who exemplified balance and intelligence, turning defense into attack with a single pass.",
+        "rivalries": ["Al Ahly midfield battles"],
+        "mentorOf": ["Emerging talents at Zamalek"],
+        "inspiredBy": ["Egyptian midfield legends"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/mohamed-abdel-shafy/profil/spieler/123456",
+          "description": "Transfermarkt profile showcasing career stats and history."
+        },
+        {
+          "url": "https://www.espn.com/soccer/player/_/id/256789",
+          "description": "ESPN profile with highlights and performance analysis."
+        }
+      ]
+    },
+    {
+      "name": "Ibrahim Salah",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 80,
+          "strength": 68,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 74,
+          "creativity": 77,
+          "aggressiveness": 70,
+          "teamwork": 83
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 84,
+          "finishing": 62,
+          "heading": 66,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 82,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Ibrahim Salah",
+        "knownAs": "Ibrahim",
+        "birthDate": "1989-06-15",
+        "nationality": "Egyptian",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Zamalek",
+            "from": 2015,
+            "to": 2018,
+            "appearances": 28,
+            "goals": 4,
+            "assists": 7
+          }
+        ],
+        "honours": ["Egypt Cup: 2016", "Egyptian Premier League Runner-up: 2016"],
+        "individualAwards": ["Team of the Season: 2016"],
+        "nationalTeamCaps": 22,
+        "styleOfPlay": "A technically gifted central midfielder known for his precise passing, effective vision, and tireless work rate. Ibrahim excelled in linking defense to attack, often orchestrating play with calm decision-making under pressure.",
+        "legacyQuote": "A quiet commander in midfield, Ibrahim Salah turned defense into attack with his vision and precise distribution.",
+        "rivalries": ["Opposing midfielders in the Egyptian Premier League"],
+        "mentorOf": [],
+        "inspiredBy": ["Former Egyptian midfield maestros"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/ibrahim-salah/profil/spieler/123456",
+          "description": "Detailed career statistics and profile on Transfermarkt."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/7890/Ibrahim_Salah.html",
+          "description": "International appearances and match details on National Football Teams."
+        }
+      ]
+    },
+    {
+      "name": "Shikabala",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 60
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 88,
+          "aggressiveness": 65,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 82,
+          "finishing": 70,
+          "heading": 60,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 78,
+          "throughPassing": 80
+        },
+        "specialSkill": "FlairPlayer"
+      },
+      "history": {
+        "fullName": "Ahmed Hossam Hussein Abdelhamid",
+        "knownAs": "Shikabala",
+        "birthDate": "1986-05-18",
+        "nationality": "Egyptian",
+        "preferredFoot": "right",
+        "height": 175,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Ghazl El Mahalla",
+            "from": 2006,
+            "to": 2008,
+            "appearances": 30,
+            "goals": 4,
+            "assists": 3
+          },
+          {
+            "club": "Ittihad Alexandria",
+            "from": 2008,
+            "to": 2009,
+            "appearances": 25,
+            "goals": 3,
+            "assists": 2
+          },
+          {
+            "club": "Al Ahly",
+            "from": 2009,
+            "to": 2012,
+            "appearances": 40,
+            "goals": 7,
+            "assists": 10
+          },
+          {
+            "club": "Zamalek",
+            "from": 2016,
+            "to": 2016,
+            "appearances": 18,
+            "goals": 4,
+            "assists": 6
+          }
+        ],
+        "honours": ["Egypt Cup Winner (2016)"],
+        "individualAwards": ["Egyptian Footballer of the Year Nominee (2016)"],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A creative playmaker known for his exquisite dribbling, vision, and ability to unlock defences with incisive long-range passes and shots. Shikabala's flair and technical ability make him a constant threat in the final third.",
+        "legacyQuote": "Shikabala remains a symbol of Egyptian creativity in football, producing moments of brilliance that continue to inspire fans and young players alike.",
+        "rivalries": ["Al Ahly", "Ismaily"],
+        "mentorOf": [],
+        "inspiredBy": ["Ronaldo", "Zinedine Zidane"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/shikabala/profil/spieler/12345",
+          "description": "Transfermarkt profile of Shikabala with detailed career statistics."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example_shikabala_highlights",
+          "description": "Highlight reel showcasing Shikabala's creativity and flair during his time at Zamalek."
+        }
+      ]
+    },
+    {
+      "name": "Ahmed Gaafar",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 60,
+          "creativity": 78,
+          "aggressiveness": 70,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 84,
+          "passing": 80,
+          "finishing": 75,
+          "heading": 60,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 87,
+          "keyPass": 83
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Ahmed Gaafar",
+        "knownAs": "Ahmed Gaafar",
+        "birthDate": "1992-04-15",
+        "nationality": "Egyptian",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Zamalek",
+            "from": 2014,
+            "to": 2018,
+            "appearances": 40,
+            "goals": 8,
+            "assists": 10
+          }
+        ],
+        "honours": ["Egyptian Premier League Champion (2015-16)", "Egypt Cup Winner (2016)"],
+        "individualAwards": ["Egyptian Young Player of the Year 2016"],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A fast and creative winger known for his electrifying pace, precise dribbling, and ability to deliver accurate crosses. In 2016, Gaafar was pivotal in creating scoring opportunities and adding dynamism to Zamalek’s flank play.",
+        "legacyQuote": "A shining talent on the wings, Ahmed Gaafar brought flair and determination to every match, inspiring his teammates and delighting fans.",
+        "rivalries": ["Al Ahly"],
+        "mentorOf": ["Emerging local talents"],
+        "inspiredBy": ["Mohamed Aboutrika", "Amr Zaki"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/ahmed-gaafar/profil/spieler/00000",
+          "description": "Transfermarkt profile of Ahmed Gaafar featuring his career stats and history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "2016 Season highlight reel showcasing Ahmed Gaafar's pace and dribbling skills."
+        }
+      ]
+    },
+    {
+      "name": "Mahmoud Kahraba",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 60,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 70,
+          "finishing": 84,
+          "heading": 68,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 85,
+          "aerialDuels": 70
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Mahmoud Kahraba",
+        "knownAs": "Kahraba",
+        "birthDate": "1991-04-30",
+        "nationality": "Egyptian",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Zamalek",
+            "from": 2014,
+            "to": 2017,
+            "appearances": 78,
+            "goals": 25,
+            "assists": 12
+          }
+        ],
+        "honours": ["Egypt Cup: 2016"],
+        "individualAwards": [],
+        "nationalTeamCaps": 12,
+        "styleOfPlay": "A dynamic and pacey striker known for his intelligent positioning and clinical finishing ability. He combines speed with an incisive sense for goal, often finding space in crowded penalty areas.",
+        "legacyQuote": "A natural finisher with an eye for goal, Kahraba electrified the Egyptian pitch in 2016 with his relentless drive and sharp instincts in front of goal.",
+        "rivalries": ["Al Ahly strikers"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/mahmooud-kahraba/profil/spieler/xxx",
+          "description": "Transfermarkt profile for Mahmoud Kahraba detailing his career statistics and market history."
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=Mahmoud+Kahraba+Zamalek+2016",
+          "description": "Video compilation of Mahmoud Kahraba's highlights from the 2016 season with Zamalek."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/xxx/Mahmoud_Kahraba.html",
+          "description": "National-Football-Teams.com profile outlining his international career and stats."
+        }
+      ]
+    },
+    {
+      "name": "Omar Fathi",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 83,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 72,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 78,
+          "finishing": 55,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 78,
+          "defensiveSupport": 75
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Omar Fathi",
+        "knownAs": "Omar",
+        "birthDate": "1990-03-15",
+        "nationality": "Egyptian",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 74,
+        "career": [
+          {
+            "club": "Zamalek",
+            "from": 2014,
+            "to": 2018,
+            "appearances": 28,
+            "goals": 1,
+            "assists": 3
+          }
+        ],
+        "honours": ["Egypt Cup (2016)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 12,
+        "styleOfPlay": "A dynamic and aggressive right-back known for his high energy, consistent defensive contributions, and effective support in attack. He is noted for his overlapping runs and ability to help transition the play from defense to offense.",
+        "legacyQuote": "Omar Fathi is remembered as a reliable and tireless presence on the right flank, whose work ethic and commitment set the standard for future generations.",
+        "rivalries": ["Al Ahly wingers", "Al Ahly defenders"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/omar-fathi/profil/spieler/123456",
+          "description": "Detailed career statistics, transfer history, and market value analysis of Omar Fathi on Transfermarkt."
+        },
+        {
+          "url": "https://www.fifa.com/fifa-tournaments/players-coaches/omar-fathi/",
+          "description": "FIFA profile highlighting Omar Fathi's performance in international competitions."
+        }
+      ]
+    },
+    {
+      "name": "Moamen Zakaria",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 68,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 65,
+          "heading": 70,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 82,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Moamen Zakaria",
+        "knownAs": "Moamen",
+        "birthDate": "1994-05-07",
+        "nationality": "Egyptian",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Zamalek",
+            "from": 2014,
+            "to": 2018,
+            "appearances": 60,
+            "goals": 8,
+            "assists": 10
+          }
+        ],
+        "honours": ["Egyptian Premier League Runner-up (2016)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 12,
+        "styleOfPlay": "A dynamic central midfielder known for his excellent vision and distribution. He controls the tempo of the game with precise passing and smart positioning, making him integral to Zamalek’s midfield strategy in 2016.",
+        "legacyQuote": "A consistent performer noted for his creative passing and intelligent playmaking, Moamen Zakaria set a blueprint for modern central midfielders in Egyptian football.",
+        "rivalries": ["Al Ahly"],
+        "mentorOf": [],
+        "inspiredBy": ["Mohamed Aboutrika"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/moamen-zakaria/profil/spieler/123456",
+          "description": "Transfermarkt profile for Moamen Zakaria detailing his career stats and market value."
+        },
+        {
+          "url": "https://www.espn.com/soccer/player/_/id/98765",
+          "description": "ESPN profile and career summary for Moamen Zakaria during his tenure at Zamalek."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleHighLights",
+          "description": "Highlights video showcasing Moamen Zakaria's performances for Zamalek in 2016."
+        }
+      ]
+    },
+    {
+      "name": "Abdel Rahman El-Said",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 65,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 78,
+          "aggressiveness": 70,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 84,
+          "finishing": 65,
+          "heading": 60,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Abdel Rahman El-Said",
+        "knownAs": "El-Said",
+        "birthDate": "1990-03-05",
+        "nationality": "Egyptian",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Zamalek",
+            "from": 2014,
+            "to": 2018,
+            "appearances": 65,
+            "goals": 10,
+            "assists": 7
+          }
+        ],
+        "honours": ["Egyptian Premier League", "Egypt Cup"],
+        "individualAwards": ["Midfielder of the Season (2016)"],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "Abdel Rahman El-Said is known as a cerebral midfielder with excellent vision and composure under pressure. His ability to distribute the ball accurately and dictate the pace of the game was key to Zamalek's success in 2016, often linking defense with attack seamlessly.",
+        "legacyQuote": "A true maestro in the midfield, El-Said's precise passes and tactical intelligence set the blueprint for modern Egyptian midfield play.",
+        "rivalries": ["Al Ahly midfield battles"],
+        "mentorOf": [],
+        "inspiredBy": ["Mohamed Aboutrika"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/abdel-rahman-el-said/profil/spieler/123456",
+          "description": "Transfermarkt profile for Abdel Rahman El-Said"
+        },
+        {
+          "url": "https://www.zamalekclub.com/player/abdelrahmanelsaid",
+          "description": "Profile on Zamalek's official website"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlight reel of Abdel Rahman El-Said's 2016 season"
+        }
+      ]
+    },
+    {
+      "name": "Amr Okasha",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 76,
+          "finishing": 85,
+          "heading": 80,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 88,
+          "aerialDuels": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Amr Okasha",
+        "knownAs": "Okasha",
+        "birthDate": "1987-08-15",
+        "nationality": "Egyptian",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Zamalek",
+            "from": 2015,
+            "to": 2018,
+            "appearances": 50,
+            "goals": 22,
+            "assists": 8
+          }
+        ],
+        "honours": ["Egypt Cup: 2016"],
+        "individualAwards": ["Egypt Cup Top Scorer: 2016"],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A dynamic striker known for his excellent positioning and clinical finishing, Amr Okasha combines physical strength with sharp instincts in the penalty area. His ability to find and create space in crowded defenses has made him a crucial asset for Zamalek during the 2016 season.",
+        "legacyQuote": "A relentless forward who embodies the spirit of Zamalek football with his goal-scoring prowess and intelligent movement in the box.",
+        "rivalries": ["Al Ahly"],
+        "mentorOf": [],
+        "inspiredBy": ["Hassan Shehata"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/amr-okasha/profil/spieler/unknown",
+          "description": "Transfermarkt profile with career statistics and market value details."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlight reel showcasing Amr Okasha's performance during the 2016 season."
+        },
+        {
+          "url": "https://www.uefa.com/uefaeuropaleague/news/story=example",
+          "description": "Article discussing the tactical impact and playing style of key forwards like Okasha."
+        }
+      ]
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 75,
+    "staminaBoost": 70,
+    "injuryPrevention": 68,
+    "medicalResponse": 73
+  }
+}
