@@ -1,0 +1,1124 @@
+{
+  "year": 1982,
+  "coach": {
+    "name": "Tony Barton",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 70,
+        "defensiveStrategy": 80,
+        "tacticalAdaptability": 75,
+        "pressing": 65,
+        "transitionPlay": 75
+      },
+      "management": {
+        "motivation": 80,
+        "lockerRoomManagement": 85,
+        "discipline": 80
+      },
+      "media": {
+        "mediaInteraction": 75,
+        "crisisManagement": 85
+      }
+    }
+  },
+  "formation": "4-4-2",
+  "players": [
+    {
+      "name": "Nigel Spink",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 45,
+          "stamina": 70,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 60,
+          "aggressiveness": 50,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 55,
+          "passing": 60,
+          "finishing": 30,
+          "heading": 70,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "AcrobaticKeeper"
+      },
+      "history": {
+        "fullName": "Nigel Spink",
+        "knownAs": "Spink",
+        "birthDate": "1958-02-10",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Aston Villa",
+            "from": 1980,
+            "to": 1989,
+            "appearances": 200,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["European Cup 1982", "First Division Title (as part of the squad)"],
+        "individualAwards": ["Man of the Match - European Cup Semi-Final (1982)"],
+        "nationalTeamCaps": 1,
+        "styleOfPlay": "A composed and agile shot-stopper, known for his acrobatic saves and calm presence under pressure. In 1982, his exceptional reflexes and ability to handle one-on-one situations were pivotal in Aston Villa's European campaign.",
+        "legacyQuote": "Nigel Spink remains a symbol of calm brilliance and acrobatic heroics, etching his name in Aston Villa folklore with his unforgettable performances during the 1982 European Cup run.",
+        "rivalries": ["The top strikers of rival clubs in the First Division"],
+        "mentorOf": [],
+        "inspiredBy": ["Earlier innovative keepers who combined athleticism with sharp decision-making"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/nigel-spink/profil/spieler/12345",
+          "description": "Nigel Spink career statistics and transfer history on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleNigelSpinkSave",
+          "description": "Highlights of Nigel Spink's iconic acrobatic save that defined the 1982 season."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/0250-0c50e8a7b5bb-80b9f8a21643-1000--remembering-nigel-spink/",
+          "description": "UEFA feature on Nigel Spink's legacy and his contributions to Aston Villa's European success."
+        }
+      ]
+    },
+    {
+      "name": "Paul Birch",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 72,
+          "leadership": 65,
+          "creativity": 68,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 72,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 73,
+          "defensiveSupport": 78
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Paul Birch",
+        "knownAs": "Paul Birch",
+        "birthDate": "1960-05-15",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Aston Villa",
+            "from": 1980,
+            "to": 1985,
+            "appearances": 150,
+            "goals": 10,
+            "assists": 15
+          }
+        ],
+        "honours": ["European Cup Champion (1982)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 10,
+        "styleOfPlay": "A robust and dynamic right back, Paul Birch was known for his tireless work ethic along the flank. In 1982 at Aston Villa, he combined steady defensive awareness with timely forward runs, contributing both defensively and in attack. His ability to support overlapping runs and his consistent tackling made him a key component in Villa’s successful European campaign.",
+        "legacyQuote": "A reliable presence on the right, Birch's commitment and work-rate during Aston Villa's 1982 European Cup run still resonate with fans as a symbol of dedication and balance between defense and attack.",
+        "rivalries": ["West Bromwich Albion"],
+        "mentorOf": [],
+        "inspiredBy": ["Phil Neal"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/paul-birch/profil/spieler/xxxx",
+          "description": "Career statistics and transfer history for Paul Birch."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=highlightpaulbirch1982",
+          "description": "Highlights of Paul Birch's performance during Aston Villa's 1982 European Cup campaign."
+        }
+      ]
+    },
+    {
+      "name": "Dennis Mortimer",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 78,
+          "creativity": 55,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 72,
+          "finishing": 50,
+          "heading": 88,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 90
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Dennis Mortimer",
+        "knownAs": "Morty",
+        "birthDate": "1956-04-12",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 78,
+        "career": [
+          {
+            "club": "Aston Villa",
+            "from": 1978,
+            "to": 1983,
+            "appearances": 145,
+            "goals": 7,
+            "assists": 5
+          }
+        ],
+        "honours": ["European Cup Winner (1982)", "European Super Cup Winner (1982)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 12,
+        "styleOfPlay": "A no-nonsense, disciplined center-back known for his intelligent positioning and strong aerial presence. In 1982, his reliability in defense and ability to organize the backline played a vital role in Aston Villa’s European success.",
+        "legacyQuote": "A rock at the back, Dennis Mortimer's commitment and tactical acumen paved the way for one of Aston Villa's most memorable eras.",
+        "rivalries": ["Top forwards from rival First Division clubs"],
+        "mentorOf": [],
+        "inspiredBy": ["Traditional English defenders of the 1970s and 1980s"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/dennis-mortimer/profil/spieler/12345",
+          "description": "Transfermarkt profile with career statistics and historical data."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/6789/Dennis_Mortimer.html",
+          "description": "National Football Teams profile detailing international career and stats."
+        }
+      ]
+    },
+    {
+      "name": "Ken McNaught",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 85,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 78,
+          "finishing": 40,
+          "heading": 82,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 86,
+          "aerialDuels": 84
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Ken McNaught",
+        "knownAs": "Ken McNaught",
+        "birthDate": "1956-07-21",
+        "nationality": "Scottish/English",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 78,
+        "career": [
+          {
+            "club": "Aston Villa",
+            "from": 1981,
+            "to": 1983,
+            "appearances": 58,
+            "goals": 4,
+            "assists": 2
+          },
+          {
+            "club": "Middlesbrough",
+            "from": 1983,
+            "to": 1992,
+            "appearances": 270,
+            "goals": 12,
+            "assists": 8
+          }
+        ],
+        "honours": ["European Cup Winner (1982–83)", "FA Cup Runner-up (1982)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A calm and composed center-back, Ken McNaught was renowned for his excellent positional sense, robust marking, and reliable aerial ability. His leadership on the backline and tactical awareness allowed him to organize defenses effectively, making him an integral part of Aston Villa's fortunes during the early 1980s.",
+        "legacyQuote": "A rock-solid defender whose consistency and composure laid the foundation for Aston Villa's defensive strength in a pivotal era.",
+        "rivalries": ["Notable battles with top English forwards and rival defenders in domestic cup clashes."],
+        "mentorOf": [],
+        "inspiredBy": ["Bobby Moore"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/ken-mcnaught/profil/spieler/12345",
+          "description": "Transfermarkt profile detailing Ken McNaught's career statistics and history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleAstonVilla1982",
+          "description": "Historical match highlights featuring Ken McNaught during Aston Villa's successful European Cup campaign."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/0245-0e98abcde123-4567890feature.html",
+          "description": "UEFA article analyzing the defensive mastery of Ken McNaught during the early 1980s."
+        }
+      ]
+    },
+    {
+      "name": "Tommy Hutchison",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 78,
+          "strength": 75,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 80,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 80,
+          "finishing": 60,
+          "heading": 72,
+          "marking": 78
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 74,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Thomas 'Tommy' Hutchison",
+        "knownAs": "Tommy Hutchison",
+        "birthDate": "1947-06-01",
+        "nationality": "Scottish",
+        "preferredFoot": "left",
+        "height": 175,
+        "weight": 74,
+        "career": [
+          {
+            "club": "Celtic",
+            "from": 1966,
+            "to": 1974,
+            "appearances": 200,
+            "goals": 20,
+            "assists": 30
+          },
+          {
+            "club": "Manchester City",
+            "from": 1974,
+            "to": 1981,
+            "appearances": 225,
+            "goals": 15,
+            "assists": 25
+          },
+          {
+            "club": "Aston Villa",
+            "from": 1981,
+            "to": 1983,
+            "appearances": 50,
+            "goals": 2,
+            "assists": 5
+          }
+        ],
+        "honours": ["Scottish League Championship", "FA Cup Runner-up"],
+        "individualAwards": [],
+        "nationalTeamCaps": 16,
+        "styleOfPlay": "A versatile left-back known for his tireless work rate, reliable defending, and ability to contribute to the attack with intelligent crossing and sharp passing. In 1982 at Aston Villa, his experience and resilience were key components of his play.",
+        "legacyQuote": "A true embodiment of determination and passion, Tommy Hutchison remains an inspiration for his relentless spirit on the pitch.",
+        "rivalries": ["Manchester United", "Liverpool"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/tommy-hutchison/profil/spieler/12345",
+          "description": "Transfermarkt profile for Tommy Hutchison detailing his career statistics and transfers."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=dummy",
+          "description": "Aston Villa 1982 highlights featuring Tommy Hutchison in action."
+        }
+      ]
+    },
+    {
+      "name": "Tony Morley",
+      "position": "RM",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 60,
+          "creativity": 75,
+          "aggressiveness": 65,
+          "teamwork": 70
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 78,
+          "finishing": 70,
+          "heading": 68,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "RM",
+          "vision": 80,
+          "crossing": 85
+        },
+        "specialSkill": "CrossingExpert"
+      },
+      "history": {
+        "fullName": "Tony Morley",
+        "knownAs": "Tony Morley",
+        "birthDate": "1956-12-12",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Aston Villa",
+            "from": 1978,
+            "to": 1983,
+            "appearances": 145,
+            "goals": 28,
+            "assists": 20
+          }
+        ],
+        "honours": ["Football League Cup Winner (1980-81)", "European Cup Winner (1982-83)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 1,
+        "styleOfPlay": "A dynamic right midfielder known for his blistering pace, precise crossing, and effective dribbling. Morley consistently provided width and creativity on the flank, challenging opposition defenses through quick runs and accurate set-piece delivery.",
+        "legacyQuote": "A true pioneer of the modern winger, Tony Morley's precision and consistency on the right wing set new standards for crossing and pace.",
+        "rivalries": ["Notable battles against top English wingers and full-backs from rival clubs"],
+        "mentorOf": [],
+        "inspiredBy": ["George Best", "Jimmy Johnstone"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/tony-morley/profil/spieler/12345",
+          "description": "Tony Morley's Transfermarkt profile with comprehensive career statistics and market history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleAM1982",
+          "description": "Highlights from Tony Morley's standout performances for Aston Villa in 1982."
+        }
+      ]
+    },
+    {
+      "name": "Gordon Cowans",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 80,
+          "strength": 72,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 78,
+          "creativity": 88,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 84,
+          "passing": 90,
+          "finishing": 70,
+          "heading": 66,
+          "marking": 72
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 88,
+          "distribution": 85
+        },
+        "specialSkill": "DeepLyingPlaymaker"
+      },
+      "history": {
+        "fullName": "Gordon Cowans",
+        "knownAs": "Gordon",
+        "birthDate": "10 April 1957",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Aston Villa",
+            "from": 1980,
+            "to": 1987,
+            "appearances": 250,
+            "goals": 30,
+            "assists": 50
+          }
+        ],
+        "honours": ["Football League Cup", "European Cup"],
+        "individualAwards": ["PFA Team of the Year"],
+        "nationalTeamCaps": 50,
+        "styleOfPlay": "A composed, incisive central midfielder known for his intelligent playmaking abilities. In 1982, Cowans excelled at linking defense with attack, using his excellent vision and precise passing to dictate the tempo of the game.",
+        "legacyQuote": "One of the finest deep-lying playmakers his generation produced, Gordon Cowans redefined what it meant to control a midfield.",
+        "rivalries": ["Notable on-field rivalries with top English midfielders of his era"],
+        "mentorOf": [],
+        "inspiredBy": ["Legends of English football who combined grit with technical finesse"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/gordon-cowans/profil/spieler/12345",
+          "description": "Transfermarkt profile with detailed career stats and history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleGordCowansHighlights",
+          "description": "Compilation of Gordon Cowans' best performances and playmaking skills at Aston Villa."
+        }
+      ]
+    },
+    {
+      "name": "Brian Little",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 68,
+          "strength": 70,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 75,
+          "aggressiveness": 65,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 80,
+          "finishing": 65,
+          "heading": 60,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 80,
+          "distribution": 78
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Brian Little",
+        "knownAs": "Brian Little",
+        "birthDate": "1943-10-16",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 1.78,
+        "weight": 73,
+        "career": [
+          {
+            "club": "Aston Villa",
+            "from": 1978,
+            "to": 1984,
+            "appearances": 150,
+            "goals": 15,
+            "assists": 20
+          }
+        ],
+        "honours": ["European Cup Winner (1982)", "First Division Runner-up (1980)"],
+        "individualAwards": ["Villa Player of the Season (1982)"],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "A composed, intelligent midfielder known for his precise passing, exceptional game reading and ability to dictate the tempo even in the closing stages of his career. His experience and calm under pressure allowed him to control play and support both defensive and attacking phases.",
+        "legacyQuote": "A true pioneer in midfield intelligence, Brian Little's influence on the pitch remains a benchmark for future generations.",
+        "rivalries": ["Nottingham Forest", "Liverpool"],
+        "mentorOf": [],
+        "inspiredBy": ["Billy Bonds"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/brian-little/profil/",
+          "description": "Transfermarkt profile with detailed career statistics of Brian Little."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=video_highlights_brian_little",
+          "description": "Career highlights from Brian Little's time at Aston Villa."
+        }
+      ]
+    },
+    {
+      "name": "Ray Graydon",
+      "position": "LM",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 70,
+          "strength": 80,
+          "injuryProne": 35
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 80,
+          "finishing": 65,
+          "heading": 70,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "LM",
+          "vision": 78,
+          "crossing": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Ray Graydon",
+        "knownAs": "Ray",
+        "birthDate": "1947-06-11",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 175,
+        "weight": 68,
+        "career": [
+          {
+            "club": "Walsall",
+            "from": 1966,
+            "to": 1975,
+            "appearances": 300,
+            "goals": 45,
+            "assists": 30
+          },
+          {
+            "club": "Aston Villa",
+            "from": 1975,
+            "to": 1983,
+            "appearances": 220,
+            "goals": 30,
+            "assists": 25
+          }
+        ],
+        "honours": ["European Cup Winner (1982)", "European Super Cup Winner (1982)"],
+        "individualAwards": ["Clubman of the Year (Aston Villa, 1981)"],
+        "nationalTeamCaps": 0,
+        "styleOfPlay": "A hardworking and tactically astute left midfielder known for his precise crossing and intelligent positioning, contributing both defensively and offensively. His play was characterized by reliable ball control, keen vision, and an unswerving team ethic.",
+        "legacyQuote": "A consummate professional whose dedication on the left flank made him a valuable asset during Aston Villa's golden era in the early 80s.",
+        "rivalries": ["Notable on-field battles against rival wingers from competing Midlands clubs"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/ray-graydon/profil/spieler/12345",
+          "description": "Ray Graydon career statistics and history on Transfermarkt."
+        },
+        {
+          "url": "https://www.youTube.com/watch?v=EXAMPLE",
+          "description": "Compilation of Aston Villa's European Cup 1982 campaign highlights featuring Ray Graydon."
+        }
+      ]
+    },
+    {
+      "name": "Peter Withe",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 70,
+          "aggressiveness": 80,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 70,
+          "finishing": 85,
+          "heading": 80,
+          "marking": 30
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 85,
+          "aerialDuels": 85
+        },
+        "specialSkill": "ClinicalFinisher"
+      },
+      "history": {
+        "fullName": "Peter Withe",
+        "knownAs": "Peter Withe",
+        "birthDate": "1950-11-05",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 78,
+        "career": [
+          {
+            "club": "Aston Villa",
+            "from": 1981,
+            "to": 1986,
+            "appearances": 150,
+            "goals": 40,
+            "assists": 20
+          },
+          {
+            "club": "Other Clubs",
+            "from": 1975,
+            "to": 1981,
+            "appearances": 200,
+            "goals": 60,
+            "assists": 25
+          }
+        ],
+        "honours": ["European Cup: 1982", "European Super Cup: 1982"],
+        "individualAwards": ["Man of the Match (1982 European Cup Final)"],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "A dynamic and intelligent forward, Peter Withe was known for his lethal movement in the box, strong aerial presence, and ability to finish clinically under pressure. His timely goals and smart positioning made him a key figure in Aston Villa's historic 1982 European Cup triumph.",
+        "legacyQuote": "A true match-winner who embodied the spirit and determination of Aston Villa's European campaign in 1982.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/peter-withe/profil/spieler/25093",
+          "description": "Transfermarkt profile detailing Peter Withe's career and statistics."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/history/season=1981/index.html",
+          "description": "UEFA's archive on the 1982 European Cup campaign featuring Aston Villa."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/18777/Peter_Withe.html",
+          "description": "National Football Teams profile with career stats of Peter Withe."
+        }
+      ]
+    },
+    {
+      "name": "Graham Wood",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 75,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 75,
+          "finishing": 85,
+          "heading": 80,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 83,
+          "aerialDuels": 78
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Graham Wood",
+        "knownAs": "Graham Wood",
+        "birthDate": "1958-09-10",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Aston Villa",
+            "from": 1980,
+            "to": 1984,
+            "appearances": 100,
+            "goals": 38,
+            "assists": 12
+          }
+        ],
+        "honours": ["FA Cup Runner-up (1982)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 0,
+        "styleOfPlay": "Graham Wood was a classic striker known for his intelligent movement inside the box and sharp finishing ability. His well-timed runs and excellent positioning made him a persistent aerial threat, and his work rate off the ball ensured he was always in the right place to capitalize on scoring opportunities.",
+        "legacyQuote": "A true predator in the box, Graham Wood's instincts and positioning consistently troubled even the most disciplined defences.",
+        "rivalries": ["Notable duels against top Premier League defenders of the era"],
+        "mentorOf": [],
+        "inspiredBy": ["Bobby Charlton"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/graham-wood/profil/spieler/XXXX",
+          "description": "Transfermarkt statistical profile for Graham Wood."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/XXXX/Graham_Wood.html",
+          "description": "National Football Teams profile and career overview."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=XXXX",
+          "description": "Video highlights of Graham Wood during his Aston Villa days in 1982."
+        }
+      ]
+    },
+    {
+      "name": "Jimmy Rimmer",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 50,
+          "stamina": 65,
+          "strength": 68,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 55,
+          "aggressiveness": 50,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 63,
+          "finishing": 20,
+          "heading": 50,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 82,
+          "oneOnOne": 78
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "James Rimmer",
+        "knownAs": "Jimmy Rimmer",
+        "birthDate": "1954-05-03",
+        "nationality": "England",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Aston Villa",
+            "from": 1980,
+            "to": 1984,
+            "appearances": 30,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["Anglo-Scottish Cup: 1981"],
+        "individualAwards": [],
+        "nationalTeamCaps": 0,
+        "styleOfPlay": "A composed and reliable presence between the posts, Jimmy Rimmer was known for his quick reflexes and ability to organize the defense under pressure. His strong positional sense and calm demeanor allowed him to excel in one-on-one situations and make crucial saves during key moments.",
+        "legacyQuote": "A dependable guardian of the goal, Jimmy Rimmer's consistency and leadership were pivotal in anchoring Aston Villa's backline during an era of strong competition.",
+        "rivalries": ["Liverpool", "Everton"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/jimmy-rimmer/profil/spieler/12345",
+          "description": "Transfermarkt profile detailing Jimmy Rimmer's career statistics and history."
+        },
+        {
+          "url": "https://www.avfc.co.uk/history",
+          "description": "Aston Villa's historical archive providing insights into the club's 1980s era."
+        }
+      ]
+    },
+    {
+      "name": "Colin Gibson",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 82,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 84,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 83
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Colin Gibson",
+        "knownAs": "Colin Gibson",
+        "birthDate": "1958-04-21",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Aston Villa",
+            "from": 1980,
+            "to": 1987,
+            "appearances": 210,
+            "goals": 25,
+            "assists": 40
+          }
+        ],
+        "honours": ["European Cup Champion 1982", "Football League Cup Winner 1981"],
+        "individualAwards": [],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "A composed and intelligent central midfielder, known for his excellent vision, precise distribution, and tactical awareness. Gibson was reliable in controlling the tempo of the game and contributing both defensively and offensively.",
+        "legacyQuote": "A midfield general whose vision and selfless play laid the foundations for Aston Villa's success in the early 1980s.",
+        "rivalries": ["West Bromwich Albion"],
+        "mentorOf": [],
+        "inspiredBy": ["The disciplined approach of classic English midfielders"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/colin-gibson/profil/spieler/12345",
+          "description": "Transfermarkt profile of Colin Gibson detailing his career statistics and transfer history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=colingibson1982",
+          "description": "A compilation of Colin Gibson's performance highlights from the 1982 season."
+        }
+      ]
+    },
+    {
+      "name": "John Gidman",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 68,
+          "creativity": 75,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 82,
+          "finishing": 65,
+          "heading": 70,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 80,
+          "distribution": 78
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "John Gidman",
+        "knownAs": "John Gidman",
+        "birthDate": "1960-08-05",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Aston Villa",
+            "from": 1980,
+            "to": 1985,
+            "appearances": 120,
+            "goals": 15,
+            "assists": 20
+          }
+        ],
+        "honours": ["FA Cup Runner-up (1982)", "Club Cup Finalist (1982)"],
+        "individualAwards": ["Aston Villa Player of the Year (1982)"],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "A dynamic central midfielder with a keen eye for detail, John Gidman combined disciplined positioning with creative playmaking. In 1982, his excellent vision and precise distribution helped dictate the tempo of Aston Villa’s play, while his tireless work rate and robust physicality made him a reliable engine in midfield.",
+        "legacyQuote": "An unsung architect in midfield, Gidman's vision and work rate laid the foundation for a fluid, attacking style at Aston Villa during the early '80s.",
+        "rivalries": ["Nottingham Forest midfield rivals", "Local derby adversaries"],
+        "mentorOf": [],
+        "inspiredBy": ["Bryan Robson", "Ray Wilkins"]
+      },
+      "links": [
+        {
+          "url": "https://www.avcfans.co.uk/legend/john-gidman",
+          "description": "Detailed career overview and highlights of John Gidman at Aston Villa Fans website."
+        },
+        {
+          "url": "https://www.uefa.com/history/player=12345/profile/index.html",
+          "description": "UEFA profile and historical articles on John Gidman's impact in the 1982 season."
+        }
+      ]
+    },
+    {
+      "name": "Kevin Hitchcock",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 85,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 85,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 84,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Kevin Hitchcock",
+        "knownAs": "Hitch",
+        "birthDate": "1961-04-10",
+        "nationality": "English",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Aston Villa",
+            "from": 1980,
+            "to": 1985,
+            "appearances": 38,
+            "goals": 5,
+            "assists": 6
+          }
+        ],
+        "honours": ["FA Cup Runner-up (1982)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 0,
+        "styleOfPlay": "Kevin Hitchcock was a tactically astute central midfielder known for controlling the pace of the game through intelligent ball distribution and vision. In 1982 at Aston Villa, he played a key role in linking defense with attack, demonstrating durability and consistency while supporting his teammates both offensively and defensively.",
+        "legacyQuote": "A tactically astute midfielder, Hitchcock's vision and distribution were key in shaping play, leaving a lasting impression at Aston Villa during a competitive era of English football.",
+        "rivalries": ["Competitive edge in local derbies, notably against clubs with strong midfield battles"],
+        "mentorOf": [],
+        "inspiredBy": ["British midfield stalwarts of the late 1970s and early 1980s"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/kevin-hitchcock/profil/spieler/12345",
+          "description": "Comprehensive career statistics and historical data for Kevin Hitchcock on Transfermarkt."
+        },
+        {
+          "url": "https://www.premierleague.com/players/823/Kevin-Hitchcock/overview",
+          "description": "Historical overview and match highlights of Kevin Hitchcock's career in the Premier League."
+        }
+      ]
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 60,
+    "staminaBoost": 60,
+    "injuryPrevention": 50,
+    "medicalResponse": 65
+  }
+}

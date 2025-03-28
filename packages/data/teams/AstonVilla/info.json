@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1874-11-21",
+  "city": "Birmingham",
+  "fullName": "Aston Villa Football Club",
+  "shortName": "Aston Villa",
+  "stadium": {
+    "name": "Villa Park",
+    "capacity": 42682
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/avfcofficial",
+    "tiktok": "https://www.tiktok.com/@avfcofficial"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(122, 0, 25)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(122, 0, 25)"
+    },
+    "alternate": {
+      "bgColor": "rgb(0, 102, 204)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}
