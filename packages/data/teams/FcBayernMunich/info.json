@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1900-02-27",
+  "city": "Munich",
+  "fullName": "Fußball-Club Bayern München e.V.",
+  "shortName": "FC Bayern Munich",
+  "stadium": {
+    "name": "Allianz Arena",
+    "capacity": 75000
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/fcbayern/",
+    "tiktok": "https://www.tiktok.com/@fcbayern"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(204, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 0, 0)"
+    },
+    "alternate": {
+      "bgColor": "rgb(0, 51, 102)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}

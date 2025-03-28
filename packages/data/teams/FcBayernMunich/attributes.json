@@ -1,0 +1,1297 @@
+{
+  "year": 2013,
+  "coach": {
+    "name": "Jupp Heynckes",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 88,
+        "defensiveStrategy": 92,
+        "tacticalAdaptability": 86,
+        "pressing": 84,
+        "transitionPlay": 87
+      },
+      "management": {
+        "motivation": 95,
+        "lockerRoomManagement": 93,
+        "discipline": 90
+      },
+      "media": {
+        "mediaInteraction": 80,
+        "crisisManagement": 85
+      }
+    }
+  },
+  "formation": "4-3-3",
+  "players": [
+    {
+      "name": "Manuel Neuer",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 85,
+          "strength": 80,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 95,
+          "leadership": 90,
+          "creativity": 85,
+          "aggressiveness": 75,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 88,
+          "finishing": 20,
+          "heading": 70,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 95,
+          "oneOnOne": 92
+        },
+        "specialSkill": "AcrobaticKeeper"
+      },
+      "history": {
+        "fullName": "Manuel Neuer",
+        "knownAs": "Neuer",
+        "birthDate": "1986-03-27",
+        "nationality": "German",
+        "preferredFoot": "right",
+        "height": 193,
+        "weight": 92,
+        "career": [
+          {
+            "club": "FC Schalke 04",
+            "from": 2005,
+            "to": 2011,
+            "appearances": 154,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "club": "FC Bayern Munich",
+            "from": 2011,
+            "to": 2013,
+            "appearances": 75,
+            "goals": 0,
+            "assists": 3
+          }
+        ],
+        "honours": ["Bundesliga Champion", "DFB-Pokal Winner"],
+        "individualAwards": ["IFFHS World's Best Goalkeeper 2013"],
+        "nationalTeamCaps": 60,
+        "styleOfPlay": "A revolutionary 'sweeper-keeper' known for his acrobatic saves, precise distribution, and commanding presence in defense.",
+        "legacyQuote": "A revolutionary goalkeeper who redefined the role with his mix of acrobatic saves and proactive play.",
+        "rivalries": ["Iker Casillas"],
+        "mentorOf": [],
+        "inspiredBy": ["Oliver Kahn"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/manuel-neuer/profil/spieler/1387",
+          "description": "Transfermarkt profile of Manuel Neuer, detailing his career statistics and transfers."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/clubs/players/103491/",
+          "description": "UEFA Champions League profile highlighting Manuel Neuer's performances and achievements."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=NML5n9lG1d8",
+          "description": "Highlights of Manuel Neuer's acrobatic saves and game-changing performances."
+        }
+      ]
+    },
+    {
+      "name": "Philipp Lahm",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 90,
+          "strength": 75,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 95,
+          "leadership": 92,
+          "creativity": 85,
+          "aggressiveness": 80,
+          "teamwork": 94
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 92,
+          "finishing": 70,
+          "heading": 80,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 88,
+          "defensiveSupport": 93
+        },
+        "specialSkill": "Captain"
+      },
+      "history": {
+        "fullName": "Philipp Lahm",
+        "knownAs": "Lahm",
+        "birthDate": "1983-11-11",
+        "nationality": "German",
+        "preferredFoot": "right",
+        "height": 1.7,
+        "weight": 66,
+        "career": [
+          {
+            "club": "FC Bayern Munich",
+            "from": 2002,
+            "to": 2017,
+            "appearances": 520,
+            "goals": 28,
+            "assists": 45
+          }
+        ],
+        "honours": ["Bundesliga Champion", "DFB-Pokal Winner", "UEFA Champions League Winner", "FIFA World Cup Winner"],
+        "individualAwards": ["German Footballer of the Year"],
+        "nationalTeamCaps": 100,
+        "styleOfPlay": "A versatile and intelligent fullback known for his exceptional reading of the game, precise passing, and tireless work rate. Lahm excelled at both defensive discipline and contributing to offensive plays, making him indispensable in high-stakes matches.",
+        "legacyQuote": "A captivating leader and model professional whose career epitomizes discipline, versatility, and commitment.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": ["Cafu", "Lilian Thuram"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/philipp-lahm/profil/spieler/1060",
+          "description": "Detailed career statistics and transfer history of Philipp Lahm."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Philipp_Lahm",
+          "description": "Comprehensive biography and career overview on Wikipedia."
+        }
+      ]
+    },
+    {
+      "name": "Dante",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 88,
+          "creativity": 70,
+          "aggressiveness": 80,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 80,
+          "finishing": 60,
+          "heading": 85,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 88,
+          "aerialDuels": 90
+        },
+        "specialSkill": "CompleteDefender"
+      },
+      "history": {
+        "fullName": "Dante Bonfim Costa Santos",
+        "knownAs": "Dante",
+        "birthDate": "1978-10-18",
+        "nationality": "Brazilian",
+        "preferredFoot": "right",
+        "height": 186,
+        "weight": 80,
+        "career": [
+          {
+            "club": "FC Bayern Munich",
+            "from": 2009,
+            "to": 2014,
+            "appearances": 140,
+            "goals": 6,
+            "assists": 5
+          }
+        ],
+        "honours": ["Bundesliga Champion (2010, 2013)", "DFB-Pokal Winner (2010)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 38,
+        "styleOfPlay": "Dante is a rock-solid and composed center back renowned for his intelligent positioning, aerial dominance, and leadership. His tactical understanding and reliability allowed him to marshal Bayern Munich's defense with authority during the 2013 season.",
+        "legacyQuote": "A rock in the defense, Dante symbolized consistency, professionalism, and fearless leadership.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": ["Franz Beckenbauer", "Bobby Moore"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/dante/profil/spieler/2101",
+          "description": "Transfermarkt profile of Dante featuring detailed career statistics."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/clubs/50037--bayern-munich/",
+          "description": "UEFA overview of Bayern Munich's squad and historical achievements during Dante's tenure."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Compilation of Dante's defensive highlights and key moments."
+        }
+      ]
+    },
+    {
+      "name": "Jérôme Boateng",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 65,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 40,
+          "heading": 88,
+          "marking": 86
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 88,
+          "aerialDuels": 87
+        },
+        "specialSkill": "CompleteDefender"
+      },
+      "history": {
+        "fullName": "Jérôme Agyenim Boateng",
+        "knownAs": "Boateng",
+        "birthDate": "1988-09-03",
+        "nationality": "German",
+        "preferredFoot": "right",
+        "height": 1.92,
+        "weight": 83,
+        "career": [
+          {
+            "club": "Hertha BSC",
+            "from": 2006,
+            "to": 2007,
+            "appearances": 16,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "club": "Hamburger SV",
+            "from": 2007,
+            "to": 2010,
+            "appearances": 59,
+            "goals": 2,
+            "assists": 3
+          },
+          {
+            "club": "FC Bayern Munich",
+            "from": 2010,
+            "to": 2018,
+            "appearances": 150,
+            "goals": 9,
+            "assists": 7
+          }
+        ],
+        "honours": ["Bundesliga Champion", "UEFA Champions League Winner (2013)", "DFB-Pokal Winner"],
+        "individualAwards": ["DFB Team of the Season"],
+        "nationalTeamCaps": 40,
+        "styleOfPlay": "A robust and versatile center-back known for his impeccable positioning and aerial ability. Combining physical power with refined technical skills, Boateng excelled as a ball-playing defender, contributing to both defensive solidity and initiating attacks from the back.",
+        "legacyQuote": "An embodiment of defensive excellence and versatility, Boateng redefined the modern center-back role with his intelligence and physical presence.",
+        "rivalries": [
+          "Rivalries with top international forwards and defenders, often marking key opponents in high-stakes games"
+        ],
+        "mentorOf": [],
+        "inspiredBy": ["Former greats of defensive football and emerging tactical systems in modern football"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/jerome-boateng/profil/spieler/20531",
+          "description": "Transfermarkt profile with detailed career statistics and transfer history."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/newsid=1965572.html",
+          "description": "UEFA article analyzing FC Bayern Munich's Champions League campaign in 2013."
+        }
+      ]
+    },
+    {
+      "name": "David Alaba",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 82,
+          "finishing": 60,
+          "heading": 78,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 80,
+          "defensiveSupport": 84
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "David Alaba",
+        "knownAs": "Alaba",
+        "birthDate": "1992-06-24",
+        "nationality": "Austria",
+        "preferredFoot": "left",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "FC Bayern Munich",
+            "from": 2010,
+            "to": 2013,
+            "appearances": 45,
+            "goals": 3,
+            "assists": 4
+          }
+        ],
+        "honours": ["Bundesliga Champion", "DFB-Pokal Winner"],
+        "individualAwards": [],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A dynamic and versatile left-back, Alaba combines robust defensive skills with creative attacking support. In 2013, his excellent ball control, intelligent positioning, and ability to contribute to both defensive stability and offensive transitions set him apart.",
+        "legacyQuote": "A player with immense talent who would later transform the modern full-back role with his all-round ability.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": ["Paolo Maldini", "Roberto Carlos"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/david-alaba/profil/spieler/64055",
+          "description": "David Alaba career statistics and market value on Transfermarkt."
+        },
+        {
+          "url": "https://www.uefa.com/teamsandplayers/players/player=250029859/profile/index.html",
+          "description": "UEFA profile detailing David Alaba's performances in European competitions."
+        }
+      ]
+    },
+    {
+      "name": "Javi Martínez",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 70,
+          "aggressiveness": 80,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 60,
+          "heading": 75,
+          "marking": 86
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 85,
+          "tackling": 85
+        },
+        "specialSkill": "TacticalBrain"
+      },
+      "history": {
+        "fullName": "Javier Martínez Aginaga",
+        "knownAs": "Javi Martínez",
+        "birthDate": "1988-09-02",
+        "nationality": "Spanish",
+        "preferredFoot": "right",
+        "height": 187,
+        "weight": 78,
+        "career": [
+          {
+            "club": "Athletic Bilbao",
+            "from": 2007,
+            "to": 2012,
+            "appearances": 130,
+            "goals": 8,
+            "assists": 5
+          },
+          {
+            "club": "FC Bayern Munich",
+            "from": 2012,
+            "to": 9999,
+            "appearances": 25,
+            "goals": 1,
+            "assists": 3
+          }
+        ],
+        "honours": ["DFB-Pokal Runner-up (2013)", "Bundesliga Contender"],
+        "individualAwards": ["La Liga Breakthrough Player (pre-Bayern recognition)"],
+        "nationalTeamCaps": 22,
+        "styleOfPlay": "A disciplined and intelligent defensive midfielder renowned for his tactical awareness, robust defensive abilities, and effective distribution. He is known for breaking up play and providing a reliable shield in front of the backline.",
+        "legacyQuote": "Javi Martínez emerged as a model of modern defensive midfielding, blending physicality with remarkable game intelligence.",
+        "rivalries": ["Opposing midfielders known for their technical flair in the Bundesliga"],
+        "mentorOf": [],
+        "inspiredBy": ["Xabi Alonso", "Luis Hernández"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/javi-martinez/profil/spieler/18745",
+          "description": "Transfermarkt profile with career statistics and market value history."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/clubs/players/190817--javi-martinez/",
+          "description": "UEFA profile detailing Javi Martínez's performances in European competitions."
+        }
+      ]
+    },
+    {
+      "name": "Bastian Schweinsteiger",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 85,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 88,
+          "creativity": 85,
+          "aggressiveness": 75,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 88,
+          "passing": 90,
+          "finishing": 70,
+          "heading": 75,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 88,
+          "distribution": 85
+        },
+        "specialSkill": "MidfieldMaestro"
+      },
+      "history": {
+        "fullName": "Bastian Schweinsteiger",
+        "knownAs": "Schweini",
+        "birthDate": "1984-08-01",
+        "nationality": "German",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "FC Bayern Munich",
+            "from": 2002,
+            "to": 2015,
+            "appearances": 427,
+            "goals": 91,
+            "assists": 75
+          }
+        ],
+        "honours": ["Bundesliga Champion", "DFB-Pokal Winner", "UEFA Champions League Finalist"],
+        "individualAwards": ["German Footballer of the Year Nominee"],
+        "nationalTeamCaps": 116,
+        "styleOfPlay": "A box-to-box midfielder known for his tactical intelligence, precise passing, and commanding leadership in the heart of midfield. He was instrumental in linking defense with attack while maintaining structure.",
+        "legacyQuote": "Bastian Schweinsteiger defined the modern midfield with his vision and relentless work ethic, inspiring a generation of players.",
+        "rivalries": [
+          "Opposing elite midfielders in Europe, often clashing in tactical battles on the biggest stages."
+        ],
+        "mentorOf": [],
+        "inspiredBy": ["Lothar Matthäus"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/bastian-schweinsteiger/profil/spieler/6701",
+          "description": "Comprehensive career statistics and transfer history on Transfermarkt."
+        },
+        {
+          "url": "https://www.uefa.com/insideuefa/news/newsid=2117581.html",
+          "description": "UEFA article analyzing Schweinsteiger's impact and leadership at Bayern Munich."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlights showcasing Schweinsteiger's career-defining moments."
+        }
+      ]
+    },
+    {
+      "name": "Thomas Müller",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 85,
+          "strength": 72,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 82,
+          "creativity": 88,
+          "aggressiveness": 70,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 88,
+          "finishing": 78,
+          "heading": 70,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 90,
+          "distribution": 88
+        },
+        "specialSkill": "FootballIQ"
+      },
+      "history": {
+        "fullName": "Thomas Müller",
+        "knownAs": "Thomas Müller",
+        "birthDate": "1989-09-13",
+        "nationality": "German",
+        "preferredFoot": "right",
+        "height": 186,
+        "weight": 78,
+        "career": [
+          {
+            "club": "FC Bayern Munich",
+            "from": 2009,
+            "to": 2013,
+            "appearances": 110,
+            "goals": 25,
+            "assists": 20
+          }
+        ],
+        "honours": ["Bundesliga Champion (2012–13)", "DFB-Pokal Winner (2012–13)"],
+        "individualAwards": ["Bundesliga Team of the Season"],
+        "nationalTeamCaps": 30,
+        "styleOfPlay": "A versatile midfielder known for his exceptional spatial awareness, intelligent positioning, and ability to unlock defenses with incisive passing. Müller combines technical skill with a natural instinct for reading the game, making him a pivotal part of Bayern's midfield in 2013.",
+        "legacyQuote": "A player whose game intelligence redefined midfield roles, turning space into opportunity.",
+        "rivalries": ["Competing midfield talents in the Bundesliga and European competitions"],
+        "mentorOf": [],
+        "inspiredBy": ["Franz Beckenbauer", "Lothar Matthäus"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/thomas-mueller/profil/spieler/11115",
+          "description": "Thomas Müller's Transfermarkt profile with career stats and historical performance."
+        },
+        {
+          "url": "https://fcbayern.com/en/teams/first-team/thomas-mueller",
+          "description": "Official FC Bayern Munich page for Thomas Müller highlighting his contributions."
+        }
+      ]
+    },
+    {
+      "name": "Franck Ribéry",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 90,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 70,
+          "creativity": 95,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 94,
+          "passing": 85,
+          "finishing": 80,
+          "heading": 70,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 92,
+          "keyPass": 85
+        },
+        "specialSkill": "DribblingMaestro"
+      },
+      "history": {
+        "fullName": "Franck Ribéry",
+        "knownAs": "Ribéry",
+        "birthDate": "1983-04-07",
+        "nationality": "French",
+        "preferredFoot": "left",
+        "height": 170,
+        "weight": 70,
+        "career": [
+          {
+            "club": "FC Bayern Munich",
+            "from": 2007,
+            "to": 2013,
+            "appearances": 30,
+            "goals": 10,
+            "assists": 7
+          }
+        ],
+        "honours": ["Bundesliga Champion (2012–13)"],
+        "individualAwards": ["kicker Team of the Season"],
+        "nationalTeamCaps": 81,
+        "styleOfPlay": "Explosive winger with exceptional dribbling ability, creativity, and pace. Ribéry's quick feet and technical skill allowed him to consistently beat defenders and create scoring opportunities from the left flank.",
+        "legacyQuote": "Franck Ribéry redefined modern wing play with his electrifying dribbles and relentless attacking spirit.",
+        "rivalries": ["Opposing full-backs in Bundesliga battles"],
+        "mentorOf": [],
+        "inspiredBy": ["Zinedine Zidane"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/franck-ribery/profil/spieler/3529",
+          "description": "Franck Ribéry's detailed career statistics and transfer history on Transfermarkt."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/history/clubs/50055--bayern-munich/",
+          "description": "Historical overview of FC Bayern Munich's performances in the UEFA Champions League, featuring Ribéry's contributions."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=zgLn0WpH1p0",
+          "description": "Highlight reel showcasing Franck Ribéry's mesmerizing dribbling and playmaking abilities."
+        }
+      ]
+    },
+    {
+      "name": "Arjen Robben",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 92,
+          "stamina": 88,
+          "strength": 76,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 82,
+          "creativity": 91,
+          "aggressiveness": 78,
+          "teamwork": 86
+        },
+        "technical": {
+          "ballControl": 94,
+          "passing": 88,
+          "finishing": 85,
+          "heading": 70,
+          "marking": 42
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 93,
+          "keyPass": 90
+        },
+        "specialSkill": "DribblingMaestro"
+      },
+      "history": {
+        "fullName": "Arjen Robben",
+        "knownAs": "Robben",
+        "birthDate": "1984-01-23",
+        "nationality": "Dutch",
+        "preferredFoot": "left",
+        "height": 1.8,
+        "weight": 73,
+        "career": [
+          {
+            "club": "FC Groningen",
+            "from": 2000,
+            "to": 2002,
+            "appearances": 39,
+            "goals": 5,
+            "assists": 4
+          },
+          {
+            "club": "PSV Eindhoven",
+            "from": 2002,
+            "to": 2004,
+            "appearances": 63,
+            "goals": 19,
+            "assists": 8
+          },
+          {
+            "club": "Chelsea",
+            "from": 2004,
+            "to": 2007,
+            "appearances": 78,
+            "goals": 12,
+            "assists": 10
+          },
+          {
+            "club": "Real Madrid",
+            "from": 2007,
+            "to": 2009,
+            "appearances": 52,
+            "goals": 11,
+            "assists": 9
+          },
+          {
+            "club": "FC Bayern Munich",
+            "from": 2009,
+            "to": 2019,
+            "appearances": 300,
+            "goals": 70,
+            "assists": 80
+          }
+        ],
+        "honours": [
+          "Bundesliga Champion (2012–13)",
+          "DFB-Pokal Winner (2012–13)",
+          "UEFA Champions League Runner-up (2011–12)"
+        ],
+        "individualAwards": ["FIFPro World XI", "UEFA Team of the Year"],
+        "nationalTeamCaps": 96,
+        "styleOfPlay": "An explosive right winger renowned for his ability to cut inside onto his favored left foot, Robben combined blistering pace with exceptional dribbling skills and a keen eye for goal. His performances in 2013 exemplified his aptitude for destabilizing defenses and creating decisive scoring opportunities.",
+        "legacyQuote": "A magician on the wing, Arjen Robben redefined modern attacking play with his signature cut-ins and game-changing dribbles.",
+        "rivalries": ["FC Barcelona offensive line", "Manchester United's dynamic attackers"],
+        "mentorOf": ["Kingsley Coman"],
+        "inspiredBy": ["Johan Cruyff", "Dennis Bergkamp"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/arjen-robben/profil/spieler/2671",
+          "description": "Comprehensive career statistics and transfer history on Transfermarkt."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Arjen_Robben",
+          "description": "Detailed biography and career overview on Wikipedia."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/999/Arjen_Robben.html",
+          "description": "National team statistics and profile at National-Football-Teams.com."
+        }
+      ]
+    },
+    {
+      "name": "Mario Mandžukić",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 88,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 72,
+          "creativity": 75,
+          "aggressiveness": 80,
+          "teamwork": 78
+        },
+        "technical": {
+          "ballControl": 76,
+          "passing": 70,
+          "finishing": 85,
+          "heading": 87,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 84,
+          "aerialDuels": 86
+        },
+        "specialSkill": "AerialDominance"
+      },
+      "history": {
+        "fullName": "Mario Mandžukić",
+        "knownAs": "Mandžukić",
+        "birthDate": "1986-05-21",
+        "nationality": "Croatian",
+        "preferredFoot": "right",
+        "height": 187,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Hajduk Split",
+            "from": 2004,
+            "to": 2007,
+            "appearances": 82,
+            "goals": 30,
+            "assists": 12
+          },
+          {
+            "club": "VfL Wolfsburg",
+            "from": 2007,
+            "to": 2010,
+            "appearances": 88,
+            "goals": 28,
+            "assists": 15
+          },
+          {
+            "club": "Atlético Madrid",
+            "from": 2010,
+            "to": 2012,
+            "appearances": 47,
+            "goals": 20,
+            "assists": 9
+          },
+          {
+            "club": "FC Bayern Munich",
+            "from": 2012,
+            "to": 2014,
+            "appearances": 50,
+            "goals": 22,
+            "assists": 8
+          }
+        ],
+        "honours": ["Bundesliga: 2012–13", "DFB-Pokal: 2012–13"],
+        "individualAwards": ["Croatian Footballer of the Year Nominee"],
+        "nationalTeamCaps": 50,
+        "styleOfPlay": "A hardworking and physically dominant striker known for his aerial prowess, intelligent positioning, and relentless pressing. In 2013 at Bayern Munich, Mandžukić showcased his ability to win aerial duels, create space for teammates, and score crucial goals.",
+        "legacyQuote": "Never underestimate the heart of a warrior.",
+        "rivalries": ["Notable on-field rivalries with opposing center-forwards in the Bundesliga"],
+        "mentorOf": [],
+        "inspiredBy": ["Davor Šuker"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/mario-mandzukic/profil/spieler/2985",
+          "description": "Transfermarkt profile detailing career statistics and transfers for Mandžukić."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/clubs/players/1904955--mario-mandzukic/",
+          "description": "UEFA profile highlighting Mandžukić's performances in European competitions."
+        }
+      ]
+    },
+    {
+      "name": "Toni Kroos",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 88,
+          "strength": 70,
+          "injuryProne": 10
+        },
+        "mental": {
+          "composure": 92,
+          "leadership": 80,
+          "creativity": 88,
+          "aggressiveness": 70,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 92,
+          "passing": 94,
+          "finishing": 70,
+          "heading": 75,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 92,
+          "distribution": 93
+        },
+        "specialSkill": "DeepLyingPlaymaker"
+      },
+      "history": {
+        "fullName": "Toni Kroos",
+        "knownAs": "Toni",
+        "birthDate": "1990-01-04",
+        "nationality": "German",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 75,
+        "career": [
+          {
+            "club": "FC Bayern Munich",
+            "from": 2007,
+            "to": 2014,
+            "appearances": 115,
+            "goals": 7,
+            "assists": 15
+          }
+        ],
+        "honours": ["Bundesliga: 2007–08", "DFB-Pokal: 2007–08"],
+        "individualAwards": ["UEFA Team of the Year 2013"],
+        "nationalTeamCaps": 46,
+        "styleOfPlay": "A calm, efficient midfielder known for his precise passing, excellent vision, and ability to control the tempo of the game. Kroos combines technical skill with a high football IQ to dictate play from deep positions.",
+        "legacyQuote": "A midfield maestro who redefines consistency and precision in every match he plays.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": ["Lothar Matthäus", "Michael Ballack"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/toni-kroos/profil/spieler/55022",
+          "description": "Transfermarkt profile for Toni Kroos."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Toni_Kroos",
+          "description": "Wikipedia article on Toni Kroos."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlight reel showcasing Toni Kroos' performance in 2013."
+        }
+      ]
+    },
+    {
+      "name": "Holger Badstuber",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 65
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 68,
+          "creativity": 60,
+          "aggressiveness": 70,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 83
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 90
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Holger Badstuber",
+        "knownAs": "Holger",
+        "birthDate": "1989-03-13",
+        "nationality": "German",
+        "preferredFoot": "right",
+        "height": 190,
+        "weight": 80,
+        "career": [
+          {
+            "club": "FC Bayern Munich",
+            "from": 2007,
+            "to": 2014,
+            "appearances": 40,
+            "goals": 2,
+            "assists": 2
+          }
+        ],
+        "honours": ["Bundesliga Champion (2012–13)", "DFB-Pokal Winner (2012–13)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 4,
+        "styleOfPlay": "A composed and technically gifted centre-back, Badstuber was known for his excellent reading of the game, strong aerial presence, and ability to initiate plays from the back. His playing style combined traditional defensive solidity with a modern, ball-playing approach.",
+        "legacyQuote": "Holger Badstuber combined technical skill with robust defending, symbolizing the modern centre-back who can both stop attackers and contribute to the build-up.",
+        "rivalries": ["Borussia Dortmund", "Schalke 04"],
+        "mentorOf": [],
+        "inspiredBy": ["Franz Beckenbauer", "Mats Hummels"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/holger-badstuber/profil/spieler/4181",
+          "description": "Holger Badstuber Transfermarkt profile with detailed statistics and career history."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Holger_Badstuber",
+          "description": "Wikipedia page for Holger Badstuber covering his career, honours, and biography."
+        }
+      ]
+    },
+    {
+      "name": "Tom Starke",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 70,
+          "strength": 75,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 68,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 70,
+          "finishing": 40,
+          "heading": 60,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 78,
+          "oneOnOne": 75
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Tom Starke",
+        "knownAs": "Tom",
+        "birthDate": "1981-01-18",
+        "nationality": "German",
+        "preferredFoot": "right",
+        "height": 190,
+        "weight": 85,
+        "career": [
+          {
+            "club": "SC Paderborn 07",
+            "from": 2003,
+            "to": 2005,
+            "appearances": 50,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "club": "SC Freiburg",
+            "from": 2005,
+            "to": 2008,
+            "appearances": 70,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "club": "1860 Munich",
+            "from": 2008,
+            "to": 2011,
+            "appearances": 80,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "club": "FC Bayern Munich",
+            "from": 2011,
+            "to": 2016,
+            "appearances": 20,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["Bundesliga: 2012–13", "DFB-Pokal: 2012–13"],
+        "individualAwards": [],
+        "nationalTeamCaps": 0,
+        "styleOfPlay": "Tom Starke is a reliable shot-stopper known for his solid positioning, composure, and effective command of his penalty area. He may not be the flashiest keeper, but his consistent performances and ability to organize his defense made him a dependable asset during his time at Bayern Munich.",
+        "legacyQuote": "A reliable safeguard for Bayern, Tom Starke exemplified consistency and professionalism during his tenure.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": ["Oliver Kahn"]
+      },
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tom_Starke",
+          "description": "Tom Starke's Wikipedia page with career overview and statistics."
+        },
+        {
+          "url": "https://www.transfermarkt.com/tom-starke/profil/spieler/2211",
+          "description": "Detailed career statistics and historical performance data on Transfermarkt."
+        },
+        {
+          "url": "https://fcbayern.com/en/teams/profiles/tom-starke",
+          "description": "FC Bayern Munich profile highlighting Tom Starke's contributions during his tenure."
+        }
+      ]
+    },
+    {
+      "name": "Xherdan Shaqiri",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 90,
+          "stamina": 88,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 85,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 85,
+          "finishing": 80,
+          "heading": 70,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 92,
+          "keyPass": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Xherdan Shaqiri",
+        "knownAs": "Shaqiri",
+        "birthDate": "1991-10-10",
+        "nationality": "Swiss",
+        "preferredFoot": "left",
+        "height": 1.69,
+        "weight": 69,
+        "career": [
+          {
+            "club": "FC Basel",
+            "from": 2009,
+            "to": 2012,
+            "appearances": 57,
+            "goals": 9,
+            "assists": 9
+          },
+          {
+            "club": "FC Bayern Munich",
+            "from": 2012,
+            "to": 2015,
+            "appearances": 40,
+            "goals": 6,
+            "assists": 8
+          }
+        ],
+        "honours": ["Bundesliga Champion", "DFB-Pokal Winner"],
+        "individualAwards": ["Swiss Footballer of the Year"],
+        "nationalTeamCaps": 35,
+        "styleOfPlay": "A dynamic and agile right winger known for his explosive pace, exceptional dribbling and creativity, Shaqiri is capable of breaking down defenses with his incisive key passes and quick feet. His ability to cut inside and take shots from distance makes him an unpredictable attacking threat.",
+        "legacyQuote": "A magician on the flank, Shaqiri combines pace with precision, consistently turning tight spaces into goal-scoring opportunities.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": ["Ronaldinho"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/xherdan-shaqiri/profil/spieler/104117",
+          "description": "Detailed career statistics and transfer history for Xherdan Shaqiri on Transfermarkt."
+        },
+        {
+          "url": "https://www.fifa.com/fifa-tournaments/players-coaches/people=284048/index.html",
+          "description": "FIFA profile of Xherdan Shaqiri with career highlights and tournament performances."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Xherdan_Shaqiri",
+          "description": "Comprehensive Wikipedia article detailing Shaqiri's career, honours, and biography."
+        }
+      ]
+    },
+    {
+      "name": "Mario Gómez",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 86,
+          "strength": 88,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 78,
+          "aggressiveness": 80,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 84,
+          "passing": 75,
+          "finishing": 90,
+          "heading": 88,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 88,
+          "aerialDuels": 90
+        },
+        "specialSkill": "ClinicalFinisher"
+      },
+      "history": {
+        "fullName": "Mario Gómez",
+        "knownAs": "Mario",
+        "birthDate": "1985-07-10",
+        "nationality": "German",
+        "preferredFoot": "right",
+        "height": 189,
+        "weight": 84,
+        "career": [
+          {
+            "club": "FC Bayern Munich",
+            "from": 2009,
+            "to": 2013,
+            "appearances": 105,
+            "goals": 68,
+            "assists": 15
+          }
+        ],
+        "honours": ["Bundesliga: 2012–13", "DFB-Pokal: 2012–13"],
+        "individualAwards": ["Bundesliga Top Scorer (2012–13)"],
+        "nationalTeamCaps": 78,
+        "styleOfPlay": "A prolific striker known for his clinical finishing, strong aerial ability, and intelligent movement in the box. His physical presence combined with excellent positioning made him a constant threat in the penalty area.",
+        "legacyQuote": "Mario Gómez is remembered as one of the most lethal forwards in modern Bundesliga history, with an instinct for goal that remains unparalleled.",
+        "rivalries": ["Edin Džeko"],
+        "mentorOf": [],
+        "inspiredBy": ["Jürgen Klinsmann"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/mario-gomez/profil/spieler/6767",
+          "description": "Detailed career statistics and historical performance data on Transfermarkt."
+        },
+        {
+          "url": "https://www.fifa.com/worldcup/players/player/2102/",
+          "description": "FIFA profile highlighting Mario Gómez's international career and tournament performances."
+        }
+      ]
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 88,
+    "staminaBoost": 86,
+    "injuryPrevention": 89,
+    "medicalResponse": 91
+  }
+}
