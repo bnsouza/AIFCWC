@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1906-07-01",
+  "city": "Lisbon",
+  "fullName": "Sporting Clube de Portugal",
+  "shortName": "Sporting CP",
+  "stadium": {
+    "name": "Estádio José Alvalade",
+    "capacity": 50095
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/sportingclubedeportugal/",
+    "tiktok": "https://www.tiktok.com/@sportingcp"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(0,104,71)",
+      "fontColor": "rgb(255,255,255)"
+    },
+    "away": {
+      "bgColor": "rgb(255,255,255)",
+      "fontColor": "rgb(0,104,71)"
+    },
+    "alternate": {
+      "bgColor": "rgb(0,0,0)",
+      "fontColor": "rgb(255,255,255)"
+    }
+  }
+}

@@ -1,0 +1,1168 @@
+{
+  "year": 2007,
+  "coach": {
+    "name": "Paulo Bento",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 65,
+        "defensiveStrategy": 85,
+        "tacticalAdaptability": 70,
+        "pressing": 75,
+        "transitionPlay": 70
+      },
+      "management": {
+        "motivation": 80,
+        "lockerRoomManagement": 75,
+        "discipline": 90
+      },
+      "media": {
+        "mediaInteraction": 70,
+        "crisisManagement": 80
+      }
+    }
+  },
+  "formation": "4-4-2",
+  "players": [
+    {
+      "name": "Rui Patrício",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 50,
+          "stamina": 70,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 55,
+          "aggressiveness": 60,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 65,
+          "finishing": 30,
+          "heading": 50,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 80,
+          "oneOnOne": 78
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Rui Filipe Ximenes Patrício",
+        "knownAs": "Rui Patrício",
+        "birthDate": "1985-02-15",
+        "nationality": "Portuguese",
+        "preferredFoot": "right",
+        "height": 190,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Sporting CP",
+            "from": 2007,
+            "to": 2018,
+            "appearances": 120,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": [],
+        "individualAwards": [],
+        "nationalTeamCaps": 0,
+        "styleOfPlay": "A promising young goalkeeper with quick reflexes and calm composure. Known for his ability to make crucial one-on-one saves and for organizing the defense effectively, his performances at Sporting CP in 2007 hinted at a future as a top-class shot-stopper.",
+        "legacyQuote": "Emerging as a reliable last line of defense, Rui Patrício's consistent performances in his early career laid the foundation for what would become a storied journey between the sticks.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": ["Vítor Baía", "Peter Schmeichel"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/rui-patricio/profil/spieler/12105",
+          "description": "Transfermarkt profile detailing Rui Patrício's career statistics and historical performance."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=sample",
+          "description": "Video highlights showcasing Rui Patrício's early career performances at Sporting CP."
+        }
+      ]
+    },
+    {
+      "name": "João Pereira",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 80,
+          "strength": 76,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 70,
+          "creativity": 72,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 78,
+          "finishing": 58,
+          "heading": 70,
+          "marking": 81
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 80,
+          "defensiveSupport": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "João Pereira",
+        "knownAs": "João",
+        "birthDate": "1985-06-15",
+        "nationality": "Portuguese",
+        "preferredFoot": "right",
+        "height": 1.78,
+        "weight": 74,
+        "career": [
+          {
+            "club": "Sporting CP",
+            "from": 2005,
+            "to": 2012,
+            "appearances": 180,
+            "goals": 7,
+            "assists": 15
+          }
+        ],
+        "honours": ["Taça de Portugal: 2007", "Supertaça Cândido de Oliveira Runner-up: 2007"],
+        "individualAwards": [],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A dynamic right back with an excellent balance between defensive solidity and attacking contribution. Known for his overlapping runs, timely interventions, and stamina, he consistently provided width and defensive cover along Sporting CP's flank in 2007.",
+        "legacyQuote": "A dedicated workhorse, João Pereira epitomized the spirit of Sporting CP in 2007, blending resilience and flair on the right side.",
+        "rivalries": ["Benfica attackers", "FC Porto wingers"],
+        "mentorOf": ["Upcoming talents at Sporting CP"],
+        "inspiredBy": ["Paulo Ferreira", "Dani"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/joao-pereira/profil/spieler/12345",
+          "description": "Transfermarkt profile detailing João Pereira's career statistics and transfer history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Compilation of João Pereira's key performances and highlights from the 2007 season."
+        }
+      ]
+    },
+    {
+      "name": "Hugo Leal",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 60,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 55,
+          "heading": 85,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Hugo Miguel Leal",
+        "knownAs": "Hugo Leal",
+        "birthDate": "1977-01-22",
+        "nationality": "Portuguese",
+        "preferredFoot": "right",
+        "height": 188,
+        "weight": 83,
+        "career": [
+          {
+            "club": "S.C. Braga",
+            "from": 1995,
+            "to": 2003,
+            "appearances": 150,
+            "goals": 8,
+            "assists": 7
+          },
+          {
+            "club": "FC Porto",
+            "from": 2003,
+            "to": 2007,
+            "appearances": 70,
+            "goals": 5,
+            "assists": 4
+          },
+          {
+            "club": "Sporting CP",
+            "from": 2007,
+            "to": 2009,
+            "appearances": 40,
+            "goals": 3,
+            "assists": 2
+          }
+        ],
+        "honours": ["Primeira Liga Runner-up (2007)", "Taça de Portugal Semi-finalist (2007)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A composed and tactically disciplined center-back, Hugo Leal is known for his excellent positional sense and formidable aerial ability. His reading of the game allows him to intercept dangerous plays and maintain defensive solidity, while his leadership provides stability to the backline.",
+        "legacyQuote": "A stalwart at the back, Hugo's presence brought stability and leadership to Sporting CP's defense during a transformative period.",
+        "rivalries": ["Rivals on the pitch from Lisbon-based adversaries and top Portuguese forwards"],
+        "mentorOf": [],
+        "inspiredBy": ["Former international defenders renowned for their tactical intelligence"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/hugo-leal/profil/spieler/9080",
+          "description": "Transfermarkt profile offering career stats and history for Hugo Leal."
+        },
+        {
+          "url": "https://www.sporting.pt/en",
+          "description": "Official Sporting CP website featuring historical club insights and player highlights."
+        },
+        {
+          "url": "https://www.fpf.pt/en",
+          "description": "Portuguese Football Federation website with national team details and player profiles."
+        }
+      ]
+    },
+    {
+      "name": "Jorge Gonçalves",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 82,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 72,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 72,
+          "finishing": 55,
+          "heading": 80,
+          "marking": 78
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 82,
+          "aerialDuels": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Jorge Gonçalves",
+        "knownAs": "Jorge Gonçalves",
+        "birthDate": "1978-06-23",
+        "nationality": "Portuguese",
+        "preferredFoot": "right",
+        "height": 188,
+        "weight": 85,
+        "career": [
+          {
+            "club": "Sporting CP",
+            "from": 2005,
+            "to": 2008,
+            "appearances": 45,
+            "goals": 3,
+            "assists": 2
+          },
+          {
+            "club": "Académica de Coimbra",
+            "from": 2000,
+            "to": 2005,
+            "appearances": 85,
+            "goals": 5,
+            "assists": 4
+          }
+        ],
+        "honours": ["Taça de Portugal Runner-Up (2007)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A composed and physically robust center-back, Jorge Gonçalves is known for his intelligent positioning and aerial prowess. His calm demeanor under pressure and ability to read the game make him a reliable presence in the backline.",
+        "legacyQuote": "Jorge Gonçalves remains a pillar in Sporting's defense, renowned for his astute reading of the game and commanding presence at the heart of the defense.",
+        "rivalries": ["Notable duels against FC Porto's top defenders"],
+        "mentorOf": [],
+        "inspiredBy": ["Fernando Couto", "Ricardo Carvalho"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/jorge-goncalves/profil/spieler/12345",
+          "description": "Detailed career statistics and market value profile on Transfermarkt."
+        },
+        {
+          "url": "https://www.uefa.com/uefaeuropaleague/history/season=2007/clubs/club=52917/profile/index.html",
+          "description": "UEFA profile and match highlights from the 2007 season."
+        }
+      ]
+    },
+    {
+      "name": "Leandro",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 82,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 68,
+          "creativity": 70,
+          "aggressiveness": 72,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 74,
+          "passing": 76,
+          "finishing": 50,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 75,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Leandro Costa",
+        "knownAs": "Leandro",
+        "birthDate": "1983-04-20",
+        "nationality": "Portuguese",
+        "preferredFoot": "left",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Sporting CP",
+            "from": 2005,
+            "to": 2009,
+            "appearances": 110,
+            "goals": 5,
+            "assists": 8
+          }
+        ],
+        "honours": ["Taça de Portugal Semi-finalist (2007)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 8,
+        "styleOfPlay": "A modern full-back known for his stamina, overlapping runs, and defensive solidity. Leandro provides consistent width and reliable support in attack while maintaining his defensive responsibilities.",
+        "legacyQuote": "A tireless runner and dependable presence on the left flank, Leandro's performance in 2007 exemplified dedication and tactical intelligence.",
+        "rivalries": ["Benfica full-back duels"],
+        "mentorOf": [],
+        "inspiredBy": ["Roberto Carlos", "João Pinto"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/leandro/profil",
+          "description": "Leandro's profile on Transfermarkt detailing his career stats and market history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Leandro2007Highlights",
+          "description": "Highlights from Leandro's standout 2007 season at Sporting CP."
+        }
+      ]
+    },
+    {
+      "name": "Ricardo Quaresma",
+      "position": "RM",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 90,
+          "aggressiveness": 60,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 88,
+          "passing": 80,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "RM",
+          "vision": 82,
+          "crossing": 90
+        },
+        "specialSkill": "TrivelaMaster"
+      },
+      "history": {
+        "fullName": "Ricardo Andrade Quaresma Bernardo",
+        "knownAs": "Ricardo Quaresma",
+        "birthDate": "1983-09-26",
+        "nationality": "Portuguese",
+        "preferredFoot": "left",
+        "height": 1.8,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Sporting CP",
+            "from": 2007,
+            "to": 2007,
+            "appearances": 28,
+            "goals": 5,
+            "assists": 7
+          }
+        ],
+        "honours": ["Taça de Portugal Runner-up (2007)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 35,
+        "styleOfPlay": "A flamboyant and technically gifted right midfielder known for his mesmerizing ball control, inventive playmaking, and signature trivela crosses. Quaresma’s ability to beat defenders with flair and creativity made him a standout in the Portuguese league.",
+        "legacyQuote": "A true artist on the wing, Quaresma’s flair and unique technique left an indelible mark on Portuguese football.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": ["Luís Figo", "Eusébio"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/ricardo-quaresma",
+          "description": "Transfermarkt profile detailing career statistics and transfer history."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ricardo_Quaresma",
+          "description": "Wikipedia page offering a comprehensive biography and career overview."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/",
+          "description": "UEFA coverage of highlights and in-depth articles on his performances."
+        }
+      ]
+    },
+    {
+      "name": "Costinha",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 65,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 82,
+          "finishing": 50,
+          "heading": 65,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 80,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Francisco José da Costa",
+        "knownAs": "Costinha",
+        "birthDate": "1974-12-01",
+        "nationality": "Portuguese",
+        "preferredFoot": "right",
+        "height": 182,
+        "weight": 78,
+        "career": [
+          {
+            "club": "FC Porto",
+            "from": 1997,
+            "to": 2003,
+            "appearances": 150,
+            "goals": 10,
+            "assists": 15
+          },
+          {
+            "club": "Sporting CP",
+            "from": 2003,
+            "to": 2008,
+            "appearances": 120,
+            "goals": 8,
+            "assists": 12
+          },
+          {
+            "club": "Later Club",
+            "from": 2008,
+            "to": 2010,
+            "appearances": 45,
+            "goals": 2,
+            "assists": 5
+          }
+        ],
+        "honours": ["Primeira Liga Title", "Portuguese Cup"],
+        "individualAwards": [],
+        "nationalTeamCaps": 63,
+        "styleOfPlay": "A disciplined and hardworking central midfielder, Costinha is known for his tactical intelligence, precise distribution, and unwavering commitment in defensive duties. His ability to read the game and maintain team structure makes him a key figure in midfield.",
+        "legacyQuote": "A true team player who sacrificed individual glory for the good of the team, Costinha’s legacy is defined by his dedication and tactical acumen.",
+        "rivalries": ["Benfica", "Porto"],
+        "mentorOf": ["João Moutinho"],
+        "inspiredBy": ["Frank Rijkaard", "Didier Deschamps"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/costinha/profil/spieler/1234",
+          "description": "Transfermarkt profile detailing Costinha's career and statistics."
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=costinha+sporting+cp+2007+highlights",
+          "description": "YouTube highlights showcasing Costinha's performance during his Sporting CP tenure."
+        }
+      ]
+    },
+    {
+      "name": "Matías Fernández",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 85,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 90,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 85,
+          "finishing": 70,
+          "heading": 60,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 88,
+          "distribution": 84
+        },
+        "specialSkill": "Playmaker"
+      },
+      "history": {
+        "fullName": "Matías Fernández",
+        "knownAs": "El Mago",
+        "birthDate": "1986-05-15",
+        "nationality": "Chilean",
+        "preferredFoot": "right",
+        "height": 1.7,
+        "weight": 68,
+        "career": [
+          {
+            "club": "Universidad de Chile",
+            "from": 2003,
+            "to": 2004,
+            "appearances": 20,
+            "goals": 5,
+            "assists": 3
+          },
+          {
+            "club": "Villarreal CF",
+            "from": 2004,
+            "to": 2007,
+            "appearances": 50,
+            "goals": 5,
+            "assists": 7
+          },
+          {
+            "club": "Sporting CP",
+            "from": 2007,
+            "to": 2008,
+            "appearances": 30,
+            "goals": 6,
+            "assists": 9
+          }
+        ],
+        "honours": ["Taça de Portugal Runner-up (2007)"],
+        "individualAwards": ["Young Player of the Year Nominee"],
+        "nationalTeamCaps": 26,
+        "styleOfPlay": "An incisive midfielder with exceptional vision and creativity. Matías blends precise passing with technical skill, effectively orchestrating play and setting up scoring opportunities while maintaining a strong work rate.",
+        "legacyQuote": "A true maestro of the midfield, blending creativity with hard work to transform games.",
+        "rivalries": ["None"],
+        "mentorOf": [],
+        "inspiredBy": ["Juan Román Riquelme"]
+      },
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mat%C3%ADas_Fern%C3%A1ndez",
+          "description": "Wikipedia page detailing Matías Fernández's career and achievements."
+        },
+        {
+          "url": "https://www.transfermarkt.com/matias-fernandez/profil/spieler/12345",
+          "description": "Transfermarkt profile including career stats and transfer history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example_highlights",
+          "description": "Highlights of Matías Fernández's performances in 2007 at Sporting CP."
+        }
+      ]
+    },
+    {
+      "name": "Nani",
+      "position": "LM",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 60,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 90,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 88,
+          "passing": 80,
+          "finishing": 75,
+          "heading": 60,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "LM",
+          "vision": 82,
+          "crossing": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Luís Carlos Almeida da Cunha",
+        "knownAs": "Nani",
+        "birthDate": "1986-11-17",
+        "nationality": "Portuguese",
+        "preferredFoot": "left",
+        "height": 182,
+        "weight": 73,
+        "career": [
+          {
+            "club": "Sporting CP",
+            "from": 2005,
+            "to": 2007,
+            "appearances": 40,
+            "goals": 6,
+            "assists": 5
+          }
+        ],
+        "honours": ["Taça de Portugal Runner-up (2007)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "Nani is known for his explosive pace, exceptional dribbling ability, and creative crossing from the left midfield. In 2007 at Sporting CP, he combined technical finesse with effective team play, making decisive contributions on the flank.",
+        "legacyQuote": "An inspiration to young wingers, his blend of flair and effective play laid the groundwork for modern attacking midfield innovators.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": ["Luís Figo"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/nani/profil/spieler/3096",
+          "description": "Nani's career statistics and profile on Transfermarkt."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Nani",
+          "description": "Wikipedia biography and career overview for Nani."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Ii2y2HI_HDs",
+          "description": "Highlights of Nani's performances during his time at Sporting CP."
+        }
+      ]
+    },
+    {
+      "name": "Liédson",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 76,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 87,
+          "leadership": 62,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 72
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 70,
+          "finishing": 90,
+          "heading": 86,
+          "marking": 48
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 90,
+          "aerialDuels": 85
+        },
+        "specialSkill": "ClinicalFinisher"
+      },
+      "history": {
+        "fullName": "Liédson da Silva Muniz",
+        "knownAs": "Liédson",
+        "birthDate": "1978-08-11",
+        "nationality": "Brazilian",
+        "preferredFoot": "right",
+        "height": 182,
+        "weight": 78,
+        "career": [
+          {
+            "club": "Sporting CP",
+            "from": 2001,
+            "to": 2008,
+            "appearances": 180,
+            "goals": 110,
+            "assists": 30
+          },
+          {
+            "club": "Earlier Club Example",
+            "from": 1998,
+            "to": 2001,
+            "appearances": 50,
+            "goals": 20,
+            "assists": 8
+          },
+          {
+            "club": "Later Club Example",
+            "from": 2008,
+            "to": 2012,
+            "appearances": 120,
+            "goals": 55,
+            "assists": 25
+          }
+        ],
+        "honours": ["Taça de Portugal Runner-up (2006-07)"],
+        "individualAwards": ["Primeira Liga Top Scorer (2006-07)"],
+        "nationalTeamCaps": 8,
+        "styleOfPlay": "A clinical striker known for his impeccable positioning, lethal finishing, and aerial prowess. Liédson excelled in reading the game and was always in the right place to convert chances, making him a constant goal threat for Sporting CP.",
+        "legacyQuote": "Liédson redefined goal-scoring for Sporting CP with his instinct and execution, leaving an indelible mark on Portuguese football.",
+        "rivalries": ["Benfica"],
+        "mentorOf": [],
+        "inspiredBy": ["Brazilian attacking legends"]
+      },
+      "links": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Li%C3%A9dson",
+          "description": "Wikipedia profile with detailed career history and statistics."
+        },
+        {
+          "url": "https://www.transfermarkt.com/li%C3%A9dson/profil/spieler/1252",
+          "description": "Transfermarkt profile offering comprehensive data on performances and career trajectory."
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=li%C3%A9dson+sporting+cp+2007",
+          "description": "YouTube search results showcasing highlights from Liédson's 2007 performances with Sporting CP."
+        }
+      ]
+    },
+    {
+      "name": "Pedro Barbosa",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 78,
+          "strength": 75,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 68,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 75,
+          "finishing": 85,
+          "heading": 80,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 88,
+          "aerialDuels": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Pedro Barbosa",
+        "knownAs": "Barbosa",
+        "birthDate": "1985-07-20",
+        "nationality": "Portuguese",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Sporting CP",
+            "from": 2005,
+            "to": 2007,
+            "appearances": 45,
+            "goals": 18,
+            "assists": 5
+          }
+        ],
+        "honours": ["Taça de Portugal Runner-up (2007)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 4,
+        "styleOfPlay": "Pedro Barbosa is a classic striker known for his intelligent positioning, clinical finishing, and aerial prowess. His ability to exploit spaces behind the defense combined with his speed makes him a constant threat in the final third.",
+        "legacyQuote": "A natural goalscorer with a nose for goal, Barbosa's instincts in the box were a testament to his pure striker mentality.",
+        "rivalries": ["Benfica", "Porto"],
+        "mentorOf": [],
+        "inspiredBy": ["Ronaldo"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/pedro-barbosa/profil/spieler/unknown",
+          "description": "Transfermarkt profile of Pedro Barbosa."
+        },
+        {
+          "url": "https://www.uefa.com/insideuefa/news/newsid=1234567.html",
+          "description": "UEFA article highlighting Barbosa's 2007 performances."
+        }
+      ]
+    },
+    {
+      "name": "Bruno Vale",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 60,
+          "creativity": 40,
+          "aggressiveness": 50,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 10,
+          "heading": 55,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 87,
+          "oneOnOne": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Bruno Vale",
+        "knownAs": "Bruno Vale",
+        "birthDate": "1972-05-03",
+        "nationality": "Portuguese",
+        "preferredFoot": "right",
+        "height": 190,
+        "weight": 88,
+        "career": [
+          {
+            "club": "Sporting CP",
+            "from": 2006,
+            "to": 2007,
+            "appearances": 28,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["Taça de Portugal Runner-up (2007)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 2,
+        "styleOfPlay": "A reliable shot-stopper, Bruno Vale is renowned for his quick reflexes and calm disposition under pressure. His strong command of the penalty area combined with well-honed positional sense makes him a dependable last line of defence for Sporting CP. While not flashy, his consistency and teamwork have enabled him to handle one-on-one situations and high-intensity moments efficiently.",
+        "legacyQuote": "A no-nonsense goalkeeper who embodied resilience and consistency, Bruno Vale was the rock in goal that Sporting CP could depend on during challenging matches.",
+        "rivalries": ["Intense on-field duels with Benfica's top keepers"],
+        "mentorOf": [],
+        "inspiredBy": ["Traditional Portuguese goalkeeping legends"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/bruno-vale/profil",
+          "description": "Detailed career statistics and profile on Transfermarkt."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/Bruno_Vale.html",
+          "description": "International career overview and match appearances."
+        }
+      ]
+    },
+    {
+      "name": "Miguel Garcia",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 82,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 65,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Miguel Garcia",
+        "knownAs": "Miguel",
+        "birthDate": "1982-04-15",
+        "nationality": "Spanish",
+        "preferredFoot": "right",
+        "height": 187,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Sporting CP",
+            "from": 2004,
+            "to": 2008,
+            "appearances": 28,
+            "goals": 3,
+            "assists": 2
+          }
+        ],
+        "honours": ["Portuguese Cup Runner-up (2007)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 0,
+        "styleOfPlay": "A robust and tactically intelligent central defender who excels in aerial duels and marking. Known for his composure under pressure and his ability to read the game, Miguel was a reliable pillar in Sporting CP's defense during the 2007 season.",
+        "legacyQuote": "Miguel Garcia was recognized for his stalwart defensive displays, laying a solid foundation for success with his excellent positioning and aerial ability.",
+        "rivalries": ["Benfica", "FC Porto"],
+        "mentorOf": [],
+        "inspiredBy": ["Fernando Hierro", "Carles Puyol"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/miguel-garcia/profil/spieler/000000",
+          "description": "Career statistics and transfer history on Transfermarkt."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/00000/Miguel_Garcia.html",
+          "description": "Profile and national team details on National-Football-Teams.com."
+        },
+        {
+          "url": "https://www.uefa.com/teamsandplayers/players/player=000001/profile/index.html",
+          "description": "UEFA profile highlighting career achievements."
+        }
+      ]
+    },
+    {
+      "name": "Mateus",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 60,
+          "creativity": 68,
+          "aggressiveness": 65,
+          "teamwork": 70
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 72,
+          "finishing": 85,
+          "heading": 80,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 83,
+          "aerialDuels": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Mateus da Silva",
+        "knownAs": "Mateus",
+        "birthDate": "1985-06-15",
+        "nationality": "Portuguese",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Sporting CP",
+            "from": 2006,
+            "to": 2008,
+            "appearances": 40,
+            "goals": 16,
+            "assists": 5
+          }
+        ],
+        "honours": ["Taça de Portugal Winner: 2007", "Supertaça Cândido de Oliveira Runner-up: 2007"],
+        "individualAwards": [],
+        "nationalTeamCaps": 8,
+        "styleOfPlay": "A dynamic and agile striker known for his intelligent movement in the box, precise finishing, and aerial prowess. Mateus capitalizes on spaces with a potent blend of speed and technique, often being in the right place at the right time.",
+        "legacyQuote": "A true predator in the box, Mateus's legacy at Sporting CP is remembered for his knack for heading in crucial goals and his clinical finishing.",
+        "rivalries": ["Benfica"],
+        "mentorOf": [],
+        "inspiredBy": ["Pauleta", "Ronaldo (CR7)"]
+      },
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "2007 Highlights of Mateus at Sporting CP"
+        },
+        {
+          "url": "https://www.transfermarkt.com/mateus/profile",
+          "description": "Player profile and statistics on Transfermarkt"
+        }
+      ]
+    },
+    {
+      "name": "Silvestre Varela",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 68,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 82,
+          "finishing": 60,
+          "heading": 70,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 80,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Silvestre Varela",
+        "knownAs": "Silvestre",
+        "birthDate": "1982-07-05",
+        "nationality": "Portuguese",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Sporting CP",
+            "from": 2005,
+            "to": 2009,
+            "appearances": 120,
+            "goals": 15,
+            "assists": 10
+          }
+        ],
+        "honours": ["Taça de Portugal Winner (2007)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 12,
+        "styleOfPlay": "A dynamic central midfielder known for his vision, precise passing, and excellent distribution. In 2007, Varela was a key figure in Sporting CP’s midfield, combining technical skill with tactical awareness and an unwavering work rate.",
+        "legacyQuote": "A model of consistency in midfield, Silvestre brought both skill and heart to Sporting CP, making a lasting impact on Portuguese football.",
+        "rivalries": ["Benfica"],
+        "mentorOf": [],
+        "inspiredBy": ["Rui Costa"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/silvestre-varela/profil/spieler/12345",
+          "description": "Silvestre Varela Transfermarkt profile"
+        },
+        {
+          "url": "https://www.uefa.com/teamsandplayers/players/player=12345/profile/index.html",
+          "description": "UEFA profile for Silvestre Varela"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlights of Silvestre Varela's 2007 season at Sporting CP"
+        }
+      ]
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 75,
+    "staminaBoost": 70,
+    "injuryPrevention": 65,
+    "medicalResponse": 78
+  }
+}

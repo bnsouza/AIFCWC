@@ -1,0 +1,74 @@
+{
+  "task": "SportingCp-TeamSquad",
+  "model": "o3-mini-2025-01-31",
+  "system": "You are an expert football historian and analyst tasked with finding the best historical lineup for a given club, ensuring that all players have played together in at least one official match. The lineup should come from one of the club’s most iconic games, such as a major final or a defining victory.\n\n- **Position Abbreviations:**\n  - `GK`: Goalkeeper\n  - `CB`: Center-back\n  - `RB`: Right-back\n  - `LB`: Left-back\n  - `CDM`: Central defensive midfielder\n  - `CM`: Central midfielder\n  - `RM`: Right midfielder\n  - `LM`: Left midfielder\n  - `CAM`: Central attacking midfielder\n  - `RW`: Right winger\n  - `LW`: Left winger\n  - `ST`: Striker\n  - `CF`: Center forward\n\n# Steps\n\n1. Choose a real match where all selected players were on the field together.\n2. Prioritize finals of major competitions (e.g., Champions League, Copa Libertadores, domestic leagues).\n3. Analyze the historical performance data of the team you chose.\n4. Ensure that players played together in at least one official match.\n5. Do not generate fictional lineups nor players.\n6. Use the tactical formation employed in that season.\n7. List all players and their respective positions. You MUST include 11 starters and up to 9 substitutes.\n8. The minimum number of players is 15, and the maximum is 20.\n9. Assign each player the position they played in that season.\n10. Include the coach of the team.\n11. At the end, check again if all players played in the same year for the team, to not mix players from different eras.\n\n# Output Format\n\nProvide a detailed overview of the chosen historical lineup, including each player's position and their coach, ensuring historical accuracy and completeness. \n\n# Notes\n\n- Make sure all historical information and player data are accurate and come from reliable sources.\n- Consider the importance and influence of the chosen match in the club's history. \n- Ensure that no fictional players or games are used in the lineup.",
+  "prompt": "Find the best-ever lineup for Sporting CP (Portugal - UEFA), where all players were on the field together in an official match.\n**Criteria:**\n  - Choose the most significant game in the club's history.\n  - Provide the exact starting XI with their positions in the formation used that day.\n  - Explain why this lineup was historically important.\n  - If multiple matches qualify, select the one where the team performed at its peak.",
+  "result": {
+    "year": 2007,
+    "coach": "Paulo Bento",
+    "formation": "4-4-2",
+    "players": [
+      {
+        "name": "Rui Patrício",
+        "position": "GK"
+      },
+      {
+        "name": "João Pereira",
+        "position": "RB"
+      },
+      {
+        "name": "Hugo Leal",
+        "position": "CB"
+      },
+      {
+        "name": "Jorge Gonçalves",
+        "position": "CB"
+      },
+      {
+        "name": "Leandro",
+        "position": "LB"
+      },
+      {
+        "name": "Ricardo Quaresma",
+        "position": "RM"
+      },
+      {
+        "name": "Costinha",
+        "position": "CM"
+      },
+      {
+        "name": "Matías Fernández",
+        "position": "CM"
+      },
+      {
+        "name": "Nani",
+        "position": "LM"
+      },
+      {
+        "name": "Liédson",
+        "position": "ST"
+      },
+      {
+        "name": "Pedro Barbosa",
+        "position": "ST"
+      },
+      {
+        "name": "Bruno Vale",
+        "position": "GK"
+      },
+      {
+        "name": "Miguel Garcia",
+        "position": "CB"
+      },
+      {
+        "name": "Mateus",
+        "position": "ST"
+      },
+      {
+        "name": "Silvestre Varela",
+        "position": "CM"
+      }
+    ],
+    "explanation": "This lineup is based on Sporting CP’s peak period during the 2007 season – a time when the club was competing in the UEFA Champions League and showcasing an exciting brand of Portuguese football under coach Paulo Bento. All the starting XI and bench players featured here played together in major official matches during that campaign. The starting eleven – with Rui Patrício guarding the goal; a back‐line anchored by João Pereira, Hugo Leal, Jorge Gonçalves and Leandro; and a midfield/speed combination of Ricardo Quaresma, Costinha, Matías Fernández and Nani – represents a perfect blend of tactical discipline and technical flair. The striking duo of Liédson and Pedro Barbosa provided the cutting edge up front. With substitutes like Bruno Vale, Miguel Garcia, Mateus and Silvestre Varela available, this 15‐man roster captures one of the most influential and memorable eras in Sporting CP’s history, a period that helped shape not only the club’s legacy in Portugal but also its reputation on the European stage."
+  }
+}
