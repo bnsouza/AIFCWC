@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1939",
+  "city": "Lubumbashi",
+  "fullName": "Tout Puissant Mazembe",
+  "shortName": "TP Mazembe",
+  "stadium": {
+    "name": "Stade TP Mazembe",
+    "capacity": 18500
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/tpmazembe/",
+    "tiktok": "https://www.tiktok.com/@tpmazembe"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(0, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 0, 0)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 215, 0)",
+      "fontColor": "rgb(0, 0, 0)"
+    }
+  }
+}

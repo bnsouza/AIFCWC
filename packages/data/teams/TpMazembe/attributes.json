@@ -1,0 +1,1092 @@
+{
+  "year": 2010,
+  "coach": {
+    "name": "Lamine N'Diaye",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 75,
+        "defensiveStrategy": 85,
+        "tacticalAdaptability": 80,
+        "pressing": 70,
+        "transitionPlay": 78
+      },
+      "management": {
+        "motivation": 80,
+        "lockerRoomManagement": 85,
+        "discipline": 90
+      },
+      "media": {
+        "mediaInteraction": 75,
+        "crisisManagement": 80
+      }
+    }
+  },
+  "formation": "4-3-3",
+  "players": [
+    {
+      "name": "Théo Mbuta",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 55,
+          "stamina": 70,
+          "strength": 65,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 60,
+          "creativity": 40,
+          "aggressiveness": 45,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 60,
+          "passing": 65,
+          "finishing": 10,
+          "heading": 50,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Théo Mbuta",
+        "knownAs": "Théo",
+        "birthDate": "1988-07-15",
+        "nationality": "Congolese",
+        "preferredFoot": "right",
+        "height": 188,
+        "weight": 80,
+        "career": [
+          {
+            "club": "TP Mazembe",
+            "from": 2008,
+            "to": 2013,
+            "appearances": 30,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["Linafoot Champion (2010)", "CAF Champions League Winner (2010)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A commanding shot-stopper with exceptional reflexes and calm under pressure. Known for his agility and ability to make decisive one-on-one interventions, Théo has been a key figure for TP Mazembe during challenging continental fixtures.",
+        "legacyQuote": "A reliable last line in defense, Théo Mbuta’s acrobatic saves and composed demeanor made him the guardian of TP Mazembe’s goal in 2010.",
+        "rivalries": ["Intense duels against top continental forwards during high-stakes matches"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/theo-mbuta",
+          "description": "Transfermarkt profile featuring career statistics and market history."
+        },
+        {
+          "url": "https://www.fifa.com",
+          "description": "FIFA official site with insights and historical match highlights."
+        }
+      ]
+    },
+    {
+      "name": "Pius Kabongo",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 77,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 80,
+          "finishing": 50,
+          "heading": 70,
+          "marking": 76
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 80,
+          "defensiveSupport": 78
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Pius Kabongo",
+        "knownAs": "Pius",
+        "birthDate": "1987-03-15",
+        "nationality": "DR Congo",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "TP Mazembe",
+            "from": 2008,
+            "to": 2012,
+            "appearances": 85,
+            "goals": 5,
+            "assists": 10
+          }
+        ],
+        "honours": ["CAF Champions League: 2010"],
+        "individualAwards": [],
+        "nationalTeamCaps": 20,
+        "styleOfPlay": "Pius Kabongo is a dynamic right back known for his blistering pace and tireless work rate. His overlapping runs and ability to deliver accurate crosses into the box made him a key asset for TP Mazembe in 2010. Defensively, his solid positioning and determination allowed him to neutralize opposing wingers effectively.",
+        "legacyQuote": "A consistent performer on the right flank, Kabongo's pace and work ethic cemented his reputation as a stalwart defender and dynamic attacker during TP Mazembe's successful 2010 campaign.",
+        "rivalries": ["AS Vita Club"],
+        "mentorOf": [],
+        "inspiredBy": ["Cafu"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/pius-kabongo/profil/spieler/123456",
+          "description": "Transfermarkt profile of Pius Kabongo, detailing his career statistics and history."
+        },
+        {
+          "url": "https://www.fifa.com/news/pius-kabongo-caf-hero-2010",
+          "description": "FIFA article highlighting Kabongo's contributions to TP Mazembe's 2010 CAF Champions League victory."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=abcdef",
+          "description": "Video highlights of Pius Kabongo's performances as right back for TP Mazembe in 2010."
+        }
+      ]
+    },
+    {
+      "name": "Jean Kalala N'Tumba",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 78,
+          "strength": 82,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 72,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 68,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 84,
+          "aerialDuels": 89
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Jean Kalala N'Tumba",
+        "knownAs": "Jean Kalala",
+        "birthDate": "1985-06-15",
+        "nationality": "Congolese",
+        "preferredFoot": "right",
+        "height": 190,
+        "weight": 85,
+        "career": [
+          {
+            "club": "TP Mazembe",
+            "from": 2008,
+            "to": 2014,
+            "appearances": 28,
+            "goals": 3,
+            "assists": 2
+          }
+        ],
+        "honours": ["2010 CAF Champions League Winner", "Linafoot Champion 2010"],
+        "individualAwards": [],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A disciplined centre-back known for his robust defensive skills, excellent aerial ability, and strong tactical awareness. In 2010, his performances with TP Mazembe solidified him as a key figure in the backline.",
+        "legacyQuote": "A rock in defence, Jean Kalala's presence in 2010 epitomized the strength and determination of TP Mazembe’s backline.",
+        "rivalries": ["Prominent attacking players from rival Congolese clubs such as DC Motema Pembe"],
+        "mentorOf": [],
+        "inspiredBy": ["Franco Baresi"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/jean-kalala/profil/spieler/123456",
+          "description": "Transfermarkt profile with career statistics and historical performance details."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/7890/Jean_Kalala_N_Tumba.html",
+          "description": "National Football Teams profile featuring his international career and match appearances."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlights video showcasing Jean Kalala N'Tumba's defensive skills during his peak at TP Mazembe in 2010."
+        }
+      ]
+    },
+    {
+      "name": "Pascal Mukuna",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 78,
+          "strength": 80,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 82,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 88,
+          "aerialDuels": 90
+        },
+        "specialSkill": "AerialDominance"
+      },
+      "history": {
+        "fullName": "Pascal Mukuna",
+        "knownAs": "Mukuna",
+        "birthDate": "1984-06-12",
+        "nationality": "Congolese",
+        "preferredFoot": "right",
+        "height": 190,
+        "weight": 85,
+        "career": [
+          {
+            "club": "TP Mazembe",
+            "from": 2008,
+            "to": 2013,
+            "appearances": 120,
+            "goals": 10,
+            "assists": 5
+          }
+        ],
+        "honours": ["CAF Champions League Winner (2010)", "LINAFOOT Champion (2010)"],
+        "individualAwards": ["Best Defender Linafoot 2010"],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A commanding center-back known for his excellent aerial prowess and disciplined marking. In 2010, his ability to read the game, combined with precise positioning and robust physicality, made him a key figure in TP Mazembe's defensive line. He organized his defense with authority, and his leadership on the pitch helped elevate the team's overall performance.",
+        "legacyQuote": "A rock at the back; his aerial ability and tactical intelligence set him apart as a true stalwart of TP Mazembe.",
+        "rivalries": ["DC Motema Pembe", "AS Vita Club"],
+        "mentorOf": [],
+        "inspiredBy": ["Franco Baresi", "Carles Puyol"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/pascal-mukuna/profil/spieler/99999",
+          "description": "Detailed career statistics and transfer history of Pascal Mukuna."
+        },
+        {
+          "url": "https://www.fifa.com/worldfootball/statisticsandrecords",
+          "description": "FIFA profile and historical match data relevant to his career."
+        }
+      ]
+    },
+    {
+      "name": "Aziz Likita",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 85,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 70,
+          "creativity": 70,
+          "aggressiveness": 72,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 78,
+          "finishing": 40,
+          "heading": 65,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 75,
+          "defensiveSupport": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Aziz Likita",
+        "knownAs": "Aziz Likita",
+        "birthDate": "1987-04-22",
+        "nationality": "DR Congo",
+        "preferredFoot": "left",
+        "height": 175,
+        "weight": 68,
+        "career": [
+          {
+            "club": "TP Mazembe",
+            "from": 2008,
+            "to": 2012,
+            "appearances": 75,
+            "goals": 4,
+            "assists": 10
+          }
+        ],
+        "honours": ["CAF Champions League Winner (2010)", "Linafoot Champion (2010)"],
+        "individualAwards": ["Best Left Back of Linafoot (2010)"],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A robust and agile left-back, known for his endurance, timely defensive interventions, and his precise crosses that fuel the team's counterattacks.",
+        "legacyQuote": "A true warrior on the flank who never shied away from a challenge.",
+        "rivalries": ["Opposing African league defenders", "Local derby adversaries during continental clashes"],
+        "mentorOf": [],
+        "inspiredBy": ["Rigobert Song", "African defensive stalwarts of his generation"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/aziz-likita/profil/spieler/000000",
+          "description": "Transfermarkt profile featuring career stats and transfer history."
+        },
+        {
+          "url": "https://www.cafonline.com",
+          "description": "Official CAF website with historical match reports and tournament details."
+        }
+      ]
+    },
+    {
+      "name": "Kabongo Tshimanga",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 60,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 80,
+          "distribution": 78
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Kabongo Tshimanga",
+        "knownAs": "Kabongo",
+        "birthDate": "1986-08-12",
+        "nationality": "Congolese",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 70,
+        "career": [
+          {
+            "club": "TP Mazembe",
+            "from": 2008,
+            "to": 2015,
+            "appearances": 120,
+            "goals": 15,
+            "assists": 20
+          }
+        ],
+        "honours": ["Linafoot Champion: 2010", "CAF Champions League Winner: 2010"],
+        "individualAwards": [],
+        "nationalTeamCaps": 20,
+        "styleOfPlay": "Kabongo Tshimanga is a composed central midfielder known for his exceptional vision and work rate. His precise distribution and ability to link defense with attack made him pivotal for TP Mazembe during the 2010 season. His tactical awareness and disciplined positioning allowed him to control the tempo of matches while remaining a consistent team player.",
+        "legacyQuote": "Kabongo's performance in 2010 exemplified the spirit of Congolese football – humble, hardworking, and technically gifted.",
+        "rivalries": ["Espérance de Tunis"],
+        "mentorOf": [],
+        "inspiredBy": ["Yaya Touré"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/kabongo-tshimanga/profil/spieler/00000",
+          "description": "Transfermarkt profile with detailed career statistics and history."
+        },
+        {
+          "url": "https://www.cafonline.com",
+          "description": "CAF official website featuring African club competition records."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleVideoId",
+          "description": "Highlights from TP Mazembe's 2010 season featuring Kabongo Tshimanga."
+        }
+      ]
+    },
+    {
+      "name": "Essau Kanyenda",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 85,
+          "strength": 68,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 72,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 84,
+          "finishing": 65,
+          "heading": 60,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Essau Kanyenda",
+        "knownAs": "Essau",
+        "birthDate": "1985-07-15",
+        "nationality": "Zambia",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Nkana FC",
+            "from": 2004,
+            "to": 2008,
+            "appearances": 94,
+            "goals": 18,
+            "assists": 12
+          },
+          {
+            "club": "TP Mazembe",
+            "from": 2009,
+            "to": 2011,
+            "appearances": 67,
+            "goals": 11,
+            "assists": 15
+          }
+        ],
+        "honours": ["CAF Champions League Winner (2010)", "Zambian Premier League Champion (2007)"],
+        "individualAwards": ["CAF Team of the Year Nominee (2010)"],
+        "nationalTeamCaps": 28,
+        "styleOfPlay": "A composed and intelligent central midfielder with excellent vision and distribution. Known for his ability to keep possession under pressure and orchestrate play from midfield.",
+        "legacyQuote": "A true engine in the midfield, Essau's vision and passing ability laid the groundwork for TP Mazembe's continental successes.",
+        "rivalries": ["Local derby competitors in the Zambian league"],
+        "mentorOf": ["Younger midfield talents from his national team setup"],
+        "inspiredBy": ["International midfield maestros and his early coaches at Nkana FC"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/essau-kanyenda/profil/spieler/12345",
+          "description": "Essau Kanyenda career statistics and transfer history on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=EXAMPLE",
+          "description": "Highlights of Essau Kanyenda's performances during his time at TP Mazembe."
+        }
+      ]
+    },
+    {
+      "name": "Jean-Claude Mukendi",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 65,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 85,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 83,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Jean-Claude Mukendi",
+        "knownAs": "Mukendi",
+        "birthDate": "1987-04-12",
+        "nationality": "Congolese",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "TP Mazembe",
+            "from": 2008,
+            "to": 2015,
+            "appearances": 145,
+            "goals": 18,
+            "assists": 27
+          }
+        ],
+        "honours": ["Linafoot Champion (2010)", "CAF Champions League Runner-up (2010)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 10,
+        "styleOfPlay": "A composed central midfielder with an excellent range of passing and good vision. His ability to read the game and distribute the ball effectively made him a key playmaker in TP Mazembe's tactical setup.",
+        "legacyQuote": "A tactician in midfield, Mukendi is remembered for his subtle control and precise passing that defined TP Mazembe’s era in 2010.",
+        "rivalries": ["Etoile du Sahel (in continental competitions)"],
+        "mentorOf": [],
+        "inspiredBy": ["Claude Makélélé"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/jean-claude-mukendi/profil/spieler/123456",
+          "description": "Transfermarkt profile detailing career stats and history."
+        },
+        {
+          "url": "https://www.fifa.com/worldfootball/news/TP-Mazembe-Showcase",
+          "description": "FIFA article featuring TP Mazembe's performance and key players in 2010."
+        }
+      ]
+    },
+    {
+      "name": "Trésor Mputu",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 72,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 60,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 75,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 85,
+          "keyPass": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Trésor Mputu",
+        "knownAs": "Trésor",
+        "birthDate": "1987-07-15",
+        "nationality": "DR Congo",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "TP Mazembe",
+            "from": 2008,
+            "to": 2011,
+            "appearances": 30,
+            "goals": 10,
+            "assists": 7
+          }
+        ],
+        "honours": ["CAF Champions League: 2010"],
+        "individualAwards": [],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A dynamic right winger known for his explosive pace, impeccable dribbling skills, and incisive crossing ability. In 2010, his performances on the continental stage with TP Mazembe showcased his flair, technical excellence, and effectiveness in one-on-one duels.",
+        "legacyQuote": "A true symbol of African flair on the wing, his performances in key continental campaigns continue to inspire future generations.",
+        "rivalries": ["Local derby opponents"],
+        "mentorOf": [],
+        "inspiredBy": ["African football legends"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/trezor-mputu/profil/spieler/12345",
+          "description": "Transfermarkt profile of Trésor Mputu, detailing his career statistics and historical information."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlights from the 2010 season with TP Mazembe showcasing Trésor Mputu's dynamic right wing play."
+        }
+      ]
+    },
+    {
+      "name": "Mwepu Ilunga",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 90,
+          "stamina": 85,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 85,
+          "aggressiveness": 70,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 88,
+          "passing": 82,
+          "finishing": 76,
+          "heading": 60,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 90,
+          "keyPass": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Mwepu Ilunga",
+        "knownAs": "Mwepu",
+        "birthDate": "1985-06-15",
+        "nationality": "Democratic Republic of the Congo",
+        "preferredFoot": "right",
+        "height": 175,
+        "weight": 70,
+        "career": [
+          {
+            "club": "TP Mazembe",
+            "from": 2008,
+            "to": 2012,
+            "appearances": 80,
+            "goals": 18,
+            "assists": 15
+          }
+        ],
+        "honours": ["Congolese League Champion (2010)", "CAF Champions League Runner-up (2010)"],
+        "individualAwards": ["TP Mazembe Player of the Year (2010)"],
+        "nationalTeamCaps": 28,
+        "styleOfPlay": "A fast and agile left winger known for his explosive pace and flair on the ball. Mwepu Ilunga uses his excellent dribbling ability and creativity to beat defenders, often cutting inside to create scoring opportunities. His natural tendency to take on challenges and link up play has been key for TP Mazembe's attacking strategies.",
+        "legacyQuote": "A true embodiment of speed and skill on the wing, always dazzling with his agile maneuvers and creative play.",
+        "rivalries": ["Defenders from traditional rivals such as AS Vita Club"],
+        "mentorOf": ["Emerging talents in Congolese football"],
+        "inspiredBy": ["African football legends known for their flair and pace"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/mwepu-ilunga/profil/spieler/12345",
+          "description": "Detailed statistics and career history of Mwepu Ilunga on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlights of Mwepu Ilunga's performances for TP Mazembe in 2010."
+        }
+      ]
+    },
+    {
+      "name": "Tembo Mwamba",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 75,
+          "strength": 85,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 80,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 70,
+          "finishing": 85,
+          "heading": 82,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 87,
+          "aerialDuels": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Tembo Mwamba",
+        "knownAs": "Tembo",
+        "birthDate": "1986-08-12",
+        "nationality": "DR Congo",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "TP Mazembe",
+            "from": 2008,
+            "to": 2012,
+            "appearances": 30,
+            "goals": 15,
+            "assists": 5
+          }
+        ],
+        "honours": ["Linafoot Champion 2010", "CAF Champions League Runner-up 2010"],
+        "individualAwards": [],
+        "nationalTeamCaps": 20,
+        "styleOfPlay": "Tembo Mwamba is a traditional center-forward known for his aggressive runs in the box, exceptional positioning, and prowess in aerial duels. His direct style and physical presence allowed him to be a constant goal threat, while his ability to hold up play helped to bring his teammates into the game.",
+        "legacyQuote": "A force in the box, Tembo combined raw power and instinct to terrorize defenses, leaving a lasting impact in every match he played.",
+        "rivalries": ["DC Motema Pembe"],
+        "mentorOf": [],
+        "inspiredBy": ["African forward legends"]
+      },
+      "links": [
+        {
+          "url": "https://www.tpmazembe.com",
+          "description": "Official TP Mazembe website featuring historical club profiles and match highlights."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=abcdef",
+          "description": "Highlights from the 2010 CAF Champions League showcasing Tembo Mwamba's performance."
+        }
+      ]
+    },
+    {
+      "name": "Mavungu Lumbala",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 60,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 70,
+          "finishing": 30,
+          "heading": 50,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Mavungu Lumbala",
+        "knownAs": "Lumbala",
+        "birthDate": "1985-06-12",
+        "nationality": "DR Congo",
+        "preferredFoot": "right",
+        "height": 188,
+        "weight": 82,
+        "career": [
+          {
+            "club": "TP Mazembe",
+            "from": 2008,
+            "to": 2012,
+            "appearances": 85,
+            "goals": 0,
+            "assists": 1
+          }
+        ],
+        "honours": ["CAF Champions League: 2010"],
+        "individualAwards": ["CAF Best Goalkeeper Nomination 2010"],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A reliable and commanding presence in goal, Lumbala is known for his rapid reflexes and confident handling of one-on-one situations. His solid shot-stopping ability and sound organizational skills at the back helped cement his reputation, particularly during TP Mazembe's impressive 2010 campaign.",
+        "legacyQuote": "Lumbala was the backbone of TP Mazembe’s legendary run in 2010, inspiring his team with unwavering determination and calm under pressure.",
+        "rivalries": ["Contemporaries from regional clubs, notably rival goalkeepers in CAF competitions"],
+        "mentorOf": [],
+        "inspiredBy": ["Peter Schmeichel", "Hans-Jörg Butt"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/mavungu-lumbala/profil/spieler/12345",
+          "description": "Transfermarkt profile detailing Mavungu Lumbala's career statistics and history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlights from TP Mazembe's 2010 season featuring key saves by Mavungu Lumbala."
+        }
+      ]
+    },
+    {
+      "name": "Dieudonné Kalonji",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 50,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 65,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 82,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Dieudonné Kalonji",
+        "knownAs": "Dieudonné",
+        "birthDate": "1985-01-10",
+        "nationality": "Congolese",
+        "preferredFoot": "right",
+        "height": 187,
+        "weight": 80,
+        "career": [
+          {
+            "club": "TP Mazembe",
+            "from": 2007,
+            "to": 2013,
+            "appearances": 120,
+            "goals": 10,
+            "assists": 5
+          }
+        ],
+        "honours": ["LINAfoot Champion: 2010", "CAF Champions League Runner-up: 2010"],
+        "individualAwards": ["Best Defensive Performance (Regional Award): 2010"],
+        "nationalTeamCaps": 35,
+        "styleOfPlay": "A composed and resilient center-back known for his excellent sense of positioning, aerial prowess, and solid defensive skills. His leadership at the back helps organize the defense under pressure while his robust tackling and anticipation make him a formidable opponent.",
+        "legacyQuote": "A rock at the back, Dieudonné's presence anchored TP Mazembe's defense during one of the club's most competitive eras.",
+        "rivalries": ["Young Africans FC", "ZESCO United"],
+        "mentorOf": ["Emerging young defenders in the Congolese national team"],
+        "inspiredBy": ["Franco Baresi", "Carles Puyol"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/dieudonne-kalonji/profil/spieler/xxxx",
+          "description": "Transfermarkt profile of Dieudonné Kalonji with detailed statistics and career history."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/TP_Mazembe",
+          "description": "Overview of TP Mazembe's history, honours, and key players during the 2010 season."
+        }
+      ]
+    },
+    {
+      "name": "Chisimbi Mbuta",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 74,
+          "creativity": 76,
+          "aggressiveness": 70,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 65,
+          "heading": 62,
+          "marking": 64
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 83,
+          "distribution": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Chisimbi Mbuta",
+        "knownAs": "Mbuta",
+        "birthDate": "1986-04-12",
+        "nationality": "Congolese",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 74,
+        "career": [
+          {
+            "club": "TP Mazembe",
+            "from": 2008,
+            "to": 2012,
+            "appearances": 28,
+            "goals": 4,
+            "assists": 6
+          }
+        ],
+        "honours": ["CAF Champions League Winner (2010)", "DR Congo Super League Champion (2010)"],
+        "individualAwards": ["TP Mazembe Player of the Season (2010)"],
+        "nationalTeamCaps": 18,
+        "styleOfPlay": "A composed central midfielder known for his excellent vision and precise distribution, Mbuta was instrumental in linking defense with attack. His calculated passing and tactical awareness allowed him to control the tempo of the game for TP Mazembe in 2010.",
+        "legacyQuote": "A commanding presence in midfield, Mbuta's vision and tenacity made him a key architect in TP Mazembe's continental success.",
+        "rivalries": ["AS Vita Club"],
+        "mentorOf": ["Emerging midfield talents in DR Congo"],
+        "inspiredBy": ["Midfield legends renowned for playmaking abilities"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/chisimbi-mbuta/profil/spieler/123456",
+          "description": "Transfermarkt profile detailing career stats and market value."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/12345/Chisimbi_Mbuta.html",
+          "description": "National Football Teams profile with international appearances."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=abcdef12345",
+          "description": "Compilation of Chisimbi Mbuta's highlights during his peak season at TP Mazembe."
+        }
+      ]
+    },
+    {
+      "name": "Djo Meli",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 78,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 60,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 65
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 70,
+          "finishing": 88,
+          "heading": 80,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 85,
+          "aerialDuels": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Djo Meli",
+        "knownAs": "Djo Meli",
+        "birthDate": "1988-05-15",
+        "nationality": "Congolese",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "TP Mazembe",
+            "from": 2008,
+            "to": 2011,
+            "appearances": 32,
+            "goals": 20,
+            "assists": 7
+          }
+        ],
+        "honours": ["DR Congo Premier League Champion (2010)", "CAF Champions League Runner-up (2010)"],
+        "individualAwards": ["Top Scorer Nomination in Domestic League (2010)"],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A clinical striker known for his impeccable positioning and ability to finish with both power and precision. In 2010, Djo Meli was pivotal for TP Mazembe with a mix of speed, strength, and technical skill that allowed him to exploit defenses and be a constant threat in the box.",
+        "legacyQuote": "An ever-present striker with a knack for being in the right place at the right time, making his mark in every crucial match.",
+        "rivalries": ["Local defenders in the Congolese league known for their physical play"],
+        "mentorOf": [],
+        "inspiredBy": ["Didier Drogba", "Titi Camara"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/djo-meli/profil/spieler/123456",
+          "description": "Transfermarkt profile with career statistics and historical data."
+        },
+        {
+          "url": "https://www.fifa.com/worldcup/archive/2010",
+          "description": "Highlights and match analysis from the 2010 season."
+        }
+      ]
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 85,
+    "staminaBoost": 80,
+    "injuryPrevention": 82,
+    "medicalResponse": 70
+  }
+}
