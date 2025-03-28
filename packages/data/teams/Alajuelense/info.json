@@ -1,0 +1,28 @@
+{
+  "foundationDate": "June 18, 1919",
+  "city": "Alajuela",
+  "fullName": "Liga Deportiva Alajuelense",
+  "shortName": "Alajuelense",
+  "stadium": {
+    "name": "Estadio Alejandro Morera Soto",
+    "capacity": 17895
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/ldacr",
+    "tiktok": "https://www.tiktok.com/@ldacr"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(255, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(0, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 0, 0)"
+    }
+  }
+}

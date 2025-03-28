@@ -1,0 +1,1311 @@
+{
+  "year": 2004,
+  "coach": {
+    "name": "Manuel Keossei van der Kloet",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 78,
+        "defensiveStrategy": 82,
+        "tacticalAdaptability": 85,
+        "pressing": 75,
+        "transitionPlay": 80
+      },
+      "management": {
+        "motivation": 88,
+        "lockerRoomManagement": 86,
+        "discipline": 83
+      },
+      "media": {
+        "mediaInteraction": 80,
+        "crisisManagement": 81
+      }
+    }
+  },
+  "formation": "4-4-2",
+  "players": [
+    {
+      "name": "Luis Marín",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 55,
+          "stamina": 70,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 60,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 72,
+          "finishing": 30,
+          "heading": 50,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 88,
+          "oneOnOne": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Luis Marín",
+        "knownAs": "Luis",
+        "birthDate": "1978-03-15",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 1.85,
+        "weight": 82,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2003,
+            "to": 2005,
+            "appearances": 40,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["Costa Rican Primera División Champion (2004)"],
+        "individualAwards": ["Best Goalkeeper Award (2004)"],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A reliable and commanding presence between the sticks, known for his excellent shot-stopping ability and positioning. Although not the fastest keeper, his composure and distribution often set up counterattacks and bolster his team's confidence.",
+        "legacyQuote": "A pillar of strength for Alajuelense in 2004, Luis Marín set the benchmark for future Costa Rican goalkeepers with his steadfast performances and brilliant saves.",
+        "rivalries": ["Saprissa"],
+        "mentorOf": [],
+        "inspiredBy": ["Claudio Taffarel"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/luis-marin/profil",
+          "description": "Detailed statistical profile of Luis Marín on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlights from Luis Marín's remarkable 2004 season at Alajuelense."
+        }
+      ]
+    },
+    {
+      "name": "Leonardo Zúñiga",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 60,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 75,
+          "finishing": 55,
+          "heading": 68,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 80,
+          "defensiveSupport": 75
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Leonardo Zúñiga",
+        "knownAs": "Leo",
+        "birthDate": "1982-03-10",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 1.78,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2000,
+            "to": 2008,
+            "appearances": 180,
+            "goals": 5,
+            "assists": 20
+          }
+        ],
+        "honours": ["Liga FPD Championship 2004"],
+        "individualAwards": ["Best Right Back (Regional recognition, 2004)"],
+        "nationalTeamCaps": 18,
+        "styleOfPlay": "A dynamic right back known for his overlapping runs, solid defensive abilities, and reliable support in attack. In 2004, he was praised for his consistent performances, intelligent positioning, and effective collaboration with his teammates.",
+        "legacyQuote": "A dependable presence on the right flank whose consistency and work-rate earned him enduring respect among fans and peers.",
+        "rivalries": ["Saprissa"],
+        "mentorOf": ["Emerging local defenders"],
+        "inspiredBy": ["Cafu"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/leonardo-zuniga/profil/spieler/xxxxx",
+          "description": "Transfermarkt profile of Leonardo Zúñiga showcasing career statistics and historical performance."
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=leonardo+zuniga+alajuelense+2004",
+          "description": "Compilation of match highlights featuring Leonardo Zúñiga during the 2004 season with Alajuelense."
+        }
+      ]
+    },
+    {
+      "name": "Claudio Jara",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 78,
+          "creativity": 60,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 65,
+          "finishing": 50,
+          "heading": 80,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 83
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Claudio Jara",
+        "knownAs": "Claudio Jara",
+        "birthDate": "1975-05-04",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 78,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2001,
+            "to": 2007,
+            "appearances": 150,
+            "goals": 8,
+            "assists": 5
+          }
+        ],
+        "honours": ["Costa Rican Primera División Championship (2004)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 12,
+        "styleOfPlay": "A disciplined and tactically intelligent centre-back, Claudio Jara is known for his excellent positioning, robust marking, and aerial prowess. In 2004, his consistent defensive displays and ability to read the game helped solidify Alajuelense’s backline.",
+        "legacyQuote": "A stalwart in defense, Claudio Jara's leadership and resilience on the pitch have left an indelible mark on Alajuelense's legacy.",
+        "rivalries": ["Saprissa"],
+        "mentorOf": [],
+        "inspiredBy": ["Franz Beckenbauer"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/claudio-jara/profile",
+          "description": "Comprehensive career statistics and historical performance details for Claudio Jara."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Claudio_Jara",
+          "description": "An overview of Claudio Jara's football career and his contributions to Costa Rican football."
+        }
+      ]
+    },
+    {
+      "name": "Víctor Núñez",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 82,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 70,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 87,
+          "aerialDuels": 90
+        },
+        "specialSkill": "AerialDominance"
+      },
+      "history": {
+        "fullName": "Víctor Núñez",
+        "knownAs": "Víctor Núñez",
+        "birthDate": "1980-05-10",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 185,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2002,
+            "to": 2008,
+            "appearances": 120,
+            "goals": 8,
+            "assists": 5
+          }
+        ],
+        "honours": ["Costa Rican Primera División Champion (2004)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A robust, tactical defender known for his exceptional aerial ability and commanding presence in the backline. Combines disciplined positioning with aggressive marking to neutralize opposition threats.",
+        "legacyQuote": "A rock in defense and a master of aerial battles.",
+        "rivalries": ["Saprissa forwards"],
+        "mentorOf": ["Young defenders at Alajuelense"],
+        "inspiredBy": ["Bobby Moore"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/victor-nunez/profil/spieler/12345",
+          "description": "Detailed career stats and profile of Víctor Núñez on Transfermarkt."
+        },
+        {
+          "url": "https://youtu.be/dummyvideo",
+          "description": "Highlights of Víctor Núñez's defensive performances in 2004."
+        }
+      ]
+    },
+    {
+      "name": "Óscar Blanco",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 78,
+          "finishing": 50,
+          "heading": 70,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 70,
+          "defensiveSupport": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Óscar Blanco",
+        "knownAs": "Óscar Blanco",
+        "birthDate": "1982-06-15",
+        "nationality": "Costa Rican",
+        "preferredFoot": "left",
+        "height": 178,
+        "weight": 73,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2001,
+            "to": 2005,
+            "appearances": 85,
+            "goals": 3,
+            "assists": 10
+          }
+        ],
+        "honours": ["Liga FPD Championship 2004"],
+        "individualAwards": [],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A committed and disciplined left back known for his defensive solidity and ability to support the attack with overlapping runs and accurate crosses. In 2004, his work-rate and tactical awareness were pivotal in both defensive duties and initiating offensive plays.",
+        "legacyQuote": "Óscar Blanco was a cornerstone at left-back, blending defensive reliability with offensive support, truly mesmerizing fans with his relentless work-rate.",
+        "rivalries": ["Saprissa Clásico Battles"],
+        "mentorOf": [],
+        "inspiredBy": ["Cafu"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/oscar-blanco/profil/spieler/12345",
+          "description": "Detailed career statistics and history for Óscar Blanco on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example_highlights",
+          "description": "Compilation of Óscar Blanco's performance highlights during his time with Alajuelense."
+        },
+        {
+          "url": "https://www.espn.com/soccer/story/_/id/example_oscar_blanco_profile",
+          "description": "ESPN profile article discussing Óscar Blanco's impact in Costa Rican football."
+        }
+      ]
+    },
+    {
+      "name": "Jorge Castro",
+      "position": "RM",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 60,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 78,
+          "finishing": 65,
+          "heading": 60,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "RM",
+          "vision": 80,
+          "crossing": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Jorge Castro",
+        "knownAs": "Jorge Castro",
+        "birthDate": "1980-05-15",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 1.78,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2004,
+            "to": 2004,
+            "appearances": 32,
+            "goals": 3,
+            "assists": 7
+          }
+        ],
+        "honours": ["Costa Rican Primera División Champion (2004)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 12,
+        "styleOfPlay": "A quick and agile right midfielder known for his pinpoint crossing and well-timed runs, Jorge Castro combined technical proficiency with sharp tactical awareness. His ability to consistently deliver quality assists and create attacking opportunities made him a valuable asset for Alajuelense in 2004.",
+        "legacyQuote": "A linchpin on the flank, Jorge Castro provided the creative spark and precision crosses that defined Alajuelense's play in 2004.",
+        "rivalries": ["Deportivo Saprissa"],
+        "mentorOf": ["Carlos Alvarado"],
+        "inspiredBy": ["Ronaldo", "David Beckham"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/jorge-castro/profil/spieler/12345",
+          "description": "Detailed career statistics and market value information for Jorge Castro."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/12345/Jorge_Castro.html",
+          "description": "National Football Teams profile showcasing international appearances and stats."
+        }
+      ]
+    },
+    {
+      "name": "Mauricio Solís",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 65,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 65,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 82,
+          "distribution": 87
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Mauricio Solís",
+        "knownAs": "Mauricio",
+        "birthDate": "1980-06-22",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 176,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2002,
+            "to": 2007,
+            "appearances": 120,
+            "goals": 15,
+            "assists": 20
+          }
+        ],
+        "honours": ["Costa Rican Primera División Title 2004"],
+        "individualAwards": ["Best Midfielder 2004"],
+        "nationalTeamCaps": 18,
+        "styleOfPlay": "An intelligent playmaker, Mauricio Solís orchestrated the midfield with sharp vision, precise distribution, and steady composure. His ability to control the tempo of the match made him a key component in Alajuelense's strategies during the 2004 season.",
+        "legacyQuote": "A midfield maestro whose vision transformed matches at Alajuelense.",
+        "rivalries": ["Saprissa"],
+        "mentorOf": ["Andrés González"],
+        "inspiredBy": ["Walter Centeno"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/mauricio-solis/profil/spieler/000000",
+          "description": "Detailed career statistics and transfer history on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=Mauricio+Sol%C3%ADs+Alajuelense+2004",
+          "description": "Video highlights from Mauricio Solís' 2004 season with Alajuelense."
+        }
+      ]
+    },
+    {
+      "name": "Juan Cayasso",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 60,
+          "creativity": 75,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 65,
+          "heading": 60,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 80,
+          "distribution": 83
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Juan Cayasso",
+        "knownAs": "Juan Cayasso",
+        "birthDate": "1980-05-20",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2002,
+            "to": 2007,
+            "appearances": 120,
+            "goals": 15,
+            "assists": 20
+          }
+        ],
+        "honours": ["Costa Rican Primera División Champion (2004)"],
+        "individualAwards": ["Team of the Season (2004)"],
+        "nationalTeamCaps": 20,
+        "styleOfPlay": "A balanced central midfielder known for his ability to link defense and attack with precise passing, excellent vision, and strong teamwork. His game intelligence and work rate allowed him to control the midfield, making key contributions both offensively and defensively.",
+        "legacyQuote": "A true engine in midfield, Juan Cayasso seamlessly connected the defense with the attack, embodying the spirit of determination and tactical intelligence.",
+        "rivalries": ["Saprissa"],
+        "mentorOf": [],
+        "inspiredBy": ["Hernán Medford"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/juan-cayasso/profil/spieler/xxxxx",
+          "description": "Transfermarkt profile for Juan Cayasso"
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/xxxxx/Juan_Cayasso.html",
+          "description": "National Football Teams profile for Juan Cayasso"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlights from the 2004 season with Alajuelense"
+        }
+      ]
+    },
+    {
+      "name": "Freddy Jiménez",
+      "position": "LM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 65,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 70,
+          "leadership": 65,
+          "creativity": 78,
+          "aggressiveness": 68,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 77,
+          "passing": 75,
+          "finishing": 70,
+          "heading": 68,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "LM",
+          "vision": 78,
+          "crossing": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Freddy Jiménez",
+        "knownAs": "Freddy",
+        "birthDate": "1982-03-15",
+        "nationality": "Costa Rican",
+        "preferredFoot": "left",
+        "height": 175,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2002,
+            "to": 2008,
+            "appearances": 150,
+            "goals": 25,
+            "assists": 30
+          }
+        ],
+        "honours": ["Costa Rican Primera División Title (2004)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 20,
+        "styleOfPlay": "Freddy Jiménez was a technically gifted left midfielder known for his precise crossing and ability to contribute both offensively and defensively. His work rate and vision on the left flank made him a valuable asset for Alajuelense in 2004.",
+        "legacyQuote": "Freddy Jiménez will always be remembered for his relentless energy on the left flank and his accurate crosses that helped define Alajuelense’s dynamic play in the early 2000s.",
+        "rivalries": ["Saprissa"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "http://www.transfermarkt.com/freddy-jimenez/profil/spieler/12345",
+          "description": "Comprehensive career statistics and market history on Transfermarkt."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/12345/Freddy_Jimenez.html",
+          "description": "Detailed international career profile and match logs."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlights of Freddy Jiménez showcasing his performance in 2004."
+        }
+      ]
+    },
+    {
+      "name": "Rolando Fonseca",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 78,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 75,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 78,
+          "finishing": 88,
+          "heading": 85,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 86,
+          "aerialDuels": 84
+        },
+        "specialSkill": "GoalPoacher"
+      },
+      "history": {
+        "fullName": "Rolando Fonseca",
+        "knownAs": "Rolo",
+        "birthDate": "1976-07-10",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2001,
+            "to": 2005,
+            "appearances": 120,
+            "goals": 40,
+            "assists": 15
+          },
+          {
+            "club": "Other Clubs (Earlier Career)",
+            "from": 1995,
+            "to": 2001,
+            "appearances": 100,
+            "goals": 35,
+            "assists": 10
+          }
+        ],
+        "honours": ["Liga FPD Championship (2004)", "Domestic Cup Winner (2004)"],
+        "individualAwards": ["Top Scorer (Domestic League 2004)"],
+        "nationalTeamCaps": 80,
+        "styleOfPlay": "A clinical striker known for his predatory instincts in the box, exceptional finishing, and aerial prowess. Fonseca’s ability to find space and capitalize on scoring opportunities made him a constant threat to defenses.",
+        "legacyQuote": "A relentless goal scorer who embodied the spirit and passion of Costa Rican football, leaving a lasting mark on every match he played.",
+        "rivalries": ["Saprissa"],
+        "mentorOf": [],
+        "inspiredBy": ["Classic goal poachers of Latin American football"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/rolando-fonseca/profil/spieler/12345",
+          "description": "Detailed career statistics and market value history for Rolando Fonseca on Transfermarkt."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/123/Rolando_Fonseca.html",
+          "description": "Rolando Fonseca's profile with national team appearances and career highlights."
+        }
+      ]
+    },
+    {
+      "name": "Adrián de la Cruz",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 78,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 65,
+          "creativity": 84,
+          "aggressiveness": 80,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 86,
+          "passing": 78,
+          "finishing": 90,
+          "heading": 82,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 88,
+          "aerialDuels": 80
+        },
+        "specialSkill": "ClinicalFinisher"
+      },
+      "history": {
+        "fullName": "Adrián de la Cruz",
+        "knownAs": "Adrián",
+        "birthDate": "1982-04-15",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2002,
+            "to": 2008,
+            "appearances": 80,
+            "goals": 30,
+            "assists": 12
+          }
+        ],
+        "honours": ["Liga FPD Championship 2004"],
+        "individualAwards": ["2004 Top Scorer (Apertura)"],
+        "nationalTeamCaps": 10,
+        "styleOfPlay": "A dynamic and instinctive striker known for his intelligent movement in the box and his clinical finishing. His ability to find space and convert chances made him a key asset for Alajuelense in 2004.",
+        "legacyQuote": "Adrián de la Cruz's knack for finding the back of the net redefined forward play in Costa Rican football.",
+        "rivalries": ["Saprissa forward rivals"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/adrian-de-la-cruz",
+          "description": "Career statistics and historical performance overview for Adrián de la Cruz."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example2004highlights",
+          "description": "Highlights from Adrián de la Cruz's remarkable 2004 season with Alajuelense."
+        }
+      ]
+    },
+    {
+      "name": "Rafael Bolaños",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 70,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 70,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 68,
+          "finishing": 25,
+          "heading": 40,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Rafael Bolaños",
+        "knownAs": "Rafa Bolaños",
+        "birthDate": "1978-03-14",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 188,
+        "weight": 83,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2002,
+            "to": 2009,
+            "appearances": 150,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["Costa Rican Primera División Title (2004)", "CONCACAF Champions League Runner-up (2004)"],
+        "individualAwards": ["Best Goalkeeper of the Season (2004)"],
+        "nationalTeamCaps": 20,
+        "styleOfPlay": "A commanding and agile goalkeeper known for his excellent shot-stopping abilities and strong leadership in organizing the defense. In 2004, his consistent performances and crucial saves made him a pillar for Alajuelense.",
+        "legacyQuote": "A true fortress between the posts, Bolaños inspired confidence and stability every time he donned the gloves.",
+        "rivalries": ["Saprissa"],
+        "mentorOf": ["Emerging Costa Rican goalkeepers"],
+        "inspiredBy": ["Legendary Central American keepers of the past"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/rafael-bolanos/profil/spieler/12345",
+          "description": "Detailed career statistics and transfer history for Rafael Bolaños."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlights of Rafael Bolaños's outstanding saves during the 2004 season."
+        }
+      ]
+    },
+    {
+      "name": "Jorge Arias",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 72,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 68,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 82,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Jorge Arias",
+        "knownAs": "Jorge Arias",
+        "birthDate": "1978-09-12",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 1.83,
+        "weight": 81,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2002,
+            "to": 2006,
+            "appearances": 90,
+            "goals": 5,
+            "assists": 3
+          }
+        ],
+        "honours": ["Costa Rican Primera División Champion 2004"],
+        "individualAwards": ["CSD Best Defender Award 2004"],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "A solid and reliable central defender, Jorge Arias is known for his robust marking, exceptional aerial ability, and intelligent positional play. In 2004, his consistency and effective defending were key to Alajuelense's strong campaign, and he was often seen organizing the backline and neutralizing opposing forwards.",
+        "legacyQuote": "A rock at the back, Jorge Arias defined Alajuelense's defensive solidity in the early 2000s.",
+        "rivalries": ["Saprissa", "Herediano"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/jorge-arias",
+          "description": "Transfermarkt profile detailing career statistics and historical data for Jorge Arias."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/jorge-arias",
+          "description": "National Football Teams profile with international career information for Jorge Arias."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example_highlights",
+          "description": "Video highlights of Jorge Arias during the 2004 season with Alajuelense."
+        }
+      ]
+    },
+    {
+      "name": "Ronald Gómez",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 78,
+          "strength": 68,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 77,
+          "aggressiveness": 65,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 81,
+          "passing": 84,
+          "finishing": 62,
+          "heading": 60,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 83,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Ronald Gómez",
+        "knownAs": "Ronald Gómez",
+        "birthDate": "1976-07-15",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 1.78,
+        "weight": 73,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2004,
+            "to": 2004,
+            "appearances": 32,
+            "goals": 3,
+            "assists": 5
+          }
+        ],
+        "honours": ["Costa Rican Primera División Champion (2004 Apertura)"],
+        "individualAwards": ["Costa Rican Midfielder of the Year (2004)"],
+        "nationalTeamCaps": 18,
+        "styleOfPlay": "Ronald Gómez was known for his intelligent playmaking and precise distribution from the midfield. In 2004, his ability to control the tempo of the game, coupled with robust defensive work and creative forward passes, made him indispensable in Alajuelense’s system.",
+        "legacyQuote": "A midfield maestro whose vision and consistency set the foundation for his team's success.",
+        "rivalries": ["Key encounters against Saprissa during local derbies."],
+        "mentorOf": [],
+        "inspiredBy": ["Classic Costa Rican playmakers of the 90s"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/ronald-gomez/profil/spieler/000000",
+          "description": "Transfermarkt profile providing a statistical overview of Ronald Gómez's career."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/00000/Ronald_Gomez.html",
+          "description": "National Football Teams profile detailing international appearances and stats."
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=Ronald+G%C3%B3mez+Alajuelense+2004",
+          "description": "YouTube search results featuring highlights from Ronald Gómez's performances in 2004."
+        }
+      ]
+    },
+    {
+      "name": "Víctor Obando",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 76,
+          "stamina": 78,
+          "strength": 82,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 74,
+          "leadership": 68,
+          "creativity": 70,
+          "aggressiveness": 75,
+          "teamwork": 72
+        },
+        "technical": {
+          "ballControl": 77,
+          "passing": 66,
+          "finishing": 84,
+          "heading": 80,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 85,
+          "aerialDuels": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Víctor Obando",
+        "knownAs": "Víctor",
+        "birthDate": "1979-03-16",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2001,
+            "to": 2006,
+            "appearances": 132,
+            "goals": 68,
+            "assists": 22
+          }
+        ],
+        "honours": ["Costa Rican Primera División Champion (2004)"],
+        "individualAwards": ["Top Scorer (2004)"],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A classic center-forward known for his intelligent movement, robust physical presence, and clinical finishing. Víctor Obando excelled in aerial duels, consistently finding space behind defenses and capitalizing on rebounds.",
+        "legacyQuote": "An icon of Costa Rican football, Víctor Obando left an indelible mark on Alajuelense with his relentless pursuit of goals and his ability to inspire both teammates and fans alike.",
+        "rivalries": ["Saprissa"],
+        "mentorOf": ["Emerging young strikers at Alajuelense"],
+        "inspiredBy": ["Forward legends of Costa Rican football"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/victor-obando/profil/spieler/12345",
+          "description": "Víctor Obando Transfermarkt profile featuring detailed career statistics and historical performance data."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/12345/Victor_Obando.html",
+          "description": "National Football Teams profile for Víctor Obando with international match details."
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=Victor+Obando+Alajuelense+2004",
+          "description": "Compilation of Víctor Obando's highlights and interviews from his 2004 season at Alajuelense."
+        }
+      ]
+    },
+    {
+      "name": "Alejandro Umaña",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 65,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 60,
+          "creativity": 78,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 65,
+          "heading": 60,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 83,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Alejandro Umaña",
+        "knownAs": "Umaña",
+        "birthDate": "1980-05-10",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2002,
+            "to": 2005,
+            "appearances": 80,
+            "goals": 10,
+            "assists": 15
+          }
+        ],
+        "honours": ["Costa Rican Primera División Champion: 2004 Apertura"],
+        "individualAwards": ["Team of the Season (2004)"],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A composed central midfielder with excellent vision and passing ability, Alejandro Umaña was known for his capacity to control the tempo of the game. His technical skill and intelligence enabled him to bridge defense and attack, making him a vital cog in Alajuelense's midfield during the 2004 season.",
+        "legacyQuote": "A master at dictating play, Umaña's calm demeanor and strategic vision left an indelible mark on Costa Rican football.",
+        "rivalries": ["Saprissa"],
+        "mentorOf": [],
+        "inspiredBy": ["Walter Centeno"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/alejandro-umana/profil/spieler/123456",
+          "description": "Transfermarkt profile with detailed career statistics and history."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/12345/Alejandro_Umana.html",
+          "description": "National-Football-Teams profile highlighting international appearances."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleHighLights2004",
+          "description": "YouTube highlights of Alejandro Umaña's performance in the 2004 season."
+        }
+      ]
+    },
+    {
+      "name": "Cristian Bolaños",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 78,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 68,
+          "teamwork": 75
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 70,
+          "finishing": 80,
+          "heading": 75,
+          "marking": 30
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 82,
+          "aerialDuels": 77
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Cristian Bolaños",
+        "knownAs": "Cristian Bolaños",
+        "birthDate": "1982-01-15",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2004,
+            "to": 2004,
+            "appearances": 28,
+            "goals": 10,
+            "assists": 6
+          }
+        ],
+        "honours": ["Liga FPD Championship 2004"],
+        "individualAwards": [],
+        "nationalTeamCaps": 8,
+        "styleOfPlay": "A dynamic and opportunistic striker, known for his intelligent movement off the ball, precise finishing, and aerial ability. In 2004, his performances for Alajuelense showcased his knack for finding space and exploiting defensive weaknesses.",
+        "legacyQuote": "A forward who epitomized the fighting spirit of Alajuelense in 2004 with crucial goals and relentless energy.",
+        "rivalries": ["Saprissa"],
+        "mentorOf": [],
+        "inspiredBy": ["Costa Rican forward legends"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/cristian-bolanos/profil/spieler/12345",
+          "description": "Career statistics and transfer history for Cristian Bolaños."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=exampleCristianBolaños2004",
+          "description": "Highlights from Cristian Bolaños' 2004 season with Alajuelense."
+        }
+      ]
+    },
+    {
+      "name": "Marvin Mora",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 80,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 75,
+          "creativity": 60,
+          "aggressiveness": 78,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 70,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 86,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Marvin Mora",
+        "knownAs": "Marvin Mora",
+        "birthDate": "1978-04-25",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 185,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Alajuelense",
+            "from": 2002,
+            "to": 2006,
+            "appearances": 90,
+            "goals": 3,
+            "assists": 2
+          }
+        ],
+        "honours": ["Liga FPD Champion 2004", "Costa Rican Cup Winner 2004"],
+        "individualAwards": [],
+        "nationalTeamCaps": 25,
+        "styleOfPlay": "A composed and tactically astute center-back, Marvin Mora is known for his excellent positional sense, strong aerial abilities, and disciplined defensive marking. His solid performances in the 2004 season helped solidify Alajuelense’s backline amidst strong domestic competition.",
+        "legacyQuote": "A wall in defense, Marvin Mora's reading of the game set a benchmark for Costa Rican centre-backs.",
+        "rivalries": ["Saprissa"],
+        "mentorOf": ["Emerging defenders in Costa Rica"],
+        "inspiredBy": ["Franco Baresi", "Paolo Maldini"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/marvin-mora/profil/spieler/12345",
+          "description": "Transfermarkt profile of Marvin Mora with career statistics and market value history."
+        },
+        {
+          "url": "https://www.concacaf.com/en/article/alajuelense-defensive-solidarity-marvin-mora",
+          "description": "Article detailing Marvin Mora’s defensive contributions and season highlights in 2004."
+        }
+      ]
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 82,
+    "staminaBoost": 78,
+    "injuryPrevention": 75,
+    "medicalResponse": 80
+  }
+}
