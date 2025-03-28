@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1882-09-05",
+  "city": "London",
+  "fullName": "Tottenham Hotspur Football Club",
+  "shortName": "Spurs",
+  "stadium": {
+    "name": "Tottenham Hotspur Stadium",
+    "capacity": 62850
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/spursofficial",
+    "tiktok": "https://www.tiktok.com/@spursofficial"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 0, 139)"
+    },
+    "away": {
+      "bgColor": "rgb(0, 0, 139)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 215, 0)",
+      "fontColor": "rgb(0, 0, 139)"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "year": 2019,
+  "coach": "Mauricio Pochettino",
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "name": "Hugo Lloris",
+      "position": "GK"
+    },
+    {
+      "name": "Serge Aurier",
+      "position": "RB"
+    },
+    {
+      "name": "Toby Alderweireld",
+      "position": "CB"
+    },
+    {
+      "name": "Jan Vertonghen",
+      "position": "CB"
+    },
+    {
+      "name": "Danny Rose",
+      "position": "LB"
+    },
+    {
+      "name": "Moussa Sissoko",
+      "position": "CDM"
+    },
+    {
+      "name": "Eric Dier",
+      "position": "CM"
+    },
+    {
+      "name": "Lucas Moura",
+      "position": "RW"
+    },
+    {
+      "name": "Dele Alli",
+      "position": "CAM"
+    },
+    {
+      "name": "Son Heung-min",
+      "position": "LW"
+    },
+    {
+      "name": "Harry Kane",
+      "position": "ST"
+    },
+    {
+      "name": "Paulo Gazzaniga",
+      "position": "GK"
+    },
+    {
+      "name": "Ben Davies",
+      "position": "RB"
+    },
+    {
+      "name": "Andros Townsend",
+      "position": "RW"
+    },
+    {
+      "name": "Erik Lamela",
+      "position": "CAM"
+    }
+  ],
+  "explanation": "Tottenham Hotspur’s 2018–19 season marked an historic peak for the club: reaching their first UEFA Champions League Final. Under Mauricio Pochettino’s dynamic management, the team evolved into a modern, fast-paced, and tactically disciplined unit using a 4-2-3-1 formation. In the final – although they eventually lost to Liverpool – the starting XI of Hugo Lloris; Serge Aurier, Toby Alderweireld, Jan Vertonghen, and Danny Rose; Moussa Sissoko and Eric Dier in midfield; and the attacking trio of Lucas Moura, Dele Alli, and Son Heung-min, spearheaded by Harry Kane – had all consistently performed at the highest level throughout the campaign. The four additional players (Paulo Gazzaniga, Ben Davies, Andros Townsend, and Erik Lamela) round out the squad as substitutes from the same era, ensuring that all selected members were officially part of that historic matchday squad. This lineup is widely celebrated for its combination of defensive solidity, midfield work-rate, and attacking prowess, making it one of the most significant and best-ever formations in Tottenham’s illustrious history."
+}
