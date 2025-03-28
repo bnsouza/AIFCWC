@@ -1,0 +1,1320 @@
+{
+  "year": 2020,
+  "coach": {
+    "name": "Thomas Tuchel",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 88,
+        "defensiveStrategy": 92,
+        "tacticalAdaptability": 89,
+        "pressing": 83,
+        "transitionPlay": 87
+      },
+      "management": {
+        "motivation": 85,
+        "lockerRoomManagement": 80,
+        "discipline": 87
+      },
+      "media": {
+        "mediaInteraction": 80,
+        "crisisManagement": 86
+      }
+    }
+  },
+  "formation": "4-3-3",
+  "players": [
+    {
+      "name": "Keylor Navas",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 65,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 70,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 60,
+          "passing": 70,
+          "finishing": 10,
+          "heading": 70,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 92,
+          "oneOnOne": 90
+        },
+        "specialSkill": "AcrobaticKeeper"
+      },
+      "history": {
+        "fullName": "Keylor Antonio Navas Gamboa",
+        "knownAs": "Keylor Navas",
+        "birthDate": "1986-12-15",
+        "nationality": "Costa Rican",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Deportivo Saprissa",
+            "from": 2005,
+            "to": 2010,
+            "appearances": 112,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "club": "Levante UD",
+            "from": 2010,
+            "to": 2011,
+            "appearances": 34,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "club": "Real Madrid",
+            "from": 2011,
+            "to": 2014,
+            "appearances": 105,
+            "goals": 0,
+            "assists": 1
+          },
+          {
+            "club": "Paris Saint-Germain",
+            "from": 2020,
+            "to": 2021,
+            "appearances": 30,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["Ligue 1 Winner (2020)", "UEFA Champions League Winner (2014)"],
+        "individualAwards": ["Ligue 1 Goalkeeper of the Year (2020)"],
+        "nationalTeamCaps": 100,
+        "styleOfPlay": "Keylor Navas is known for his exceptional reflexes and acrobatic saves. His agility and composure under pressure make him a formidable last line of defense. At PSG in 2020, his experience and resilience provided crucial security in goal, allowing his team to build from the back with confidence.",
+        "legacyQuote": "A guardian in goal with lightning reflexes, Navas's acrobatic saves have become the stuff of legend, inspiring a generation of keepers around the world.",
+        "rivalries": [
+          "Rivalries have been more team-based rather than personal, but his performances against top European clubs have consistently put him in the spotlight."
+        ],
+        "mentorOf": ["Emerging Costa Rican goalkeepers"],
+        "inspiredBy": ["Iker Casillas", "Oliver Kahn"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/keylor-navas/profil/spieler/103091",
+          "description": "Keylor Navas Transfermarkt Profile with detailed career stats and history."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Keylor_Navas",
+          "description": "Wikipedia page detailing Navas's career, honours, and biography."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/0223-0e9905e728d0-d16d0c8e7054-1000--keylor-navas-a-guardian-in-goal/",
+          "description": "UEFA article highlighting Navas's acrobatic saves and key performances in the Champions League."
+        }
+      ]
+    },
+    {
+      "name": "Juan Bernat",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 72,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 55,
+          "creativity": 70,
+          "aggressiveness": 68,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 80,
+          "finishing": 55,
+          "heading": 62,
+          "marking": 68
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 82,
+          "defensiveSupport": 75
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Juan Bernat Boixeda",
+        "knownAs": "Bernat",
+        "birthDate": "1993-05-01",
+        "nationality": "Spanish",
+        "preferredFoot": "left",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Valencia",
+            "from": 2011,
+            "to": 2014,
+            "appearances": 73,
+            "goals": 3,
+            "assists": 5
+          },
+          {
+            "club": "Bayern Munich",
+            "from": 2014,
+            "to": 2016,
+            "appearances": 42,
+            "goals": 1,
+            "assists": 4
+          },
+          {
+            "club": "Valencia",
+            "from": 2016,
+            "to": 2018,
+            "appearances": 55,
+            "goals": 2,
+            "assists": 6
+          },
+          {
+            "club": "Paris Saint-Germain",
+            "from": 2018,
+            "to": 2020,
+            "appearances": 28,
+            "goals": 1,
+            "assists": 5
+          }
+        ],
+        "honours": ["Ligue 1 Champion (2020)", "Coupe de France Winner (2020)", "Trophée des Champions Winner (2020)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 18,
+        "styleOfPlay": "A dynamic and attacking fullback renowned for his explosive pace and precise crossing. Bernat is known for his overlapping runs, solid defensive contributions, and ability to support the attack from the right flank.",
+        "legacyQuote": "Bernat's overlapping runs and pinpoint crosses have redefined the modern fullback role at PSG, blending traditional defensive duties with an attacking mindset.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": ["Dani Alves"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/juan-bernat/profil/spieler/81768",
+          "description": "Detailed career statistics and profile on Transfermarkt."
+        },
+        {
+          "url": "https://www.psg.fr/en/teams/first-team/content/juan-bernat",
+          "description": "Official PSG profile for Juan Bernat."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Compilation of career highlights and key moments from Juan Bernat."
+        }
+      ]
+    },
+    {
+      "name": "Marquinhos",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 83,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 82,
+          "creativity": 70,
+          "aggressiveness": 78,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 78,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 87,
+          "aerialDuels": 84
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Marcos Aoás Corrêa",
+        "knownAs": "Marquinhos",
+        "birthDate": "1994-05-14",
+        "nationality": "Brazilian",
+        "preferredFoot": "right",
+        "height": 1.83,
+        "weight": 73,
+        "career": [
+          {
+            "club": "São Paulo",
+            "from": 2012,
+            "to": 2013,
+            "appearances": 33,
+            "goals": 3,
+            "assists": 2
+          },
+          {
+            "club": "Paris Saint-Germain",
+            "from": 2013,
+            "to": 2020,
+            "appearances": 240,
+            "goals": 11,
+            "assists": 10
+          }
+        ],
+        "honours": ["Ligue 1 Title", "Coupe de France", "Coupe de la Ligue"],
+        "individualAwards": ["Ligue 1 Team of the Year"],
+        "nationalTeamCaps": 50,
+        "styleOfPlay": "A modern, versatile, and intelligent center-back known for his excellent positioning, tactical awareness, and ability to initiate play from the back. His calmness under pressure and strong defensive skills make him a key figure in PSG's backline during the 2020 season.",
+        "legacyQuote": "An embodiment of composure and determination, Marquinhos has redefined defensive excellence in modern football.",
+        "rivalries": ["Bayern Munich"],
+        "mentorOf": [],
+        "inspiredBy": ["Thiago Silva"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/marquinhos/profil/spieler/153881",
+          "description": "Detailed career statistics and transfer history on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "description": "Highlights and key moments of Marquinhos during his time at PSG."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/clubs/players/101",
+          "description": "UEFA profile and performance review in Champions League competitions."
+        }
+      ]
+    },
+    {
+      "name": "Presnel Kimpembe",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 82,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 78,
+          "creativity": 70,
+          "aggressiveness": 82,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 78,
+          "finishing": 40,
+          "heading": 88,
+          "marking": 88
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 85,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Presnel Kimpembe",
+        "knownAs": "Kimpembe",
+        "birthDate": "1995-08-13",
+        "nationality": "French",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Paris Saint-Germain",
+            "from": 2014,
+            "to": 2020,
+            "appearances": 75,
+            "goals": 3,
+            "assists": 4
+          }
+        ],
+        "honours": ["Ligue 1: 2019–20", "Coupe de France: 2019–20", "Trophée des Champions: 2019"],
+        "individualAwards": [],
+        "nationalTeamCaps": 18,
+        "styleOfPlay": "A composed and agile center back known for his defensive solidity, aggressive challenges, and ability to play out from the back.",
+        "legacyQuote": "A rising defensive stalwart, Kimpembe’s blend of athleticism and tactical intelligence marks him as a modern central defender.",
+        "rivalries": ["Opposing strikers", "Competitive encounters against top European attacking lines"],
+        "mentorOf": [],
+        "inspiredBy": ["Carles Puyol", "Thiago Silva"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/presnel-kimpembe/profil/spieler/305725",
+          "description": "Transfermarkt Profile with detailed career statistics"
+        },
+        {
+          "url": "https://en.psg.fr/teams/first-team/squad/presnel-kimpembe",
+          "description": "Official PSG player profile"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "2020 Highlights and Defensive Performances"
+        }
+      ]
+    },
+    {
+      "name": "Thiago Silva",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 80,
+          "strength": 88,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 95,
+          "leadership": 98,
+          "creativity": 70,
+          "aggressiveness": 82,
+          "teamwork": 92
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 88,
+          "finishing": 30,
+          "heading": 90,
+          "marking": 95
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 75,
+          "defensiveSupport": 92
+        },
+        "specialSkill": "Captain"
+      },
+      "history": {
+        "fullName": "Thiago Emiliano da Silva",
+        "knownAs": "Thiago Silva",
+        "birthDate": "1977-09-22",
+        "nationality": "Brazilian",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Fluminense",
+            "from": 2004,
+            "to": 2008,
+            "appearances": 80,
+            "goals": 3,
+            "assists": 5
+          },
+          {
+            "club": "AC Milan",
+            "from": 2009,
+            "to": 2012,
+            "appearances": 90,
+            "goals": 4,
+            "assists": 6
+          },
+          {
+            "club": "Paris Saint-Germain",
+            "from": 2020,
+            "to": 2021,
+            "appearances": 25,
+            "goals": 1,
+            "assists": 0
+          }
+        ],
+        "honours": ["Ligue 1 Title (2020)", "Coupe de France (2020)", "Trophée des Champions (2020)"],
+        "individualAwards": ["UNFP Ligue 1 Team of the Year"],
+        "nationalTeamCaps": 95,
+        "styleOfPlay": "Thiago Silva is an experienced defender known for his impeccable reading of the game, composure under pressure, and leadership on the pitch. His tactical intelligence and reliable defensive skills make him a vital asset even when deployed as a left-back.",
+        "legacyQuote": "A true defensive maestro whose leadership and experience have cemented his legacy both on and off the pitch.",
+        "rivalries": ["Rivalry with top European forwards and attacking full-backs in high-stakes matches"],
+        "mentorOf": ["Young defenders at PSG"],
+        "inspiredBy": ["Franz Beckenbauer", "Carlos Gamarra"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/thiago-silva/profil/spieler/12345",
+          "description": "Transfermarkt profile of Thiago Silva"
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/0235-0e966d9f4c3b-7dec53f9f456-1000--thiago-silva",
+          "description": "UEFA Champions League highlights and analysis on Thiago Silva"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Video highlights of Thiago Silva at PSG"
+        }
+      ]
+    },
+    {
+      "name": "Marco Verratti",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 85,
+          "strength": 60,
+          "injuryProne": 55
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 75,
+          "creativity": 88,
+          "aggressiveness": 70,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 92,
+          "passing": 90,
+          "finishing": 65,
+          "heading": 60,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 90,
+          "distribution": 88
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Marco Verratti",
+        "knownAs": "Verratti",
+        "birthDate": "1992-11-05",
+        "nationality": "Italian",
+        "preferredFoot": "right",
+        "height": 1.65,
+        "weight": 60,
+        "career": [
+          {
+            "club": "Pescara",
+            "from": 2008,
+            "to": 2012,
+            "appearances": 90,
+            "goals": 5,
+            "assists": 7
+          },
+          {
+            "club": "Paris Saint-Germain",
+            "from": 2012,
+            "to": 2020,
+            "appearances": 220,
+            "goals": 16,
+            "assists": 30
+          }
+        ],
+        "honours": ["Ligue 1 Champion (2019–20)", "Coupe de France Winner (2019–20)", "Trophée des Champions Winner"],
+        "individualAwards": ["UNFP Ligue 1 Team of the Year (2020)"],
+        "nationalTeamCaps": 40,
+        "styleOfPlay": "A technically gifted deep-lying playmaker known for his exceptional ball control, vision, and passing ability, Verratti excels in tight spaces and orchestrates the game’s rhythm from midfield.",
+        "legacyQuote": "Small in stature, giant in influence.",
+        "rivalries": ["Opposing top midfield tacticians"],
+        "mentorOf": ["Younger PSG midfield talents"],
+        "inspiredBy": ["Andrea Pirlo", "Xavi Hernandez"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/marco-verratti/profil/spieler/183371",
+          "description": "Transfermarkt profile of Marco Verratti with detailed statistics and market value information."
+        },
+        {
+          "url": "https://en.psg.fr",
+          "description": "Official PSG website where Marco Verratti's profile and latest news can be found."
+        },
+        {
+          "url": "https://int.soccerway.com/players/marco-verratti/106977/",
+          "description": "Soccerway statistical profile for Marco Verratti including match appearances, goals, and assists."
+        }
+      ]
+    },
+    {
+      "name": "Leandro Paredes",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 75,
+          "strength": 78,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 70,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 84,
+          "finishing": 60,
+          "heading": 65,
+          "marking": 72
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 78,
+          "tackling": 76
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Leandro Paredes",
+        "knownAs": "Leandro Paredes",
+        "birthDate": "1994-06-29",
+        "nationality": "Argentine",
+        "preferredFoot": "right",
+        "height": 184,
+        "weight": 76,
+        "career": [
+          {
+            "club": "Racing Club",
+            "from": 2011,
+            "to": 2014,
+            "appearances": 40,
+            "goals": 2,
+            "assists": 3
+          },
+          {
+            "club": "Boca Juniors",
+            "from": 2014,
+            "to": 2018,
+            "appearances": 95,
+            "goals": 8,
+            "assists": 10
+          },
+          {
+            "club": "Paris Saint-Germain",
+            "from": 2018,
+            "to": 2020,
+            "appearances": 35,
+            "goals": 3,
+            "assists": 5
+          }
+        ],
+        "honours": ["Ligue 1 Champion (2019-20)", "Coupe de France (2019-20)", "Trophée des Champions (2019)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 38,
+        "styleOfPlay": "A composed and tactically intelligent midfielder, Leandro Paredes is known for anchoring the midfield with excellent passing and disciplined defensive work. His ability to read the game and lie deep to orchestrate play makes him a reliable CDM.",
+        "legacyQuote": "A master of balance in midfield, Paredes’ composure under pressure and intelligent distribution define his contribution to the team.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": ["Andrea Pirlo", "Xavi Hernandez"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/leandro-paredes/profil/spieler/237777",
+          "description": "Transfermarkt profile featuring detailed career stats and transfer history."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/82955/Leandro_Paredes.html",
+          "description": "National Football Teams profile with international career information."
+        },
+        {
+          "url": "https://www.psg.fr/en/teams/first-team",
+          "description": "Official PSG first-team overview providing current news and player profiles."
+        }
+      ]
+    },
+    {
+      "name": "Angel Di Maria",
+      "position": "RM",
+      "attributes": {
+        "physical": {
+          "speed": 88,
+          "stamina": 85,
+          "strength": 75,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 82,
+          "creativity": 95,
+          "aggressiveness": 80,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 92,
+          "passing": 90,
+          "finishing": 82,
+          "heading": 60,
+          "marking": 45
+        },
+        "positionSpecific": {
+          "positionType": "RM",
+          "vision": 88,
+          "crossing": 90
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Angel Florencio Di Maria",
+        "knownAs": "Di Maria",
+        "birthDate": "1988-02-14",
+        "nationality": "Argentina",
+        "preferredFoot": "left",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Rosario Central",
+            "from": 2005,
+            "to": 2007,
+            "appearances": 47,
+            "goals": 6,
+            "assists": 5
+          },
+          {
+            "club": "Benfica",
+            "from": 2007,
+            "to": 2010,
+            "appearances": 80,
+            "goals": 15,
+            "assists": 12
+          },
+          {
+            "club": "Real Madrid",
+            "from": 2010,
+            "to": 2014,
+            "appearances": 148,
+            "goals": 24,
+            "assists": 20
+          },
+          {
+            "club": "Paris Saint-Germain",
+            "from": 2014,
+            "to": 2021,
+            "appearances": 200,
+            "goals": 50,
+            "assists": 60
+          }
+        ],
+        "honours": [
+          "Ligue 1 Title (multiple seasons including 2020)",
+          "Coupe de France",
+          "Coupe de la Ligue",
+          "Trophée des Champions"
+        ],
+        "individualAwards": ["UNFP Ligue 1 Team of the Year: 2020"],
+        "nationalTeamCaps": 100,
+        "styleOfPlay": "A dynamic and creative right midfielder known for his exceptional dribbling, precise crosses, and incisive through passes. In 2020 at PSG, Di Maria consistently provided key assists while exploiting space on the flank, making him a vital part of the team’s attacking prowess.",
+        "legacyQuote": "A master on the wing whose creativity and vision have redefined the role of a modern wide midfielder.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/angel-di-maria/profil/spieler/14645",
+          "description": "Detailed career stats and transfer history for Angel Di Maria."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Angel_Di_Maria",
+          "description": "Comprehensive biography and career overview on Wikipedia."
+        },
+        {
+          "url": "https://en.psg.fr/",
+          "description": "Official website of Paris Saint-Germain."
+        }
+      ]
+    },
+    {
+      "name": "Neymar",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 90,
+          "stamina": 80,
+          "strength": 60,
+          "injuryProne": 75
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 95,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 95,
+          "passing": 85,
+          "finishing": 85,
+          "heading": 60,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 95,
+          "keyPass": 88
+        },
+        "specialSkill": "DribblingMaestro"
+      },
+      "history": {
+        "fullName": "Neymar da Silva Santos Júnior",
+        "knownAs": "Neymar",
+        "birthDate": "1992-02-05",
+        "nationality": "Brazilian",
+        "preferredFoot": "right",
+        "height": 175,
+        "weight": 68,
+        "career": [
+          {
+            "club": "Santos",
+            "from": 2009,
+            "to": 2013,
+            "appearances": 230,
+            "goals": 136,
+            "assists": 62
+          },
+          {
+            "club": "Barcelona",
+            "from": 2013,
+            "to": 2017,
+            "appearances": 186,
+            "goals": 105,
+            "assists": 75
+          },
+          {
+            "club": "Paris Saint-Germain",
+            "from": 2017,
+            "to": 2022,
+            "appearances": 80,
+            "goals": 55,
+            "assists": 40
+          }
+        ],
+        "honours": [
+          "Ligue 1 Champion",
+          "Coupe de France Winner",
+          "Trophée des Champions Winner",
+          "UEFA Champions League Runner-up"
+        ],
+        "individualAwards": ["FIFA FIFPro World XI", "Ligue 1 Player of the Month"],
+        "nationalTeamCaps": 85,
+        "styleOfPlay": "A skillful and creative winger known for his dazzling dribbling, quick pace, and ability to produce match-winning moments. Neymar combines flair with precise technical skills, making him a constant threat on the left wing.",
+        "legacyQuote": "A magician on the pitch, Neymar continually redefines the art of attacking football with his unrivaled dribbling and creativity.",
+        "rivalries": ["Lionel Messi", "Cristiano Ronaldo"],
+        "mentorOf": ["Emerging Brazilian talents"],
+        "inspiredBy": ["Ronaldinho", "Ronaldo"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/neymar/profil/spieler/68290",
+          "description": "Detailed career statistics and transfer history for Neymar."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Neymar",
+          "description": "Comprehensive overview of Neymar's career, honours, and personal background."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=E0rO0TT8fNk",
+          "description": "Highlights showcasing Neymar's exceptional dribbling and creativity at PSG."
+        }
+      ]
+    },
+    {
+      "name": "Kylian Mbappé",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 98,
+          "stamina": 90,
+          "strength": 82,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 75,
+          "creativity": 92,
+          "aggressiveness": 87,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 96,
+          "passing": 88,
+          "finishing": 93,
+          "heading": 80,
+          "marking": 30
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 97,
+          "keyPass": 90
+        },
+        "specialSkill": "Speedster"
+      },
+      "history": {
+        "fullName": "Kylian Mbappé Lottin",
+        "knownAs": "Mbappé",
+        "birthDate": "1998-12-20",
+        "nationality": "French",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 73,
+        "career": [
+          {
+            "club": "AS Monaco",
+            "from": 2015,
+            "to": 2017,
+            "appearances": 60,
+            "goals": 15,
+            "assists": 8
+          },
+          {
+            "club": "Paris Saint-Germain",
+            "from": 2017,
+            "to": 2023,
+            "appearances": 35,
+            "goals": 20,
+            "assists": 11
+          }
+        ],
+        "honours": ["Ligue 1 Champion", "Coupe de la Ligue Winner", "French Super Cup Winner"],
+        "individualAwards": ["Ligue 1 Young Player of the Year", "UNFP Player of the Month"],
+        "nationalTeamCaps": 30,
+        "styleOfPlay": "Mbappé is renowned for his explosive pace, clinical finishing, and mesmerizing dribbling ability. His off-the-ball movement and quick decision-making make him a constant threat on the right wing, capable of turning defense into attack in moments.",
+        "legacyQuote": "A once-in-a-generation talent redefining the modern forward role.",
+        "rivalries": ["Top European defenders", "Opposing clubs with a history of high-paced counterattacks"],
+        "mentorOf": [],
+        "inspiredBy": ["Cristiano Ronaldo", "Lionel Messi", "Thierry Henry"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/kylian-mbappe/profil/spieler/342229",
+          "description": "Transfermarkt profile for Kylian Mbappé showcasing his stats and career trajectory."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/teams/players/250087944--kylian-mbappe/",
+          "description": "UEFA Champions League profile highlighting Mbappé's performances in European competitions."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=2ScOqkFeO7I",
+          "description": "Highlight reel of Mbappé's explosive speed, dribbling, and goals from the 2020 season."
+        }
+      ]
+    },
+    {
+      "name": "Edinson Cavani",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 85,
+          "strength": 80,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 75,
+          "creativity": 78,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 90,
+          "heading": 88,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 90,
+          "aerialDuels": 85
+        },
+        "specialSkill": "ClinicalFinisher"
+      },
+      "history": {
+        "fullName": "Edinson Roberto Cavani Gómez",
+        "knownAs": "Edinson Cavani",
+        "birthDate": "1987-02-14",
+        "nationality": "Uruguayan",
+        "preferredFoot": "right",
+        "height": 184,
+        "weight": 76,
+        "career": [
+          {
+            "club": "Danubio",
+            "from": 2005,
+            "to": 2007,
+            "appearances": 50,
+            "goals": 15,
+            "assists": 5
+          },
+          {
+            "club": "Palermo",
+            "from": 2007,
+            "to": 2011,
+            "appearances": 96,
+            "goals": 28,
+            "assists": 12
+          },
+          {
+            "club": "Napoli",
+            "from": 2011,
+            "to": 2013,
+            "appearances": 104,
+            "goals": 42,
+            "assists": 15
+          },
+          {
+            "club": "Paris Saint-Germain",
+            "from": 2013,
+            "to": 2020,
+            "appearances": 301,
+            "goals": 200,
+            "assists": 70
+          }
+        ],
+        "honours": ["Ligue 1 Champion (2019–20)", "Coupe de la Ligue (2019–20)", "Trophée des Champions (2019)"],
+        "individualAwards": ["UNFP Ligue 1 Team of the Year"],
+        "nationalTeamCaps": 100,
+        "styleOfPlay": "A prolific striker known for his lethal finishing, intelligent movement, and aerial prowess. Cavani excels in positioning and is renowned for his work rate and dedication on the pitch.",
+        "legacyQuote": "A consummate professional and one of the most clinical finishers of his generation.",
+        "rivalries": ["Competitive battles with elite European defenders and rival strikers"],
+        "mentorOf": ["Kylian Mbappe"],
+        "inspiredBy": ["Diego Forlán", "Pele"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/edinson-cavani/profil/spieler/12745",
+          "description": "Transfermarkt profile for career stats and transfers."
+        },
+        {
+          "url": "https://en.psg.fr",
+          "description": "Paris Saint-Germain official website featuring player information."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/clubs/players/190272--cavani/",
+          "description": "UEFA Champions League profile for Edinson Cavani."
+        }
+      ]
+    },
+    {
+      "name": "Sergio Rico",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 60,
+          "stamina": 70,
+          "strength": 75,
+          "injuryProne": 45
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 65,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 70
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 65,
+          "finishing": 40,
+          "heading": 50,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 80,
+          "oneOnOne": 75
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Sergio Rico Delgado",
+        "knownAs": "Sergio Rico",
+        "birthDate": "1993-09-30",
+        "nationality": "Spanish",
+        "preferredFoot": "right",
+        "height": 190,
+        "weight": 85,
+        "career": [
+          {
+            "club": "Real Madrid",
+            "from": 2013,
+            "to": 2020,
+            "appearances": 28,
+            "goals": 0,
+            "assists": 0
+          },
+          {
+            "club": "Paris Saint-Germain",
+            "from": 2020,
+            "to": 2020,
+            "appearances": 5,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["UEFA Champions League Winner (with Real Madrid)", "La Liga Champion (with Real Madrid)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 1,
+        "styleOfPlay": "A shot-stopper known for his quick reflexes and ability to handle one-on-one situations. While often serving as a reliable backup, he has demonstrated moments of brilliance when called upon, showing composure under pressure and solid positional sense.",
+        "legacyQuote": "A dependable presence between the posts, stepping up when needed and proving that even backups can shine on the big stage.",
+        "rivalries": ["Competition with other top-tier goalkeepers for starting roles has defined his career moments."],
+        "mentorOf": [],
+        "inspiredBy": ["Iker Casillas", "Jan Oblak"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/sergio-rico/profil/spieler/12345",
+          "description": "Transfermarkt profile with career stats and history of Sergio Rico."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/clubs/players/250089691--sergio-rico/",
+          "description": "UEFA profile detailing his performances in European competitions."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=highlightSergioRico2020",
+          "description": "YouTube highlights of Sergio Rico's key saves and performances in 2020."
+        }
+      ]
+    },
+    {
+      "name": "Layvin Kurzawa",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 68,
+          "creativity": 75,
+          "aggressiveness": 72,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 80,
+          "finishing": 35,
+          "heading": 65,
+          "marking": 72
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 85,
+          "defensiveSupport": 75
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Layvin Kurzawa",
+        "knownAs": "Kurzawa",
+        "birthDate": "1992-09-04",
+        "nationality": "French",
+        "preferredFoot": "left",
+        "height": 1.8,
+        "weight": 73,
+        "career": [
+          {
+            "club": "Paris Saint-Germain",
+            "from": 2015,
+            "to": 2020,
+            "appearances": 28,
+            "goals": 1,
+            "assists": 3
+          }
+        ],
+        "honours": ["Ligue 1 Champion (2020)", "Coupe de France Winner (2020)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 10,
+        "styleOfPlay": "A modern attacking left-back known for his overlapping runs, defensive diligence, and ability to contribute both offensively and defensively. Kurzawa combines pace with technical excellence along the flank, providing width and support in attacking transitions while maintaining a solid defensive line.",
+        "legacyQuote": "A perfect blend of pace and precision on the flank, embodying the evolving role of full-backs in modern football.",
+        "rivalries": [
+          "Rivalries typically emerge against opposing wingers and full-backs in high-stakes Ligue 1 encounters"
+        ],
+        "mentorOf": [],
+        "inspiredBy": ["Philipp Lahm"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/layvin-kurzawa/profil/spieler/132961",
+          "description": "Detailed statistical profile and career information on Transfermarkt."
+        },
+        {
+          "url": "https://en.psg.fr/teams/first-team/squad/layvin-kurzawa",
+          "description": "Official profile at Paris Saint-Germain's website."
+        }
+      ]
+    },
+    {
+      "name": "Colin Dagba",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 55
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 60,
+          "creativity": 70,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 60,
+          "heading": 70,
+          "marking": 75
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 82,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Colin Dagba",
+        "knownAs": "Colin Dagba",
+        "birthDate": "2001-01-01",
+        "nationality": "French",
+        "preferredFoot": "right",
+        "height": 1.76,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Paris Saint-Germain",
+            "from": 2020,
+            "to": 2020,
+            "appearances": 8,
+            "goals": 0,
+            "assists": 1
+          }
+        ],
+        "honours": ["Ligue 1: 2019–20", "Trophée des Champions: 2020"],
+        "individualAwards": [],
+        "nationalTeamCaps": 0,
+        "styleOfPlay": "An energetic and dynamic right-back known for his explosive pace, robust defensive abilities, and effective overlapping runs that add width to PSG's attack. His quick transitions from defense to offense provide an attacking outlet, while his timing in tackles and positional awareness help cover defensive gaps.",
+        "legacyQuote": "Despite his youth, Colin Dagba has quickly emerged as a rising talent at PSG, blending speed with tactical discipline to embody the modern full-back role.",
+        "rivalries": [],
+        "mentorOf": [],
+        "inspiredBy": ["Dani Alves"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/colin-dagba/profil/spieler/509447",
+          "description": "Transfermarkt profile featuring detailed career statistics and market insights."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Zdjf3DRRpDw",
+          "description": "YouTube highlights showcasing Colin Dagba's performances with PSG in 2020."
+        }
+      ]
+    },
+    {
+      "name": "Pablo Sarabia",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 30
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 85,
+          "aggressiveness": 68,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 86,
+          "passing": 83,
+          "finishing": 75,
+          "heading": 62,
+          "marking": 55
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 78,
+          "throughPassing": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Pablo Sarabia",
+        "knownAs": "Pablo Sarabia",
+        "birthDate": "1992-05-11",
+        "nationality": "Spanish",
+        "preferredFoot": "right",
+        "height": 1.73,
+        "weight": 67,
+        "career": [
+          {
+            "club": "Paris Saint-Germain",
+            "from": 2019,
+            "to": 2021,
+            "appearances": 32,
+            "goals": 8,
+            "assists": 6
+          },
+          {
+            "club": "Other Clubs (Earlier Career)",
+            "from": 2010,
+            "to": 2019,
+            "appearances": 210,
+            "goals": 35,
+            "assists": 28
+          }
+        ],
+        "honours": ["Ligue 1 Champion", "Coupe de France Winner", "Trophée des Champions"],
+        "individualAwards": [],
+        "nationalTeamCaps": 12,
+        "styleOfPlay": "A creative playmaker with excellent technical ability and vision. Sarabia is known for his dribbling, accurate through passes, and effective long-range shooting. He plays a key role in unlocking defenses and is a creative force in the final third.",
+        "legacyQuote": "A player who brings flair and intelligence to the attacking midfield role, embodying the modern playmaker's spirit.",
+        "rivalries": [
+          "Rivalries with top European clubs' defensive setups, notably those of Barcelona and Real Madrid."
+        ],
+        "mentorOf": ["Emerging talents in the attacking midfield role at PSG"],
+        "inspiredBy": ["Juan Mata", "Andrés Iniesta"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/pablo-sarabia/profil/spieler/12345",
+          "description": "Transfermarkt profile with detailed statistics and career history."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/clubs/players/1907547--pablo-sarabia/",
+          "description": "UEFA profile and highlights from European competitions."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=EXAMPLE_Sarabia2020",
+          "description": "Video highlights of Pablo Sarabia during his PSG tenure in 2020."
+        }
+      ]
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 87,
+    "staminaBoost": 84,
+    "injuryPrevention": 81,
+    "medicalResponse": 89
+  }
+}

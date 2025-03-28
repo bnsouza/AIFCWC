@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1970-08-12",
+  "city": "Paris",
+  "fullName": "Paris Saint-Germain Football Club",
+  "shortName": "PSG",
+  "stadium": {
+    "name": "Parc des Princes",
+    "capacity": 47929
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/psg/",
+    "tiktok": "https://www.tiktok.com/@psg"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(0, 34, 102)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 34, 102)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}
