@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1907-05-03",
+  "city": "Istanbul",
+  "fullName": "Fenerbahçe Spor Kulübü",
+  "shortName": "Fenerbahçe",
+  "stadium": {
+    "name": "Şükrü Saracoğlu Stadium",
+    "capacity": 50000
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/fenerbahce/",
+    "tiktok": "https://www.tiktok.com/@fenerbahce"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(0, 34, 68)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "away": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 34, 68)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 204, 0)",
+      "fontColor": "rgb(0, 34, 68)"
+    }
+  }
+}
