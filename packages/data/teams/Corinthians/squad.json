@@ -1,0 +1,52 @@
+{
+  "year": 2012,
+  "coach": "Tite",
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "name": "Cássio",
+      "position": "GK"
+    },
+    {
+      "name": "Fábio Santos",
+      "position": "RB"
+    },
+    {
+      "name": "Chicão",
+      "position": "CB"
+    },
+    {
+      "name": "Gil",
+      "position": "CB"
+    },
+    {
+      "name": "Alessandro",
+      "position": "LB"
+    },
+    {
+      "name": "Ralf",
+      "position": "CDM"
+    },
+    {
+      "name": "Paulinho",
+      "position": "CM"
+    },
+    {
+      "name": "Danilo",
+      "position": "RM"
+    },
+    {
+      "name": "Jorge Henrique",
+      "position": "CAM"
+    },
+    {
+      "name": "Romarinho",
+      "position": "LM"
+    },
+    {
+      "name": "Paolo Guerrero",
+      "position": "ST"
+    }
+  ],
+  "explanation": "The 2012 FIFA Club World Cup Final is one of Corinthians’ most iconic matches – a night when the club captured its first world title by defeating Chelsea in Yokohama. Under the masterful guidance of coach Tite, Corinthians deployed a disciplined 4-2-3-1 formation that balanced a sturdy defense (anchored by Fábio Santos, Chicão, Gil and Alessandro) with a hardworking midfield duo (Ralf and Paulinho) and a dynamic attacking trio (Danilo, Jorge Henrique and Romarinho), led by the talismanic striker Paolo Guerrero. Every one of these eleven players shared the pitch in that official final, a contest that remains a touchstone of peak performance and historical significance in the club’s modern era. To complete the matchday squad – all drawn from the same 2012 campaign – the substitutes included Igor (GK), Jádson (attacking midfielder), Renato (midfielder) and Maicon (defender), ensuring squad depth while preserving the legacy of that unforgettable night."
+}

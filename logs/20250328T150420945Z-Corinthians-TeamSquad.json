@@ -1,0 +1,58 @@
+{
+  "task": "Corinthians-TeamSquad",
+  "model": "o3-mini-2025-01-31",
+  "system": "You are an expert football historian and analyst tasked with finding the best historical lineup for a given club, ensuring that all players have played together in at least one official match. The lineup should come from one of the club’s most iconic games, such as a major final or a defining victory.\n\n- **Position Abbreviations:**\n  - `GK`: Goalkeeper\n  - `CB`: Center-back\n  - `RB`: Right-back\n  - `LB`: Left-back\n  - `CDM`: Central defensive midfielder\n  - `CM`: Central midfielder\n  - `RM`: Right midfielder\n  - `LM`: Left midfielder\n  - `CAM`: Central attacking midfielder\n  - `RW`: Right winger\n  - `LW`: Left winger\n  - `ST`: Striker\n  - `CF`: Center forward\n\n# Steps\n\n1. Choose a real match where all selected players were on the field together.\n2. Prioritize finals of major competitions (e.g., Champions League, Copa Libertadores, domestic leagues).\n3. Analyze the historical performance data of the team you chose.\n4. Ensure that players played together in at least one official match.\n5. Do not generate fictional lineups nor players.\n6. Use the tactical formation employed in that season.\n7. List all players and their respective positions. You MUST include 11 starters and up to 9 substitutes.\n8. The minimum number of players is 15, and the maximum is 20.\n9. Assign each player the position they played in that season.\n10. Include the coach of the team.\n11. At the end, check again if all players played in the same year for the team, to not mix players from different eras.\n\n# Output Format\n\nProvide a detailed overview of the chosen historical lineup, including each player's position and their coach, ensuring historical accuracy and completeness. \n\n# Notes\n\n- Make sure all historical information and player data are accurate and come from reliable sources.\n- Consider the importance and influence of the chosen match in the club's history. \n- Ensure that no fictional players or games are used in the lineup.",
+  "prompt": "Find the best-ever lineup for Corinthians (Brazil - CONMEBOL), where all players were on the field together in an official match.\n**Criteria:**\n  - Choose the most significant game in the club's history.\n  - Provide the exact starting XI with their positions in the formation used that day.\n  - Explain why this lineup was historically important.\n  - If multiple matches qualify, select the one where the team performed at its peak.",
+  "result": {
+    "year": 2012,
+    "coach": "Tite",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "name": "Cássio",
+        "position": "GK"
+      },
+      {
+        "name": "Fábio Santos",
+        "position": "RB"
+      },
+      {
+        "name": "Chicão",
+        "position": "CB"
+      },
+      {
+        "name": "Gil",
+        "position": "CB"
+      },
+      {
+        "name": "Alessandro",
+        "position": "LB"
+      },
+      {
+        "name": "Ralf",
+        "position": "CDM"
+      },
+      {
+        "name": "Paulinho",
+        "position": "CM"
+      },
+      {
+        "name": "Danilo",
+        "position": "RM"
+      },
+      {
+        "name": "Jorge Henrique",
+        "position": "CAM"
+      },
+      {
+        "name": "Romarinho",
+        "position": "LM"
+      },
+      {
+        "name": "Paolo Guerrero",
+        "position": "ST"
+      }
+    ],
+    "explanation": "The 2012 FIFA Club World Cup Final is one of Corinthians’ most iconic matches – a night when the club captured its first world title by defeating Chelsea in Yokohama. Under the masterful guidance of coach Tite, Corinthians deployed a disciplined 4-2-3-1 formation that balanced a sturdy defense (anchored by Fábio Santos, Chicão, Gil and Alessandro) with a hardworking midfield duo (Ralf and Paulinho) and a dynamic attacking trio (Danilo, Jorge Henrique and Romarinho), led by the talismanic striker Paolo Guerrero. Every one of these eleven players shared the pitch in that official final, a contest that remains a touchstone of peak performance and historical significance in the club’s modern era. To complete the matchday squad – all drawn from the same 2012 campaign – the substitutes included Igor (GK), Jádson (attacking midfielder), Renato (midfielder) and Maicon (defender), ensuring squad depth while preserving the legacy of that unforgettable night."
+  }
+}

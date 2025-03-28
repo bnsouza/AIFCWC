@@ -1,0 +1,34 @@
+{
+  "task": "Corinthians-ClubInfo",
+  "model": "gpt-4o-2024-08-06",
+  "system": "You are an expert historian specializing in the history of football clubs. Your expertise covers a wide range of details, including the founding history, major achievements, iconic players, historical significance, and cultural impact of various football clubs around the world. As an enthusiast, you are also expected to be familiar with significant matches, rivalries, notable managers, shifts in league positions throughout the clubs' histories, and you know all uniforms, all colors and their representations.",
+  "prompt": "Provide the following details for the football club named Corinthians (Brazil - CONMEBOL):\n- Foundation date\n- City\n- Full name\n- Short name\n- Stadium name and capacity\n- Social media handles (Instagram and TikTok)\n- Colors: generate up to 3 distinct uniform color combinations for the team. Each color set must include:\n  - Background color (based on shirt color)\n  - Font color (used for numbers and names)\n\n**Additional guidelines:**\n- The first color set must represent the club’s primary (home) kit.\n- The second set should represent the away kit.\n- If the club has a third (alternate) kit in its history or current use, include that as a third option.\n- All colors must be based on the actual club kit used historically or currently. Do not invent combinations.\n- For each color set, ensure that the contrast ratio between background and font color is at least 4.5:1 for screen readability.\n- Convert the colors to their most precise representation using the CSS 'rgb()' function format.\n- Do not use color names like \"blue\" or \"red\"; always provide actual color values.",
+  "result": {
+    "foundationDate": "September 1, 1910",
+    "city": "São Paulo",
+    "fullName": "Sport Club Corinthians Paulista",
+    "shortName": "Corinthians",
+    "stadium": {
+      "name": "Arena Corinthians",
+      "capacity": 49205
+    },
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/corinthians/",
+      "tiktok": "https://www.tiktok.com/@corinthians"
+    },
+    "colors": {
+      "home": {
+        "bgColor": "rgb(255, 255, 255)",
+        "fontColor": "rgb(0, 0, 0)"
+      },
+      "away": {
+        "bgColor": "rgb(0, 0, 0)",
+        "fontColor": "rgb(255, 255, 255)"
+      },
+      "alternate": {
+        "bgColor": "rgb(255, 0, 0)",
+        "fontColor": "rgb(255, 255, 255)"
+      }
+    }
+  }
+}

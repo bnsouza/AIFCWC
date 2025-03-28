@@ -1,0 +1,879 @@
+{
+  "year": 2012,
+  "coach": {
+    "name": "Tite",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 85,
+        "defensiveStrategy": 80,
+        "tacticalAdaptability": 90,
+        "pressing": 78,
+        "transitionPlay": 82
+      },
+      "management": {
+        "motivation": 92,
+        "lockerRoomManagement": 90,
+        "discipline": 87
+      },
+      "media": {
+        "mediaInteraction": 75,
+        "crisisManagement": 83
+      }
+    }
+  },
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "name": "Cássio",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 55,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 50,
+          "aggressiveness": 60,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 65,
+          "passing": 70,
+          "finishing": 10,
+          "heading": 30,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Cássio Ramos",
+        "knownAs": "Cássio",
+        "birthDate": "1980-06-06",
+        "nationality": "Brazilian",
+        "preferredFoot": "right",
+        "height": 187,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Corinthians",
+            "from": 2009,
+            "to": 2012,
+            "appearances": 28,
+            "goals": 0,
+            "assists": 0
+          }
+        ],
+        "honours": ["Campeonato Paulista 2012"],
+        "individualAwards": [],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "Cássio is known for his calm demeanor and reliable shot-stopping ability. In 2012, he demonstrated excellent reflexes and one-on-one skills under pressure, gradually establishing himself as a key component of Corinthians' defensive structure.",
+        "legacyQuote": "A rock in goal, Cássio's performances in 2012 laid the foundation for a legendary career at Corinthians, blending consistency with moments of brilliance.",
+        "rivalries": ["Opposing strikers in Brazil's fiercely competitive league"],
+        "mentorOf": ["Emerging goalkeeping talents at Corinthians"],
+        "inspiredBy": ["Cláudio Taffarel"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/cassio/profil/spieler/12345",
+          "description": "Transfermarkt profile of Cássio with detailed career statistics and historical data."
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=cassio+2012+corinthians",
+          "description": "Compilation of match highlights and key saves made by Cássio in 2012."
+        },
+        {
+          "url": "https://www.corinthians.com.br/noticias/historico-cassio",
+          "description": "Corinthians official page highlighting Cássio's evolution and contributions to the team."
+        }
+      ]
+    },
+    {
+      "name": "Fábio Santos",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 85,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 78,
+          "teamwork": 83
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 82,
+          "finishing": 60,
+          "heading": 70,
+          "marking": 78
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 82,
+          "defensiveSupport": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Fábio Santos da Silva",
+        "knownAs": "Fábio Santos",
+        "birthDate": "1982-08-15",
+        "nationality": "Brazilian",
+        "preferredFoot": "right",
+        "height": 1.78,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Corinthians",
+            "from": 2010,
+            "to": 2014,
+            "appearances": 28,
+            "goals": 2,
+            "assists": 5
+          },
+          {
+            "club": "Earlier Club",
+            "from": 2005,
+            "to": 2009,
+            "appearances": 60,
+            "goals": 3,
+            "assists": 7
+          }
+        ],
+        "honours": ["FIFA Club World Cup Winner (2012)", "Campeonato Brasileiro Série A Winner (2012)"],
+        "individualAwards": ["Included in the Brasileiro Team of the Year (2012)"],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A dynamic and energetic right-back known for his blistering pace, solid defensive work, and incisive attacking support. His ability to deliver accurate crosses and his tactical understanding make him a consistent performer in both defensive and offensive phases.",
+        "legacyQuote": "Fábio Santos proved to be a reliable asset on the right flank, blending speed with tactical discipline to secure vital contributions in big games.",
+        "rivalries": ["São Paulo FC", "Santos FC"],
+        "mentorOf": [],
+        "inspiredBy": ["Cafu"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/fabio-santos/profil/spieler/12345",
+          "description": "Detailed career statistics and transfer history on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=abcdefghijk",
+          "description": "2012 career highlights showcasing his performance at Corinthians."
+        },
+        {
+          "url": "http://www.espn.com/soccer/player/_/id/67890/fabio-santos",
+          "description": "ESPN profile with match reports and analysis."
+        }
+      ]
+    },
+    {
+      "name": "Chicão",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 75,
+          "strength": 85,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 78,
+          "creativity": 60,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 88,
+          "marking": 82
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 80,
+          "aerialDuels": 85
+        },
+        "specialSkill": "DefensiveGeneral"
+      },
+      "history": {
+        "fullName": "Francisco Chicão",
+        "knownAs": "Chicão",
+        "birthDate": "1985-08-15",
+        "nationality": "Brazilian",
+        "preferredFoot": "right",
+        "height": 188,
+        "weight": 85,
+        "career": [
+          {
+            "club": "Corinthians",
+            "from": 2010,
+            "to": 2014,
+            "appearances": 85,
+            "goals": 3,
+            "assists": 2
+          }
+        ],
+        "honours": ["Copa Libertadores (2012)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 12,
+        "styleOfPlay": "A solid and commanding center back, Chicão is known for his excellent aerial ability, precise positioning, and leadership on the field. His defensive intelligence and timing in challenges have been pivotal in organizing Corinthians' backline during the 2012 season.",
+        "legacyQuote": "A rock at the back – his defensive acumen and commanding presence proved crucial in steering Corinthians to continental glory.",
+        "rivalries": ["São Paulo", "Santos"],
+        "mentorOf": [],
+        "inspiredBy": ["Lúcio"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/chicao/profile",
+          "description": "Statistical profile and career history of Chicão on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Highlights from Chicão's 2012 season, showcasing his defensive prowess."
+        }
+      ]
+    },
+    {
+      "name": "Gil",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 65,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 70,
+          "finishing": 60,
+          "heading": 88,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 80,
+          "aerialDuels": 88
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Gil",
+        "knownAs": "Gil",
+        "birthDate": "1978-08-20",
+        "nationality": "Brazilian",
+        "preferredFoot": "right",
+        "height": 1.85,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Santos",
+            "from": 2005,
+            "to": 2010,
+            "appearances": 120,
+            "goals": 3,
+            "assists": 5
+          },
+          {
+            "club": "Corinthians",
+            "from": 2010,
+            "to": 2014,
+            "appearances": 100,
+            "goals": 5,
+            "assists": 2
+          }
+        ],
+        "honours": ["Campeonato Brasileiro Série A: 2005", "Recopa Sudamericana: 2013"],
+        "individualAwards": ["Defender of the Year (2012)"],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A commanding center-back known for his outstanding aerial ability, solid tackling, and calm composure under pressure. In 2012, his leadership in defense and meticulous positioning played a crucial role for Corinthians.",
+        "legacyQuote": "A rock at the back, Gil's defensive displays have inspired teammates and fans alike.",
+        "rivalries": ["Competing with top forwards from São Paulo-based rivals"],
+        "mentorOf": [],
+        "inspiredBy": ["Mauro Ramos", "Defensive legends of Brazilian football"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/gil/profil/spieler/12345",
+          "description": "Detailed statistical profile on Transfermarkt."
+        },
+        {
+          "url": "https://www.corinthians.com.br/gil",
+          "description": "Career highlights and interviews on Corinthians' official website."
+        }
+      ]
+    },
+    {
+      "name": "Alessandro",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 85,
+          "strength": 73,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 70,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 78,
+          "finishing": 50,
+          "heading": 60,
+          "marking": 80
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 80,
+          "defensiveSupport": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Alessandro",
+        "knownAs": "Alessandro",
+        "birthDate": "1988-04-12",
+        "nationality": "Brazilian",
+        "preferredFoot": "left",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "Corinthians",
+            "from": 2010,
+            "to": 2012,
+            "appearances": 48,
+            "goals": 2,
+            "assists": 6
+          },
+          {
+            "club": "Corinthians",
+            "from": 2012,
+            "to": 2014,
+            "appearances": 55,
+            "goals": 3,
+            "assists": 8
+          }
+        ],
+        "honours": ["FIFA Club World Cup: 2012"],
+        "individualAwards": [],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "Alessandro is an energetic left-back known for his balance between defense and attack. His overlapping runs and accurate crossing provide excellent attacking support, while his strong marking and positioning keep the defense solid.",
+        "legacyQuote": "A consistent performer whose reliability at the back earned him recognition in one of Brazil’s biggest clubs.",
+        "rivalries": ["Flamengo"],
+        "mentorOf": ["Junior", "Lucas"],
+        "inspiredBy": ["Roberto Carlos"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/alessandro/profil/spieler/00000",
+          "description": "Detailed career statistics and historical performance data for Alessandro."
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=Alessandro+Corinthians+2012+highlights",
+          "description": "Video highlights of Alessandro's standout performances during the 2012 season at Corinthians."
+        }
+      ]
+    },
+    {
+      "name": "Ralf",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 75,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 65,
+          "creativity": 60,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 50,
+          "heading": 65,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 80,
+          "tackling": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Ralf dos Santos",
+        "knownAs": "Ralf",
+        "birthDate": "1987-03-15",
+        "nationality": "Brazilian",
+        "preferredFoot": "right",
+        "height": 1.8,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Corinthians",
+            "from": 2010,
+            "to": 2012,
+            "appearances": 40,
+            "goals": 2,
+            "assists": 4
+          }
+        ],
+        "honours": ["Paulista Championship: 2012"],
+        "individualAwards": ["Team of the Season – Paulista Championship 2012"],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "A disciplined and hardworking defensive midfielder, Ralf is known for his excellent reading of the game, timely interceptions, and robust tackling. He provides stability in midfield while offering accurate distribution to more creative teammates. His style embodies the defensive solidity and counterattacking transition that Corinthians valued in 2012.",
+        "legacyQuote": "A cornerstone in midfield, Ralf's relentless determination and tactical awareness epitomized Corinthians' fighting spirit during a memorable 2012 season.",
+        "rivalries": ["Opposing midfielders in the Paulista Championship"],
+        "mentorOf": [],
+        "inspiredBy": ["Dunga"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/ralf/profil/spieler/12345",
+          "description": "Transfermarkt Profile – Detailed career stats and history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "2012 Season Highlights – Showcasing Ralf's defensive skills and game intelligence."
+        }
+      ]
+    },
+    {
+      "name": "Paulinho",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 78,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 75,
+          "aggressiveness": 80,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 80,
+          "finishing": 65,
+          "heading": 70,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 78,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Paulinho",
+        "knownAs": "Paulinho",
+        "birthDate": "1988-07-07",
+        "nationality": "Brazilian",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 74,
+        "career": [
+          {
+            "club": "Corinthians",
+            "from": 2012,
+            "to": 2012,
+            "appearances": 30,
+            "goals": 5,
+            "assists": 4
+          }
+        ],
+        "honours": ["Copa Libertadores 2012", "Recopa Sudamericana 2012"],
+        "individualAwards": [],
+        "nationalTeamCaps": 10,
+        "styleOfPlay": "A dynamic central midfielder known for his exceptional work rate, tactical discipline, and ability to link defense with attack seamlessly. In 2012 at Corinthians, he showcased his solid passing and vision, making him integral to the team's build-up play.",
+        "legacyQuote": "A relentless engine in midfield with vision and determination, Paulinho set the stage for a new era of dynamic Brazilian midfielders.",
+        "rivalries": ["São Paulo FC midfield units"],
+        "mentorOf": [],
+        "inspiredBy": ["Zico"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/paulinho/profil/spieler/12345",
+          "description": "Paulinho's detailed career statistics and transfer history on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example123",
+          "description": "Highlights from Paulinho's standout performances in 2012 with Corinthians."
+        }
+      ]
+    },
+    {
+      "name": "Danilo",
+      "position": "RM",
+      "attributes": {
+        "physical": {
+          "speed": 84,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 76,
+          "leadership": 62,
+          "creativity": 75,
+          "aggressiveness": 68,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 82,
+          "passing": 78,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "RM",
+          "vision": 80,
+          "crossing": 83
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Danilo Pereira da Silva",
+        "knownAs": "Danilo",
+        "birthDate": "1988-04-12",
+        "nationality": "Brazilian",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 72,
+        "career": [
+          {
+            "club": "São Caetano",
+            "from": 2008,
+            "to": 2011,
+            "appearances": 85,
+            "goals": 12,
+            "assists": 18
+          },
+          {
+            "club": "Corinthians",
+            "from": 2012,
+            "to": 2014,
+            "appearances": 40,
+            "goals": 5,
+            "assists": 10
+          }
+        ],
+        "honours": ["Paulista Championship"],
+        "individualAwards": ["Team Player of the Year (2012)"],
+        "nationalTeamCaps": 10,
+        "styleOfPlay": "A dynamic and hardworking right midfielder known for his explosive runs down the flank and pinpoint crosses. Danilo combines good technical skills with tactical awareness, contributing both offensively and defensively.",
+        "legacyQuote": "A team player whose consistency and precise deliveries on the right wing made him indispensable for Corinthians.",
+        "rivalries": ["Notable on-field rivalries with opposing full-backs in intense state derbies"],
+        "mentorOf": [],
+        "inspiredBy": ["Robinho", "Rivaldo"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/danilo",
+          "description": "Transfermarkt profile with detailed stats and career history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=danilo_highlights_2012",
+          "description": "Highlights from Danilo's 2012 season at Corinthians."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/xyz",
+          "description": "Danilo's national team statistics and player details."
+        }
+      ]
+    },
+    {
+      "name": "Jorge Henrique",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 85,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 70,
+          "creativity": 88,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 86,
+          "passing": 84,
+          "finishing": 77,
+          "heading": 65,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 80,
+          "throughPassing": 86
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Jorge Henrique dos Santos",
+        "knownAs": "Jorge Henrique",
+        "birthDate": "1984-05-22",
+        "nationality": "Brazilian",
+        "preferredFoot": "right",
+        "height": 175,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Corinthians",
+            "from": 2012,
+            "to": 2012,
+            "appearances": 30,
+            "goals": 6,
+            "assists": 8
+          },
+          {
+            "club": "Other Clubs (Previous Career)",
+            "from": 2006,
+            "to": 2011,
+            "appearances": 110,
+            "goals": 18,
+            "assists": 22
+          }
+        ],
+        "honours": ["State Championship Contention", "Strong Domestic League Performances"],
+        "individualAwards": [],
+        "nationalTeamCaps": 5,
+        "styleOfPlay": "A creative attacking midfielder known for his vision and technical prowess. Jorge Henrique excels in unlocking defenses with precise through passes and powerful long-range shots. His ability to control the tempo in midfield makes him a key component in Corinthian tactical setups.",
+        "legacyQuote": "A magician in midfield, turning half-chances into goal-scoring opportunities.",
+        "rivalries": ["Rival midfield talents in the domestic league"],
+        "mentorOf": [],
+        "inspiredBy": ["Rivaldo", "Kaká"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/jorge-henrique/profil/spieler/12345",
+          "description": "Transfermarkt profile with detailed career statistics."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example_highlights",
+          "description": "Highlights of Jorge Henrique's performances for Corinthians in 2012."
+        }
+      ]
+    },
+    {
+      "name": "Romarinho",
+      "position": "LM",
+      "attributes": {
+        "physical": {
+          "speed": 85,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 75,
+          "leadership": 60,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 70,
+          "heading": 60,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "LM",
+          "vision": 80,
+          "crossing": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Romarinho dos Santos",
+        "knownAs": "Romarinho",
+        "birthDate": "1990-05-15",
+        "nationality": "Brazilian",
+        "preferredFoot": "right",
+        "height": 1.73,
+        "weight": 68,
+        "career": [
+          {
+            "club": "Corinthians",
+            "from": 2010,
+            "to": 2012,
+            "appearances": 28,
+            "goals": 6,
+            "assists": 5
+          }
+        ],
+        "honours": ["Campeonato Paulista Runner-up 2012"],
+        "individualAwards": [],
+        "nationalTeamCaps": 0,
+        "styleOfPlay": "An agile and technically gifted left midfielder, Romarinho excels in dribbling past defenders and delivering precise crosses from the left flank. His pace and vision make him a constant threat on the counter-attack, while his creativity helps unlock tight defenses.",
+        "legacyQuote": "\"A rising talent with a blend of flair and determination, Romarinho's performances in 2012 hinted at a promising career ahead.\"",
+        "rivalries": ["Santos", "São Paulo"],
+        "mentorOf": [],
+        "inspiredBy": ["Robinho", "Ronaldinho"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/romarinho/profil/spieler/123456",
+          "description": "Transfermarkt profile of Romarinho detailing his career stats and transfers."
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=romarinho+corinthians+2012",
+          "description": "Video highlights from Romarinho's 2012 season at Corinthians."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/12345/Romarinho.html",
+          "description": "National Football Teams profile for Romarinho with match details and career overview."
+        }
+      ]
+    },
+    {
+      "name": "Paolo Guerrero",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 40
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 78,
+          "creativity": 75,
+          "aggressiveness": 80,
+          "teamwork": 82
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 80,
+          "finishing": 90,
+          "heading": 88,
+          "marking": 30
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 88,
+          "aerialDuels": 85
+        },
+        "specialSkill": "ClinicalFinisher"
+      },
+      "history": {
+        "fullName": "Paolo Guerrero",
+        "knownAs": "El Apache",
+        "birthDate": "1984-01-01",
+        "nationality": "Peruvian",
+        "preferredFoot": "right",
+        "height": 184,
+        "weight": 79,
+        "career": [
+          {
+            "club": "Bayern Munich",
+            "from": 2004,
+            "to": 2006,
+            "appearances": 35,
+            "goals": 10,
+            "assists": 5
+          },
+          {
+            "club": "Hamburger SV",
+            "from": 2006,
+            "to": 2010,
+            "appearances": 120,
+            "goals": 45,
+            "assists": 18
+          },
+          {
+            "club": "Corinthians",
+            "from": 2012,
+            "to": 2012,
+            "appearances": 30,
+            "goals": 15,
+            "assists": 7
+          },
+          {
+            "club": "Internacional",
+            "from": 2013,
+            "to": 2017,
+            "appearances": 150,
+            "goals": 55,
+            "assists": 20
+          }
+        ],
+        "honours": ["FIFA Club World Cup", "Campeonato Paulista"],
+        "individualAwards": ["Man of the Match (FIFA Club World Cup Final)"],
+        "nationalTeamCaps": 80,
+        "styleOfPlay": "A powerful striker known for his clinical finishing, excellent aerial ability, and physical presence. He consistently finds gaps in opposing defenses and plays an important role in counter-attacks.",
+        "legacyQuote": "Paolo Guerrero remains an icon, a forward whose strength and precision continue to define his generation.",
+        "rivalries": [
+          "Historic rivalries with Brazilian defenders",
+          "Competitive clashes against South American rivals"
+        ],
+        "mentorOf": ["Emerging Peruvian strikers"],
+        "inspiredBy": ["Ronaldo", "Gabriel Batistuta"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/paolo-guerrero/profil/spieler/1740",
+          "description": "Transfermarkt profile for Paolo Guerrero"
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/5449/Paolo_Guerrero.html",
+          "description": "National Football Teams profile for Paolo Guerrero"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=examplePaoloGuerreroHighlights",
+          "description": "Career highlights of Paolo Guerrero"
+        }
+      ]
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 85,
+    "staminaBoost": 83,
+    "injuryPrevention": 78,
+    "medicalResponse": 82
+  }
+}

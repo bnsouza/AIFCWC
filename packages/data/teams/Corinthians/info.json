@@ -1,0 +1,28 @@
+{
+  "foundationDate": "September 1, 1910",
+  "city": "São Paulo",
+  "fullName": "Sport Club Corinthians Paulista",
+  "shortName": "Corinthians",
+  "stadium": {
+    "name": "Arena Corinthians",
+    "capacity": 49205
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/corinthians/",
+    "tiktok": "https://www.tiktok.com/@corinthians"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(255, 255, 255)",
+      "fontColor": "rgb(0, 0, 0)"
+    },
+    "away": {
+      "bgColor": "rgb(0, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    },
+    "alternate": {
+      "bgColor": "rgb(255, 0, 0)",
+      "fontColor": "rgb(255, 255, 255)"
+    }
+  }
+}
