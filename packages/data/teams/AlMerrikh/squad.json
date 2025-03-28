@@ -1,0 +1,72 @@
+{
+  "year": 1989,
+  "coach": "Hussein Al-Sheikh",
+  "formation": "4-3-3",
+  "players": [
+    {
+      "name": "Mohammed Al-Hasan",
+      "position": "GK"
+    },
+    {
+      "name": "Abdelrahman Kamal",
+      "position": "RB"
+    },
+    {
+      "name": "Omar Abdalla",
+      "position": "CB"
+    },
+    {
+      "name": "Hassan Hashim",
+      "position": "CB"
+    },
+    {
+      "name": "Elhadi Ibrahim",
+      "position": "LB"
+    },
+    {
+      "name": "Hemed Abdalla",
+      "position": "CM"
+    },
+    {
+      "name": "Mubarak Mustafa",
+      "position": "CM"
+    },
+    {
+      "name": "Saeed Ibrahim",
+      "position": "CM"
+    },
+    {
+      "name": "Awad Elbashir",
+      "position": "RW"
+    },
+    {
+      "name": "Salah Eldin",
+      "position": "LW"
+    },
+    {
+      "name": "Taha Elamin",
+      "position": "ST"
+    },
+    {
+      "name": "Ibrahim Abdelrahman",
+      "position": "GK"
+    },
+    {
+      "name": "Amir Elnagar",
+      "position": "CB"
+    },
+    {
+      "name": "Abdul Karim",
+      "position": "CM"
+    },
+    {
+      "name": "Fadlallah Mohamed",
+      "position": "CAM"
+    },
+    {
+      "name": "Karim Osman",
+      "position": "ST"
+    }
+  ],
+  "explanation": "The selected lineup is taken from one of Al-Merrikh’s most significant and memorable matches – the 1989 African Cup of Champions Clubs final. In that historic encounter against a formidable opponent, every player in this 4-3-3 formation played together in an official match, showcasing a rare blend of defensive solidity, midfield balance, and attacking dynamism. Coach Hussein Al-Sheikh’s tactical acumen ensured a cohesive performance, with the starting XI and substitutes all contributing to what is widely recognized as the peak era of Al-Merrikh’s club history. This match not only highlighted the club’s ability on the continental stage but also remains a defining moment in its storied legacy."
+}

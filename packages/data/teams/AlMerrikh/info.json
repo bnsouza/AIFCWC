@@ -1,0 +1,28 @@
+{
+  "foundationDate": "1908",
+  "city": "Omdurman",
+  "fullName": "Al-Merrikh Sporting Club",
+  "shortName": "Al-Merrikh",
+  "stadium": {
+    "name": "Al-Merrikh Stadium",
+    "capacity": 43000
+  },
+  "socialMedia": {
+    "instagram": "https://www.instagram.com/almerrikhsc",
+    "tiktok": "https://www.tiktok.com/@almerrikhsc"
+  },
+  "colors": {
+    "home": {
+      "bgColor": "rgb(255,0,0)",
+      "fontColor": "rgb(255,255,255)"
+    },
+    "away": {
+      "bgColor": "rgb(255,255,255)",
+      "fontColor": "rgb(255,0,0)"
+    },
+    "alternate": {
+      "bgColor": "rgb(0,0,0)",
+      "fontColor": "rgb(255,255,0)"
+    }
+  }
+}
