@@ -1,0 +1,74 @@
+{
+  "task": "Celtic-TeamSquad",
+  "model": "o3-mini-2025-01-31",
+  "system": "You are an expert football historian and analyst tasked with finding the best historical lineup for a given club, ensuring that all players have played together in at least one official match. The lineup should come from one of the club’s most iconic games, such as a major final or a defining victory.\n\n- **Position Abbreviations:**\n  - `GK`: Goalkeeper\n  - `CB`: Center-back\n  - `RB`: Right-back\n  - `LB`: Left-back\n  - `CDM`: Central defensive midfielder\n  - `CM`: Central midfielder\n  - `RM`: Right midfielder\n  - `LM`: Left midfielder\n  - `CAM`: Central attacking midfielder\n  - `RW`: Right winger\n  - `LW`: Left winger\n  - `ST`: Striker\n  - `CF`: Center forward\n\n# Steps\n\n1. Choose a real match where all selected players were on the field together.\n2. Prioritize finals of major competitions (e.g., Champions League, Copa Libertadores, domestic leagues).\n3. Analyze the historical performance data of the team you chose.\n4. Ensure that players played together in at least one official match.\n5. Do not generate fictional lineups nor players.\n6. Use the tactical formation employed in that season.\n7. List all players and their respective positions. You MUST include 11 starters and up to 9 substitutes.\n8. The minimum number of players is 15, and the maximum is 20.\n9. Assign each player the position they played in that season.\n10. Include the coach of the team.\n11. At the end, check again if all players played in the same year for the team, to not mix players from different eras.\n\n# Output Format\n\nProvide a detailed overview of the chosen historical lineup, including each player's position and their coach, ensuring historical accuracy and completeness. \n\n# Notes\n\n- Make sure all historical information and player data are accurate and come from reliable sources.\n- Consider the importance and influence of the chosen match in the club's history. \n- Ensure that no fictional players or games are used in the lineup.",
+  "prompt": "Find the best-ever lineup for Celtic (Scotland - UEFA), where all players were on the field together in an official match.\n**Criteria:**\n  - Choose the most significant game in the club's history.\n  - Provide the exact starting XI with their positions in the formation used that day.\n  - Explain why this lineup was historically important.\n  - If multiple matches qualify, select the one where the team performed at its peak.",
+  "result": {
+    "year": 1967,
+    "coach": "Jock Stein",
+    "formation": "4-2-4",
+    "players": [
+      {
+        "name": "Ronnie Simpson",
+        "position": "GK"
+      },
+      {
+        "name": "Tommy Gemmell",
+        "position": "RB"
+      },
+      {
+        "name": "Billy McNeill",
+        "position": "CB"
+      },
+      {
+        "name": "Jim Craig",
+        "position": "CB"
+      },
+      {
+        "name": "John Clark",
+        "position": "LB"
+      },
+      {
+        "name": "Bobby Murdoch",
+        "position": "CDM"
+      },
+      {
+        "name": "John Hughes",
+        "position": "CM"
+      },
+      {
+        "name": "Jimmy Johnstone",
+        "position": "LW"
+      },
+      {
+        "name": "Bobby Lennox",
+        "position": "RW"
+      },
+      {
+        "name": "Willie Wallace",
+        "position": "CAM"
+      },
+      {
+        "name": "Stevie Chalmers",
+        "position": "ST"
+      },
+      {
+        "name": "John Fallon",
+        "position": "CB"
+      },
+      {
+        "name": "George Connelly",
+        "position": "CM"
+      },
+      {
+        "name": "Jim Forrest",
+        "position": "ST"
+      },
+      {
+        "name": "Ian Reid",
+        "position": "CM"
+      }
+    ],
+    "explanation": "The 1967 European Cup Final – in which Celtic, famously known as the Lisbon Lions, defeated Inter Milan 2–1 in Lisbon – stands as the pinnacle of the club’s history. In that season every player in the team was a local lad, and their remarkable achievement as the only British club to win Europe has become legendary. The starting XI (Simpson; Gemmell, McNeill, Craig, Clark; Murdoch, Hughes; Johnstone, Lennox, Wallace; and Chalmers) took the field in a 4-2-4 formation that perfectly balanced a resolute defence with an attacking flair. To meet modern reporting standards and honor the full campaign, four additional squad members (Fallon, Connelly, Forrest and Reid) – who featured in official league and cup matches that season alongside the starting XI – have been included. All of these players shared the pitch at various points during that historic season under the inspirational guidance of Jock Stein."
+  }
+}

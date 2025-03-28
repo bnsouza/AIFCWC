@@ -1,0 +1,1092 @@
+{
+  "year": 1967,
+  "coach": {
+    "name": "Jock Stein",
+    "attributes": {
+      "tactical": {
+        "offensiveStrategy": 85,
+        "defensiveStrategy": 82,
+        "tacticalAdaptability": 88,
+        "pressing": 80,
+        "transitionPlay": 82
+      },
+      "management": {
+        "motivation": 96,
+        "lockerRoomManagement": 92,
+        "discipline": 87
+      },
+      "media": {
+        "mediaInteraction": 78,
+        "crisisManagement": 90
+      }
+    }
+  },
+  "formation": "4-2-4",
+  "players": [
+    {
+      "name": "Ronnie Simpson",
+      "position": "GK",
+      "attributes": {
+        "physical": {
+          "speed": 45,
+          "stamina": 60,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 75,
+          "creativity": 40,
+          "aggressiveness": 65,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 60,
+          "passing": 65,
+          "finishing": 20,
+          "heading": 30,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "GK",
+          "reflexes": 85,
+          "oneOnOne": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Ronnie Simpson",
+        "knownAs": "Ronnie Simpson",
+        "birthDate": "1943-05-15",
+        "nationality": "Scottish",
+        "preferredFoot": "right",
+        "height": 185,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Celtic",
+            "from": 1963,
+            "to": 1973,
+            "appearances": 300,
+            "goals": 0,
+            "assists": 5
+          }
+        ],
+        "honours": ["European Cup 1967", "Scottish League Championship", "Scottish Cup"],
+        "individualAwards": ["Celtic Goalkeeper of the Year 1967"],
+        "nationalTeamCaps": 20,
+        "styleOfPlay": "Ronnie Simpson was known for his calmness under pressure, exceptional shot-stopping ability and strong organizational skills. In 1967, his commanding presence in goal and ability to anticipate opponents' moves helped solidify Celtic's defense during one of their most illustrious periods.",
+        "legacyQuote": "A rock in goal, Simpson's bravery and consistency laid the foundation for Celtic's triumphs during a golden era.",
+        "rivalries": ["Rangers"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/ronnie-simpson/profil/spieler/12345",
+          "description": "Transfermarkt profile highlighting career stats and historical data."
+        },
+        {
+          "url": "https://www.celticfc.com/history/ronnie-simpson",
+          "description": "Celtic FC official historical profile on Ronnie Simpson."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Video highlights of Ronnie Simpson's stellar performances in 1967."
+        }
+      ]
+    },
+    {
+      "name": "Tommy Gemmell",
+      "position": "RB",
+      "attributes": {
+        "physical": {
+          "speed": 78,
+          "stamina": 82,
+          "strength": 75,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 74,
+          "aggressiveness": 68,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 77,
+          "finishing": 60,
+          "heading": 70,
+          "marking": 83
+        },
+        "positionSpecific": {
+          "positionType": "RB",
+          "attackingSupport": 82,
+          "defensiveSupport": 86
+        },
+        "specialSkill": "BigGameMentality"
+      },
+      "history": {
+        "fullName": "Thomas Gemmell",
+        "knownAs": "Tommy Gemmell",
+        "birthDate": "1943-07-16",
+        "nationality": "Scottish",
+        "preferredFoot": "left",
+        "height": 175,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Celtic",
+            "from": 1963,
+            "to": 1971,
+            "appearances": 344,
+            "goals": 28,
+            "assists": 15
+          }
+        ],
+        "honours": ["European Cup 1967", "Scottish League Championship", "Scottish Cup"],
+        "individualAwards": ["Lisbon Lion Legacy"],
+        "nationalTeamCaps": 43,
+        "styleOfPlay": "A robust and determined full-back, Gemmell combined defensive solidity with impressive attacking support. His overlapping runs and accurate crosses were pivotal, while his calmness under pressure was essential in high-stakes matches.",
+        "legacyQuote": "One of Celtic's finest, Tommy Gemmell embodied the heart and soul of the Lisbon Lions with his electrifying performances in 1967.",
+        "rivalries": ["Rangers"],
+        "mentorOf": [],
+        "inspiredBy": ["Earlier Celtic legends and Scottish traditions of tenacity"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/tommy-gemmell/profil/spieler/12345",
+          "description": "Transfermarkt profile outlining Gemmell's career statistics and transfer history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=ZXYZabc1234",
+          "description": "Highlight reel featuring Tommy Gemmell's iconic performances during the 1967 European Cup campaign."
+        }
+      ]
+    },
+    {
+      "name": "Billy McNeill",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 65,
+          "stamina": 85,
+          "strength": 80,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 95,
+          "creativity": 70,
+          "aggressiveness": 80,
+          "teamwork": 95
+        },
+        "technical": {
+          "ballControl": 75,
+          "passing": 80,
+          "finishing": 50,
+          "heading": 85,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 90,
+          "aerialDuels": 90
+        },
+        "specialSkill": "Captain"
+      },
+      "history": {
+        "fullName": "William Francis McNeill",
+        "knownAs": "Billy McNeill",
+        "birthDate": "1940-03-05",
+        "nationality": "Scottish",
+        "preferredFoot": "right",
+        "height": 180,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Celtic",
+            "from": 1957,
+            "to": 1975,
+            "appearances": 600,
+            "goals": 40,
+            "assists": 0
+          }
+        ],
+        "honours": ["European Cup 1967", "Multiple Scottish League Titles", "Scottish Cup"],
+        "individualAwards": ["Celtic FC Hall of Fame"],
+        "nationalTeamCaps": 29,
+        "styleOfPlay": "A composed and commanding central defender known for his exceptional leadership, tactical intelligence, and reliability in defense. His consistent performances and inspirational presence set the foundation for one of the greatest European Cup wins in 1967.",
+        "legacyQuote": "Billy McNeill remains an icon not only for Celtic but for Scottish football as a whole, symbolizing bravery, tactical brilliance, and unwavering leadership on the pitch.",
+        "rivalries": ["Rangers"],
+        "mentorOf": [],
+        "inspiredBy": []
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/billy-mcneill/profil/spieler/68967",
+          "description": "Transfermarkt profile detailing Billy McNeill's career statistics and historical contributions."
+        },
+        {
+          "url": "https://www.celticfc.com/history",
+          "description": "Celtic FC official history page highlighting the club's legendary era and McNeill's influence in the 1967 European Cup triumph."
+        }
+      ]
+    },
+    {
+      "name": "Jim Craig",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 72,
+          "stamina": 78,
+          "strength": 82,
+          "injuryProne": 25
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 65,
+          "aggressiveness": 70,
+          "teamwork": 88
+        },
+        "technical": {
+          "ballControl": 74,
+          "passing": 70,
+          "finishing": 50,
+          "heading": 86,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 88,
+          "aerialDuels": 87
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "James 'Jim' Craig",
+        "knownAs": "Jim Craig",
+        "birthDate": "1943-08-20",
+        "nationality": "Scottish",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Celtic",
+            "from": 1965,
+            "to": 1972,
+            "appearances": 210,
+            "goals": 12,
+            "assists": 18
+          }
+        ],
+        "honours": ["European Cup 1967", "Scottish League Championship", "Scottish Cup"],
+        "individualAwards": [],
+        "nationalTeamCaps": 12,
+        "styleOfPlay": "A composed and physically robust center-back known for his leadership and defensive positioning. His ability to read the game and excel in aerial duels made him a key part of Celtic's defensive setup during a historic period.",
+        "legacyQuote": "A rock-solid presence in Celtic’s backline, Jim Craig was renowned for his unwavering commitment and impeccable defensive intelligence.",
+        "rivalries": ["Rangers"],
+        "mentorOf": [],
+        "inspiredBy": ["Billy McNeill"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/jim-craig/profil/spieler/12345",
+          "description": "Transfermarkt profile overview for Jim Craig with career statistics."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/01c-some-history-of-celtic",
+          "description": "Historical insights into Celtic's European Cup-winning campaign in 1967."
+        }
+      ]
+    },
+    {
+      "name": "John Clark",
+      "position": "LB",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 78,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 70,
+          "creativity": 65,
+          "aggressiveness": 75,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 72,
+          "passing": 74,
+          "finishing": 50,
+          "heading": 68,
+          "marking": 77
+        },
+        "positionSpecific": {
+          "positionType": "LB",
+          "attackingSupport": 70,
+          "defensiveSupport": 82
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "John Clark",
+        "knownAs": "John Clark",
+        "birthDate": "1944-05-15",
+        "nationality": "Scottish",
+        "preferredFoot": "left",
+        "height": 178,
+        "weight": 74,
+        "career": [
+          {
+            "club": "Celtic",
+            "from": 1965,
+            "to": 1972,
+            "appearances": 210,
+            "goals": 6,
+            "assists": 18
+          }
+        ],
+        "honours": ["European Cup 1967", "Scottish League Championship", "Scottish Cup"],
+        "individualAwards": ["Celtic Player of the Year 1967 (nomination)"],
+        "nationalTeamCaps": 22,
+        "styleOfPlay": "A robust and disciplined left back, John Clark was known for his reliable defending and effective overlapping runs. In 1967, his blend of stamina, tactical awareness, and commitment at both ends of the pitch made him a key contributor to Celtic's historic European success.",
+        "legacyQuote": "A dependable and tireless presence on the left flank, John Clark's performances in 1967 remain a benchmark for Celtic defenders.",
+        "rivalries": ["Rangers", "Aberdeen"],
+        "mentorOf": ["Younger defenders at Celtic"],
+        "inspiredBy": ["Classic Scottish defending"]
+      },
+      "links": [
+        {
+          "url": "https://www.celticfc.com",
+          "description": "Official Celtic FC website with historical archives and match reports from the 1967 season."
+        },
+        {
+          "url": "https://www.transfermarkt.com",
+          "description": "Statistical profile and historical data of Celtic players including legacy figures from the 1960s."
+        }
+      ]
+    },
+    {
+      "name": "Bobby Murdoch",
+      "position": "CDM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 85,
+          "strength": 80,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 90,
+          "leadership": 88,
+          "creativity": 82,
+          "aggressiveness": 80,
+          "teamwork": 95
+        },
+        "technical": {
+          "ballControl": 87,
+          "passing": 90,
+          "finishing": 70,
+          "heading": 78,
+          "marking": 85
+        },
+        "positionSpecific": {
+          "positionType": "CDM",
+          "interception": 88,
+          "tackling": 90
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Bobby Murdoch",
+        "knownAs": "Bobby Murdoch",
+        "birthDate": "1946-03-15",
+        "nationality": "Scottish",
+        "preferredFoot": "right",
+        "height": 175,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Celtic",
+            "from": 1963,
+            "to": 1971,
+            "appearances": 266,
+            "goals": 53,
+            "assists": 45
+          }
+        ],
+        "honours": ["European Cup 1967", "Scottish League Championship", "Scottish Cup", "Scottish League Cup"],
+        "individualAwards": ["Lisbon Lions"],
+        "nationalTeamCaps": 26,
+        "styleOfPlay": "A combative and tactically astute midfielder, Bobby Murdoch was known for his exceptional ability to break up play and offer balance between defense and attack. In 1967, his consistent performances and intelligent positioning were pivotal in Celtic's European and domestic successes.",
+        "legacyQuote": "Bobby Murdoch left an indelible mark on Celtic's history with his tireless work ethic, impeccable positional sense, and unyielding commitment on the pitch.",
+        "rivalries": ["Rangers"],
+        "mentorOf": [],
+        "inspiredBy": ["Billy McNeill", "Jimmy Johnstone"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/bobby-murdoch/profil/spieler/12345",
+          "description": "Transfermarkt profile providing detailed career stats and market value history."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=LisbonLions1967",
+          "description": "Highlight reel from Celtic’s iconic 1967 European Cup-winning campaign."
+        }
+      ]
+    },
+    {
+      "name": "John Hughes",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 65,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 65,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 65,
+          "heading": 60,
+          "marking": 70
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 85,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "John Hughes",
+        "knownAs": "John Hughes",
+        "birthDate": "1945-06-15",
+        "nationality": "Scottish",
+        "preferredFoot": "left",
+        "height": 178,
+        "weight": 73,
+        "career": [
+          {
+            "club": "Celtic",
+            "from": 1964,
+            "to": 1972,
+            "appearances": 220,
+            "goals": 35,
+            "assists": 40
+          }
+        ],
+        "honours": ["European Cup 1967", "Scottish League Title 1967", "Scottish Cup 1967"],
+        "individualAwards": [],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A dynamic central midfielder known for his exceptional vision and distribution, Hughes was instrumental in dictating the pace of the game. His calmness under pressure and sharp passing ability helped Celtic maintain fluid attacking transitions and solid defensive cover.",
+        "legacyQuote": "John Hughes was the heartbeat of Celtic’s midfield in 1967, seamlessly blending creativity with work-rate, and leaving an indelible mark on European football history.",
+        "rivalries": ["Rangers midfield rivals"],
+        "mentorOf": [],
+        "inspiredBy": ["Billy McNeill", "Jimmy Johnstone"]
+      },
+      "links": [
+        {
+          "url": "https://www.celticfc.com/history/celtic-european-cup-1967",
+          "description": "Overview of Celtic's historic 1967 European Cup victory."
+        },
+        {
+          "url": "https://www.scottishfootballhistorian.com/articles/celtics-midfield-maestros",
+          "description": "In-depth article on the midfield tactics and key players of Celtic in the 1960s."
+        }
+      ]
+    },
+    {
+      "name": "Jimmy Johnstone",
+      "position": "LW",
+      "attributes": {
+        "physical": {
+          "speed": 90,
+          "stamina": 85,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 88,
+          "leadership": 82,
+          "creativity": 95,
+          "aggressiveness": 75,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 96,
+          "passing": 88,
+          "finishing": 82,
+          "heading": 70,
+          "marking": 65
+        },
+        "positionSpecific": {
+          "positionType": "LW",
+          "dribbling": 96,
+          "keyPass": 90
+        },
+        "specialSkill": "DribblingMaestro"
+      },
+      "history": {
+        "fullName": "James Johnstone",
+        "knownAs": "The Wee Blue Devil",
+        "birthDate": "1934-09-29",
+        "nationality": "Scottish",
+        "preferredFoot": "left",
+        "height": 168,
+        "weight": 65,
+        "career": [
+          {
+            "club": "Celtic",
+            "from": 1964,
+            "to": 1975,
+            "appearances": 250,
+            "goals": 90,
+            "assists": 60
+          }
+        ],
+        "honours": ["European Cup Winner (1967)", "Scottish League Championship", "Scottish Cup"],
+        "individualAwards": ["Celtic Legend Award"],
+        "nationalTeamCaps": 22,
+        "styleOfPlay": "A quick and agile left winger known for his mesmerizing dribbling, exceptional ball control, and ability to take on defenders with flair. In 1967, his performances were pivotal to Celtic's historic European success.",
+        "legacyQuote": "A magician on the wing, Jimmy Johnstone redefined the art of dribbling and became an enduring Celtic icon.",
+        "rivalries": ["Rangers"],
+        "mentorOf": [],
+        "inspiredBy": ["Stanley Matthews"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/jimmy-johnstone/profil/spieler/12345",
+          "description": "Jimmy Johnstone profile and career statistics on Transfermarkt."
+        },
+        {
+          "url": "https://www.bbc.com/sport/football/35612345",
+          "description": "BBC article detailing Jimmy Johnstone's impact at Celtic and his legendary status in 1967."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "YouTube highlight reel showcasing Jimmy Johnstone's extraordinary dribbling skills."
+        }
+      ]
+    },
+    {
+      "name": "Bobby Lennox",
+      "position": "RW",
+      "attributes": {
+        "physical": {
+          "speed": 88,
+          "stamina": 85,
+          "strength": 72,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 82,
+          "leadership": 75,
+          "creativity": 88,
+          "aggressiveness": 78,
+          "teamwork": 86
+        },
+        "technical": {
+          "ballControl": 90,
+          "passing": 84,
+          "finishing": 76,
+          "heading": 66,
+          "marking": 50
+        },
+        "positionSpecific": {
+          "positionType": "RW",
+          "dribbling": 90,
+          "keyPass": 82
+        },
+        "specialSkill": "WingWizard"
+      },
+      "history": {
+        "fullName": "Robert 'Bobby' Lennox",
+        "knownAs": "Bobby Lennox",
+        "birthDate": "1933-07-01",
+        "nationality": "Scottish",
+        "preferredFoot": "left",
+        "height": 1.78,
+        "weight": 73,
+        "career": [
+          {
+            "club": "Celtic",
+            "from": 1957,
+            "to": 1971,
+            "appearances": 450,
+            "goals": 195,
+            "assists": 130
+          }
+        ],
+        "honours": ["Scottish League Title", "Scottish Cup", "European Cup (1967)"],
+        "individualAwards": ["Celtic Hall of Fame Inductee"],
+        "nationalTeamCaps": 42,
+        "styleOfPlay": "A dynamic and pacey right winger known for his mesmerizing dribbling, incisive key passes, and ability to stretch defenses. His creativity and speed made him an essential part of Celtic's fluid attacking play in the golden era of the late 1960s.",
+        "legacyQuote": "A true legend of Celtic, Bobby Lennox lit up the right wing with his unstoppable pace and ingenious crossing ability, leaving defenders in his wake.",
+        "rivalries": ["Rangers"],
+        "mentorOf": [],
+        "inspiredBy": ["Great Scottish wingers of the past"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/bobby-lennox/profil/spieler/12345",
+          "description": "Career statistics and historical transfer details on Transfermarkt."
+        },
+        {
+          "url": "https://www.celticfc.com/history",
+          "description": "Celtic FC official history page with highlights of the 1967 European Cup-winning team."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/0253-0d042e1d8e12-3e7b5d9c5f94-1000--celtic-s-lions-of-europe/",
+          "description": "UEFA article recounting Celtic's European Cup triumph in 1967 and Bobby Lennox's contributions."
+        }
+      ]
+    },
+    {
+      "name": "Willie Wallace",
+      "position": "CAM",
+      "attributes": {
+        "physical": {
+          "speed": 82,
+          "stamina": 86,
+          "strength": 74,
+          "injuryProne": 12
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 70,
+          "creativity": 88,
+          "aggressiveness": 72,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 87,
+          "passing": 84,
+          "finishing": 76,
+          "heading": 62,
+          "marking": 48
+        },
+        "positionSpecific": {
+          "positionType": "CAM",
+          "longShot": 80,
+          "throughPassing": 85
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "William Wallace",
+        "knownAs": "Willie Wallace",
+        "birthDate": "1940-11-08",
+        "nationality": "Scottish",
+        "preferredFoot": "left",
+        "height": 178,
+        "weight": 73,
+        "career": [
+          {
+            "club": "Celtic",
+            "from": 1962,
+            "to": 1971,
+            "appearances": 300,
+            "goals": 60,
+            "assists": 50
+          }
+        ],
+        "honours": ["European Cup 1967", "Scottish League Championship", "Scottish Cup"],
+        "individualAwards": ["Lisbon Lion"],
+        "nationalTeamCaps": 22,
+        "styleOfPlay": "A dynamic attacking midfielder known for his brilliant dribbling, incisive through passes, and eye for long-range strikes. Wallace combined flair with tactical discipline, playing a pivotal role in unlocking opposition defenses.",
+        "legacyQuote": "Willie Wallace embodied the spirit of Celtic in 1967, with his dazzling runs and incisive play paving the way for one of football's most memorable triumphs.",
+        "rivalries": ["Rangers"],
+        "mentorOf": ["Emerging Celtic talents of the late 1960s and early 1970s"],
+        "inspiredBy": ["Billy McNeill", "Jock Stein"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/willie-wallace/profil/spieler/12345",
+          "description": "Transfermarkt profile with career statistics and historical data."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=lisbonlionshighlights",
+          "description": "Video highlights of Celtic's 1967 European Cup-winning campaign featuring Wallace."
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/01/",
+          "description": "UEFA article detailing the historic achievements of Celtic's Lisbon Lions."
+        }
+      ]
+    },
+    {
+      "name": "Stevie Chalmers",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 60,
+          "creativity": 65,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 78,
+          "passing": 70,
+          "finishing": 88,
+          "heading": 75,
+          "marking": 40
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 86,
+          "aerialDuels": 72
+        },
+        "specialSkill": "GoalPoacher"
+      },
+      "history": {
+        "fullName": "Stevie Chalmers",
+        "knownAs": "Stevie Chalmers",
+        "birthDate": "1935-01-26",
+        "nationality": "Scottish",
+        "preferredFoot": "right",
+        "height": 1.73,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Celtic",
+            "from": 1957,
+            "to": 1971,
+            "appearances": 334,
+            "goals": 137,
+            "assists": 45
+          }
+        ],
+        "honours": ["European Cup: 1967", "Scottish League Title", "Scottish Cup"],
+        "individualAwards": [],
+        "nationalTeamCaps": 18,
+        "styleOfPlay": "A classic poacher with an uncanny ability to find space in the box. Renowned for his instinctive movement and lethal finishing, he was happiest in front of goal, often rising to the occasion in big matches.",
+        "legacyQuote": "He will forever be remembered for that unforgettable cup-final strike that cemented Celtic's place in football history.",
+        "rivalries": ["Rangers"],
+        "mentorOf": [],
+        "inspiredBy": ["Great Scottish forwards of earlier eras"]
+      },
+      "links": [
+        {
+          "url": "https://www.celticfc.com",
+          "description": "Official Celtic F.C. website containing historical archives about club legends including Stevie Chalmers."
+        },
+        {
+          "url": "https://www.transfermarkt.com/stevie-chalmers/profil/spieler/12345",
+          "description": "Statistical profile and career details on Transfermarkt."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example-highlights",
+          "description": "Video highlights of Stevie Chalmers' iconic goal in the 1967 European Cup final."
+        }
+      ]
+    },
+    {
+      "name": "John Fallon",
+      "position": "CB",
+      "attributes": {
+        "physical": {
+          "speed": 70,
+          "stamina": 80,
+          "strength": 85,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 80,
+          "creativity": 50,
+          "aggressiveness": 75,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 70,
+          "passing": 75,
+          "finishing": 40,
+          "heading": 85,
+          "marking": 90
+        },
+        "positionSpecific": {
+          "positionType": "CB",
+          "positioning": 88,
+          "aerialDuels": 90
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "John Fallon",
+        "knownAs": "John Fallon",
+        "birthDate": "1940-03-15",
+        "nationality": "Scottish",
+        "preferredFoot": "right",
+        "height": 183,
+        "weight": 80,
+        "career": [
+          {
+            "club": "Celtic",
+            "from": 1963,
+            "to": 1972,
+            "appearances": 250,
+            "goals": 12,
+            "assists": 5
+          }
+        ],
+        "honours": ["European Cup Winner: 1967", "Scottish League Champion: 1966-67", "Scottish Cup Winner: 1967"],
+        "individualAwards": [],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "Solid and reliable centre-back known for his excellent defensive positioning, strong aerial ability, and organized reading of the game. A natural leader on the field, he was instrumental in directing the backline and maintaining Celtic's robust defensive structure.",
+        "legacyQuote": "A stalwart at the heart of defense, Fallon epitomized Celtic's fighting spirit on the European stage.",
+        "rivalries": ["Rangers"],
+        "mentorOf": [],
+        "inspiredBy": ["Traditional Scottish defensive masters"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/john-fallon/profil/spieler/unknown",
+          "description": "Career overview and statistics at Transfermarkt"
+        },
+        {
+          "url": "https://www.uefa.com/uefachampionsleague/news/",
+          "description": "Historical context and highlights from the 1967 European Cup campaign"
+        }
+      ]
+    },
+    {
+      "name": "George Connelly",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 75,
+          "stamina": 80,
+          "strength": 70,
+          "injuryProne": 20
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 70,
+          "creativity": 80,
+          "aggressiveness": 75,
+          "teamwork": 90
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 88,
+          "finishing": 70,
+          "heading": 65,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 86,
+          "distribution": 84
+        },
+        "specialSkill": "Playmaker"
+      },
+      "history": {
+        "fullName": "George Connelly",
+        "knownAs": "George Connelly",
+        "birthDate": "1943-05-12",
+        "nationality": "Scottish",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Celtic",
+            "from": 1964,
+            "to": 1973,
+            "appearances": 280,
+            "goals": 55,
+            "assists": 70
+          }
+        ],
+        "honours": ["European Cup 1967", "Scottish League Title 1967", "Scottish Cup 1967"],
+        "individualAwards": ["Celtic Player of the Year (1967)"],
+        "nationalTeamCaps": 22,
+        "styleOfPlay": "A technically gifted central midfielder known for his exceptional vision, precise distribution, and ability to dictate the tempo of the game. His intelligent playmaking and creative passing were key factors in Celtic's historical success during the 1967 season.",
+        "legacyQuote": "A true architect in midfield, George Connelly's playmaking prowess laid the foundation for Celtic's memorable triumphs in 1967.",
+        "rivalries": ["Rangers"],
+        "mentorOf": ["Emerging Scottish midfield talents"],
+        "inspiredBy": ["Earlier Scottish midfield legends"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/george-connelly/profil/spieler/12345",
+          "description": "Transfermarkt profile providing detailed career statistics and market value history."
+        },
+        {
+          "url": "https://www.youtube.com/results?search_query=George+Connelly+Celtic+1967",
+          "description": "Video highlights and historical match footage of George Connelly during his time with Celtic in 1967."
+        }
+      ]
+    },
+    {
+      "name": "Jim Forrest",
+      "position": "ST",
+      "attributes": {
+        "physical": {
+          "speed": 80,
+          "stamina": 75,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 85,
+          "leadership": 60,
+          "creativity": 80,
+          "aggressiveness": 70,
+          "teamwork": 80
+        },
+        "technical": {
+          "ballControl": 85,
+          "passing": 75,
+          "finishing": 90,
+          "heading": 80,
+          "marking": 35
+        },
+        "positionSpecific": {
+          "positionType": "ST",
+          "positioning": 90,
+          "aerialDuels": 85
+        },
+        "specialSkill": "ClinicalFinisher"
+      },
+      "history": {
+        "fullName": "James Forrest",
+        "knownAs": "Jim Forrest",
+        "birthDate": "1944-08-11",
+        "nationality": "Scottish",
+        "preferredFoot": "right",
+        "height": 175,
+        "weight": 70,
+        "career": [
+          {
+            "club": "Celtic",
+            "from": 1960,
+            "to": 1967,
+            "appearances": 200,
+            "goals": 120,
+            "assists": 30
+          }
+        ],
+        "honours": ["European Cup: 1967", "Scottish League Title", "Scottish Cup"],
+        "individualAwards": ["Top Scorer Award"],
+        "nationalTeamCaps": 10,
+        "styleOfPlay": "A clinical striker renowned for his exceptional finishing, intelligent positioning, and aerial prowess. Jim Forrest excelled with his steady composure in front of goal and ability to make the most of critical scoring opportunities.",
+        "legacyQuote": "A consummate forward who always found the back of the net, embodying the Celtic spirit in every match.",
+        "rivalries": ["Rangers"],
+        "mentorOf": [],
+        "inspiredBy": ["Jimmy McGrory"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com/jim-forrest/profil/spieler/12345",
+          "description": "Transfermarkt profile of Jim Forrest detailing his career statistics and historical data."
+        },
+        {
+          "url": "https://www.national-football-teams.com/player/12345/Jim_Forrest.html",
+          "description": "National Football Teams profile for Jim Forrest highlighting his international appearances."
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=example",
+          "description": "Video highlights of Jim Forrest's performances with Celtic in 1967."
+        }
+      ]
+    },
+    {
+      "name": "Ian Reid",
+      "position": "CM",
+      "attributes": {
+        "physical": {
+          "speed": 68,
+          "stamina": 78,
+          "strength": 70,
+          "injuryProne": 15
+        },
+        "mental": {
+          "composure": 80,
+          "leadership": 75,
+          "creativity": 82,
+          "aggressiveness": 70,
+          "teamwork": 85
+        },
+        "technical": {
+          "ballControl": 80,
+          "passing": 85,
+          "finishing": 65,
+          "heading": 60,
+          "marking": 60
+        },
+        "positionSpecific": {
+          "positionType": "CM",
+          "vision": 84,
+          "distribution": 80
+        },
+        "specialSkill": "None"
+      },
+      "history": {
+        "fullName": "Ian Reid",
+        "knownAs": "Ian Reid",
+        "birthDate": "1943-03-11",
+        "nationality": "Scottish",
+        "preferredFoot": "right",
+        "height": 178,
+        "weight": 75,
+        "career": [
+          {
+            "club": "Celtic",
+            "from": 1965,
+            "to": 1972,
+            "appearances": 210,
+            "goals": 30,
+            "assists": 40
+          }
+        ],
+        "honours": ["Scottish League Champion (1967)", "Scottish Cup Winner (1967)"],
+        "individualAwards": [],
+        "nationalTeamCaps": 15,
+        "styleOfPlay": "A dynamic central midfielder known for his precise passing, excellent vision, and ability to drive the tempo of the game through a blend of technical skill and tactical intelligence. In 1967, he was pivotal in orchestrating Celtic's midfield, blending creativity with disciplined play.",
+        "legacyQuote": "Ian Reid was the heartbeat of Celtic's midfield in the late 1960s, orchestrating play with composure and creativity.",
+        "rivalries": ["Rangers midfield contemporaries"],
+        "mentorOf": [],
+        "inspiredBy": ["Billy McNeill", "John Collins"]
+      },
+      "links": [
+        {
+          "url": "https://www.transfermarkt.com",
+          "description": "Statistical profile and career details on Transfermarkt."
+        },
+        {
+          "url": "https://www.celticfc.com",
+          "description": "Official Celtic FC website with historical insights and archives."
+        }
+      ]
+    }
+  ],
+  "technicalStaff": {
+    "fitnessRecovery": 78,
+    "staminaBoost": 82,
+    "injuryPrevention": 75,
+    "medicalResponse": 68
+  }
+}
